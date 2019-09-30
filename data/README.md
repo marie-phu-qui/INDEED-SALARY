@@ -31,7 +31,7 @@ Base de données **MONGODB**
 
 ## PREPROCESS
 
-Traitement des NaNs au niveau du salaire avec remplacement selon des prédictions établies par notre modèle.
+Traitement des NaNs au niveau du salaire avec remplacement selon des prédictions établies par notre **[modèle](https://github.com/marie-phu-qui/INDEED-SALARY/tree/master/modele/prediction)**.
 
 **JSON**  
 Nous avons également trouvé une **[API](https://opensource.indeedeng.io/api-documentation/)** afin de requester les informations en temps réel.
