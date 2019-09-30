@@ -27,5 +27,11 @@ Base de données **MONGODB**
 
 ## FORMAT 
 
+
+
+## PREPROCESS
+
+Traitement des NaNs au niveau du salaire avec remplacement selon des prédictions établies par notre modèle.
+
 **JSON**  
 Nous avons également trouvé une **[API](https://opensource.indeedeng.io/api-documentation/)** afin de requester les informations en temps réel.
