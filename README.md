@@ -29,5 +29,14 @@ Modèle de prédiction ML concernant les salaires des métiers de la tech en Fra
 # STRETCH  GOALS
 
 --> Dockeriser
---> [https://www.linode.com/docs/tools-reference/tools/schedule-tasks-with-cron/ ](Cron) (rafraichir base de données automatique)
+--> [https://www.linode.com/docs/tools-reference/tools/schedule-tasks-with-cron/ ](Cron) (rafraichir base de données automatique)  
 --> NLP (selon les langages ex: Python, R...)...
+
+# STACK
+
+- Dashboard : Flask  
+- Base de données : MongoDB  
+- Scrapping :   
+
+- Code Base : Github  
+- Langage : Python  
