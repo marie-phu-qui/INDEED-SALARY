@@ -11,7 +11,7 @@ adress = ['1a', '2b', '3c']
 salary = [1, 2, 3]
 job_description = ['abab', 'blabla', 'laclac']
 date = ['1/a', '2/b', '3/c']
-# generate 500 random data
+# input the data 
 for x in range(len(titre)):
     indeed_jobs = {
         'titre' : titre[x],
