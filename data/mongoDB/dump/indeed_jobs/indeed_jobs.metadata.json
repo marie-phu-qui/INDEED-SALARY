@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"indeed_jobs.indeed_jobs"}],"uuid":"4a617541c0864ba98a69665257fb09ab"}
