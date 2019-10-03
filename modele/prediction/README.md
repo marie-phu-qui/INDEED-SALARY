@@ -13,6 +13,7 @@ Améliorer notre modèle de classification en remplaçant intelligemment  les sa
     - data
     - dev
 - Type de contrat
+- Level
 
 ## Donnée dépendante (y)
 
