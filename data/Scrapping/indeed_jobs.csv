@@ -1,4 +1,4 @@
-Titre,Nom_Entreprise,Adresse,Salaire,Descriptif_du_poste,Date_de_publication,métier scrappé,localisation scrapéé
+Titre,Nom_Entreprise,Adresse,Salaire,Descriptif_du_poste,Date_de_publication,métier_sc,loc_sc,date_sc,heure_sc
 INGÉNIEUR DATA SCIENTIST EXPÉRIMENTÉ (H/F),sii,Toulouse (31),vide,"Toulouse (31)
 Description du poste :
 rattaché(e) au département aéronautique, vous serez intégré(e) au sein d'une équipe de data scientists en pleine expansion. vous accompagnerez les équipes techniques dans la valorisation de leurs activités avec des solutions orientées big data.
@@ -38,7 +38,7 @@ intelligence artificielle
 vous êtes autonome, proactif(ve) et rigoureux(se). vous aimez le travail en équipe. vous disposez de la pédagogie nécessaire pour expliquer et vulgariser vos travaux auprès d'interlocuteurs métier.
 JobinTree - il y a 30+ jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",vide,data scientist,toulouse
+Signaler cette offre d'emploi",vide,data scientist,toulouse,03/10/2019,10:29:09
 Ingénieur Data Scientist H/F,EPSILON-ALCEN,Toulouse (31),30 000 € - 50 000 € par an,"Toulouse (31)
 CDI
 30 000 € - 50 000 € par an
@@ -96,7 +96,7 @@ Salaire : 30 000,00€ à 50 000,00€ /an
 Expérience:
 ingénieur data scientist ou similaire: 2 ans (Souhaité)
 il y a 15 jours
-Signaler cette offre d'emploi",il y a 15 jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 15 jours,data scientist,toulouse,03/10/2019,10:29:09
 Ingénieur Data Scientist Junior H/F,CS Communication & Systèmes,Toulouse (31),vide,"Toulouse (31)
 CDI
 DESCRIPTION DE L'OFFRE
@@ -141,7 +141,7 @@ Si vous préférez, CS rembourse des indemnités kilométriques vélos !
 Intéressé ? Déposez votre CV et additionnons nos talents !
 il y a 30+ jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse,03/10/2019,10:29:09
 Stage en data scientist H/F,Altran,Blagnac (31),vide,"Blagnac (31)
 Stage
 Au sein de l'entité Digital Engineering, nous recrutons un stagiaire Data Scientist spécialisé dans le traitement du Langage Naturel.
@@ -160,7 +160,7 @@ Machine Learning : régression logistique, réseaux de neurones.
 Idéalement une connaissance théorique du NLP (Natural Langage Processing) et des outils associés : NLTK, Word2Vec, SpaCy.
 il y a 2 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 2 jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 2 jours,data scientist,toulouse,03/10/2019,10:29:09
 DATA SCIENTIST (H/F),Airbus,Toulouse (31),vide,"Toulouse (31)
 APSYS SAS
 Airbus is a global leader in aeronautics, space and related services. In 2018 it generated revenues of € 64 billion and employed a workforce of around 134,000. Airbus offers the most comprehensive range of passenger airliners. Airbus is also a European leader providing tanker, combat, transport and mission aircraft, as well as one of the world's leading space companies. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions worldwide.
@@ -225,7 +225,7 @@ By submitting your CV or application you are consenting to Airbus using and stor
 Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief.
 il y a 29 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 29 jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 29 jours,data scientist,toulouse,03/10/2019,10:29:09
 Data Scientist F/H,EOLE CONSULTING,Toulouse (31),vide,"Toulouse (31)
 CDI
 Eole Consulting recrute un(e) Data Scientist H/F afin de faire progresser et consolider les compétences de l’ensemble de ses équipes avec de nouveaux talents !
@@ -260,7 +260,7 @@ Vous êtes doté(e) d’une personnalité ambitieuse et créative ? Vous aimez l
 Venez partager votre talent et venez apporter votre enthousiasme…
 Apec.fr - il y a 2 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 2 jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 2 jours,data scientist,toulouse,03/10/2019,10:29:09
 Internship - Data Analyst pour la digitalisation de l’atelie...,Airbus,Toulouse (31),vide,"Toulouse (31)
 Stage
 Airbus Operations SAS
@@ -306,7 +306,7 @@ En soumettant votre CV ou votre candidature, vous autorisez Airbus à utiliser e
 Airbus s’engage pour la Diversité. Nous encourageons toutes les candidatures indépendamment de l’origine sociale et culturelle, de l’âge, du genre, du handicap, de l’orientation sexuelle ou des croyances religieuses.
 il y a 4 heures
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 4 heures,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 4 heures,data scientist,toulouse,03/10/2019,10:29:09
 Stagiaire Data Scientist (H/F),Altran,Blagnac (31),vide,"Blagnac (31)
 Stage
 Leader mondial du conseil en innovation et ingénierie avancée, Altran propose à ses clients d’innover autrement en les aidant à développer ou en développant pour eux les produits et les services de demain. Le Groupe les accompagne sur l’intégralité de la chaine de valeur du cycle de vie d’un projet, de l’idée à l’industrialisation. Altran intervient depuis plus de 30 ans auprès des grands acteurs de nombreux secteurs : aérospatial, automobile, défense, énergie, ferroviaire, finance, sciences de la vie, télécoms, etc. En 2018, le groupe Altran a réalisé un chiffre d’affaires de 2,916 milliard d’euros. Il compte désormais près de 46 000 collaborateurs dans plus de 20 pays.
@@ -326,7 +326,7 @@ Machine Learning : régression logistique, réseaux de neurones.
 Idéalement une connaissance théorique du NLP (Natural Langage Processing) et des outils associés : NLTK, Word2Vec, SpaCy.
 il y a 12 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 12 jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 12 jours,data scientist,toulouse,03/10/2019,10:29:09
 Internship - Data Analyst for the digitalization of Electron...,Airbus,Toulouse (31),vide,"Toulouse (31)
 Temps plein, Stage
 Airbus Operations SAS
@@ -371,7 +371,7 @@ By submitting your CV or application you are consenting to Airbus using and stor
 Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief.
 il y a 4 heures
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 4 heures,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 4 heures,data scientist,toulouse,03/10/2019,10:29:09
 Data Scientist (m/f),Airbus,Toulouse (31),vide,"Toulouse (31)
 Airbus Defence and Space SAU
 Airbus is a global leader in aeronautics, space and related services. In 2018 it generated revenues of € 64 billion and employed a workforce of around 134,000. Airbus offers the most comprehensive range of passenger airliners. Airbus is also a European leader providing tanker, combat, transport and mission aircraft, as well as one of the world's leading space companies. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions worldwide.
@@ -429,7 +429,7 @@ By submitting your CV or application you are consenting to Airbus using and stor
 Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief.
 il y a 30 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 30 jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 30 jours,data scientist,toulouse,03/10/2019,10:29:09
 Stagiaire Data Scientist Géo Big Data,Gisaïa,Blagnac (31),900 € par mois,"Blagnac (31)
 Stage
 900 € par mois
@@ -473,7 +473,7 @@ Lieu du stage : Toulouse Blagnac
 Le stage peut se prolonger via une alternance ou 1 CDI selon votre profil
 il y a 12 mois
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 12 mois,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 12 mois,data scientist,toulouse,03/10/2019,10:29:09
 Research Scientist (F/M),Institut Laue-Langevin,France,vide,"France
 Job ref: N/A
 The Institut Laue-Langevin (ILL) is an international centre for scientific research situated in Grenoble, France. It is Europe's leading neutron science facility. We receive over 2000 visiting scientists per year to carry out world-class research in a wide variety of scientific fields. The Science Division currently has a vacancy for a:
@@ -513,7 +513,7 @@ Please submit your application on line with a list of publications and the names
 We are committed to equal opportunity and diversity; we therefore encourage anyone with relevant qualifications to apply.
 brightrecruits.com - il y a 2 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 2 jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 2 jours,data scientist,toulouse,03/10/2019,10:29:09
 Internship Data scientist for customer Innovation (m/f),Airbus,Toulouse (31),vide,"Toulouse (31)
 Temps plein, Stage
 AIRBUS SAS
@@ -572,7 +572,7 @@ By submitting your CV or application you are consenting to Airbus using and stor
 Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief.
 il y a 30 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 30 jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 30 jours,data scientist,toulouse,03/10/2019,10:29:09
 Analytics Accelerator - 2 Data Scientists (m/f),Airbus,Toulouse (31),vide,"Toulouse (31)
 AIRBUS SAS
 Airbus is a global leader in aeronautics, space and related services. In 2018 it generated revenues of € 64 billion and employed a workforce of around 134,000. Airbus offers the most comprehensive range of passenger airliners. Airbus is also a European leader providing tanker, combat, transport and mission aircraft, as well as one of the world's leading space companies. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions worldwide.
@@ -646,7 +646,7 @@ By submitting your CV or application you are consenting to Airbus using and stor
 Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief.
 il y a 30 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 30 jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 30 jours,data scientist,toulouse,03/10/2019,10:29:09
 Data Scientist vision par ordinateur (stage) / Data Scientis...,Donecle,Toulouse (31),vide,"Toulouse (31)
 Stage
 Qui sommes-nous?
@@ -713,7 +713,7 @@ Keen to take initiatives, able to work independently and meet deadlines
 Keywords: Data Scientist, Machine Learning, Neural networks, Computer vision, Software development, Robotics, UAV, Aerospace, C++, OpenCV, Python
 il y a 30+ jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse,03/10/2019,10:29:09
 POEC - Data Analyst python (H/F),ACTIVUS Group,Toulouse (31),vide,"Toulouse (31)
 Temps plein, CDI
 Activus lance une nouvelle POEC pour devenir Data Analyst en python !
@@ -748,7 +748,7 @@ En complément de nos implantations de proximité à Toulouse et Paris, nous pou
 Nous recrutons aussi sur Hambourg, en République Tchèque et en Suisse.
 Type d'emploi : Temps plein, CDI
 il y a 26 jours
-Signaler cette offre d'emploi",il y a 26 jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 26 jours,data scientist,toulouse,03/10/2019,10:29:09
 DATA ANALYST (H/F),Airbus,Toulouse (31),vide,"Toulouse (31)
 APSYS SAS
 Airbus is a global leader in aeronautics, space and related services. In 2018 it generated revenues of € 64 billion and employed a workforce of around 134,000. Airbus offers the most comprehensive range of passenger airliners. Airbus is also a European leader providing tanker, combat, transport and mission aircraft, as well as one of the world's leading space companies. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions worldwide.
@@ -816,7 +816,7 @@ By submitting your CV or application you are consenting to Airbus using and stor
 Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief.
 il y a 29 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 29 jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 29 jours,data scientist,toulouse,03/10/2019,10:29:09
 Stage Ingénieur informatique H/F,Expleo,Toulouse (31),vide,"Toulouse (31)
 Stage
 Aéronautique
@@ -863,7 +863,7 @@ Partager cette offre
 postuler à cette offre
 il y a 1 jour
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 1 jour,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 1 jour,data scientist,toulouse,03/10/2019,10:29:09
 Data Analyst H/F,ACTIVUS Group,Toulouse (31),vide,"Toulouse (31)
 CDI
 Pour renforcer notre pôle Big Data, nous recrutons des Data Analyst qui travaillerons dans des environnements scientifiques, analytiques et métier.
@@ -903,7 +903,7 @@ Type d'emploi : CDI
 Expérience:
 data analyst h/f ou similaire: 1 an (Souhaité)
 il y a 12 jours
-Signaler cette offre d'emploi",il y a 12 jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 12 jours,data scientist,toulouse,03/10/2019,10:29:09
 Data Scientist H/F,Scalian,Toulouse (31),vide,"Toulouse (31)
 CDI
 Pour participer à cette aventure et vous épanouir dans une équipe Conseils en Valorisation des Données, intégrez SCALIAN en tant que Data Scientist,
@@ -944,7 +944,7 @@ Lieu
 Toulouse
 il y a 9 mois
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 9 mois,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 9 mois,data scientist,toulouse,03/10/2019,10:29:09
 Junior Data Scientist,Montreal Associates,Toulouse (31),32 000 € - 35 000 € par an,"Toulouse (31)
 CDI
 32 000 € - 35 000 € par an
@@ -977,7 +977,7 @@ Montreal Associates is acting as an Employment Agency in relation to this vacanc
 JN -092019-51039_156887774869313
 il y a 13 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 13 jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 13 jours,data scientist,toulouse,03/10/2019,10:29:09
 Internship / Solution Architect/Data Scientist - Extended En...,Airbus,Toulouse (31),vide,"Toulouse (31)
 Temps plein, Stage
 AIRBUS SAS
@@ -1034,7 +1034,7 @@ By submitting your CV or application you are consenting to Airbus using and stor
 Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief.
 il y a 2 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 2 jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 2 jours,data scientist,toulouse,03/10/2019,10:29:09
 Ingénieur Junior Developpement Software (Relocalisation BE o...,The AKKAdemy,France,vide,"France
 Temps plein, Autre, CDI
 Please note that we can only consider candidates with EU citizenship.
@@ -1087,7 +1087,7 @@ English (Required)
 French (Preferred)
 German (Preferred)
 il y a 30+ jours
-Signaler cette offre d'emploi",vide,data scientist,toulouse
+Signaler cette offre d'emploi",vide,data scientist,toulouse,03/10/2019,10:29:09
 Principle Scientist – In Vitro Biology- Oncology,Evotec,Toulouse (31),vide,"Toulouse (31)
 Principle Scientist – In Vitro Biology- Oncology
 (f/m, full time, permanent contract)
@@ -1120,7 +1120,7 @@ English: written / read / spoken is required
 French : written / read / spoken is a plus but not required
 il y a 6 mois
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 6 mois,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 6 mois,data scientist,toulouse,03/10/2019,10:29:09
 Data Scientist – H/F,Altran,Blagnac (31),vide,"Blagnac (31)
 Leader mondial du conseil en innovation et ingénierie avancée, Altran propose à ses clients d’innover autrement en les aidant à développer ou en développant pour eux les produits et les services de demain. Le Groupe les accompagne sur l’intégralité de la chaine de valeur du cycle de vie d’un projet, de l’idée à l’industrialisation. Altran intervient depuis plus de 30 ans auprès des grands acteurs de nombreux secteurs : aérospatial, automobile, défense, énergie, ferroviaire, finance, sciences de la vie, télécoms, etc. En 2018, le groupe Altran a réalisé un chiffre d’affaires de 2,916 milliard d’euros. Il compte désormais près de 46 000 collaborateurs dans plus de 20 pays.
 Vos responsabilités
@@ -1152,7 +1152,7 @@ Connaissance du développement d’un avion serait un plus
 Maitrise de l’anglais professionnel
 il y a 10 mois
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 10 mois,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 10 mois,data scientist,toulouse,03/10/2019,10:29:09
 Data Scientists,Irt Saint Exupéry,Toulouse (31),vide,"Toulouse (31)
 CDD
 Département: Data Science
@@ -1190,7 +1190,7 @@ Vous avez de solides connaissances en mathématiques de l’aléatoire. Vous dis
 Si cette offre vous intéresse, merci d’adresser votre dossier de candidature (LM+CV) à recrutement@irt-saintexupery.com sous la référence : 18PD-SE-DEEP-01
 il y a 30+ jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse,03/10/2019,10:29:09
 Ingénieur « Data Scientist » H/F,Altran,Blagnac (31),vide,"Blagnac (31)
 Leader mondial du conseil en innovation et ingénierie avancée, Altran propose à ses clients d’innover autrement en les aidant à développer ou en développant pour eux les produits et les services de demain. Le Groupe les accompagne sur l’intégralité de la chaine de valeur du cycle de vie d’un projet, de l’idée à l’industrialisation. Altran intervient depuis plus de 30 ans auprès des grands acteurs de nombreux secteurs : aérospatial, automobile, défense, énergie, ferroviaire, finance, sciences de la vie, télécoms, etc. En 2018, le groupe Altran a réalisé un chiffre d’affaires de 2,9 milliards d’euros. Il compte désormais près de 47 000 collaborateurs dans plus de 30 pays dont 13 000 collaborateurs en France.
 
@@ -1212,7 +1212,7 @@ Vous êtes autonome, réactif et appréciez les challenges. Un bon niveau d’an
 Tous nos postes sont ouverts aux personnes en situation d'handicap à compétences égales
 il y a 5 mois
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 5 mois,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 5 mois,data scientist,toulouse,03/10/2019,10:29:09
 Consultant en Data Scientist H/F,Scalian,Toulouse (31),vide,"Toulouse (31)
 CDI
 Pour participer à cette aventure et vous épanouir dans une équipe projets à Toulouse et /ou Paris, intégrez Scalian en tant que Consultant Data Scientist.
@@ -1252,7 +1252,7 @@ Langues
 Anglais (Intermédiaire)
 il y a 9 mois
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 9 mois,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 9 mois,data scientist,toulouse,03/10/2019,10:29:09
 Data Engineer (H/F),Brico Privé,L'Union (31),vide,"L'Union (31)
 Temps plein, CDI
 Brico Privé c’est l’histoire de 2 fondateurs, 170 collaborateurs et plus de 8 millions de membres qui se rencontrent tous les jours sur notre site de ventes privées www.bricoprive.com.
@@ -1280,7 +1280,7 @@ Vous êtes agnostique des technologies et comprenez les contraintes et les avant
 Vous êtes curieux(se) des nouveautés technologiques du domaine.
 Type d'emploi : Temps plein, CDI
 il y a 1 jour
-Signaler cette offre d'emploi",il y a 1 jour,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 1 jour,data scientist,toulouse,03/10/2019,10:29:09
 DATA SCIENTIST (H/F),APSYS Airbus,Blagnac (31),vide,"Blagnac (31)
 Temps plein, CDI
 Référence : APSFDP00750
@@ -1359,7 +1359,7 @@ Esprit d’équipe avec le désir d’apprendre pour soi et pour les autres,
 Autonomie avec des capacités d’écoute active et de prise d’initiatives pragmatiques.
 il y a 30+ jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse,03/10/2019,10:29:09
 Data Analyst BI H/F,BVA groupe,Balma (31),vide,"Balma (31)
 CDI
 À propos
@@ -1401,7 +1401,7 @@ Expérience : > 1 an
 Télétravail possible
 il y a 30+ jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse,03/10/2019,10:29:09
 Data Scientist H/F,BVA groupe,Balma (31),vide,"Balma (31)
 CDI
 À propos
@@ -1453,7 +1453,7 @@ Expérience : > 2 ans
 Télétravail possible
 il y a 30+ jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse,03/10/2019,10:29:09
 Alternance en Intelligence Artificielle (H/F),Atos,Toulouse (31),vide,"Toulouse (31)
 Apprentissage, Contrat pro
 À propos d’Atos
@@ -1489,7 +1489,7 @@ INFORMATIONS ADDITIONNELLES :
 Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi Atos a mis en place un accord relatif à l’égalité professionnelle entre les hommes et les femmes. Par ailleurs, nos métiers sont tous accessibles aux personnes en situation de handicap, et ce quelle que soit la nature de leur handicap.
 il y a 5 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 5 jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 5 jours,data scientist,toulouse,03/10/2019,10:29:09
 Data engineer débutant secteur Aéronautique,MP DATA,Toulouse (31),vide,"Toulouse (31)
 CDI
 MP DATA est une société de Conseil spécialisée dans la transformation digitale des entreprises. Dans le cadre de son développement, MP DATA recrute un(e) data engineer débutant(e) qui va travailler sur différents projets de chaînes d'ingestions pour une multinationale engagée dans l'Aéronautique.
@@ -1500,7 +1500,7 @@ Vous serez le référent des data scientists sur les questions liées à leurs e
 Ingénieur Grande Ecole (Centrale, Mines, Supaero, Supelec, …), ou avec une forte expérience, vous avez des connaissances en Java, Scala acquises lors de votre scolarité ou de vos expériences passées. Vous connaissez Sparket Hadoop. Vous êtes familier avec les langages de manipulation des bases de données (CosmosDB, Blob Storage, ElasticSearch). Votre autonomie et votre capacité à être force de proposition ont été reconnues durant vos précédentes expériences ainsi que votre esprit de synthèse.
 Type d'emploi : CDI
 il y a 30+ jours
-Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse,03/10/2019,10:29:09
 Data Engineer H/F,CS Communication & Systèmes,Toulouse (31),vide,"Toulouse (31)
 CDI
 DESCRIPTION DE L'OFFRE
@@ -1547,7 +1547,7 @@ Si vous préférez, CS rembourse des indemnités kilométriques vélos !
 Intéressé ? Déposez votre CV et additionnons nos talents !
 il y a 21 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 21 jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 21 jours,data scientist,toulouse,03/10/2019,10:29:09
 Ingénieur Data Scientist expérimenté(e) H/F,CS Communication & Systèmes,Toulouse (31),vide,"Toulouse (31)
 CDI
 DESCRIPTION DE L'OFFRE
@@ -1592,7 +1592,7 @@ Si vous préférez, CS rembourse des indemnités kilométriques vélos !
 Intéressé ? Déposez votre CV et additionnons nos talents !
 il y a 30+ jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse,03/10/2019,10:29:09
 Analyste Bi F/H,Kent FR,Haute-Garonne,37 000 € - 42 000 € par an,"Haute-Garonne
 CDI
 37 000 € - 42 000 € par an
@@ -1619,7 +1619,7 @@ Date de début souhaitée
 ASAP
 il y a 30+ jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse,03/10/2019,10:29:09
 Data Engineer (Toulouse) F/H,DATAPY,Toulouse (31),vide,"Toulouse (31)
 CDI
 Dans le cadre d'un grand plan de transformation digitale d'un acteur majeur de l'Aerospace, vous interviendrez sous la responsabilité d'un chef de projet et d'un data scientist. Votre mission en tant que Data Engineer consistera à:
@@ -1653,7 +1653,7 @@ Les Data Engineers de DataPy aiment cruncher de grands volumes de données, pour
 Ils interviennent en particulier dans l’aéronautique, les télécoms, les banques et les assurances.
 Apec.fr - il y a 18 heures
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 18 heures,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 18 heures,data scientist,toulouse,03/10/2019,10:29:09
 Group Leader – In Vitro Biology- Oncology,Evotec,Toulouse (31),vide,"Toulouse (31)
 For our Toulouse site, we are looking for a :
 Group Leader – In Vitro Biology- Oncology (M/F)
@@ -1686,7 +1686,7 @@ English: written / read / spoken is required
 French : written / read / spoken is a plus
 il y a 6 mois
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 6 mois,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 6 mois,data scientist,toulouse,03/10/2019,10:29:09
 Immuno-Oncology Scientist,Evotec,Toulouse (31),vide,"Toulouse (31)
 We are seeking for a highly motivated and innovative Scientist with a strong expertise in Immunology and Oncology Research :
 “Immuno-Oncology scientist at Evotec” (H/F) – 18 months Temporary Contrat
@@ -1722,7 +1722,7 @@ EXPERIENCE :
 Experience in a Pharma or Biotech environment would be a plus
 il y a 30+ jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse,03/10/2019,10:29:09
 Data Scientist Senior,GEOSYS,Balma (31),vide,"Balma (31)
 Offre d’emploi
 
@@ -1804,7 +1804,7 @@ GEOSYS SAS – Société par actions simplifiée au capital de 266 054.40 € - 
 Siège social : 2 rue Joseph Hubert - CS 63388 - 31133 BALMA CEDEX - France
 il y a 10 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 10 jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 10 jours,data scientist,toulouse,03/10/2019,10:29:09
 Ingénieur Data Scientist Expérimenté H/F,Groupe SII,Toulouse (31),vide,"Toulouse (31)
 Description du poste :
 Rattaché(e) au département aéronautique, vous serez intégré(e) au sein d’une équipe de Data Scientists en pleine expansion. Vous accompagnerez les équipes techniques dans la valorisation de leurs activités avec des solutions orientées Big Data.
@@ -1843,7 +1843,7 @@ Rémunération:
 POSTULER
 il y a 30+ jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse,03/10/2019,10:29:09
 Research associate Omics data management,Evotec,Toulouse (31),vide,"Toulouse (31)
 The In Vitro Pharmacology department is seeking for a highly motivated and dedicated: Research associate or Scientist Omics data management
 to join an interdisciplinary team of pharmacologists, biologists and chemists in collaborative projects in the field of oncology.
@@ -1863,7 +1863,7 @@ High degree of initiative and flexibility, with the ability to deliver results i
 Good commend of English is required
 il y a 30+ jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse,03/10/2019,10:29:09
 "Group Leader, High Throughput Biology & Screening Department",Evotec,Toulouse (31),vide,"Toulouse (31)
 Role and Responsibilities
 Within the High Throughput Biology & Screening Department, you will be responsible of a group of ~10 scientists including team leaders, technical assistants and automation experts. As a Group Leader, you will manage people development of your collaborators in scientific and technical knowledge and personal development (management, communication, customer relationship …).
@@ -1893,7 +1893,7 @@ PhD in Biology.
 ~10 years experience in people management and project management (customer oriented) or in a similar scientific environment (Assay development & screening).
 il y a 30+ jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse,03/10/2019,10:29:09
 In Vitro Biology - Immunology Team Leader,Evotec,Toulouse (31),vide,"Toulouse (31)
 We are seeking a highly motivated Scientist with a strong expertise in Immunology, immunology-inflammation or immune-oncology Research (18 months temporary contract).
 
@@ -1923,7 +1923,7 @@ Rigor, creativity and multi-skilled.
 Dynamic, open-minded
 il y a 14 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 14 jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 14 jours,data scientist,toulouse,03/10/2019,10:29:09
 Airline Scientist (m/f),Airbus,Toulouse (31),vide,"Toulouse (31)
 AIRBUS SAS
 Airbus is a global leader in aeronautics, space and related services. In 2018 it generated revenues of € 64 billion and employed a workforce of around 134,000. Airbus offers the most comprehensive range of passenger airliners. Airbus is also a European leader providing tanker, combat, transport and mission aircraft, as well as one of the world's leading space companies. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions worldwide.
@@ -1987,7 +1987,7 @@ By submitting your CV or application you are consenting to Airbus using and stor
 Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief.
 il y a 30 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 30 jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 30 jours,data scientist,toulouse,03/10/2019,10:29:09
 Data Engineer H/F,BVA groupe,Balma (31),vide,"Balma (31)
 CDI
 À propos
@@ -2027,7 +2027,7 @@ Lieu : Balma, France (31130)
 Expérience : > 1 an
 il y a 30+ jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse,03/10/2019,10:29:09
 Junior IT – Toulouse – Octobre 2019 H/F,Mazars,Toulouse (31),vide,"Toulouse (31)
 Détail de l'offre
 Métier
@@ -2064,7 +2064,7 @@ Toulouse
 Tous nos postes sont ouverts aux personnes reconnues travailleur handicapé
 il y a 19 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 19 jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 19 jours,data scientist,toulouse,03/10/2019,10:29:09
 Consultant Data (h/f),ippon,Toulouse (31),vide,"Toulouse (31)
 Contexte du poste :
 La donnée vous inspire ? Le Big Data est plus qu’un buzzword pour vous ? Si oui, les portes d’Ippon sont grandes ouvertes pour vous accueillir sur le tatami de l’innovation technique et des projets à haute valeur ajoutée.
@@ -2087,7 +2087,7 @@ Bases en mathématiques et statistiques pour communiquer avec Data Scientists,
 Connaisannces d’ Amazon Cloud ou Google Cloud PLatform.
 il y a 7 mois
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 7 mois,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 7 mois,data scientist,toulouse,03/10/2019,10:29:09
 DDMS Industrial System senior data scientist (m/f),Airbus,Toulouse (31),vide,"Toulouse (31)
 AIRBUS SAS
 Airbus is a global leader in aeronautics, space and related services. In 2018 it generated revenues of € 64 billion and employed a workforce of around 134,000. Airbus offers the most comprehensive range of passenger airliners. Airbus is also a European leader providing tanker, combat, transport and mission aircraft, as well as one of the world's leading space companies. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions worldwide.
@@ -2156,7 +2156,7 @@ By submitting your CV or application you are consenting to Airbus using and stor
 Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief.
 il y a 30 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 30 jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 30 jours,data scientist,toulouse,03/10/2019,10:29:09
 Computational Chemist in Protein Molecular Dynamics,Evotec,Toulouse (31),vide,"Toulouse (31)
 We are seeking for a highly motivated and innovative Scientist with a strong expertise in molecular dynamics of protein complexes, and biological simulations :
 “Computational Chemist in Protein Molecular Dynamics – 18 months Temporary Contract“
@@ -2193,7 +2193,7 @@ Minimum of 2 years post-doctoral academic or industrial experience in related ac
 Publications in molecular dynamics of protein complexes and innovative methods to decipher protein dynamics and interactions.
 il y a 30+ jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse,03/10/2019,10:29:09
 Survey Programmer H/F,BVA groupe,Balma (31),vide,"Balma (31)
 CDI
 À propos
@@ -2228,7 +2228,7 @@ Lieu : Balma, France (31130)
 Niveau d'études : Bac +2
 il y a 8 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 8 jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 8 jours,data scientist,toulouse,03/10/2019,10:29:09
 Chargé(e) de Recrutement F/H,SCALIAN OP,Blagnac (31),vide,"Blagnac (31)
 CDI
 Directement rattaché(e) à la Responsable Recrutement de l’agence Sud-Ouest, vous participerez au recrutement de profils à forte valeur ajoutée.
@@ -2269,7 +2269,7 @@ Au sein du pôle Systèmes Numériques, vous côtoierez nos experts en systèmes
 Au sein du Performance des Opérations, vous retrouverez nos experts en management de projet, en qualité, en organisation des achats, en contrôle de gestion et en performance industrielle.
 Apec.fr - il y a 7 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 7 jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 7 jours,data scientist,toulouse,03/10/2019,10:29:09
 Survey Producer H/F,BVA groupe,Balma (31),vide,"Balma (31)
 CDI
 À propos
@@ -2318,7 +2318,7 @@ Niveau d'études : Bac +2
 Expérience : > 1 an
 il y a 6 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 6 jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 6 jours,data scientist,toulouse,03/10/2019,10:29:09
 Full Stack Software Developer,Evotec,Toulouse (31),vide,"Toulouse (31)
 For our site in Toulouse, France, within the Research Informatics department, which is in charge of supporting life sciences applications, we are looking for a highly motivated Full Stack Software Developer.
 Responsibilities
@@ -2342,7 +2342,7 @@ Pragmatism, ability to learn quickly, methodological rigor and autonomy
 Fluent in English
 il y a 7 mois
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 7 mois,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 7 mois,data scientist,toulouse,03/10/2019,10:29:09
 4 Full Stack Software Engineers (m/f),Airbus,Toulouse (31),vide,"Toulouse (31)
 AIRBUS SAS
 Airbus is a global leader in aeronautics, space and related services. In 2018 it generated revenues of € 64 billion and employed a workforce of around 134,000. Airbus offers the most comprehensive range of passenger airliners. Airbus is also a European leader providing tanker, combat, transport and mission aircraft, as well as one of the world's leading space companies. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions worldwide.
@@ -2402,7 +2402,7 @@ By submitting your CV or application you are consenting to Airbus using and stor
 Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief.
 il y a 30 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 30 jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 30 jours,data scientist,toulouse,03/10/2019,10:29:09
 Cloud Developper (H/F),Cirruseo,Toulouse (31),vide,"Toulouse (31)
 CDI
 Au sein de l’équipe de développement sur Google Cloud Platform, tu interviendras sur différents types de projet pour des clients de toutes tailles et de tous secteurs :
@@ -2435,7 +2435,7 @@ La connaissance des technologies Google (Google Apps, Google Cloud Platform, Goo
 Autonome, curieux(-se), passionné(e) et motivé(e) tu as envie de t’investir et de contribuer à des projets d’envergure.
 il y a 2 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 2 jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 2 jours,data scientist,toulouse,03/10/2019,10:29:09
 Cloud Developper F/H,Cirruseo,Toulouse (31),vide,"Toulouse (31)
 CDI
 Au sein de l’équipe de développement sur Google Cloud Platform, tu interviendras sur différents types de projet pour des clients de toutes tailles et de tous secteurs :
@@ -2491,7 +2491,7 @@ Cirruseo part of Accenture en 2018 c'est plus de 100 collaborateurs, 2 sites d�
 Réunies autour des mêmes valeurs et mobilisées autour d'un même objectif, les équipes Cirruseo part of Accenture suivent de près les dernières évolutions parmi les solutions et les technologies du Cloud et travaillent dans un environnement dynamique et challengeant où Passion, Innovation et Engagement sont les maîtres mots.
 Apec.fr - il y a 1 jour
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 1 jour,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 1 jour,data scientist,toulouse,03/10/2019,10:29:09
 DevOps / DataOps pour tester les exports d'un datalake (Toul...,DATAPY,Toulouse (31),vide,"Toulouse (31)
 CDI
 Un de nos client vient de créer un datalake conséquent et souhaite industrialiser la mise à disposition de datasets 'à la demande' afin d'alimenter les équipes métiers et leurs data scientists.
@@ -2534,7 +2534,7 @@ Nous pensons que les développeurs et les consultants qui construisent ces servi
 C’est pourquoi chez DataPy, nous leur offrons la possibilité de se former, les jeudi matin, à des technologies avancées, et construisons avec eux le parcours vers leur prochain emploi.
 Apec.fr - il y a 7 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 7 jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 7 jours,data scientist,toulouse,03/10/2019,10:29:09
 Développeur Full Stack (F/H),Cirruseo,Toulouse (31),vide,"Toulouse (31)
 CDI
 Au sein de l’équipe de développement sur Google Cloud Platform, tu interviendras sur différents types de projet pour des clients de toutes tailles et de tous secteurs :
@@ -2582,7 +2582,7 @@ Début du contrat : dès que possible
 Merci de nous envoyer votre CV à recrutement+toulouse@cirruseo.com ou de postuler directement sur notre site
 il y a 30+ jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse,03/10/2019,10:29:09
 ATR - Repair Technical Analyst Réf: 19/109 - P,Airbus,Toulouse (31),vide,"Toulouse (31)
 Avions de Transport Regional GIE
 Founded in 1981, ATR has become world leader on the market for regional aircraft with 90 seats or less. Since its creation, ATR has sold over 1,500 aircraft to over 200 operators based in more than 100 countries. ATR planes have totaled over 28 million flights. ATR is a joint partnership between two major European aeronautical players: Airbus Group and Leonardo. The ATR headquarters are located in Toulouse. ATR is ISO 14001 certified, the international benchmark for respecting the environment. Contact : If you are interested in this position, please apply online. By submitting your CV or application you are consenting to ATR and Airbus using and storing information about you for monitoring purposes relating to your application or future employment. This information will only be used by ATR and Airbus. ATR is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief.
@@ -2633,7 +2633,7 @@ By submitting your CV or application you are consenting to Airbus using and stor
 Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief.
 il y a 30 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 30 jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 30 jours,data scientist,toulouse,03/10/2019,10:29:09
 Analytics Accelerator - 2 Technical Product Managers (m/f),Airbus,Toulouse (31),vide,"Toulouse (31)
 AIRBUS SAS
 Airbus is a global leader in aeronautics, space and related services. In 2018 it generated revenues of € 64 billion and employed a workforce of around 134,000. Airbus offers the most comprehensive range of passenger airliners. Airbus is also a European leader providing tanker, combat, transport and mission aircraft, as well as one of the world's leading space companies. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions worldwide.
@@ -2691,7 +2691,7 @@ By submitting your CV or application you are consenting to Airbus using and stor
 Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief.
 il y a 30 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 30 jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 30 jours,data scientist,toulouse,03/10/2019,10:29:09
 Technicien Support Applicatif F/H,KENT,Toulouse (31),vide,"Toulouse (31)
 CDI
 Missions : Kent vous propose un poste en CDI chez le client final, en tant que Technicien support applicatif.
@@ -2712,7 +2712,7 @@ Rigoureux(se) et organisé(e) vous avez une bonne faculté d'analyse et un espri
 Entreprise KENT, marque de GroupAgora dédiée aux recrutements de profils IT, recherche un Data Scientist - F/H.
 Apec.fr - il y a 30+ jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse,03/10/2019,10:29:09
 Senior Backend Developer (f/m/x) (relocated to Germany),Avira Operations GmbH & Co. KG,France,vide,"France
 Senior Backend Developer (f/m/x)
 Location: Tettnang
@@ -2759,7 +2759,7 @@ Phone: +49 (0) 7542-500 -2207
 E-Mail: lena.komarek(at)avira.com
 il y a 30+ jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",vide,data scientist,toulouse
+Signaler cette offre d'emploi",vide,data scientist,toulouse,03/10/2019,10:29:09
 Développeur Front End (H/F),NextGen RH,Toulouse (31),vide,"Toulouse (31)
 Présentation
 NEXTGEN RH est un cabinet de recrutement atypique, en pleine expansion (+100% de croissance en 2017-2018 / + de 400 postes à pourvoir en CDI).
@@ -2779,7 +2779,7 @@ Merci de postuler via notre site ou directement sur le site de l'annonceur.
 NEXTGEN RH - Bordeaux - Paris - Lille - Lyon - Nantes - Strasbourg - Rennes - Toulouse: Découvrez toutes nos offres d'emploi sur www.nextgenrh.fr et www.nextgenrhhandicap.fr (offres adaptées aux Travailleurs Handicapés - RQTH)
 il y a 8 mois
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 8 mois,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 8 mois,data scientist,toulouse,03/10/2019,10:29:09
 Data Scientist F/H,Persuaders RH,Occitanie,vide,"Occitanie
 Entreprise
 L’entreprise pour laquelle nous recrutons est une jeune entreprise innovante, basée à Montpellier et à Paris. Leur ambition est de ne plus jamais laisser les patients seuls face à leur maladie. Pour atteindre cet objectif, ils ont créé un compagnon virtuel qui apporte une aide et un soutien au quotidien aux patients et à leurs proches.
@@ -2809,7 +2809,7 @@ Localisation : Montpellier
 Prise de fonction : juin 2019
 il y a 30+ jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 30+ jours,data scientist,toulouse,03/10/2019,10:29:09
 Stage ingénieur Traitement de signal embarqué ATM H/F,Capgemini,Occitanie,vide,"Occitanie
 Stage
 Description de l’entreprise
@@ -2835,4 +2835,4 @@ machine learning / deep learning
 python / C
 il y a 23 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",il y a 23 jours,data scientist,toulouse
+Signaler cette offre d'emploi",il y a 23 jours,data scientist,toulouse,03/10/2019,10:29:09
