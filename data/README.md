@@ -27,7 +27,18 @@ Base de données **MONGODB**
 
 ## FORMAT 
 
-
+ ```
+- _id	
+- Titre	
+- Nom_Entreprise 
+- Adresse	
+- Salaire	
+- Descriptif_du_poste	
+- Date_de_publication	
+- *Date approximative* : afin de gérer les doublons (lors d'un prochain scrapping automatisé)
+- *Métier_scrappé* : afin de gérer l'analyse par recherche de corps de métier
+- *Localisation_scrappé* : afin de gérer l'analyse par recherche localisation
+```
 
 ## PREPROCESS
 
