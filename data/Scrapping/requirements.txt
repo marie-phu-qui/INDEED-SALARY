@@ -1,4 +1,18 @@
 # handle date
 
 datetime
+dateutil
+time
+
+# handle scrap
+selenium
 re
+
+# basics
+numpy
+pandas
+random
+
+# mongo connect
+pymongo
+os

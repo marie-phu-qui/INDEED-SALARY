@@ -1,0 +1,455 @@
+Titre,Nom_Entreprise,Adresse,Salaire,Descriptif_du_poste,Date_de_publication,métier_sc,loc_sc,Date_sc,Identifiant,Experiences,contrat
+Ingénieur Data Scientist H/F,EPSILON-ALCEN,Nantes (44),30 000 € - 50 000 € par an,"Nantes (44)
+CDI
+30 000 € - 50 000 € par an
+A compétences égales, le poste est ouvert aux personnes en situation de handicap
+EPSILON est une société du groupe ALCEN qui répond à différents besoins de conception et d’optimisation de systèmes pour les grands secteurs industriels (énergie, aéronautique, spatial). EPSILON mène des études pour le perfectionnement des produits de ses clients ou pour ses propres technologies et s’engage sur des projets complexes de conception-réalisation avec le support et la puissance industrielle du groupe ALCEN.
+Epsilon se développe dans les domaines de la physique, de l’informatique scientifique et enfin de la Performance Opérationnelle. Ainsi, en alliant sa capacité de modélisation / simulation multi-physiques et sa vision système, EPSILON permet de raccourcir les délais entre les phases amont des projets et les essais de validations.
+EPSILON a fait le choix de l’expertise en cultivant certaines spécialités depuis de nombreuses années tout en ayant la performance opérationnelle d’un groupe industriel et de haute technologie comme ALCEN. Son positionnement à la fois « services » et « produits » est unique dans le domaine de l’ingénierie et permet à ses ingénieurs d’exprimer tous leurs talents.
+La société est maintenant organisée en trois centres de compétences :
+EPSILON PHYSICS : dédié aux calculs scientifiques notamment la
+Thermique, Mécanique et Fluidique,
+EPSILON DIGITAL : dédié à la transformation digitale de l’industrie et
+des laboratoires
+EPSILON SYSTEM : dédié aux essais, à la conception et intégration de
+systèmes.
+Ainsi, pour développer son activité en région Pays de la Loire, nous recherchons un(e) Ingénieur(e) passionné(e) par la data science pour nous aider sur des sujets liés aux secteurs du transport, de l'énergie et du naval.
+http://www.epsilon-alcen.com/fr
+http://www.alcen.com/fr
+https://www.linkedin.com/company/epsilon-ing-nierie/
+Pour contribuer au développement de notre offre Data Science, vous aurez l'opportunité de travailler sur des sujets variés à forte valeur ajoutée : des projets majeurs d'innovation et d'ingénierie technologiques pour le compte de grands groupes industriels et de leur R&D (secteur naval, transport, énergie).
+Vous intégrez une équipe en forte croissance pour prendre en charge les missions suivantes :
+MISSIONS :
+Travailler sur un grand nombre de problèmes variés;
+Identifier les besoins et apporter des méthodes rigoureuses et innovantes en utilisant les données disponibles ;
+Travailler dans un cadre Big Data sur des ensembles de données volumineux et complexes ;
+Analyse exploratoire de problématiques complexes,
+Collecte et manipulation de données structurées et/ou non structurées,
+S'appuyer sur vos compétences mathématiques et statistiques pour caractériser, modéliser et prédire des phénomènes complexes,
+Développer des logiciels spécifiques pour analyser des données massives issues du monde industriel ou de travaux de R&D,
+Réaliser des études en coopération avec des équipes pluridisciplinaires ;
+Communiquer avec des experts métiers issus de domaines variés,
+Déploiement de solutions opérationnelles,
+Participer à la montée en compétences de l'équipe Data Science ;
+PROFIL:
+Vous êtes issu(e) d'une formation en mathématique/informatique de niveau Bac+5 (Ecole d’ingénieur ou Master) ;
+Vous justifiez d’une première expérience professionnelle d’au moins 2 ans sur des aspects de Data Science (modélisation statistique, machine learning, analyses variées, etc.) idéalement sur de gros volumes de données qui vous a permis de développer les compétences suivantes :
+Développement d’algorithmes et de modèles de traitement des données.
+Mise en place de solutions techniques pour répondre à un besoin précis.
+Capacité d’analyse et de résolution de problématiques.
+Rigueur et autonomie.
+Force de proposition.
+Curiosité intellectuelle.
+Apprentissage et partage de nouvelles techniques.
+Bon niveau d'anglais à l'écrit comme à l'oral.
+CONNAISSANCES & COMPÉTENCES REQUISES (LOGICIELS) :
+Maîtrise d’un ou plusieurs langage de programmation : Python / C++ / R
+Web : HTML, CSS, Javascript.
+Base de données : SQL.
+Outil BigData : Spark, Hadoop, Pandas…
+Connaissances en Machine Learning: SVM, CRF, Random Forest, Neural Network (RNN, CNN, LSTM, …) etc.
+Environnement : UNIX, Windows.
+Outils : git, svn.
+Des connaissances en HPC seraient un plus.
+Type d'emploi : CDI
+Salaire : 30 000,00€ à 50 000,00€ /an
+Expérience:
+ingénieur data scientist ou similaire: 2 ans (Souhaité)
+il y a 1 heure
+Signaler cette offre d'emploi",14/10/2019,Data_scientist,Nantes,14/10/2019,vjk=3d2de527d95de984,vide,cdi
+Machine Learning engineer (robotique / IA) H/F,EXTERNATIC,Nantes (44),vide,"Nantes (44)
+CDI
+DESCRIPTION DE L'OFFRE
+Externatic, le hub d’opportunités IT et web dans l’ouest.
+Avec une approche de facilitateur de carrière, nous vous trouvons des postes chez des clients finaux (éditeur, DSI, startup, agences digitales, etc. => pas de SSII) depuis 2010.
+Notre mission : vous trouver le job de vos rêves.
+Pour une entreprise développant des systèmes robotisés dotés d'intelligence artificielle, nous recherchons un Machine Learning Engineer F/H
+Pourquoi ce poste ?
+L'entreprise existe depuis 3 ans maintenant et continue les efforts en R&D notamment pour améliorer les comportements et les systèmes de vision. Aujourd'hui, 2 produits sont commercialisés mais d'autres sont en cours de conception.
+Un gros travail est réalisé sur l'intelligence artificielle notamment, le deep learning pour les systèmes de vision.
+Mission
+En lien avec la directrice technique et les équipes de développement, vous assurez les phases de conception / développement d'algorithme d'intelligence artificielle.
+Vous spécifiez et développez le logiciel de certaines briques technologiques.
+Vous collaborez avec les équipes de R&D (embarqué notamment)
+Vous travaillez sur les algorithmes d'intelligence artificielle pour la vision par ordinateur et entrainez ceux-ci (deep learning)
+Vous assurez de la veille technologique et êtes force de proposition
+Il s'agit d'un poste à dimension variable : typiquement, vous pourriez évoluer sur la partie robotique (cobotique) ou la partie logicielle (technologies web).
+Environnement technologique : Python, TensorFlow, C++, ROS (Robot Operating System), Linux, etc.
+Les + :
+Projet qui a du sens : limitation des troubles musculo squelettiques (TMS), confort d'utilisation pour les opérateurs, amélioration de la qualité de vie au travail, optimisation des temps de production, etc.
+Projet à très fort potentiel technique (réelle innovation dans ce domaine)
+C'est une jeune entreprise mais déjà solide financièrement (30 personnes et le carnet de commande est plein)
+ADN d'innovateur : équipe de passionnés, d'ingénieurs et de chercheurs qui se décrivent comme ""un réseau de neurones prêt à innover"" !
+Benjamin Casseron, votre interlocuteur chez Externatic
+Chaque année, j'accompagne des candidats, comme vous, dans la définition de leur projet professionnel et la recherche du job idéal (ou tout du moins du plus idéal possible).
+N'hésitez pas à me contacter pour échanger sur ce poste et plus généralement sur votre carrière (contacts disponibles dans la rubrique ""qui sommes nous"" sur le site d'Externatic)
+PROFIL REQUIS
+Profil
+Vous possédez des compétences en :
+Deep learning (pytorch, TensorFlow, etc.)
+Vous possédez une bonne culture de programmation (code formaté, commentaires, git) sur Python, Ruby ou C++ sous Linux.
+Vous connaissez le traitement du signal et d'images et avez de bonnes bases en mathématiques.
+Vous aimez l'innovation, êtes un bon communicant et aimez le travail en équipe.
+Un plus si vous avez des compétences sur :
+ROS
+Programmation bas niveau, réseaux, électronique
+Web
+il y a 3 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",11/10/2019,Data_scientist,Nantes,14/10/2019,vjk=e60e3fc8c56c334e,vide,cdi
+Data scientist (h/f) - Nantes,Maisons du Monde,Vertou (44),vide,"Vertou (44)
+Le programme data du groupe Maisons du Monde a presque deux ans déjà, et se compose d’une vingtaine de personnes (data scientists, data analysts, data engineers, web analysts). Poussée par une forte ambition, l’équipe data est amenée à accueillir plusieurs nouveaux profils dans les douze prochains mois. Les cas d’usages à développer vont du marketing digital (CRM, acquisition trafic, personnalisation/recommandation) à la supply chain, avec une activité R&D sanctuarisée. L’infrastructure data, développée dans l’équipe, est basée sur Google Cloud Platform. Les résultats sont là : nous sommes mis en avant par les équipes Google quant à l’usage de leurs outils cloud !
+Dans une ambiance jeune et dynamique, où le travail d’équipe est mis en valeur, nous recherchons un(e) Data Scientist pour rejoindre cette belle aventure Maisons du Monde !
+Vous participez activement à la vie de l’équipe : vous collaborez étroitement avec les Data Scientists et Data Engineers. Les missions seront variées (structuration de la chaîne Big Data, Dashboarding, Analyse Ad Hoc, R&D sur le Machine Learning) et demandent un niveau de rigueur certain.
+
+MISSIONS
+Vous êtes impliqué(e) dans l’engagement de l’équipe au quotidien et faites tout pour l’aider pour délivrer des fonctionnalités en continue ;
+Vous travaillez en étroite relation avec notre Lead Data scientist pour aider à la création des algorithmes nécessaires pour les cas d’usages développés pour les équipes métier ;
+Vous mettez en place les nouveaux flux d’entrée et de sortie au sein de la plateforme data, et irez jusqu’au modeling et à l’activation de la donnée ;
+Vous assurez le delivery, et êtes constamment en veille sur les nouvelles technos.
+VOTRE ENVIRONNEMENT TECHNIQUE
+Google Cloud Platform ;
+Big Query, SQL-like, Dataflow, Dataproc ;
+Python ;
+ML & DL, Tensorflow ;
+Qlik Sense ;
+Et tout autre outil que vous jugerez pertinent !
+
+Poste basé à Vertou.
+
+De formation supérieure en école d’ingénieur/université (niveau Bac+5 ou plus), vous possédez au minimum une première expérience professionnelle (stage/alternance acceptés) dans un programme data.
+
+SAVOIR-FAIRE
+Vous avez déjà appliqué les technologies Big Data en production sur de fortes volumétries de données. Vous maitrisez le développement en Python ;
+Vous avez la capacité à maintenir la chaîne Big Data, de la récupération de la donnée jusqu’à son exploitation finale ;
+Une bonne culture du web et du marketing digital est un plus (web analytics, DMP, CRM, SEO, SEA, etc.).
+SAVOIR-ETRE
+Vous avez l’esprit d’équipe et êtes impliqué(e) dans votre travail au quotidien ;
+Vous êtes curieux (se), rigoureux (se), structuré(e) ;
+Vous avez hâte de proposer des améliorations, les partager et les prioriser avec vos collègues ;
+A l’externe, vous participez à des évènements de l’univers Big Data (meetups, conférence, etc.).
+il y a 10 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",04/10/2019,Data_scientist,Nantes,14/10/2019,vjk=cbbf43ddae8abdab,vide,stage
+Data Scientist en Pistage H/F,Naval Group,Nantes (44),vide,"Nantes (44)
+CDI
+Naval Group, leader européen du naval de défense est l'un des rares industriels dans le monde capable de concevoir, réaliser et entretenir des systèmes aussi pointus qu'un sous-marin, un porte-avions ou un navire. Les projets complexes vous attirent et l'innovation est votre moteur ? Rejoignez nos équipes et participez à la grande aventure du naval de défense !
+
+Intégré(e) à la Direction Innovation et Technologie et plus particulièrement au Département Algorithme et Architecture Avancée, vous travaillez sur la mise en place et l'évolution de chaînes de pistage au sein d'une équipe de 4 personnes.
+
+A ce titre, vos principales missions seront les suivantes:
+
+Etudier et réaliser une architecture des modules de pistage existants puis réaliser des algorithmes en pistage et en trajectographie nouvelle génération,
+Réaliser la veille technologique au niveau R&D (participation à des salons, conférences),
+Proposer et réaliser des sujets et études de R&D (en lien avec les entités opérationnelles),
+Assurer la réalisation d'études et d'expertise dans son domaine (sur sollicitation, sur réponse à ETO DGA,...)
+Participer à la rédaction des réponses sur projets DGA (ASTRID, PST,...), européens (H2020)…
+Profil
+Vous êtes diplômé(e) idéalement d'un bac+5 spécialisé en mathématiques appliquées ou en statistiques et vous possédez une expérience dans le domaine industriel en tant que Data Scientist.
+La maîtrise de méthodes/langages/outils de traitement des données scientifiques sont des prérequis au poste (Matlab, Python). Des connaissances quant à la méthode des moindres carrés ainsi que l'utilisation du filtre de Kalman sont nécessaires. La notion des langages C, C++; Java serait un plus afin de faciliter l'intégration sur des systèmes complexes de nos algorithmes.
+
+Vous êtes une personne possédant un bon relationnel, et faites preuve de pugnacité et de proactivité.
+Vous êtes rigoureux et appréciez le travail en équipe, et la curiosité vous caractérisent.
+Ce poste est ouvert aux sites d'Indret et d'Ollioules.
+Type de contrat standard
+Durée indéterminée
+Date prévue de prise de fonction
+01/10/2019
+Catégorie Professionnelle
+Ingénieurs et Cadres
+Salaire min. annuel brut de base (en euros)
+nc
+Salaire max. annuel brut de base (en euros)
+nc
+il y a 12 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",02/10/2019,Data_scientist,Nantes,14/10/2019,vjk=c265b893c2b41e7a,vide,cdi
+Stage de pré-embauche : Edge Machine Learning via Amazon Gre...,Smile,Nantes (44),vide,"Nantes (44)
+Stage
+SMILE
+Smile est le leader du ""sourire"" au travail mais aussi de l'intégration et de l'infogérance de solutions open source.
+Enthousiastes, agiles et performants, leur vocation est de libérer le potentiel d'innovation des entreprises, à travers l'open source.
+Ses smiliens experts accompagnent les entreprises dans des domaines aussi variés que le Digital, les Business Apps, l'Embarqué & l'IoT et l'Infrastructure.
+Ils sont plus de 1700 collaborateurs présents dans 7 pays, avec 15 agences réparties en France et à l'international.
+Le pôle Smile ECS (Embedded & Connected Systems) est un centre d’excellence entièrement dédié aux systèmes embarqués et objets connectés.
+Smile ECS s’impose comme le pôle de référence des métiers de l’embarqué en environnement Open Source.
+Nous sommes une équipe de passionnés de l’univers Open Source et participons à différents événements comme le Capitole du Libre ou le FOSDEM. Nous organisons également des Meet-Up sur différents sujets (Android AOSP, IoT, Linux Embarqué…).
+Nous alimentons régulièrement notre blog Linux Embedded, à travers différents articles rédigés par nos collaborateurs.
+INTITULÉ DU STAGE
+Développement d’un démonstrateur edge machine learning avec Amazon Greengrass
+CONTEXTE
+La plateforme IoT (Internet of Things) d’Amazon Web Services fournit un ensemble de services permettant de communiquer et de contrôler une flotte d’objet connectés :
+IoT Core pour la communication bidirectionnelle des objets connectés
+IoT Device Management pour la gestion de flotte et le déploiement des mises à jour de firmware
+IoT Greengrass pour le “edge computing”
+SageMaker pour le machine learning
+etc...
+AWS IoT Greengrass permet de bénéficier de certains services localement, et, permet en particulier d’exécuter localement des inférences de machine learning.
+LES MISSIONS PROPOSÉES
+Le stage proposé consiste à étudier et mettre en oeuvre Amazon Greengrass dans un contexte de machine learning sur une cible adaptée à ce type d’activité afin de construire un démonstrateur permettant de maîtriser et de comprendre les fonctionnalités machine learning sur une plateforme exécutant Amazon Greengrass.
+Les activités à réaliser sont :
+Etude d’Amazon Greengrass
+Reconstruction des exemples fournis par Amazon
+Spécification du démonstrateur envisagé : choix de la plateforme matérielle et des scénarios de la démo
+Réalisation, codage et test des différents scénarios du démonstrateur
+Capitalisation des connaissances acquises
+Outre le développement du démonstrateur, un aspect important du stage proposé est la capitalisation et la diffusion des connaissances acquises, aussi bien pour le stagiaire lui même que pour les autres Smiliens ou la communauté en générale. Cette capitalisation sera réalisée sous différentes formes dont la rédaction de documents, de tutoriels ou d’articles publiés sur le blog Linux Embedded.
+TALENT RECHERCHÉ
+Formation requise
+Stage de fin d’études de master ou cycle d’ingénieur
+Connaissances souhaitées
+On aura le smile si tu disposes des connaissances suivantes :
+Connaissance de Linux, bash, Python
+Avoir suivi un cursus dans le domaine de l’intelligence artificielle
+Avoir utilisé l’un des frameworks suivants :
+TensorFlow
+Apache MXNet
+Chainer
+Caffe2
+Microsoft Cognitive Toolkit * Idéalement un bon niveau en C/C++ en environnement Linux
+Qualités personnelles
+Autonomie, curiosité, technique, rigueur
+TECHNOLOGIES UTILISÉES
+Framework IA parmi TensorFlow, Apache MXNet, Chainer, Caffe2, Microsoft Cognitive Toolkit
+Python
+INFORMATIONS PRATIQUES
+Lieu du stage : Nantes
+Durée du stage : 6 mois, projet de fin d'études uniquement
+NOTRE PROMESSE EMPLOYEUR
+Possibilité de télétravail (en CDI)
+Moyenne d'âge de 31 ans
+Engagement écolo si tu viens en vélo
+2 jours de formations obligatoires par an (en CDI) et partenariats forts avec des solutions Open Source
+Type d'emploi : Stage
+Formation:
+Bac +5 (Master / MBA) (Souhaité)
+il y a 18 jours
+Signaler cette offre d'emploi",26/09/2019,Data_scientist,Nantes,14/10/2019,vjk=062941ba25f1805c,vide,cdi
+Stage de pré-embauche : Machine Learning & Intelligence arti...,Smile,Nantes (44),vide,"Nantes (44)
+Stage
+SMILE
+Smile est le leader du ""sourire"" au travail mais aussi de l'intégration et de l'infogérance de solutions open source.
+Enthousiastes, agiles et performants, leur vocation est de libérer le potentiel d'innovation des entreprises, à travers l'open source.
+Ses smiliens experts accompagnent les entreprises dans des domaines aussi variés que le Digital, les Business Apps, l'Embarqué & l'IoT et l'Infrastructure.
+Ils sont plus de 1700 collaborateurs présents dans 7 pays, avec 15 agences réparties en France et à l'international.
+Le pôle Smile ECS (Embedded & Connected Systems) est un centre d’excellence entièrement dédié aux systèmes embarqués et objets connectés.
+Smile ECS s’impose comme le pôle de référence des métiers de l’embarqué en environnement Open Source.
+Nous sommes une équipe de passionnés de l’univers Open Source et participons à différents événements comme le Capitole du Libre ou le FOSDEM. Nous organisons également des Meet-Up sur différents sujets (Android AOSP, IoT, Linux Embarqué…).
+Nous alimentons régulièrement notre blog Linux Embedded, à travers différents articles rédigés par nos collaborateurs.
+INTITULÉ DU STAGE
+Évaluation & intégration des technologies de Machine Learning & Intelligence artificielle dans le contexte de l’embarqué.
+CONTEXTE
+Suite à une première étude sur les outils d’IA et ML, nous avons référencé un certain nombre d’outils à évaluer sur un système Linux embarqué (Tensorflow, Tensorflow light, PyTorch, dlib…). Cependant les outils comme Yocto ou Buildroot ne proposent pas encore ces outils car leur intégration nécessite une phase d’intégration (packaging) et d’upstreaming (contribution open-source).
+Les outils d’IA et ML peuvent utiliser l’accélération matérielle d’une carte graphique de PC de bureau (Cuda ou ROCm) pour améliorer la vitesse de calcul des algorithmes mis en oeuvre. Or ce type de matériel est rarement disponible sur les cibles Linux embarqué (type Rasberry Pi), à moins d’utiliser un matériel spécifique comme les TPU (Tensor Processing Unit). L’évaluation portera donc à la fois sur les technologies logicielles et matérielles.
+L’évaluation de ces technologies se fera dans le cadre d’une démo d'hypovigilance, c’est-à-dire la détection en temps réel de l’endormissement au volant d’une voiture. Une caméra dirigée vers le conducteur analyse le visage pour détecter les signes d’endormissement (le bâillement et la fermeture des paupières). En cas d’endormissement, le programme doit déclencher des dispositif pour réveiller le conducteur (son et message d'alerte).
+LES MISSIONS PROPOSÉES
+Le but de ce stage est d'évaluer les outils d’I/A & M/L à notre disposition, et de les intégrer aux projets Yocto et Buildroot, au travers de contributions Open Source.
+Le stagiaire devra choisir l’une des technologies suivantes pour évaluation :
+Tensorflow, Tensorflow light, dlib
+Python numpy, scipy, pytorch
+OpenVINO
+Clé usb Intel NCS2
+Blas, CLblas (blas + openCL), lapack, libflame
+Le stagiaire devra adapter la démo d’hypovigilance écrite en Python et dlib sur l’une des technologies choisie afin de réaliser un benchmark montrant l'efficacité de la solution.
+Ce résultat sera ensuite comparé au résultat obtenu avec la démo d'hypovigilance initiale.
+Ce travail sera réalisé par deux stagiaires en parallèle, chacun sur des technos différentes.
+TALENT RECHERCHÉ
+Formation requise
+Stage de fin d’études de master ou cycle d’ingénieur
+Connaissances souhaitées
+On aura le smile si tu disposes des connaissances suivantes :
+Bon niveau en C/C++ de préférence en environnement linux
+Bon niveau en Python
+Première expérience avec les cible embarqués type Rasberry Pi avec Yocto ou Buildroot
+Première expérience avec outils I/A & M/L
+Connaissance des outils de cross-compilation (gcc) & système de build (Make, CMake, autotools)
+Qualités personnelles
+Autonomie, curiosité, technique, rigueur
+TECHNOLOGIES UTILISÉES
+Linux embarqué, Yocto, Buildroot, Python, Tensorflow, Pytorch, autres technologies selon l’état de l’art.
+INFORMATIONS PRATIQUES
+Lieu du stage : Nantes
+Durée du stage : 6 mois, projet de fin d'études uniquement
+NOTRE PROMESSE EMPLOYEUR
+Possibilité de télétravail (en CDI)
+Moyenne d'âge de 31 ans
+Engagement écolo si tu viens en vélo
+2 jours de formations obligatoires par an (en CDI) et partenariats forts avec des solutions Open Source
+Type d'emploi : Stage
+Formation:
+Bac +5 (Master / MBA) (Requis)
+il y a 17 jours
+Signaler cette offre d'emploi",27/09/2019,Data_scientist,Nantes,14/10/2019,vjk=6adaf6e7fcb9801b,vide,cdi
+"Data Scientist en Pistage H/F - Naval Group, leader mondial...",Page Personnel FR,Nantes (44),vide,"Nantes (44)
+A ce titre, vos principales missions sont les suivantes :
+Etudier et réaliser une architecture des modules de pistage existants, puis réaliser des algorithmes en pistage et en trajectographie nouvelle génération,
+Réaliser la veille technologique au niveau R&D (participation à des salons, conférences),
+Proposer et réaliser des sujets et études de R&D (en lien avec les entités opérationnelles),
+Assurer la réalisation d'études et d'expertise dans votre domaine (sur sollicitation, sur réponse à ETO DGA...),j
+Participer à la rédaction des réponses sur projets DGA (ASTRID, PST...), européens (H2020).
+
+Naval Group, leader mondial du naval de défense
+
+Vous travaillez sur la mise en place et l'évolution de chaînes de pistage
+
+Vous êtes diplômé idéalement d'un Bac +5 minimum spécialisé en mathématiques appliquées et vous possédez au moins une expérience dans le domaine industriel en tant que Data Scientist.
+
+La maîtrise de méthodes/langages/d'outils de traitement des données scientifiques sont requis au poste (Matlab, Python). Des connaissances quant à la méthode des moindres carrés, ainsi que l'utilisation du filtre de Kalman sont nécessaires. La notion des langages C, C++; Java est un plus. Ce poste est ouvert aux sites d'Indret et d'Ollioules.
+il y a 16 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",28/09/2019,Data_scientist,Nantes,14/10/2019,vjk=1a78abfa8a32837d,vide,stage
+DATA SCIENTIST JUNIOR H/F NANTES,Umanis,Loire-Atlantique,vide,"Loire-Atlantique
+LE LEADER FRANCAIS DE LA DATA RECRUTE.Rejoindre Umanis, c'est participer à une formidable aventure, celle d'une entreprise française en croissance continue, reconnue pour sa capacité d'innovation et son dynamisme.Umanis, c'est plus de 2700 passionnés de nouvelles technologies qui partagent les mêmes valeurs qu sont l'excellence, la responsabilité, le respect et la convivialité.Umanis, c'est une communauté avec une moyenne d'âge de 35 ans qui intervient en ingénierie de pointe sur les projets stratégiques des plus grands donneurs d'ordre ou pour le compte d'entreprises pour qui la data est vecteur de transformation.Umanis, c'est un management et une organisation au plus proche de ses collaborateurs pour vous accompagner dans votre parcours professionnel. Formation, certifications, MOOC, CPEC ; nous avons à coeur de vous faire évoluer en continu.Le data scientist est un expert de la gestion et de l'analyse pointue de données massives (""big data""). Il détermine à partir de sources de données multiples et dispersées, des indicateurs permettant la mise en place d'une stratégie répondant à une problématique. Il est donc spécialisé en statistique, informatique et connait parfaitement le secteur ou la fonction d'application des données analyséesVOS MISSIONS:Les tâches principales du data scientist sont :
+Identifier les besoins et la problématique des directions métiers
+Définir une modélisation statistique qui permette de répondre à la problématique
+Construire des outils d'analyse pour collecter les données de l'entreprise
+Sourcer et rassembler l'ensemble des sources de données structurées ou non structurées nécessaires à l'analyse et pertinentes
+Organiser, étudier et synthétiser ces sources de données sour forme de résultats exploitables
+Modéliser les comportements et en extraire de nouveaux usages utilisateurs
+Proposer des modes de collecte et traitements
+Participer à la proposition de stratégies ou préconisations client
+Mettre en valeur, diffuser et vulgariser la donnée pour le client et son équipeCompétences souhaités: Python, JavaScript, Pl/sqlCOMPETENCES REQUISES:Analyses qualitatives et quantitatives (Intermédiaire), Anglais (Intermédiaire), Conception d'ouvrages, produits ou événements (Débutant), Développement d'ouvrages, produits ou événements (Débutant), Maîtrise des logiciels (Intermédiaire), Résolution de problèmes complexes (Débutant), Veille, analyse et gestion documentaire (Intermédiaire)En 2019, Umanis recrute 1000 nouveaux talents sur l'ensemble du territoire français. Et si c'était vous ?
+Handi-it.fr - il y a 24 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",20/09/2019,Data_scientist,Nantes,14/10/2019,vjk=f6d61e9a595fbf39,junior,vide
+CONSULTANT DATA SCIENCE H/F RENNES,Umanis,Saint-Herblain (44),vide,"Saint-Herblain (44)
+THE FRENCH LEADER OF THE DATA RECRUITS.
+Joining Umanis is to participate in a formidable adventure, that of a French company in continuous growth, recognized for its capacity for innovation and its dynamism.
+Umanis is more than 2700 enthusiasts of new technologies who share the same values as excellence, responsibility, respect and conviviality.
+Umanis, it is a community with an average age of 35 years that intervenes in advanced engineering on the strategic projects of the largest customers of order or on behalf of companies for whom data is transformation vector.
+Umanis, it is a management and an organization closest to its collaborators to accompany you in your career. Training, certifications, MOOC, CPEC; We are committed to making you evolve continuously.
+The data scientist is an expert in the management and sharp analysis of massive data (""big data""). He determines from multiple and dispersed data sources, indicators allowing the implementation of a strategy answering a problematic. He is therefore specialized in statistics, computer science and knows perfectly the sector or the application function of the analyzed data.
+YOUR MISSIONS:
+Les tâches principales du data scientist sont :
+Identifier les besoins et la problématique des directions métiers
+Définir une modélisation statistique qui permette de répondre à la problématique
+Construire des outils d'analyse pour collecter les données de l'entreprise
+Sourcer et rassembler l'ensemble des sources de données structurées ou non structurées nécessaires à l'analyse et pertinentes
+Organiser, étudier et synthétiser ces sources de données sour forme de résultats exploitables
+Modéliser les comportements et en extraire de nouveaux usages utilisateurs
+Proposer des modes de collecte et traitements
+Participer à la proposition de stratégies ou préconisations client
+Mettre en valeur, diffuser et vulgariser la donnée pour le client et son équipe
+REQUIRED COMPETENCIES:
+Complex problem solving (Beginner), Design of works, products or events (Beginner), English (Intermediate), Monitoring, analysis and document management (Intermediate), Product or event development (Beginner), Qualitative and quantitative analyzes (Intermediate), Software mastery (Intermediate)
+In 2018, Umanis recruited 900 new talents throughout the French territory. What if it was you?
+il y a 25 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",19/09/2019,Data_scientist,Nantes,14/10/2019,vjk=0c7967edfa845dfc,vide,vide
+DATA SCIENTIST confirmé H/F NANTES,Umanis,Saint-Herblain (44),vide,"Saint-Herblain (44)
+THE FRENCH LEADER OF THE DATA RECRUITS.
+Joining Umanis is to participate in a formidable adventure, that of a French company in continuous growth, recognized for its capacity for innovation and its dynamism.
+Umanis is more than 2700 enthusiasts of new technologies who share the same values as excellence, responsibility, respect and conviviality.
+Umanis, it is a community with an average age of 35 years that intervenes in advanced engineering on the strategic projects of the largest customers of order or on behalf of companies for whom data is transformation vector.
+Umanis, it is a management and an organization closest to its collaborators to accompany you in your career. Training, certifications, MOOC, CPEC; We are committed to making you evolve continuously.
+The data scientist is an expert in the management and sharp analysis of massive data (""big data""). He determines from multiple and dispersed data sources, indicators allowing the implementation of a strategy answering a problematic. He is therefore specialized in statistics, computer science and knows perfectly the sector or the application function of the analyzed data.
+YOUR MISSIONS:
+Vous êtes expert de la gestion et de l'analyse des données massives (""big data""). Vous déterminez, à partir de sources de données multiples et dispersées, des indicateurs permettant la mise en place d'une stratégie répondant à une problématique. Vous êtes spécialisé en statistique, informatique et connaissez parfaitement le secteur ou la fonction d'application des données analysées
+Vos tâches principales sont :
+Identification les besoins et la problématique des directions métiers
+Définition de la modélisation statistique qui permette de répondre à la problématique
+Construction des outils d'analyse pour collecter les données de l'entreprise
+Sourcing de l'ensemble des sources de données structurées ou non structurées nécessaires à l'analyse et pertinentes
+Organisation, étudie et synthèse des sources de données sous forme de résultats exploitables
+Modélisation les comportements et en extraire de nouveaux usages utilisateurs
+Proposition des modes de collecte et traitements
+Participation à la proposition de stratégies ou préconisations client
+Mise en valeur, diffuser et vulgariser la donnée pour le client et son équipe
+De formation supérieure en informatique avec une spécialisation en data science, Ecoles d’Ingénieurs ou Universités, vous justifiez d’une ou plusieurs compétences techniques :
+Très bonnes compétences en Data Science, Machine Learning (ML), IA
+Maîtrise de la chaîne de préparation de la donnée (data wrangling)
+Solide maîtrise d’au moins un des langages Python (et des bibliothèques de ML dont scikit-learn), pySpark, R, Scala
+Capacité de vulgariser les concepts de Data Science pour les non-initiés
+Expérience d’industrialisation d’une solution de Data Science
+Des Compétences complémentaires seraient souhaitables :
+Expérience de ciblage publicitaire sur site web (web recommandation)
+Expérience en analyse textuelle (text mining) et traitement du langage (NLP)
+Expérience en calcul d’attrition (churn rate)
+La connaissance d’un secteur métier est un plus
+Aimant le travail en équipe et maitrisant la langue anglaise, vous vous décrivez volontiers comme quelqu’un de polyvalent, créatif et plein d’humour !
+Pourquoi Umanis ?
+Un suivi régulier et personnalisé par votre manager et votre référente RH.
+Une écoute constante pour accompagner votre montée en compétences et vous proposer les projets les plus en phase avec vos attentes.
+Des moments de partage : soirées d’agence et afterworks, rencontres sportives…
+L’intégration d’une communauté DATA nationale active.
+La possibilité, en fonction de vos aspirations, de devenir l’un des référents techniques de notre équipe.
+Ceux qui, grâce à leur expertise, nous accompagnent dans le recrutement des futurs collaborateurs.
+En 2019, Umanis recrute 1000 nouveaux talents sur l'ensemble du territoire français. Et si c'était vous?
+REQUIRED COMPETENCIES:
+Complex problem solving (Beginner), Design of works, products or events (Beginner), English (Intermediate), Monitoring, analysis and document management (Intermediate), Product or event development (Beginner), Qualitative and quantitative analyzes (Intermediate), Software mastery (Intermediate)
+In 2018, Umanis recruited 900 new talents throughout the French territory. What if it was you?
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/09/2019,Data_scientist,Nantes,14/10/2019,vjk=21664de0daddcd40,confirmé,vide
+Data Scientist H/F - BIOFORTIS - CDI - Saint-Herblain (44),SILLIKER - MERIEUX NUTRISCIENCES FRANCE,Saint-Herblain (44),40 000 € par an,"Saint-Herblain (44)
+CDI
+40 000 € par an
+#JobAlert #Stats #DataScientist #Nantes #MérieuxNutriSciences
+BIOFORTIS, basée à Saint-Herblain, près de Nantes (44), est la filiale du groupe MERIEUX-NUTRISCIENCES depuis 2002.
+Présent dans 24 pays et à travers plus de 100 laboratoires, MERIEUX NUTRISCIENCES fait avancer la science en proposant des solutions pour la qualité et sécurité alimentaire. Notre vision est en effet d’améliorer la santé grâce à des aliments plus sûrs et une nutrition plus saine. Cette vision se concrétise chaque jour, grâce à nos 7000 collaborateurs animés par nos 4 valeurs : l’excellence, l’intégrité, le sens de l’initiative et le sens des responsabilités.
+MERIEUX NUTRISCIENCES FRANCE, basée à Cergy (95) regroupe l’ensemble des fonctions support à l’activité de nos 7 laboratoires de chimie et de microbiologie. Par leur expertise scientifique, réglementaire et technique, MERIEUX NUTRISCIENCES fournit aux entreprises nationales et internationales non seulement des prestations de qualité, mais surtout des solutions pratiques et adaptées à leurs problématiques.
+BIOFORTIS est la CRO du groupe, dédiée à l’innovation dans les secteurs de l'agroalimentaire, de la nutrition, de la santé, de la cosmétique et des biens de consommation. Elle accompagne le développement des produits de ses clients en offrant des services originaux et innovants tels que des preuves pré-cliniques et cliniques, des analyses du microbiote et leur interprétation scientifique, des évaluations sensorielles et des tests consommateurs.
+Les compétences cliniques et Sensorielles & Consommateurs des deux business units de BIOFORTIS font de notre société une CRO unique. Selon les demandes des clients, nos différentes équipes peuvent être impliquées du développement scientifique de produits nouveaux jusqu’à la mesure et l’appréciation des consommateurs finaux.
+Présente en Europe, aux Etats-Unis, en passant par la Chine jusqu'au Brésil, BIOFORTIS emploie à ce jour près de 200 salariés sur ses différents sites.
+Une opportunité à pourvoir pour dès que possible, envie de tenter l'expérience Mérieux ? Postulez!
+Dans le cadre de notre développement, nous recherchons donc notre nouveau talent !
+Vos principales missions :
+Conduite de projets R&D internes
+Veille bibliographique, synthèse et recommandations sur les méthodes d’analyses statistiques de données de métagénomique ciblée ou shotgun
+Développement/Optimisation de workflows d’analyses statistiques et de visualisations
+Mise en place d’approches d’intégration de données en utilisant notamment des approches de machine learning
+Participation à la rédaction de publications scientifiques
+Gestion de projets clients
+Elaboration des hypothèses statistiques en collaboration avec les équipes scientifiques et le client
+Définition des approches méthodologiques
+Conduite des analyses et rédaction de rapports d’études
+Profil recherché :
+Vous avez une formation supérieure en statistiques/data science, dès Bac+4/5 .
+Connaissances en NGS, génomiques et/ou métagénomiques . Expérience démontrée en programmation statistique, notamment R (Shiny serait apprécié) et Python. Vous avez de larges compétences en modélisation statistique (analyse différentielle, lasso, …), machine learning (random forest, PLS, SVM, …) et intégration/analyse de données hétérogènes et grandes dimensions . Connaissances en analyses de réseaux seraient un plus . Bon niveau d’anglais scientifique . Capacité à interagir dans un environnement pluridisciplinaire . Autonomie, rigueur, très bon relationnel, esprit de synthèse et d’initiative
+Avantages proposés :
+Filiale appartenant à un groupe reconnu dans le monde
+Excellente image de marque dans son domaine d’activité
+Polyvalence dans les missions
+Autonomie
+Equipe dynamique
+Conditions d’emploi :
+Poste à pouvoir ASAP
+Salaire 40 K € brut annuel + partie variable + avantages groupe (TR, mutuelle, etc.)
+Si vous vous reconnaissez dans ces compétences, que vous souhaitez mettre en avant votre relationnel, vos idées, que vous aimez le travail d'équipe... alors notre offre est faite pour vous ! merci d’envoyer votre CV et lettre de motivation – Réf.DATA-44-2019 à l’attention de M. BILLAUD
+Type d'emploi : CDI
+Expérience:
+data scientist: 1 an (Souhaité)
+programmation statistique: 1 an (Souhaité)
+conduite de projets: 1 an (Souhaité)
+Formation:
+Bac +4 (Maîtrise) (Souhaité)
+Lieu:
+Saint-Herblain (44) (Souhaité)
+Certificats et autres accréditations:
+Permis B (Souhaité)
+Langue:
+anglais (Souhaité)
+il y a 30+ jours
+Signaler cette offre d'emploi",14/09/2019,Data_scientist,Nantes,14/10/2019,vjk=b97a45363505494a&advn=7885602348150590,vide,cdi
+Data Scientist en Pistage H/F,Page Personnel,Nantes (44),vide,"Nantes (44)
+CDI
+A ce titre, vos principales missions sont les suivantes :
+Etudier et réaliser une architecture des modules de pistage existants, puis réaliser des algorithmes en pistage et en trajectographie nouvelle génération,
+Réaliser la veille technologique au niveau R&D (participation à des salons, conférences),
+Proposer et réaliser des sujets et études de R&D (en lien avec les entités opérationnelles),
+Assurer la réalisation d'études et d'expertise dans votre domaine (sur sollicitation, sur réponse à ETO DGA...),j
+Participer à la rédaction des réponses sur projets DGA (ASTRID, PST...), européens (H2020).
+Profil : Vous êtes diplômé idéalement d'un Bac +5 minimum spécialisé en mathématiques appliquées et vous possédez au moins une expérience dans le domaine industriel en tant que Data Scientist.
+La maîtrise de méthodes/langages/d'outils de traitement des données scientifiques sont requis au poste (Matlab, Python). Des connaissances quant à la méthode des moindres carrés, ainsi que l'utilisation du filtre de Kalman sont nécessaires. La notion des langages C, C++; Java est un plus. Ce poste est ouvert aux sites d'Indret et d'Ollioules.
+
+Conditions et Avantages
+
+N/C
+
+Entreprise : Page Personnel
+Naval Group, leader européen du naval de défense est l'un des rares industriels dans le monde capable de concevoir, réaliser et entretenir des systèmes aussi pointus qu'un sous-marin, un porte-avions ou un navire. Les projets complexes vous attirent et l'innovation est votre moteur ? Rejoignez nos équipes et participez à la grande aventure du naval de défense.
+
+Métier : Études et prospectives socio-économiques - Organisation et études - Support à l'entreprise - Data scientist
+ouestfrance-emploi.com - il y a 15 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",29/09/2019,Data_scientist,Nantes,14/10/2019,vjk=279db3e527318963&advn=6679598084157165,vide,cdi
