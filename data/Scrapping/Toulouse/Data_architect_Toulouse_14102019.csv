@@ -1,0 +1,102 @@
+Titre,Nom_Entreprise,Adresse,Salaire,Descriptif_du_poste,Date_de_publication,métier_sc,loc_sc,Date_sc,Identifiant,Experiences,contrat
+Enterprise Data Architect (m/f) (5 vacancies),Airbus,Toulouse (31),vide,"Toulouse (31)
+AIRBUS SAS
+Airbus is a global leader in aeronautics, space and related services. In 2018 it generated revenues of € 64 billion and employed a workforce of around 134,000. Airbus offers the most comprehensive range of passenger airliners. Airbus is also a European leader providing tanker, combat, transport and mission aircraft, as well as one of the world's leading space companies. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions worldwide.
+
+Our people work with passion and determination to make the world a more connected, safer and smarter place. Taking pride in our work, we draw on each other's expertise and experience to achieve excellence. Our diversity and teamwork culture propel us to accomplish the extraordinary - on the ground, in the sky and in space.
+Job Description
+Contact :
+Please apply on line for this vacancy at our careers site (www.jobs.airbus.com) with your CV and cover letter attached.
+By submitting your CV or application you are consenting to Airbus using and storing information about you for monitoring purposes relating to your application or future employment. This information will only be used by Airbus.
+
+Description of the job :
+5 vacancies for an Enterprise Data Architect have arisen within Airbus Commercial Aircraft Information Management (IM) Department in Toulouse.
+You will join ZIPA - Enterprise Architect & Portfolio Management department.
+
+In the context of the company’s Digital transformation, the Enterprise Architecture department needs to tackle Data Management across the various IM PSLs (Product Service Lines).
+
+This initiative aims at setting up a complete governance on IM side, fully in line with what Digital Transformation Office (DTO) has designed on the Business side. In particular, it seeks to stress “How” and “Under which conditions” data can contribute to grow new revenues, improve existing operations whilst insuring regulatory compliances. The initiative encompasses (while not being limited to) the transfer of Data from existing applications & backbones to Skywise, to support the ramp-up of the Single Aisle programme.
+
+Data Management includes:
+i) the identification of relevant data pieces & their classification, ii) the extraction & loading of data,
+ii) the integration of these pieces into more comprehensive data object,
+iii) the check of data freshness & quality and iv) the creation of metadata and data lineage information.
+
+New applications will be designed and developed in Skywise on this new data bedrock such as analytics applications to anticipate and bring quick & appropriate solutions along all Manufacturing steps (e.g. wings stitching in FAL).
+
+From this very valuable experience, the Enterprise Architecture department is going to abstract some architecture patterns / recommendations / principles that will be reused for other a/c Programs.
+
+Task & accountabilities :
+Your main tasks and responsibilities will include:
+
+In the “IM for SA ramp-up de-risking” Program context:
+# Understand Business requirements (which objects, what for, minimum level of Quality expected)
+# Support experts (Business & IM) during data sources identification, quality assessments, data transformations to be applied during the ingestion in Skywise & final Business validations
+# Bring clarity with regards to Regulations’ constraints
+# Bring support during the documentation step
+# Create and maintain a detailed documentation of the “routing” for “data ingestion”, including the main points / difficulties and their mitigation as implemented.
+
+
+Support the Enterprise Architecture team to abstract various models that could be deployed at company level:
+# Identify best data model / tooling for Business Object documentation
+# Identify best data flow model / tooling for Business Object lineage documentation
+# Identify best model / tooling for metadata management
+# Clarify templates for Data Integration & Systems Interoperability
+# Clarify templates for Data Quality Management
+
+This role will involve a few travel for business and as such you must be able to travel accordingly.
+
+Required skills :
+You will have the following skills and experience:
+
+3 to 5 years’ experience, preferably with strong exposure to data management
+Project management in Agile environment
+Communication and organization skills
+Business Processes knowledge
+Information System technical knowledge
+Customer mindset oriented
+Interact & Influence
+Language Skills: negotiation level of English
+
+This job requires an awareness of any potential compliance risks and a commitment to act with integrity, as the foundation for the Company’s success, reputation and sustainable growth.
+
+By submitting your CV or application you are consenting to Airbus using and storing information about you for monitoring purposes relating to your application or future employment. This information will only be used by Airbus.
+Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief.
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/09/2019,Data_architect,Toulouse,14/10/2019,vjk=75dfd11585dc8016,vide,vide
+Consultant(e) Data Architect – Business Intelligence H/F,Altran,Blagnac (31),vide,"Blagnac (31)
+ALTRAN Sud-Ouest, fort de ses 2500 Consultants continue son développement au sein de la région Sud-Ouest mais aussi à l'International.
+Vous serez intégré(e) au sein du département Consulting, Manufacturing et Operations (CMO) d’ALTRAN SUD-OUEST et accompagnerez une équipe de consultants dans le développement de logiciels innovants.
+Au sein de l'entité Consulting and Business Services, nous recrutons plusieurs profils qui viendront renforcer nos équipes ""Digital Performance"" qui sont en charge d'accompagner nos clients dans leur transformation digitale et leur projet BI.
+Vos responsabilités
+Nous recherchons des Consultant(e)s Data Architect / BI, capable de prendre en charge les missions suivantes:
+Vous êtes responsable de faire correspondre les architectures de données aux besoins et aux enjeux métiers. En collaborant avec les parties prenantes, vous avez le souci de concevoir un système ergonomique, mais qui laisse la marge aux évolutions futurs.
+Vous implémentez des méthodes sources d’agilité.
+Vous travaillez sur les moyens d’utiliser les données de façon prédictives (data mining, machine learning).
+Mise en œuvre de l’expertise (audit, installation, architecture, bonnes pratiques…)
+Participation aux avant-ventes (rédaction des propositions commerciales, chiffrage, POC)
+Participer au développement de l’activité BI
+
+Votre profil
+De formation informatique ou généraliste (école d’ingénieur ou équivalent), vous justifiez d’une première expérience sur l’activité de Data Architect.
+Vous maîtrisez au moins l’une des principales technologies de big data en terme de base de données NoSQL (MongoDB, Cassandra ou Redis), d’infrastructures serveurs (Hadoop, Spark), de stockage de données en mémoire (Memtables) ou ETL (Talend, …).
+Vous êtes capable de développer un système de logiciels, avec des interfaces personnalisées. Avec des outils de modélisations, vous développez l’architecture des systèmes et bases de données.
+Vous êtes capable d'entrer rapidement dans les sujets, et avez une bonne capacité d'analyse. Vous savez vous adapter à des contextes projets complexes.
+Anglais courant exigé.
+
+Ce poste est ouvert aux personnes en situation de handicap.
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/09/2019,Data_architect,Toulouse,14/10/2019,vjk=01f12cb951990c3c,vide,vide
+DATA ARCHITECT (H/F) NIMES,Banque Populaire du Sud,Occitanie,vide,"Occitanie
+CDI
+Description de l'entreprise
+LA BANQUE POPULAIRE DU SUD est une banque coopérative régionale, appartenant au 2ème groupe bancaire français (Banque Populaire Caisse d'Epargne). Par son implication géographique, la Banque Populaire du Sud encourage par son dynamisme, les projets et réalisations participant au rayonnement de sa région. La Banque Populaire du sud s'engage en faveur de la diversité et de la mixité. Nous recrutons sur vos compétences !
+Description du poste
+Un poste qui vous correspond...Etes-vous prêt à être le Data Architect (H/F) de notre établissement?Vos missions consisteront à: conseiller, animer et former la communauté des utilisateurs avertis de la donnée. Impulser, coordonner les travaux de fiabilisation de données et appuyer techniquement les « data owners ». Concevoir et administrer le patrimoine de données de l’entreprise et son architecture. Faire évoluer l’architecture et les outils d’exploitation de la donnée. Assurer la cohérence, la qualité et la sécurité du référentiel de données. Sous la responsabilité du Data Management Officer, vos activités principales seront :Conseiller les utilisateurs techniques dans l’exploitation des données. Former les utilisateurs et les accompagner dans l’appropriation des outils de l’informationnel. Aider à la mise en production des traitements, leur fiabilisation et leur optimisation. Animer une communauté d’utilisateurs avertis. Représenter la banque dans son domaine.Participer au processus de mise en qualité des données: Appuyer techniquement les métiers dans le référencement de leurs données. Coordonner les travaux de fiabilisation. Développer les contrôles de qualité de données sur la base des besoins exprimés par les métiers. Piloter la bonne exécution des traitements et la mise en œuvre de contrôles automatisés de données.Gérer le patrimoine de données et son architecture: S’assurer de l’application des règles de gouvernance d’un point de vue technique. Participer à la définition et à l’évolution de l’architecture « data » et de ses outils. Piloter la mise en œuvre des normes de référencement et d’utilisation des données. Réaliser une veille technologique sur les outils de production, d’exploitation et d’analyse de données. Administrer les bases de données : Créer des bases privatives en réponse aux besoins des utilisateurs, et s’assurer de leur documentation. Gérer les durées de conservation des données et les droits d’accès à l’informationnel. Mettre en œuvre et mobiliser les outils de surveillance de l’utilisation de l’informationnel. Piloter l’intégrité des bases de données (traitement des rejets, incidents). Administrer et maintenir les différents outils de l’informationnel.
+Qualités Requises
+Vos talents nous intéressent!Si vous détenez un BAC+4/5, spécialisé dans le domaine de la Data (souhaité), ainsi que d'une expérience de minimum trois ans sur le même type de poste. Si vous détenez des compétences en management de projets transverses, une capacité d'analyse, une bonne communication orale et écrite ainsi qu'une bonne maîtrise des techniques d'animation de réunion. Si vous maîtrisez parfaitement le langage SQL, les outils Teradata et SQL Server, si vous connaissez les concepts et outils de Dataviz/Self BI (Powerbi si possible), Cognos, les concepts et outils de Dataprep, l'extraction et l'analyse croisée de données, ainsi que l'environnement et les outils informatiques Banque Populaire-iBP (de préférence). Et si vous détenez une 1re expérience des outils, concepts et langages de data science (souhaité), alors rejoignez-nous! Accompagnement et formations - Perspectives de carrière - Rémunération: à négocier selon le profil.
+Banque Populaire - il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/09/2019,Data_architect,Toulouse,14/10/2019,vjk=fab7c742f081b1a8,vide,cdi
