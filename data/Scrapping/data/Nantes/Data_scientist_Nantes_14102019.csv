@@ -55,7 +55,7 @@ Type d'emploi : CDI
 Salaire : 30 000,00€ à 50 000,00€ /an
 Expérience:
 ingénieur data scientist ou similaire: 2 ans (Souhaité)
-il y a 1 heure
+il y a 5 heures
 Signaler cette offre d'emploi",14/10/2019,Data_scientist,Nantes,14/10/2019,vjk=3d2de527d95de984,vide,cdi
 Machine Learning engineer (robotique / IA) H/F,EXTERNATIC,Nantes (44),vide,"Nantes (44)
 CDI
@@ -128,9 +128,9 @@ Vous avez l’esprit d’équipe et êtes impliqué(e) dans votre travail au quo
 Vous êtes curieux (se), rigoureux (se), structuré(e) ;
 Vous avez hâte de proposer des améliorations, les partager et les prioriser avec vos collègues ;
 A l’externe, vous participez à des évènements de l’univers Big Data (meetups, conférence, etc.).
-il y a 10 jours
+il y a 11 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",04/10/2019,Data_scientist,Nantes,14/10/2019,vjk=cbbf43ddae8abdab,vide,stage
+Signaler cette offre d'emploi",03/10/2019,Data_scientist,Nantes,14/10/2019,vjk=cbbf43ddae8abdab,vide,stage
 Data Scientist en Pistage H/F,Naval Group,Nantes (44),vide,"Nantes (44)
 CDI
 Naval Group, leader européen du naval de défense est l'un des rares industriels dans le monde capable de concevoir, réaliser et entretenir des systèmes aussi pointus qu'un sous-marin, un porte-avions ou un navire. Les projets complexes vous attirent et l'innovation est votre moteur ? Rejoignez nos équipes et participez à la grande aventure du naval de défense !
@@ -164,6 +164,61 @@ nc
 il y a 12 jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",02/10/2019,Data_scientist,Nantes,14/10/2019,vjk=c265b893c2b41e7a,vide,cdi
+Stage de pré-embauche : Machine Learning & Intelligence arti...,Smile,Nantes (44),vide,"Nantes (44)
+Stage
+SMILE
+Smile est le leader du ""sourire"" au travail mais aussi de l'intégration et de l'infogérance de solutions open source.
+Enthousiastes, agiles et performants, leur vocation est de libérer le potentiel d'innovation des entreprises, à travers l'open source.
+Ses smiliens experts accompagnent les entreprises dans des domaines aussi variés que le Digital, les Business Apps, l'Embarqué & l'IoT et l'Infrastructure.
+Ils sont plus de 1700 collaborateurs présents dans 7 pays, avec 15 agences réparties en France et à l'international.
+Le pôle Smile ECS (Embedded & Connected Systems) est un centre d’excellence entièrement dédié aux systèmes embarqués et objets connectés.
+Smile ECS s’impose comme le pôle de référence des métiers de l’embarqué en environnement Open Source.
+Nous sommes une équipe de passionnés de l’univers Open Source et participons à différents événements comme le Capitole du Libre ou le FOSDEM. Nous organisons également des Meet-Up sur différents sujets (Android AOSP, IoT, Linux Embarqué…).
+Nous alimentons régulièrement notre blog Linux Embedded, à travers différents articles rédigés par nos collaborateurs.
+INTITULÉ DU STAGE
+Évaluation & intégration des technologies de Machine Learning & Intelligence artificielle dans le contexte de l’embarqué.
+CONTEXTE
+Suite à une première étude sur les outils d’IA et ML, nous avons référencé un certain nombre d’outils à évaluer sur un système Linux embarqué (Tensorflow, Tensorflow light, PyTorch, dlib…). Cependant les outils comme Yocto ou Buildroot ne proposent pas encore ces outils car leur intégration nécessite une phase d’intégration (packaging) et d’upstreaming (contribution open-source).
+Les outils d’IA et ML peuvent utiliser l’accélération matérielle d’une carte graphique de PC de bureau (Cuda ou ROCm) pour améliorer la vitesse de calcul des algorithmes mis en oeuvre. Or ce type de matériel est rarement disponible sur les cibles Linux embarqué (type Rasberry Pi), à moins d’utiliser un matériel spécifique comme les TPU (Tensor Processing Unit). L’évaluation portera donc à la fois sur les technologies logicielles et matérielles.
+L’évaluation de ces technologies se fera dans le cadre d’une démo d'hypovigilance, c’est-à-dire la détection en temps réel de l’endormissement au volant d’une voiture. Une caméra dirigée vers le conducteur analyse le visage pour détecter les signes d’endormissement (le bâillement et la fermeture des paupières). En cas d’endormissement, le programme doit déclencher des dispositif pour réveiller le conducteur (son et message d'alerte).
+LES MISSIONS PROPOSÉES
+Le but de ce stage est d'évaluer les outils d’I/A & M/L à notre disposition, et de les intégrer aux projets Yocto et Buildroot, au travers de contributions Open Source.
+Le stagiaire devra choisir l’une des technologies suivantes pour évaluation :
+Tensorflow, Tensorflow light, dlib
+Python numpy, scipy, pytorch
+OpenVINO
+Clé usb Intel NCS2
+Blas, CLblas (blas + openCL), lapack, libflame
+Le stagiaire devra adapter la démo d’hypovigilance écrite en Python et dlib sur l’une des technologies choisie afin de réaliser un benchmark montrant l'efficacité de la solution.
+Ce résultat sera ensuite comparé au résultat obtenu avec la démo d'hypovigilance initiale.
+Ce travail sera réalisé par deux stagiaires en parallèle, chacun sur des technos différentes.
+TALENT RECHERCHÉ
+Formation requise
+Stage de fin d’études de master ou cycle d’ingénieur
+Connaissances souhaitées
+On aura le smile si tu disposes des connaissances suivantes :
+Bon niveau en C/C++ de préférence en environnement linux
+Bon niveau en Python
+Première expérience avec les cible embarqués type Rasberry Pi avec Yocto ou Buildroot
+Première expérience avec outils I/A & M/L
+Connaissance des outils de cross-compilation (gcc) & système de build (Make, CMake, autotools)
+Qualités personnelles
+Autonomie, curiosité, technique, rigueur
+TECHNOLOGIES UTILISÉES
+Linux embarqué, Yocto, Buildroot, Python, Tensorflow, Pytorch, autres technologies selon l’état de l’art.
+INFORMATIONS PRATIQUES
+Lieu du stage : Nantes
+Durée du stage : 6 mois, projet de fin d'études uniquement
+NOTRE PROMESSE EMPLOYEUR
+Possibilité de télétravail (en CDI)
+Moyenne d'âge de 31 ans
+Engagement écolo si tu viens en vélo
+2 jours de formations obligatoires par an (en CDI) et partenariats forts avec des solutions Open Source
+Type d'emploi : Stage
+Formation:
+Bac +5 (Master / MBA) (Requis)
+il y a 17 jours
+Signaler cette offre d'emploi",27/09/2019,Data_scientist,Nantes,14/10/2019,vjk=6adaf6e7fcb9801b,vide,cdi
 Stage de pré-embauche : Edge Machine Learning via Amazon Gre...,Smile,Nantes (44),vide,"Nantes (44)
 Stage
 SMILE
@@ -223,63 +278,8 @@ Engagement écolo si tu viens en vélo
 Type d'emploi : Stage
 Formation:
 Bac +5 (Master / MBA) (Souhaité)
-il y a 18 jours
-Signaler cette offre d'emploi",26/09/2019,Data_scientist,Nantes,14/10/2019,vjk=062941ba25f1805c,vide,cdi
-Stage de pré-embauche : Machine Learning & Intelligence arti...,Smile,Nantes (44),vide,"Nantes (44)
-Stage
-SMILE
-Smile est le leader du ""sourire"" au travail mais aussi de l'intégration et de l'infogérance de solutions open source.
-Enthousiastes, agiles et performants, leur vocation est de libérer le potentiel d'innovation des entreprises, à travers l'open source.
-Ses smiliens experts accompagnent les entreprises dans des domaines aussi variés que le Digital, les Business Apps, l'Embarqué & l'IoT et l'Infrastructure.
-Ils sont plus de 1700 collaborateurs présents dans 7 pays, avec 15 agences réparties en France et à l'international.
-Le pôle Smile ECS (Embedded & Connected Systems) est un centre d’excellence entièrement dédié aux systèmes embarqués et objets connectés.
-Smile ECS s’impose comme le pôle de référence des métiers de l’embarqué en environnement Open Source.
-Nous sommes une équipe de passionnés de l’univers Open Source et participons à différents événements comme le Capitole du Libre ou le FOSDEM. Nous organisons également des Meet-Up sur différents sujets (Android AOSP, IoT, Linux Embarqué…).
-Nous alimentons régulièrement notre blog Linux Embedded, à travers différents articles rédigés par nos collaborateurs.
-INTITULÉ DU STAGE
-Évaluation & intégration des technologies de Machine Learning & Intelligence artificielle dans le contexte de l’embarqué.
-CONTEXTE
-Suite à une première étude sur les outils d’IA et ML, nous avons référencé un certain nombre d’outils à évaluer sur un système Linux embarqué (Tensorflow, Tensorflow light, PyTorch, dlib…). Cependant les outils comme Yocto ou Buildroot ne proposent pas encore ces outils car leur intégration nécessite une phase d’intégration (packaging) et d’upstreaming (contribution open-source).
-Les outils d’IA et ML peuvent utiliser l’accélération matérielle d’une carte graphique de PC de bureau (Cuda ou ROCm) pour améliorer la vitesse de calcul des algorithmes mis en oeuvre. Or ce type de matériel est rarement disponible sur les cibles Linux embarqué (type Rasberry Pi), à moins d’utiliser un matériel spécifique comme les TPU (Tensor Processing Unit). L’évaluation portera donc à la fois sur les technologies logicielles et matérielles.
-L’évaluation de ces technologies se fera dans le cadre d’une démo d'hypovigilance, c’est-à-dire la détection en temps réel de l’endormissement au volant d’une voiture. Une caméra dirigée vers le conducteur analyse le visage pour détecter les signes d’endormissement (le bâillement et la fermeture des paupières). En cas d’endormissement, le programme doit déclencher des dispositif pour réveiller le conducteur (son et message d'alerte).
-LES MISSIONS PROPOSÉES
-Le but de ce stage est d'évaluer les outils d’I/A & M/L à notre disposition, et de les intégrer aux projets Yocto et Buildroot, au travers de contributions Open Source.
-Le stagiaire devra choisir l’une des technologies suivantes pour évaluation :
-Tensorflow, Tensorflow light, dlib
-Python numpy, scipy, pytorch
-OpenVINO
-Clé usb Intel NCS2
-Blas, CLblas (blas + openCL), lapack, libflame
-Le stagiaire devra adapter la démo d’hypovigilance écrite en Python et dlib sur l’une des technologies choisie afin de réaliser un benchmark montrant l'efficacité de la solution.
-Ce résultat sera ensuite comparé au résultat obtenu avec la démo d'hypovigilance initiale.
-Ce travail sera réalisé par deux stagiaires en parallèle, chacun sur des technos différentes.
-TALENT RECHERCHÉ
-Formation requise
-Stage de fin d’études de master ou cycle d’ingénieur
-Connaissances souhaitées
-On aura le smile si tu disposes des connaissances suivantes :
-Bon niveau en C/C++ de préférence en environnement linux
-Bon niveau en Python
-Première expérience avec les cible embarqués type Rasberry Pi avec Yocto ou Buildroot
-Première expérience avec outils I/A & M/L
-Connaissance des outils de cross-compilation (gcc) & système de build (Make, CMake, autotools)
-Qualités personnelles
-Autonomie, curiosité, technique, rigueur
-TECHNOLOGIES UTILISÉES
-Linux embarqué, Yocto, Buildroot, Python, Tensorflow, Pytorch, autres technologies selon l’état de l’art.
-INFORMATIONS PRATIQUES
-Lieu du stage : Nantes
-Durée du stage : 6 mois, projet de fin d'études uniquement
-NOTRE PROMESSE EMPLOYEUR
-Possibilité de télétravail (en CDI)
-Moyenne d'âge de 31 ans
-Engagement écolo si tu viens en vélo
-2 jours de formations obligatoires par an (en CDI) et partenariats forts avec des solutions Open Source
-Type d'emploi : Stage
-Formation:
-Bac +5 (Master / MBA) (Requis)
-il y a 17 jours
-Signaler cette offre d'emploi",27/09/2019,Data_scientist,Nantes,14/10/2019,vjk=6adaf6e7fcb9801b,vide,cdi
+il y a 19 jours
+Signaler cette offre d'emploi",25/09/2019,Data_scientist,Nantes,14/10/2019,vjk=062941ba25f1805c,vide,cdi
 "Data Scientist en Pistage H/F - Naval Group, leader mondial...",Page Personnel FR,Nantes (44),vide,"Nantes (44)
 A ce titre, vos principales missions sont les suivantes :
 Etudier et réaliser une architecture des modules de pistage existants, puis réaliser des algorithmes en pistage et en trajectographie nouvelle génération,
@@ -333,9 +333,9 @@ Mettre en valeur, diffuser et vulgariser la donnée pour le client et son équip
 REQUIRED COMPETENCIES:
 Complex problem solving (Beginner), Design of works, products or events (Beginner), English (Intermediate), Monitoring, analysis and document management (Intermediate), Product or event development (Beginner), Qualitative and quantitative analyzes (Intermediate), Software mastery (Intermediate)
 In 2018, Umanis recruited 900 new talents throughout the French territory. What if it was you?
-il y a 25 jours
+il y a 26 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",19/09/2019,Data_scientist,Nantes,14/10/2019,vjk=0c7967edfa845dfc,vide,vide
+Signaler cette offre d'emploi",18/09/2019,Data_scientist,Nantes,14/10/2019,vjk=0c7967edfa845dfc,vide,vide
 DATA SCIENTIST confirmé H/F NANTES,Umanis,Saint-Herblain (44),vide,"Saint-Herblain (44)
 THE FRENCH LEADER OF THE DATA RECRUITS.
 Joining Umanis is to participate in a formidable adventure, that of a French company in continuous growth, recognized for its capacity for innovation and its dynamism.

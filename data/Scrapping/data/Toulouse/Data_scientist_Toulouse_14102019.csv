@@ -1,21 +1,12 @@
 Titre,Nom_Entreprise,Adresse,Salaire,Descriptif_du_poste,Date_de_publication,métier_sc,loc_sc,Date_sc,Identifiant,Experiences,contrat
-Ingénieur Data Scientist (H/F),ALTEN SUD OUEST,Toulouse (31),vide,"Toulouse (31)
-Le pôle de digitalisation d’Alten réalise des projets d’amélioration continue sur des thématiques Big Data, BI et Qualité principalement pour l'aéronautique.
+Senior Data Scientist contract role in Toulouse!,Linksap Europe Ltd,Toulouse (31),vide,"Toulouse (31)
+CDD
+Our client in Toulouse is looking for a Senior Data Scientist to work on a three year project. The candidate Must have experience working on sensor data as well as experience working with AI and machine learning based statistical model. Start: ASAPDuration: 2 - 3 years ProjectLocation: Toulouse, FranceLanguage: EnglishRate: Market If you are interested, please send your latest CV and we will call you to discuss further. Candidates MUST have a current EU passport or Valid work visa as we are unable to sponsor work permits.
 
-En tant qu’Ingénieur Data Scientist, vous êtes intégré à une équipe passionnée et participez aux missions suivantes :
-Identification des besoins clients pour les traduire en problématique data science (classification, anticipation, root cause analysis…)
-Développement de la solution en passant par les étapes standards (identification et nettoyage des données aberrantes, modélisation…)
-Apporter une réponse métier via la modélisation réalisée
-Vous serez accompagné par nos ingénieurs expérimentés et évoluerez dans un environnement technique et agile. Vous serez en charge de la gestion de plannings multitâches ainsi que des reportings hebdomadaires.
-Vous êtes diplômé d'École d’Ingénieur, de Commerce ou de Master, vous avez suivi une formation orientée en analyse de données, modélisation, statistiques.
-Vous avez de bonnes compétences en Python/R. Des compétences en PySpark seraient appréciées.
-Vous êtes passionné par l’univers aéronautique et l’analyse de données. Vous avez un bon niveau d’anglais vous permettant d’évoluer dans un contexte international, et êtes quelqu’un d’autonome avec de bonnes qualités relationnelles.
-Vous faites preuve de capacité d’innovation, de compétences d’analyse et de synthèse et de vraies qualités tant relationnelles que rédactionnelles vous permettant d’éditer les documents nécessaires. Vous saurez assurer la confidentialité des projets que vous mènerez.
-
-Vous fuyez la routine et souhaitez vous challenger ? Cette opportunité est faite pour vous !
-Aerocontact - il y a 2 jours
+I look forward to your response
+CarieraNoua - il y a 3 heures
 - Continuer pour postuler
-Signaler cette offre d'emploi",12/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=5fc4c982f3f55ff9,vide,vide
+Signaler cette offre d'emploi",14/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=28554184224eeb53,senior,cdd
 INGÉNIEUR DATA SCIENTIST (H/F),ALTEN,Toulouse (31),32 000 € - 45 000 € par an,"Toulouse (31)
 CDI
 32 000 € - 45 000 € par an
@@ -143,6 +134,35 @@ Date limite de candidature
 L'Intelli'agence - il y a 2 jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",12/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=8078f6aea488c9c7,vide,vide
+Stage - Data Scientist,Liebherr-Aerospace Toulouse SAS,Toulouse (31),vide,"Toulouse (31)
+Temps plein, Stage
+Liebherr-Aerospace Toulouse SAS fait partie du Groupe Liebherr et développe, fabrique et assure la maintenance de systèmes de traitement de l'air pour l'aéronautique. Systémier de référence, parmi les leaders mondiaux, la société accompagne dans leurs projets les clients avionneurs, hélicoptéristes et compagnies aériennes.
+LIEBHERR-AEROSPACE TOULOUSE recherche un(e) stagiaire pour une durée de 6 mois.
+Cette offre de stage est à pourvoir en février 2020.
+Au sein du département Systèmes d’Information, service Data Lab IT, nous recherchons un stagiaire :
+Sujet du stage : Stage – Data Scientist (F/H)
+Lieu : Toulouse
+Durée souhaitée : 6 mois
+Contexte
+Le service Data Lab IT a pour mission de développer des méthodes et outils dans le domaine data analytics pour supporter la démarche entreprise de réduction des coûts de développement, d’optimisation des procédés industriels et développement de nouveaux services digitaux.
+Objectif du stage
+Liebherr est une entreprise industrielle à l’excellence opérationnelle reconnue. Des efforts continus sont fournis pour améliorer la qualité. En particulier, des processus sont en place pour traiter les non-conformités de différents types. Ces processus génèrent beaucoup d’information souvent de manière non structurée et dans des systèmes d’information différents.
+L’objectif de ce stage est de valoriser l’information disponible sur les non-conformités.
+Missions du stagiaire
+Deux axes de travail sont proposés :
+Le premier concerne la collecte de données de différentes sources (non-qualité interne, retour neufs, retours sous garantie …) et l’ingestion dans une base unique. On propose d’utiliser elasticsearch qui permet en particulier à des utilisateurs d’accéder aux données ingérées avec des fonctionnalités de recherche textuelle.
+On appliquera ensuite aux données collectées des techniques de NLP (Natural Language Processing) pour extraire de l’information sur la globalité des données. En particulier, on cherchera à regrouper (clustering) automatiquement des non-conformités par cause racine commune. Les causes racines sont décrites par du texte libre. L’objectif évident de ce travail est de pouvoir prioriser de manière analytique les problèmes sur lesquels l’entreprise doit travailler.
+Profil
+Domaine de formation et niveau : BAC + 5 – Stage de fin d’étude – Data Science
+Durée et période souhaitées : 6 mois à partir de février 2020
+
+Requis :
+Data Science, Python et R
+Merci de postuler sur notre site internet : http://www.liebherr.com/fr
+Pour ce faire, rendez-vous sur la page d’accueil : Carrière / Offres d’emplois / Offres d’emploi actuelles .
+Liebherr Group - il y a 3 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",11/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=d3ed705668fe8c52,vide,stage
 R&D Machine Learning Specialist - Earth Observation,Airbus,Toulouse (31),vide,"Toulouse (31)
 Airbus DS Geo SA
 Airbus is a global leader in aeronautics, space and related services. In 2018 it generated revenues of € 64 billion and employed a workforce of around 134,000. Airbus offers the most comprehensive range of passenger airliners. Airbus is also a European leader providing tanker, combat, transport and mission aircraft, as well as one of the world's leading space companies. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions worldwide.
@@ -193,35 +213,6 @@ Airbus is committed to achieving workforce diversity and creating an inclusive w
 il y a 3 jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",11/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=7e2d37e95a928f63,vide,vide
-Stage - Data Scientist,Liebherr-Aerospace Toulouse SAS,Toulouse (31),vide,"Toulouse (31)
-Temps plein, Stage
-Liebherr-Aerospace Toulouse SAS fait partie du Groupe Liebherr et développe, fabrique et assure la maintenance de systèmes de traitement de l'air pour l'aéronautique. Systémier de référence, parmi les leaders mondiaux, la société accompagne dans leurs projets les clients avionneurs, hélicoptéristes et compagnies aériennes.
-LIEBHERR-AEROSPACE TOULOUSE recherche un(e) stagiaire pour une durée de 6 mois.
-Cette offre de stage est à pourvoir en février 2020.
-Au sein du département Systèmes d’Information, service Data Lab IT, nous recherchons un stagiaire :
-Sujet du stage : Stage – Data Scientist (F/H)
-Lieu : Toulouse
-Durée souhaitée : 6 mois
-Contexte
-Le service Data Lab IT a pour mission de développer des méthodes et outils dans le domaine data analytics pour supporter la démarche entreprise de réduction des coûts de développement, d’optimisation des procédés industriels et développement de nouveaux services digitaux.
-Objectif du stage
-Liebherr est une entreprise industrielle à l’excellence opérationnelle reconnue. Des efforts continus sont fournis pour améliorer la qualité. En particulier, des processus sont en place pour traiter les non-conformités de différents types. Ces processus génèrent beaucoup d’information souvent de manière non structurée et dans des systèmes d’information différents.
-L’objectif de ce stage est de valoriser l’information disponible sur les non-conformités.
-Missions du stagiaire
-Deux axes de travail sont proposés :
-Le premier concerne la collecte de données de différentes sources (non-qualité interne, retour neufs, retours sous garantie …) et l’ingestion dans une base unique. On propose d’utiliser elasticsearch qui permet en particulier à des utilisateurs d’accéder aux données ingérées avec des fonctionnalités de recherche textuelle.
-On appliquera ensuite aux données collectées des techniques de NLP (Natural Language Processing) pour extraire de l’information sur la globalité des données. En particulier, on cherchera à regrouper (clustering) automatiquement des non-conformités par cause racine commune. Les causes racines sont décrites par du texte libre. L’objectif évident de ce travail est de pouvoir prioriser de manière analytique les problèmes sur lesquels l’entreprise doit travailler.
-Profil
-Domaine de formation et niveau : BAC + 5 – Stage de fin d’étude – Data Science
-Durée et période souhaitées : 6 mois à partir de février 2020
-
-Requis :
-Data Science, Python et R
-Merci de postuler sur notre site internet : http://www.liebherr.com/fr
-Pour ce faire, rendez-vous sur la page d’accueil : Carrière / Offres d’emplois / Offres d’emploi actuelles .
-Liebherr Group - il y a 3 jours
-- Continuer pour postuler
-Signaler cette offre d'emploi",11/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=d3ed705668fe8c52,vide,stage
 Data Scientist F/H,TRIMANE,Toulouse (31),vide,"Toulouse (31)
 CDI
 Nous recherchons pour l'un de nos clients grands comptes, un Data Scientist Sénior H/F dans le cadre de la mise en place d'outils de suivi fiables de leurs activités et services, sur leur plateforme Big Data.
@@ -311,33 +302,6 @@ postuler à cette offre
 il y a 4 jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",10/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=044ea70092ae69f5,vide,cdi
-DATA SCIENTIST F/H,ACTION SSI.COM,Toulouse (31),vide,"Toulouse (31)
-CDI
-La Data n'a plus de secret pour vous? Vous êtes à la recherche de nouveaux défis? Alors rejoignez-nous!!
-
-Au sein des équipes de notre client, vous aurez pour missions de:
-
-Traiter les données, structurées ou non structurées
-Contrôler la qualité des données, détecter des patterns, des outliers
-Concevoir les datamarts
-Proposer et mettre en pratique les modèles statistiques (régressions…) ou de datascience (machine learning…) pour résoudre les problématiques métier
-Collaborer avec les équipes technique et métier pour définir les besoins et expliciter les résultats
-Restituer les résultats (rapports, présentations…)
-Profil recherché Vous êtes diplômé(e) d’un Bac+5, vous êtes passionné(e) par l’univers de la data science en général et vous justifiez à minima d’une première expérience dans le domaine.
-
-Vous maîtisez le langage python et les librairies classiques de data science : scikit-learn, numpy, pandas...
-
-Connaissance en bases de données requises: SQL et noSQL
-Entreprise Créée en 2009, ACTION_SSI.COM est une ESN de conseil et d'ingénierie informatique présente sur le territoire Toulousain.
-
-Société à taille humaine, nous apportons à nos consultants une relation de proximité, convivialité et technicité dans les métiers. Pour cela, nous apportons un contact régulier à l’ensemble de nos collaborateurs.
-
-Vous interviendrez en assistance technique sur les projets de clients grands comptes et PME dans tous les domaines d'activités (banque, assurance, transport, santé, aéronautique....). Vous aurez la possibilité de faire du télétravail chez la plupart de nos clients.
-
-Rejoignez-nous afin d'accompagner une entreprise avec des valeurs alliant professionnalisme, considération, respect des engagements, mais également en pleine croissance !
-Apec.fr - il y a 4 jours
-- Continuer pour postuler
-Signaler cette offre d'emploi",10/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=aef8f2dfcfd3b693,vide,cdi
 Stage - Data Analyst / Data Scientist,Intuiface,Labège (31),700 € par mois,"Labège (31)
 Stage
 700 € par mois
@@ -375,6 +339,33 @@ Des M&Ms, café et thé...
 il y a 4 jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",10/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=ec3bad6bcee721cf,vide,stage
+DATA SCIENTIST F/H,ACTION SSI.COM,Toulouse (31),vide,"Toulouse (31)
+CDI
+La Data n'a plus de secret pour vous? Vous êtes à la recherche de nouveaux défis? Alors rejoignez-nous!!
+
+Au sein des équipes de notre client, vous aurez pour missions de:
+
+Traiter les données, structurées ou non structurées
+Contrôler la qualité des données, détecter des patterns, des outliers
+Concevoir les datamarts
+Proposer et mettre en pratique les modèles statistiques (régressions…) ou de datascience (machine learning…) pour résoudre les problématiques métier
+Collaborer avec les équipes technique et métier pour définir les besoins et expliciter les résultats
+Restituer les résultats (rapports, présentations…)
+Profil recherché Vous êtes diplômé(e) d’un Bac+5, vous êtes passionné(e) par l’univers de la data science en général et vous justifiez à minima d’une première expérience dans le domaine.
+
+Vous maîtisez le langage python et les librairies classiques de data science : scikit-learn, numpy, pandas...
+
+Connaissance en bases de données requises: SQL et noSQL
+Entreprise Créée en 2009, ACTION_SSI.COM est une ESN de conseil et d'ingénierie informatique présente sur le territoire Toulousain.
+
+Société à taille humaine, nous apportons à nos consultants une relation de proximité, convivialité et technicité dans les métiers. Pour cela, nous apportons un contact régulier à l’ensemble de nos collaborateurs.
+
+Vous interviendrez en assistance technique sur les projets de clients grands comptes et PME dans tous les domaines d'activités (banque, assurance, transport, santé, aéronautique....). Vous aurez la possibilité de faire du télétravail chez la plupart de nos clients.
+
+Rejoignez-nous afin d'accompagner une entreprise avec des valeurs alliant professionnalisme, considération, respect des engagements, mais également en pleine croissance !
+Apec.fr - il y a 4 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",10/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=aef8f2dfcfd3b693,vide,cdi
 Stage Big Data / Data Science Transport Aérien F/H,Viseo,Toulouse (31),vide,"Toulouse (31)
 Stage, Apprentissage, Contrat pro
 Votre mission
@@ -416,48 +407,46 @@ Une montée en compétences sur les technologies utilisées sera proposée si n�
 il y a 5 jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",09/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=a40c75d184e22daf,vide,stage
-Stage Ingénieur Data Science (h/f),Airbus,Toulouse (31),vide,"Toulouse (31)
-Temps plein, Stage
-Airbus Operations SAS
-Airbus is a global leader in aeronautics, space and related services. In 2018 it generated revenues of € 64 billion and employed a workforce of around 134,000. Airbus offers the most comprehensive range of passenger airliners. Airbus is also a European leader providing tanker, combat, transport and mission aircraft, as well as one of the world's leading space companies. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions worldwide.
+INGÉNIEUR DATA SCIENTIST EXPÉRIMENTÉ (H/F),sii,Toulouse (31),vide,"Toulouse (31)
+Description du poste :
+rattaché(e) au département aéronautique, vous serez intégré(e) au sein d'une équipe de data scientists en pleine expansion. vous accompagnerez les équipes techniques dans la valorisation de leurs activités avec des solutions orientées big data.
 
-Our people work with passion and determination to make the world a more connected, safer and smarter place. Taking pride in our work, we draw on each other's expertise and experience to achieve excellence. Our diversity and teamwork culture propel us to accomplish the extraordinary - on the ground, in the sky and in space.
-Job Description
-STAGE INGENIEUR DATA SCIENCE (h/f)
-Merci de bien vouloir postuler en ligne, sur notre site Carrières www.airbus.com/careers en joignant votre C.V. et letter de motivation en anglais (si nécessaire).
-Dans le cadre d'une formation initiale, inscrit dans votre cursus scolaire, vous recherchez un stage obligatoire, d'une durée allant de 4 à 6 mois maximum, vous permettant de valider votre année.
-Et si VOTRE aventure commençait avec NOUS !
-Nous vous proposons de travailler dans une entreprise leader mondial dans son domaine, tournée vers le digital, à la pointe de la recherche et de l’innovation.
-Une offre de stage INGENIEUR DATA SCIENCE (h/f) vient de s'ouvrir au sein d’Airbus sur notre site de TOULOUSE.
-Vous rejoindrez les départements « Bureau d’études » & « Digital Transformation Office » .
-Les équipes Plant Engineering d’Airbus traitent de nombreux sujets concernant la réparation des avions.
-Durant votre stage, vous travaillerez au développement d’un outil Machine Learning permettant de suggérer une réponse aux ingénieurs en charge de ces réparations.
-Ce stage se situera dans les bureaux du Digital Transformation Office à Toulouse, et sera co-encadré par l’équipe Plant Engineering Saint-Nazaire (basée en partie à Toulouse).
-Il vous permettra de mettre en pratique les connaissances acquises durant vos études dans un contexte industriel d’application concrète du Machine Learning.
-Vous serez sous la responsabilité d’un manager qui vous aidera à identifier vos objectifs professionnels et vous soutiendra dans le développement de vos compétences.
-Vous participerez à l’ensemble du processus de création d’un outil :
-Récupération et nettoyage des données,
-Tests et applications d’algorithmes de Natural Language Processing et de Machine Learning,
-Analyse des résultats,
-Déploiement d’une interface pour l’utilisation.
-En dernière année de formation bac +5 en Data Science, Intelligence Artificielle, Informatique Décisionnelle, vous avez :
-Des connaissances en Statistiques et Science de l’information
-Une bonne connaissance des langages de programmation associés au Machine Learning et des librairies associées (Python, Scikit-Learn …)
-Idéalement une première expérience en Natural Language Processing
-Réactif, vous saurez explorer différentes options et choisir la meilleure.
-Autonome, vous saurez avancer dans une situation de co-encadrement.
-Force de proposition, vous saurez apporter de nouvelles idées.
-Vous pourrez, selon les offres proposées, être amené(e) à vous déplacer. Si la perspective de rejoindre notre Groupe innovant vous motive ? N’hésitez pas ! Postulez en ligne !
-Ainsi, si votre profil retient notre attention, vous serez invité à réaliser un entretien vidéo au cours duquel vous aurez quelques minutes pour nous convaincre : vous présenterez votre parcours, vos motivations et votre projet professionnel. Par la suite, votre candidature pourra être proposée aux managers.
+vos principales tâches seront de mener des projets de data science autour des axes suivants:
 
+collecter, comprendre, analyser, intégrer et explorer des données volumineuses et variées. proposer des améliorations pour enrichir l'information disponible et son utilisation.
+réalisation d'un état de l'art des solutions possibles.
+accompagner les équipes métiers à travers la réalisation de cas d'usages autour de la donnée en utilisant les techniques de machine learning.
+promouvoir ses études, travaux et résultats auprès de l'entreprise
+Description de l'entreprise :
+dynamisme, confiance, innovation et autonomie sont nos leitmotivs !
 
-This job requires an awareness of any potential compliance risks and a commitment to act with integrity, as the foundation for the Company’s success, reputation and sustainable growth.
+intégrer sii sud-ouest (800 collaborateurs), c'est travailler sur des sujets innovants avec des #fungénieurs créatifs. pour nous, la proximité avec nos collaborateurs est une de nos priorités.
 
-By submitting your CV or application you are consenting to Airbus using and storing information about you for monitoring purposes relating to your application or future employment. This information will only be used by Airbus.
-Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief.
-il y a 6 jours
+pour accompagner votre carrière, nous vous proposons d'être membre d'une communauté technique correspondant à vos centres d'intérêts : «big data», «front-end ihm», «back end – architecture logicielle», «sécurité, architecture technique, devops », «aéronautique» ou «simulation, modélisation».
+
+n'attendez plus, rejoignez le mouvement #fungénieur : bien plus qu'un métier, une philosophie !
+
+Profil recherché :
+profil
+
+vous êtes issu(e) d'un parcours bac+5 en université ou école d'ingénieur dans le domaine des data sciences.
+
+vous justifiez d'une expérience d'au moins 2 ans en data sciences dans un environnement industriel ou laboratoire.
+
+des connaissances du milieu aéronautique constituent un plus.
+
+compétences techniques
+
+le(la) candidat(e) idéal(e) dispose de compétences ou notions sur les techniques suivantes:
+
+algorithmes de data mining
+algorithmes de machine learning supervisés ou non tels que decision tree, random forest, svm, neural network ...
+langage de programmation orienté data science tels que r ou python
+intelligence artificielle
+vous êtes autonome, proactif(ve) et rigoureux(se). vous aimez le travail en équipe. vous disposez de la pédagogie nécessaire pour expliquer et vulgariser vos travaux auprès d'interlocuteurs métier.
+JobinTree - il y a 30+ jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",08/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=cfdf583da8aedd52,vide,stage
+Signaler cette offre d'emploi",14/09/2019,Data_scientist,Toulouse,14/10/2019,vjk=0525f493bb648ad3&advn=7736870941523477,vide,vide
 Ingénieur(e) en Data Science H/F,AKKA TECHNOLOGIES,Blagnac (31),vide,"Blagnac (31)
 Groupe d’ingénierie et de conseil en technologies aux avant-postes du monde digital et connecté, AKKA est un accélérateur d’innovation pour les plus grands acteurs industriels mondiaux. Nous leur apportons une expertise qui englobe la totalité de l’environnement technologique produit et les compétences d’intégration de système.
 Leader sur le secteur de la mobilité, aérospatial, automobile, ferroviaire, nos équipes interviennent également dans les secteurs Life Sciences, Energie, Défense, télécommunications, et tertiaire.
@@ -479,7 +468,24 @@ A compétences égales, le poste est ouvert aux personnes en situation de handic
 Rejoindre AKKA Group, c'est évoluer dans les domaines qui vous passionnent, développer vos compétences, avec la possibilité d'évoluer sur différents secteurs, dans un cadre qui favorise les initiatives individuelles ; votre rôle s’inscrit dans un véritable projet d'entreprise !
 il y a 30+ jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",14/09/2019,Data_scientist,Toulouse,14/10/2019,vjk=373662cbfbe883df&advn=5809567387809865,vide,vide
+Signaler cette offre d'emploi",14/09/2019,Data_scientist,Toulouse,14/10/2019,vjk=373662cbfbe883df,vide,vide
+Ingénieur Data Scientist (H/F),ALTEN SUD OUEST,Toulouse (31),vide,"Toulouse (31)
+Le pôle de digitalisation d’Alten réalise des projets d’amélioration continue sur des thématiques Big Data, BI et Qualité principalement pour l'aéronautique.
+
+En tant qu’Ingénieur Data Scientist, vous êtes intégré à une équipe passionnée et participez aux missions suivantes :
+Identification des besoins clients pour les traduire en problématique data science (classification, anticipation, root cause analysis…)
+Développement de la solution en passant par les étapes standards (identification et nettoyage des données aberrantes, modélisation…)
+Apporter une réponse métier via la modélisation réalisée
+Vous serez accompagné par nos ingénieurs expérimentés et évoluerez dans un environnement technique et agile. Vous serez en charge de la gestion de plannings multitâches ainsi que des reportings hebdomadaires.
+Vous êtes diplômé d'École d’Ingénieur, de Commerce ou de Master, vous avez suivi une formation orientée en analyse de données, modélisation, statistiques.
+Vous avez de bonnes compétences en Python/R. Des compétences en PySpark seraient appréciées.
+Vous êtes passionné par l’univers aéronautique et l’analyse de données. Vous avez un bon niveau d’anglais vous permettant d’évoluer dans un contexte international, et êtes quelqu’un d’autonome avec de bonnes qualités relationnelles.
+Vous faites preuve de capacité d’innovation, de compétences d’analyse et de synthèse et de vraies qualités tant relationnelles que rédactionnelles vous permettant d’éditer les documents nécessaires. Vous saurez assurer la confidentialité des projets que vous mènerez.
+
+Vous fuyez la routine et souhaitez vous challenger ? Cette opportunité est faite pour vous !
+Aerocontact - il y a 2 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",12/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=5fc4c982f3f55ff9,vide,vide
 Data Scientist F/H,TRIMANE,Toulouse (31),vide,"Toulouse (31)
 Description de l'offre
 
@@ -519,7 +525,7 @@ Une bonne maîtrise des langages SQL, R, Python (pandas, scikit-learn) et Spark
 Une aisance sur les problématiques de manipulation de données et de modélisation
 LesJeudis.com - il y a 4 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",10/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=7ed443203dba1d8d&advn=7674958368030736,vide,vide
+Signaler cette offre d'emploi",10/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=7ed443203dba1d8d,vide,vide
 STAGE DATA SCIENTIST (H/F),sii,Toulouse (31),vide,"Toulouse (31)
 Stage
 Description du poste :
@@ -552,7 +558,7 @@ Informations complémentaires :Compétences :
 étudiant(e) en dernière année d'une école d'ingénieur ou d'une université, avec une majeure en data science.
 JobinTree - il y a 5 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",09/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=de0599aaef72a9cb&advn=7736870941523477,vide,stage
+Signaler cette offre d'emploi",09/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=de0599aaef72a9cb,vide,stage
 Stage: Ingénieur Data Science & DataViz H/F,CGI,Haute-Garonne,vide,"Haute-Garonne
 Stage
 Emploi Accessible Travailleur Handicapé RQTH Stage Ingénieur Data
@@ -616,7 +622,7 @@ CGI favorise l’équité en matière d’emploi.
 Informations complémentaires
 Missionhandicap.com - il y a 30+ jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",14/09/2019,Data_scientist,Toulouse,14/10/2019,vjk=811df8e1719e074d&advn=7203674760985397,vide,stage
+Signaler cette offre d'emploi",14/09/2019,Data_scientist,Toulouse,14/10/2019,vjk=811df8e1719e074d,vide,stage
 Tech leader Data Scientist H/F,CGI,Haute-Garonne,vide,"Haute-Garonne
 CDI
 Emploi Accessible Travailleur Handicapé RQTH Tech Leader Data
@@ -681,6 +687,48 @@ Informations complémentaires
 Missionhandicap.com - il y a 4 jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",10/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=5f439d295a2975a5,vide,cdi
+Stage Ingénieur Data Science (h/f),Airbus,Toulouse (31),vide,"Toulouse (31)
+Temps plein, Stage
+Airbus Operations SAS
+Airbus is a global leader in aeronautics, space and related services. In 2018 it generated revenues of € 64 billion and employed a workforce of around 134,000. Airbus offers the most comprehensive range of passenger airliners. Airbus is also a European leader providing tanker, combat, transport and mission aircraft, as well as one of the world's leading space companies. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions worldwide.
+
+Our people work with passion and determination to make the world a more connected, safer and smarter place. Taking pride in our work, we draw on each other's expertise and experience to achieve excellence. Our diversity and teamwork culture propel us to accomplish the extraordinary - on the ground, in the sky and in space.
+Job Description
+STAGE INGENIEUR DATA SCIENCE (h/f)
+Merci de bien vouloir postuler en ligne, sur notre site Carrières www.airbus.com/careers en joignant votre C.V. et letter de motivation en anglais (si nécessaire).
+Dans le cadre d'une formation initiale, inscrit dans votre cursus scolaire, vous recherchez un stage obligatoire, d'une durée allant de 4 à 6 mois maximum, vous permettant de valider votre année.
+Et si VOTRE aventure commençait avec NOUS !
+Nous vous proposons de travailler dans une entreprise leader mondial dans son domaine, tournée vers le digital, à la pointe de la recherche et de l’innovation.
+Une offre de stage INGENIEUR DATA SCIENCE (h/f) vient de s'ouvrir au sein d’Airbus sur notre site de TOULOUSE.
+Vous rejoindrez les départements « Bureau d’études » & « Digital Transformation Office » .
+Les équipes Plant Engineering d’Airbus traitent de nombreux sujets concernant la réparation des avions.
+Durant votre stage, vous travaillerez au développement d’un outil Machine Learning permettant de suggérer une réponse aux ingénieurs en charge de ces réparations.
+Ce stage se situera dans les bureaux du Digital Transformation Office à Toulouse, et sera co-encadré par l’équipe Plant Engineering Saint-Nazaire (basée en partie à Toulouse).
+Il vous permettra de mettre en pratique les connaissances acquises durant vos études dans un contexte industriel d’application concrète du Machine Learning.
+Vous serez sous la responsabilité d’un manager qui vous aidera à identifier vos objectifs professionnels et vous soutiendra dans le développement de vos compétences.
+Vous participerez à l’ensemble du processus de création d’un outil :
+Récupération et nettoyage des données,
+Tests et applications d’algorithmes de Natural Language Processing et de Machine Learning,
+Analyse des résultats,
+Déploiement d’une interface pour l’utilisation.
+En dernière année de formation bac +5 en Data Science, Intelligence Artificielle, Informatique Décisionnelle, vous avez :
+Des connaissances en Statistiques et Science de l’information
+Une bonne connaissance des langages de programmation associés au Machine Learning et des librairies associées (Python, Scikit-Learn …)
+Idéalement une première expérience en Natural Language Processing
+Réactif, vous saurez explorer différentes options et choisir la meilleure.
+Autonome, vous saurez avancer dans une situation de co-encadrement.
+Force de proposition, vous saurez apporter de nouvelles idées.
+Vous pourrez, selon les offres proposées, être amené(e) à vous déplacer. Si la perspective de rejoindre notre Groupe innovant vous motive ? N’hésitez pas ! Postulez en ligne !
+Ainsi, si votre profil retient notre attention, vous serez invité à réaliser un entretien vidéo au cours duquel vous aurez quelques minutes pour nous convaincre : vous présenterez votre parcours, vos motivations et votre projet professionnel. Par la suite, votre candidature pourra être proposée aux managers.
+
+
+This job requires an awareness of any potential compliance risks and a commitment to act with integrity, as the foundation for the Company’s success, reputation and sustainable growth.
+
+By submitting your CV or application you are consenting to Airbus using and storing information about you for monitoring purposes relating to your application or future employment. This information will only be used by Airbus.
+Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief.
+il y a 6 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",08/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=cfdf583da8aedd52,vide,stage
 AOCS-GNC - Stage - Amélioration des performances du SCAO grâ...,Airbus,Toulouse (31),vide,"Toulouse (31)
 Temps plein, Stage
 Airbus Defence and Space SAS
@@ -727,29 +775,6 @@ Airbus is committed to achieving workforce diversity and creating an inclusive w
 il y a 6 jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",08/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=a33134f5939200dd,vide,stage
-CONSULTANT(E) TECHNICO FONCTIONNEL(LE) DATA SCIENCE H/F,AKKA TECHNOLOGIES,Toulouse (31),vide,"Toulouse (31)
-Temps plein, CDI
-Dans le cadre du développement de ses activités, AKKA Group recherche un(e) Consultant(e) Technico-Fonctionnel(e) Data Science (H/F).
-A ce titre, vous réalisez et mettez en œuvre des KPI de reporting opérationnels autour des métiers de la logistique, de la production ou de la supply chain.
-Pour mener à bien cette mission, vos principales activités reposent sur :
-L’analyse des données
-La récupération et la visualisation des données
-La classification et la prédiction des données
-L’identification des causes d’inexactitudes
-La proposition d’améliorations
-La réalisation de reportings
-
-Diplômé(e) d’une école d’Ingénieur ou de formation équivalente Bac+5, vous justifiez d’une première expérience réussie (stage inclus) sur un poste similaire où vous avez pu mettre en pratique vos compétences en Machine Learning, Data Visualisation et Deep Learning.
-Vous devez maîtriser la réalisation de reporting et dashbording sur la plateforme SKYWISE ainsi que les outils de traitement et visualisation de données QUIVER & CONTOUR.
-De plus une maîtrise des langages de programmation PYTHON, R, SAS, Matlab et SQL est impératif.
-Vous devez avoir travaillé dans le secteur d’activité de l'aéronautique et de la santé.
-Quelle que soit votre expertise métier, vous avez une personnalité de terrain, le goût du challenge et appréciez les défis techniques. Vous disposez d’une faculté à vous intégrer rapidement au sein d’une équipe projet et êtes très attentif(ve) à la satisfaction du client. Votre esprit critique, votre capacité à être innovant(e) dans les solutions proposées font la différence.
-AKKA Group accompagne ses clients dans la mondialisation de leurs projets, aussi un anglais courant est requis pour l’ensemble de nos collaborateurs.
-A compétences égales, le poste est ouvert aux personnes en situation de handicap.
-Rejoindre AKKA Group, c'est évoluer dans les domaines qui vous passionnent, développer vos compétences, avec la possibilité d'évoluer sur différents secteurs, dans un cadre qui favorise les initiatives individuelles ; votre rôle s’inscrit dans un véritable projet d'entreprise !
-il y a 6 jours
-- Continuer pour postuler
-Signaler cette offre d'emploi",08/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=ee22e4a42e4de69f,vide,cdi
 Tech leader Data Scientist H/F,"CGI Group, Inc.",Toulouse (31),vide,"Toulouse (31)
 Position Description:
 Grâce à ses quelque 77 000 professionnels, CGI offre un portefeuille complet de services, y compris des services-conseils stratégiques en informatique et en management, des services d'intégration de systèmes, de développement et de maintenance d'applications informatiques, de gestion d'infrastructures technologiques ainsi qu'une vaste gamme de solutions exclusives à des milliers de clients à l'échelle mondiale à partir de ses bureaux et centres mondiaux de prestation de services dans les Amériques, en Europe et en Asie-Pacifique. Site Web : www.cgi.com.
@@ -807,6 +832,139 @@ CGI favorise l'équité en matière d'emploi.
 CGI - il y a 6 jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",08/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=224228eac79a9ad8,vide,vide
+Stage En Data Science - 6 mois,Sigfox,Labège (31),vide,"Labège (31)
+Stage
+Le volume croissant de données échangées chaque jour via le réseau SIGFOX, conduit à développer de nombreux services autour des données, en utilisant des algorithmes prédictifs de Machine Learning. La géolocalisation des objets émettant sur le réseau SIGFOX représente un enjeu considérable et nécessite la mise en place de techniques sophistiquées alliant l’analyse et le traitement de données, la mise en place d’algorithmes de machine learning (apprentissage supervisé, clusturing) et des techniques de géolocalisation (propagation du signal, multi-trajets).
+
+WIN/WIN MISSIONS:
+Dans ce cadre, vos activités et responsabilités principales, au sein de l’équipe Data Science de SIGFOX, consistent à:
+
+Comprendre les algorithmes de géolocalisation par les données du réseau, ainsi que l’architecture et implémentation AWS
+Développer et tester des méthodes d’amélioration des performances des algorithmes de géolocalisation
+Mettre en place des statistiques et KPI permettant le monitoring automatique des solutions déployées
+Répondre aux demandes / retours clients et proposer des correctifs en vue de l’amélioration de la satisfaction client.
+
+KEY SKILLS & MINDSET :
+Vous êtes motivé(e) pour rejoindre une structure dynamique en pleine croissance
+Etudiant(e) en dernière année d’école d’Ingénieur et/ou Master 2 en Informatique, Mathématiques Appliquées, spécialisation en Data Science
+Connaissances en machine learning, apprentissage supervisé et non supervisé : classification, régression, arbres de décision, méthodes ensemblistes, réseaux de neurones
+Langage de programmation et outils data science : Python, Sickit learn, Numpy, base de données (SQL et/ou no SQL)
+
+« Sigfox, en tant qu’entreprise apprenante et ouverte sur la diversité, est prête à accueillir des personnes Extra-ordinaires et à adapter leurs postes de travail. »
+Detail
+Labège
+Internship
+October 02, 2019
+il y a 11 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",03/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=63660578457e729a,vide,stage
+Stage Data Science algorithme NPL/OCR H/F,Expleo,Toulouse (31),vide,"Toulouse (31)
+Stage
+Aéronautique
+Midi-Pyrénées - TOULOUSEStage
+2019-2383
+Qui sommes-nous ?
+Expleo propose une offre unique de services intégrés d'ingénierie, qualité et conseil stratégique pour la transformation digitale. Dans un contexte d'accélération technologique sans précédent, nous sommes le partenaire de confiance des entreprises qui innovent.
+Expleo est présent dans tous les secteurs à forte intensité technologique qui contribuent à une société plus connectée, plus durable et plus sûre. Nous nous appuyons sur une forte expertise sectorielle et accompagnons nos clients sur l'ensemble de la chaîne de valeur : conseil et business agility, conception, production et services post développement, management de la qualité.
+Nos 15 000 collaborateurs interviennent dans plus de 25 pays et nous avons réalisé un chiffre d'affaires de 1,1 milliard d'euros en 2018.
+
+Votre future mission
+Pourquoi nous rejoindre ?
+
+Nous sommes un incubateur de talents. Chez Expleo, le nouveau nom d’Assystem Technologies, vous accélérez votre carrière. Vous relevez des défis techniques complexes et élargissez votre champ de compétences. Vous collaborez à des projets inspirants avec des experts de tous horizons : véhicule autonome, avion à faible empreinte écologique, usine de demain ou technologies bancaires de pointe. Chez Expleo, laissez votre audace s’exprimer. Ensemble, changeons la donne.
+
+Notre offre de stage
+
+Vous intégrez l’équipe Digitalisation d’Expleo Toulouse qui réalise de multiples projets de data science pour ses clients. Ces projets sont très variés : maintenance prédictive, analyse de root cause, dashboarding, modélisation complexe… Ainsi, nous vous proposons de contribuer à cette démarche en accompagnant une équipe en place sur ces sujets innovants.
+
+Pour répondre à un besoin croissant, nous souhaiterions développer un algorithme NLP/OCR pour l’extraction d’informations pertinentes depuis des supports numérisés.
+
+Rattaché à un tuteur expérimenté, vos principales activités seront :
+
+Analyse des besoins et spécification de l’algorithme
+Comparaison et choix des technologies à utiliser
+Développement et optimisation d’algorithmes OCR et NLP
+Développement d’un outil configurable intégrant ces algorithmes
+Mise en application concrète sur un besoin industriel
+Ce qui vous différencie
+Vous êtes issu(e) d’une formation en mathématique/informatique de niveau Bac+5 et vous disposez de bonnes connaissances en Python. Votre niveau d’anglais est intermédiaire à l’écrit comme à l’oral.
+
+Vous ferez preuve d’autonomie, de curiosité, de proactivité et vous serez capable d’interagir avec des métiers/domaines variés. La communication sera également un élément-clé de ce stage.
+
+Comme membre à part entière de l’équipe, le stagiaire participera en tâche de fond aux différents sujets d’innovation en cours.
+
+Partager cette offre
+
+postuler à cette offre
+il y a 13 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",01/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=26bb0463eacfbfe6,vide,stage
+STAGE - Data Science H/F,Expleo,Toulouse (31),vide,"Toulouse (31)
+Stage
+Aéronautique
+Midi-Pyrénées - ToulouseStage
+2019-2378
+Qui sommes-nous ?
+Expleo propose une offre unique de services intégrés d'ingénierie, qualité et conseil stratégique pour la transformation digitale. Dans un contexte d'accélération technologique sans précédent, nous sommes le partenaire de confiance des entreprises qui innovent.
+Expleo est présent dans tous les secteurs à forte intensité technologique qui contribuent à une société plus connectée, plus durable et plus sûre. Nous nous appuyons sur une forte expertise sectorielle et accompagnons nos clients sur l'ensemble de la chaîne de valeur : conseil et business agility, conception, production et services post développement, management de la qualité.
+Nos 15 000 collaborateurs interviennent dans plus de 25 pays et nous avons réalisé un chiffre d'affaires de 1,1 milliard d'euros en 2018.
+
+Votre future mission
+En 2016, AlphaGo bat Lee Sedol, considéré comme le meilleur joueur de Go au monde après plusieurs semaines d’entrainement supervisé. En 2017, AlphaGo Zero bat AlphaGo Lee sans le moindre entrainement de la part d’un humain avec seulement les règles en main et 3 jours d’auto-entrainement. Début 2018, l’intelligence artificielle aura probablement permis de résoudre des problèmes inabordables par le cerveau humain. Comme cet exemple, les progrès technologiques actuels sont en ruptures avec nos capacités du 20e siècle et trouver sa voie au milieu du maillage scientifico-technique des connaissances devient un choix essentiel pour donner du sens à son travail. Il est tout à fait possible d’éviter de se perdre. Par exemple, vous pouvez obtenir des compétences clefs et actuellement très demandées comme l’analyse de donnée en big data. Nous travaillons dans le milieu exigent et exceptionnel des essais en vols.
+
+En menant un stage avec la section Flight Physics d’Expleo, vous allez développer votre capacité à mixer vos connaissances théoriques avec vos capacités d’innovation. Cette opportunité d’appliquer le traitement du signal, les corrélations statistiques, la création de modèle physique à des problèmes concrets est unique.
+
+Missions / étapes du stage : Votre mission consistera à développer des routines de post traitement des données d’essais en vol (Analyse spectrale – FRF – suivi d’ordre - Spectre – Intelligibilité – random forest …). Ces données post traitées seront ensuite intégrées dans un « data center » afin d’en tirer des analyses statistiques et big data.
+
+Epaulé par des experts métier, vous participerez à l’amélioration de nos processus de détection de pannes ou encore d’incohérences sur les données. L’objectif étant de gagner en précision, en qualité et en temps de traitement.
+
+Ce qui vous différencie
+Vous réalisez un Bac+5 (école d’ingénieur ou formation universitaire) dans le domaine de l’informatique et vous disposez de bonnes connaissances en Data Science.
+
+Vous avez un niveau d’anglais courant à l’écrit comme à l’oral.
+
+Vous disposez d'un bon relationnel, vous êtes adaptable, rigoureux et proactif.
+
+Transmettez votre candidature à charlene.gautier@expleogroup.com
+
+Partager cette offre
+
+postuler à cette offre
+il y a 13 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",01/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=3f63415990885ce6,vide,stage
+Stage ingénieur: Développement logiciel machine learning app...,NXP Semiconductors,Toulouse (31),vide,"Toulouse (31)
+Temps plein, Stage
+NXP Semiconductors N.V. enables secure connections for a smarter world, advancing solutions that make lives easier, better, and safer. As the world leader in secure connectivity solutions for embedded applications, NXP is driving innovation in the automotive, industrial & IoT, mobile, and communication infrastructure markets. Built on more than 60 years of combined experience and expertise, the company has approximately 30,000 employees in more than 30 countries and posted revenue of $9.41 billion in 2018.
+Key words : développement logiciel, IA, machine learning, data scientist, prédistorsion digitale, 5G RF
+Contexte
+Le département Radio Power Solution, basé à NXP Toulouse, en charge du développent et du test de produits radio fréquence pour la téléphonie 5G recrute un stagiaire de fin d’étude sur une durée de 6 mois afin de participer à mise en place d’un logiciel de banc de test RF utilisant des techniques de machine learning pour linéariser de façon optimale un transistor de puissance RF.
+Vos Missions
+Le(a) stagiaire prendra en charge/réalisera les missions suivantes :
+Effectuer un travail de data scientist et réaliser la constitution d’une base de donnée qualifiée de mesures de linéarité RF, obtenues à partir d' algorithmes traditionnels de recherche opérationnelle pour déterminer un modèle de transistor de puissance adéquat pour la pré-distorsion digitale.
+L’utilisation puis l’évaluation des limites d’algorithmes de recherche opérationnelle.
+Participation à l’utilisation de l’IA (machine learning) pour dépasser ces limites.
+Votre Profil
+Niveau d’études : Bac + 5, dernière année d’école d’ingénieur en informatique spécialité télécom et ou intelligence artificielle.
+Connaissances et ou expérience en programmation Matlab, électronique Radio fréquence, algorithmes de recherche opérationnelles, machine learning, techniques de pré-distorsion digitale.
+Un bon niveau d’anglais est exigé.
+Engineer Internship : IA software development for 5G RF digital predistortion
+Target domain : RF division
+Key words : Software development, IA, machine learning, Digital-predistorsion, 5G RF
+Context
+NXP Radio power solution department , located in Toulouse France, in charge of the development and test of RF products for the 5G telecom market, hire an engineer intern for a 6 months duration, to participate to the design of a RF test software using machine learning technics to linearize RF power amplifiers.
+Responsibilities
+The intern will contribute to the following missions
+As a data scientist the intern should create a qualified database of RF linearity measurements, obtained on RF test bench thanks to legacy operational research type of algorithms used to determine the RF power amplifier model suitable for RF linearization
+Research the limits of legacy algorithms
+Potentially create upgraded algorithms based on machine learning technics.
+Your profile :
+Bac + 5, last year internship of french « école d’ingénieur » in computer science with telecom and, or IA specialty.
+Knowledge or experience in matlab programming, RF electronic, operational research algorithms, machine learning, digital predistortion is required.
+Good English level is mandatory.
+il y a 10 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",04/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=c0f6ba7aa2573356,vide,stage
 Stage Big Data / Data Science Retail F/H,VISEO,Toulouse (31),vide,"Toulouse (31)
 Temps plein, Stage
 Notre Entreprise
@@ -854,11 +1012,34 @@ OYHB452lap
 il y a 11 jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",03/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=682bc77a4f4f7482,vide,stage
-Stage Data Science algorithme NPL/OCR H/F,Expleo,Toulouse (31),vide,"Toulouse (31)
+CONSULTANT(E) TECHNICO FONCTIONNEL(LE) DATA SCIENCE H/F,AKKA TECHNOLOGIES,Toulouse (31),vide,"Toulouse (31)
+Temps plein, CDI
+Dans le cadre du développement de ses activités, AKKA Group recherche un(e) Consultant(e) Technico-Fonctionnel(e) Data Science (H/F).
+A ce titre, vous réalisez et mettez en œuvre des KPI de reporting opérationnels autour des métiers de la logistique, de la production ou de la supply chain.
+Pour mener à bien cette mission, vos principales activités reposent sur :
+L’analyse des données
+La récupération et la visualisation des données
+La classification et la prédiction des données
+L’identification des causes d’inexactitudes
+La proposition d’améliorations
+La réalisation de reportings
+
+Diplômé(e) d’une école d’Ingénieur ou de formation équivalente Bac+5, vous justifiez d’une première expérience réussie (stage inclus) sur un poste similaire où vous avez pu mettre en pratique vos compétences en Machine Learning, Data Visualisation et Deep Learning.
+Vous devez maîtriser la réalisation de reporting et dashbording sur la plateforme SKYWISE ainsi que les outils de traitement et visualisation de données QUIVER & CONTOUR.
+De plus une maîtrise des langages de programmation PYTHON, R, SAS, Matlab et SQL est impératif.
+Vous devez avoir travaillé dans le secteur d’activité de l'aéronautique et de la santé.
+Quelle que soit votre expertise métier, vous avez une personnalité de terrain, le goût du challenge et appréciez les défis techniques. Vous disposez d’une faculté à vous intégrer rapidement au sein d’une équipe projet et êtes très attentif(ve) à la satisfaction du client. Votre esprit critique, votre capacité à être innovant(e) dans les solutions proposées font la différence.
+AKKA Group accompagne ses clients dans la mondialisation de leurs projets, aussi un anglais courant est requis pour l’ensemble de nos collaborateurs.
+A compétences égales, le poste est ouvert aux personnes en situation de handicap.
+Rejoindre AKKA Group, c'est évoluer dans les domaines qui vous passionnent, développer vos compétences, avec la possibilité d'évoluer sur différents secteurs, dans un cadre qui favorise les initiatives individuelles ; votre rôle s’inscrit dans un véritable projet d'entreprise !
+il y a 7 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",07/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=ee22e4a42e4de69f,vide,cdi
+Stage Ingénieur Data Science et Mécatronique H/F,Expleo,Toulouse (31),vide,"Toulouse (31)
 Stage
 Aéronautique
 Midi-Pyrénées - TOULOUSEStage
-2019-2383
+2019-2377
 Qui sommes-nous ?
 Expleo propose une offre unique de services intégrés d'ingénierie, qualité et conseil stratégique pour la transformation digitale. Dans un contexte d'accélération technologique sans précédent, nous sommes le partenaire de confiance des entreprises qui innovent.
 Expleo est présent dans tous les secteurs à forte intensité technologique qui contribuent à une société plus connectée, plus durable et plus sûre. Nous nous appuyons sur une forte expertise sectorielle et accompagnons nos clients sur l'ensemble de la chaîne de valeur : conseil et business agility, conception, production et services post développement, management de la qualité.
@@ -871,90 +1052,65 @@ Nous sommes un incubateur de talents. Chez Expleo, le nouveau nom d’Assystem T
 
 Notre offre de stage
 
-Vous intégrez l’équipe Digitalisation d’Expleo Toulouse qui réalise de multiples projets de data science pour ses clients. Ces projets sont très variés : maintenance prédictive, analyse de root cause, dashboarding, modélisation complexe… Ainsi, nous vous proposons de contribuer à cette démarche en accompagnant une équipe en place sur ces sujets innovants.
+Expleo étudie et met en place des solutions technologiques en vue d’automatiser les essais systèmes pour ses clients. Ainsi, nous vous proposons de contribuer à cette démarche en accompagnant une équipe en place sur ces sujets innovants. Le but sera de concevoir et de réaliser un système mécatronique pour piloter automatiquement des interfaces cockpits d’avion (type MCDU, Overhead panel…).
 
-Pour répondre à un besoin croissant, nous souhaiterions développer un algorithme NLP/OCR pour l’extraction d’informations pertinentes depuis des supports numérisés.
+Rattaché à un tuteur expérimenté, le stagiaire pourra réaliser les activités suivantes:
 
-Rattaché à un tuteur expérimenté, vos principales activités seront :
-
-Analyse des besoins et spécification de l’algorithme
-Comparaison et choix des technologies à utiliser
-Développement et optimisation d’algorithmes OCR et NLP
-Développement d’un outil configurable intégrant ces algorithmes
-Mise en application concrète sur un besoin industriel
-Ce qui vous différencie
-Vous êtes issu(e) d’une formation en mathématique/informatique de niveau Bac+5 et vous disposez de bonnes connaissances en Python. Votre niveau d’anglais est intermédiaire à l’écrit comme à l’oral.
-
-Vous ferez preuve d’autonomie, de curiosité, de proactivité et vous serez capable d’interagir avec des métiers/domaines variés. La communication sera également un élément-clé de ce stage.
-
+Construire un dossier de conception (analyse du besoin, choix des technologies…)
+Prise en main des briques technologiques existantes, et développement des briques manquantes
+Réalisation du système mécatronique en s’appuyant sur le Fablab d’Expleo
+Etude de l’industrialisation du système et de l’extension sur d’autres interfaces cockpits d’avion
 Comme membre à part entière de l’équipe, le stagiaire participera en tâche de fond aux différents sujets d’innovation en cours.
 
-Partager cette offre
-
-postuler à cette offre
-il y a 12 jours
-- Continuer pour postuler
-Signaler cette offre d'emploi",02/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=26bb0463eacfbfe6,vide,stage
-Stage En Data Science - 6 mois,Sigfox,Labège (31),vide,"Labège (31)
-Stage
-Le volume croissant de données échangées chaque jour via le réseau SIGFOX, conduit à développer de nombreux services autour des données, en utilisant des algorithmes prédictifs de Machine Learning. La géolocalisation des objets émettant sur le réseau SIGFOX représente un enjeu considérable et nécessite la mise en place de techniques sophistiquées alliant l’analyse et le traitement de données, la mise en place d’algorithmes de machine learning (apprentissage supervisé, clusturing) et des techniques de géolocalisation (propagation du signal, multi-trajets).
-
-WIN/WIN MISSIONS:
-Dans ce cadre, vos activités et responsabilités principales, au sein de l’équipe Data Science de SIGFOX, consistent à:
-
-Comprendre les algorithmes de géolocalisation par les données du réseau, ainsi que l’architecture et implémentation AWS
-Développer et tester des méthodes d’amélioration des performances des algorithmes de géolocalisation
-Mettre en place des statistiques et KPI permettant le monitoring automatique des solutions déployées
-Répondre aux demandes / retours clients et proposer des correctifs en vue de l’amélioration de la satisfaction client.
-
-KEY SKILLS & MINDSET :
-Vous êtes motivé(e) pour rejoindre une structure dynamique en pleine croissance
-Etudiant(e) en dernière année d’école d’Ingénieur et/ou Master 2 en Informatique, Mathématiques Appliquées, spécialisation en Data Science
-Connaissances en machine learning, apprentissage supervisé et non supervisé : classification, régression, arbres de décision, méthodes ensemblistes, réseaux de neurones
-Langage de programmation et outils data science : Python, Sickit learn, Numpy, base de données (SQL et/ou no SQL)
-
-« Sigfox, en tant qu’entreprise apprenante et ouverte sur la diversité, est prête à accueillir des personnes Extra-ordinaires et à adapter leurs postes de travail. »
-Detail
-Labège
-Internship
-October 02, 2019
-il y a 11 jours
-- Continuer pour postuler
-Signaler cette offre d'emploi",03/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=63660578457e729a,vide,stage
-STAGE - Data Science H/F,Expleo,Toulouse (31),vide,"Toulouse (31)
-Stage
-Aéronautique
-Midi-Pyrénées - ToulouseStage
-2019-2378
-Qui sommes-nous ?
-Expleo propose une offre unique de services intégrés d'ingénierie, qualité et conseil stratégique pour la transformation digitale. Dans un contexte d'accélération technologique sans précédent, nous sommes le partenaire de confiance des entreprises qui innovent.
-Expleo est présent dans tous les secteurs à forte intensité technologique qui contribuent à une société plus connectée, plus durable et plus sûre. Nous nous appuyons sur une forte expertise sectorielle et accompagnons nos clients sur l'ensemble de la chaîne de valeur : conseil et business agility, conception, production et services post développement, management de la qualité.
-Nos 15 000 collaborateurs interviennent dans plus de 25 pays et nous avons réalisé un chiffre d'affaires de 1,1 milliard d'euros en 2018.
-
-Votre future mission
-En 2016, AlphaGo bat Lee Sedol, considéré comme le meilleur joueur de Go au monde après plusieurs semaines d’entrainement supervisé. En 2017, AlphaGo Zero bat AlphaGo Lee sans le moindre entrainement de la part d’un humain avec seulement les règles en main et 3 jours d’auto-entrainement. Début 2018, l’intelligence artificielle aura probablement permis de résoudre des problèmes inabordables par le cerveau humain. Comme cet exemple, les progrès technologiques actuels sont en ruptures avec nos capacités du 20e siècle et trouver sa voie au milieu du maillage scientifico-technique des connaissances devient un choix essentiel pour donner du sens à son travail. Il est tout à fait possible d’éviter de se perdre. Par exemple, vous pouvez obtenir des compétences clefs et actuellement très demandées comme l’analyse de donnée en big data. Nous travaillons dans le milieu exigent et exceptionnel des essais en vols.
-
-En menant un stage avec la section Flight Physics d’Expleo, vous allez développer votre capacité à mixer vos connaissances théoriques avec vos capacités d’innovation. Cette opportunité d’appliquer le traitement du signal, les corrélations statistiques, la création de modèle physique à des problèmes concrets est unique.
-
-Missions / étapes du stage : Votre mission consistera à développer des routines de post traitement des données d’essais en vol (Analyse spectrale – FRF – suivi d’ordre - Spectre – Intelligibilité – random forest …). Ces données post traitées seront ensuite intégrées dans un « data center » afin d’en tirer des analyses statistiques et big data.
-
-Epaulé par des experts métier, vous participerez à l’amélioration de nos processus de détection de pannes ou encore d’incohérences sur les données. L’objectif étant de gagner en précision, en qualité et en temps de traitement.
-
 Ce qui vous différencie
-Vous réalisez un Bac+5 (école d’ingénieur ou formation universitaire) dans le domaine de l’informatique et vous disposez de bonnes connaissances en Data Science.
+Niveau de formation : Bac +5
 
-Vous avez un niveau d’anglais courant à l’écrit comme à l’oral.
+Domaine de spécialisation : Conception de systèmes mécatroniques
 
-Vous disposez d'un bon relationnel, vous êtes adaptable, rigoureux et proactif.
+Technologies : Arduino, Moteurs pas-à-pas, Impression 3D
 
-Transmettez votre candidature à charlene.gautier@expleogroup.com
+Logiciels : Server XML-RPC, Python
+
+Langue : Français & Anglais avancé
+
+Compétences particulières : Bon relationnel, esprit de synthèse, autonomie, esprit innovant
 
 Partager cette offre
 
 postuler à cette offre
+il y a 13 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",01/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=28b629f94ccde404,vide,stage
+Stage de césure - Traitement du signal - Exploration et comp...,Pole Star S.A.,Toulouse (31),vide,"Toulouse (31)
+Stage
+Vous aimez l’IoT, les applis mobiles, la data science, le machine learning? Rejoignez-nous !
+Présentation de la société
+Pole Star (www.polestar.eu et en vidéo https://vimeo.com/237957720), jeune société technologique en forte croissance, citée au niveau mondial par Gartner dans son Magic Quadrant 2018 parmi les 10 fournisseurs clés de services de localisation indoor, développe des technologies de localisation indoor pour applications mobiles sur smartphones et pour le suivi d’équipements.
+Basée en France (Toulouse) et aux Etats-Unis (Los Altos, Californie), Pole Star commercialise ses produits aux aéroports et transports publics, centres commerciaux, grands magasins, grandes surfaces, centres de congrès et d’expositions, bureaux, hôpitaux.
+
+La suite NAO développée par Pole Star permet aux utilisateurs de smartphones de se localiser de façon précise à l’intérieur de grands édifices publics et privés (centres commerciaux, aéroports, bureaux etc.), par l’utilisation combinée de signaux GPS, Wi-Fi et Bluetooth et des capteurs de mouvement des téléphones mobiles.
+NAO fournit également des services de géo-notification et de statistiques géographiques.
+Dans la suite NAO, la plate-forme NAO Cloud permet aux partenaires de Pole Star de déployer et maintenir facilement la solution partout dans le monde. Pole Star développe de nouveaux services à valeur ajoutée dans sa plate-forme.
+Description du poste
+Dans le cadre de projets d’innovation et de l’évolution de ses produits, Pole Star cherche un(e) stagiaire traitement du signal.
+Au sein du département R&D, vous contribuez à l’orientation des choix technologiques qui seront mis en œuvre pour développer les applications de demain, dans un cadre extrêmement technologique et novateur.
+
+Les différentes responsabilités dans ce stage sont :
+Compréhension de nos besoins pour les technologies d’indoor positioning
+Exploration des différentes libraires
+Compréhension fine de la libraire GPy
+Choix et compréhension d’autres librairies
+Mise dans en œuvre dans algorithmes
+
+Stage de 6 mois - basé à Toulouse
+Profil recherché
+Vous préparez un diplôme dans une filière systèmes embarqués, télécommunications, ou informatique.
+Vous avez une bonne sensibilité aux technologies réseau sans fil; une connaissance particulière de la norme Bluetooth est un plus.
+Vous maitrisez le Python, et avez de bonnes bases en électronique, technologies de capteurs, et leur instrumentation.
+Vous êtes curieux(se), créatif(ve), autonome, et aimez le défi technique.
 il y a 12 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",02/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=3f63415990885ce6,vide,stage
+Signaler cette offre d'emploi",02/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=6e661118de528743,vide,stage
 Jeune Docteur – Data Science / IA / Big Data H/F,Berger-Levrault,Labège (31),vide,"Labège (31)
 CDI
 BERGER-LEVRAULT est éditeur de logiciels international, historiquement éditeur-imprimeur, fondé il y a plus de 400 ans pour accompagner les professionnels publics, privés et les usagers dans leur vie quotidienne.
@@ -1052,160 +1208,6 @@ Venez partager votre talent et venez apporter votre enthousiasme…
 Apec.fr - il y a 13 jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",01/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=c307a9eac91f643d,vide,cdi
-Stage Ingénieur Data Science et Mécatronique H/F,Expleo,Toulouse (31),vide,"Toulouse (31)
-Stage
-Aéronautique
-Midi-Pyrénées - TOULOUSEStage
-2019-2377
-Qui sommes-nous ?
-Expleo propose une offre unique de services intégrés d'ingénierie, qualité et conseil stratégique pour la transformation digitale. Dans un contexte d'accélération technologique sans précédent, nous sommes le partenaire de confiance des entreprises qui innovent.
-Expleo est présent dans tous les secteurs à forte intensité technologique qui contribuent à une société plus connectée, plus durable et plus sûre. Nous nous appuyons sur une forte expertise sectorielle et accompagnons nos clients sur l'ensemble de la chaîne de valeur : conseil et business agility, conception, production et services post développement, management de la qualité.
-Nos 15 000 collaborateurs interviennent dans plus de 25 pays et nous avons réalisé un chiffre d'affaires de 1,1 milliard d'euros en 2018.
-
-Votre future mission
-Pourquoi nous rejoindre ?
-
-Nous sommes un incubateur de talents. Chez Expleo, le nouveau nom d’Assystem Technologies, vous accélérez votre carrière. Vous relevez des défis techniques complexes et élargissez votre champ de compétences. Vous collaborez à des projets inspirants avec des experts de tous horizons : véhicule autonome, avion à faible empreinte écologique, usine de demain ou technologies bancaires de pointe. Chez Expleo, laissez votre audace s’exprimer. Ensemble, changeons la donne.
-
-Notre offre de stage
-
-Expleo étudie et met en place des solutions technologiques en vue d’automatiser les essais systèmes pour ses clients. Ainsi, nous vous proposons de contribuer à cette démarche en accompagnant une équipe en place sur ces sujets innovants. Le but sera de concevoir et de réaliser un système mécatronique pour piloter automatiquement des interfaces cockpits d’avion (type MCDU, Overhead panel…).
-
-Rattaché à un tuteur expérimenté, le stagiaire pourra réaliser les activités suivantes:
-
-Construire un dossier de conception (analyse du besoin, choix des technologies…)
-Prise en main des briques technologiques existantes, et développement des briques manquantes
-Réalisation du système mécatronique en s’appuyant sur le Fablab d’Expleo
-Etude de l’industrialisation du système et de l’extension sur d’autres interfaces cockpits d’avion
-Comme membre à part entière de l’équipe, le stagiaire participera en tâche de fond aux différents sujets d’innovation en cours.
-
-Ce qui vous différencie
-Niveau de formation : Bac +5
-
-Domaine de spécialisation : Conception de systèmes mécatroniques
-
-Technologies : Arduino, Moteurs pas-à-pas, Impression 3D
-
-Logiciels : Server XML-RPC, Python
-
-Langue : Français & Anglais avancé
-
-Compétences particulières : Bon relationnel, esprit de synthèse, autonomie, esprit innovant
-
-Partager cette offre
-
-postuler à cette offre
-il y a 12 jours
-- Continuer pour postuler
-Signaler cette offre d'emploi",02/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=28b629f94ccde404,vide,stage
-INGÉNIEUR DATA SCIENTIST EXPÉRIMENTÉ (H/F),sii,Toulouse (31),vide,"Toulouse (31)
-Description du poste :
-rattaché(e) au département aéronautique, vous serez intégré(e) au sein d'une équipe de data scientists en pleine expansion. vous accompagnerez les équipes techniques dans la valorisation de leurs activités avec des solutions orientées big data.
-
-vos principales tâches seront de mener des projets de data science autour des axes suivants:
-
-collecter, comprendre, analyser, intégrer et explorer des données volumineuses et variées. proposer des améliorations pour enrichir l'information disponible et son utilisation.
-réalisation d'un état de l'art des solutions possibles.
-accompagner les équipes métiers à travers la réalisation de cas d'usages autour de la donnée en utilisant les techniques de machine learning.
-promouvoir ses études, travaux et résultats auprès de l'entreprise
-Description de l'entreprise :
-dynamisme, confiance, innovation et autonomie sont nos leitmotivs !
-
-intégrer sii sud-ouest (800 collaborateurs), c'est travailler sur des sujets innovants avec des #fungénieurs créatifs. pour nous, la proximité avec nos collaborateurs est une de nos priorités.
-
-pour accompagner votre carrière, nous vous proposons d'être membre d'une communauté technique correspondant à vos centres d'intérêts : «big data», «front-end ihm», «back end – architecture logicielle», «sécurité, architecture technique, devops », «aéronautique» ou «simulation, modélisation».
-
-n'attendez plus, rejoignez le mouvement #fungénieur : bien plus qu'un métier, une philosophie !
-
-Profil recherché :
-profil
-
-vous êtes issu(e) d'un parcours bac+5 en université ou école d'ingénieur dans le domaine des data sciences.
-
-vous justifiez d'une expérience d'au moins 2 ans en data sciences dans un environnement industriel ou laboratoire.
-
-des connaissances du milieu aéronautique constituent un plus.
-
-compétences techniques
-
-le(la) candidat(e) idéal(e) dispose de compétences ou notions sur les techniques suivantes:
-
-algorithmes de data mining
-algorithmes de machine learning supervisés ou non tels que decision tree, random forest, svm, neural network ...
-langage de programmation orienté data science tels que r ou python
-intelligence artificielle
-vous êtes autonome, proactif(ve) et rigoureux(se). vous aimez le travail en équipe. vous disposez de la pédagogie nécessaire pour expliquer et vulgariser vos travaux auprès d'interlocuteurs métier.
-JobinTree - il y a 30+ jours
-- Continuer pour postuler
-Signaler cette offre d'emploi",14/09/2019,Data_scientist,Toulouse,14/10/2019,vjk=0525f493bb648ad3&advn=7736870941523477,vide,vide
-Stage de césure - Traitement du signal - Exploration et comp...,Pole Star S.A.,Toulouse (31),vide,"Toulouse (31)
-Stage
-Vous aimez l’IoT, les applis mobiles, la data science, le machine learning? Rejoignez-nous !
-Présentation de la société
-Pole Star (www.polestar.eu et en vidéo https://vimeo.com/237957720), jeune société technologique en forte croissance, citée au niveau mondial par Gartner dans son Magic Quadrant 2018 parmi les 10 fournisseurs clés de services de localisation indoor, développe des technologies de localisation indoor pour applications mobiles sur smartphones et pour le suivi d’équipements.
-Basée en France (Toulouse) et aux Etats-Unis (Los Altos, Californie), Pole Star commercialise ses produits aux aéroports et transports publics, centres commerciaux, grands magasins, grandes surfaces, centres de congrès et d’expositions, bureaux, hôpitaux.
-
-La suite NAO développée par Pole Star permet aux utilisateurs de smartphones de se localiser de façon précise à l’intérieur de grands édifices publics et privés (centres commerciaux, aéroports, bureaux etc.), par l’utilisation combinée de signaux GPS, Wi-Fi et Bluetooth et des capteurs de mouvement des téléphones mobiles.
-NAO fournit également des services de géo-notification et de statistiques géographiques.
-Dans la suite NAO, la plate-forme NAO Cloud permet aux partenaires de Pole Star de déployer et maintenir facilement la solution partout dans le monde. Pole Star développe de nouveaux services à valeur ajoutée dans sa plate-forme.
-Description du poste
-Dans le cadre de projets d’innovation et de l’évolution de ses produits, Pole Star cherche un(e) stagiaire traitement du signal.
-Au sein du département R&D, vous contribuez à l’orientation des choix technologiques qui seront mis en œuvre pour développer les applications de demain, dans un cadre extrêmement technologique et novateur.
-
-Les différentes responsabilités dans ce stage sont :
-Compréhension de nos besoins pour les technologies d’indoor positioning
-Exploration des différentes libraires
-Compréhension fine de la libraire GPy
-Choix et compréhension d’autres librairies
-Mise dans en œuvre dans algorithmes
-
-Stage de 6 mois - basé à Toulouse
-Profil recherché
-Vous préparez un diplôme dans une filière systèmes embarqués, télécommunications, ou informatique.
-Vous avez une bonne sensibilité aux technologies réseau sans fil; une connaissance particulière de la norme Bluetooth est un plus.
-Vous maitrisez le Python, et avez de bonnes bases en électronique, technologies de capteurs, et leur instrumentation.
-Vous êtes curieux(se), créatif(ve), autonome, et aimez le défi technique.
-il y a 12 jours
-- Continuer pour postuler
-Signaler cette offre d'emploi",02/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=6e661118de528743,vide,stage
-Stage ingénieur: Développement logiciel machine learning app...,NXP Semiconductors,Toulouse (31),vide,"Toulouse (31)
-Temps plein, Stage
-NXP Semiconductors N.V. enables secure connections for a smarter world, advancing solutions that make lives easier, better, and safer. As the world leader in secure connectivity solutions for embedded applications, NXP is driving innovation in the automotive, industrial & IoT, mobile, and communication infrastructure markets. Built on more than 60 years of combined experience and expertise, the company has approximately 30,000 employees in more than 30 countries and posted revenue of $9.41 billion in 2018.
-Key words : développement logiciel, IA, machine learning, data scientist, prédistorsion digitale, 5G RF
-Contexte
-Le département Radio Power Solution, basé à NXP Toulouse, en charge du développent et du test de produits radio fréquence pour la téléphonie 5G recrute un stagiaire de fin d’étude sur une durée de 6 mois afin de participer à mise en place d’un logiciel de banc de test RF utilisant des techniques de machine learning pour linéariser de façon optimale un transistor de puissance RF.
-Vos Missions
-Le(a) stagiaire prendra en charge/réalisera les missions suivantes :
-Effectuer un travail de data scientist et réaliser la constitution d’une base de donnée qualifiée de mesures de linéarité RF, obtenues à partir d' algorithmes traditionnels de recherche opérationnelle pour déterminer un modèle de transistor de puissance adéquat pour la pré-distorsion digitale.
-L’utilisation puis l’évaluation des limites d’algorithmes de recherche opérationnelle.
-Participation à l’utilisation de l’IA (machine learning) pour dépasser ces limites.
-Votre Profil
-Niveau d’études : Bac + 5, dernière année d’école d’ingénieur en informatique spécialité télécom et ou intelligence artificielle.
-Connaissances et ou expérience en programmation Matlab, électronique Radio fréquence, algorithmes de recherche opérationnelles, machine learning, techniques de pré-distorsion digitale.
-Un bon niveau d’anglais est exigé.
-Engineer Internship : IA software development for 5G RF digital predistortion
-Target domain : RF division
-Key words : Software development, IA, machine learning, Digital-predistorsion, 5G RF
-Context
-NXP Radio power solution department , located in Toulouse France, in charge of the development and test of RF products for the 5G telecom market, hire an engineer intern for a 6 months duration, to participate to the design of a RF test software using machine learning technics to linearize RF power amplifiers.
-Responsibilities
-The intern will contribute to the following missions
-As a data scientist the intern should create a qualified database of RF linearity measurements, obtained on RF test bench thanks to legacy operational research type of algorithms used to determine the RF power amplifier model suitable for RF linearization
-Research the limits of legacy algorithms
-Potentially create upgraded algorithms based on machine learning technics.
-Your profile :
-Bac + 5, last year internship of french « école d’ingénieur » in computer science with telecom and, or IA specialty.
-Knowledge or experience in matlab programming, RF electronic, operational research algorithms, machine learning, digital predistortion is required.
-Good English level is mandatory.
-il y a 10 jours
-- Continuer pour postuler
-Signaler cette offre d'emploi",04/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=c0f6ba7aa2573356,vide,stage
-ST_Consultant en IA / Data science H/F-Toulouse,Forum Emploi-Formation-Alternance: Talents Handica...,Toulouse (31),vide,"Toulouse (31)
-Stage
-Au sein de notre Pôle Scientifique, ton objectif est de participer au développement et la mise en service de nouvelles applications issues du spatial, comme par exemple la cartographie mensuellement l’occupation du sol à l’échelle de la France Métropolitaine à partir des données Sentinel-1 et Sentinel-2 ou encore grâce à des techniques d’apprentissage récurrent profond, d’estimer la probabilité de pannes (de défaut) des systèmes d’un satellite à un horizon donné à partir de l’extraction automatique des caractéristiques fondamentales contenues dans les données
-handicap-job.com - il y a 13 jours
-- Continuer pour postuler
-Signaler cette offre d'emploi",01/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=77a07fe699122faa,vide,stage
 Internship / Solution Architect/Data Scientist - Extended En...,Airbus,Toulouse (31),vide,"Toulouse (31)
 Temps plein, Stage
 AIRBUS SAS
@@ -1263,63 +1265,12 @@ Airbus is committed to achieving workforce diversity and creating an inclusive w
 il y a 13 jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",01/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=0c00b3f425dbf084,vide,stage
-STAGE - Détection d'objets complexes sur images très haute r...,Thales Group,Toulouse (31),vide,"Toulouse (31)
+ST_Consultant en IA / Data science H/F-Toulouse,Forum Emploi-Formation-Alternance: Talents Handica...,Toulouse (31),vide,"Toulouse (31)
 Stage
-QUI SOMMES-NOUS ?
-Thales propose des systèmes d’information et de communication sécurisés et interopérables pour les forces armées, les forces de sécurité et les opérateurs d’importance vitale. Ces activités, qui regroupent radiocommunications, réseaux, systèmes de protection, systèmes d’information critiques et cybersécurité, répondent aux besoins de marchés où l’utilisation des nouvelles technologies numériques est déterminante. Thales intervient tout au long de la chaîne de valeur, des équipements aux systèmes en passant par le soutien logistique et les services associés.
-Le site de Toulouse-Labège développe, en tant que CESTI - Centre d’Évaluation de la Sécurité des Technologies de l’Information agréé par l’ANSSI - et dans le cadre d’un partenariat de plus de 20 ans avec le CNES, une offre intégrée d’expertise et d’évaluation qui s’étend des composants aux produits de sécurité matériels et/ou logiciels, de la carte électronique au système d’information. De plus, nos équipes de l’activité Systèmes d’information critiques et cybersécurité fournissent des services et des solutions globales optimisant la performance, la résilience et la sécurité des systèmes d’information afin de faire face aux ruptures technologiques et aux cybermenaces.
-Au sein de Thales Services, société du groupe Thales spécialisée dans l'informatique des systèmes critiques, nous recherchons un(e) stagiaire pour le sujet suivant :
-""Détection de structures dans des images satellites à partir de méthodes de Deep Learning"".
-La durée du stage est de 6 mois et celui-ci sera réalisé dans les locaux de Thales Services à Labège (31).
-QUI ETES-VOUS ?
-
-Vous êtes élève-ingénieur(e) en dernière année d’études ou en Master 2 avec une spécialisation en data science, computer vision ou traitement d'images ?
-Vous avez des bases solides en mathématiques, en traitement d'images et en Intelligence Artificielle ?
-Vous possédez des compétences de codage en Python ?
-Vous êtes rigoureux(se), curieux(se) et êtes force de proposition ?
-Vous faites preuve d'initiative et d'autonomie ?
-Vous avez un attrait pour la R&D et pour le domaine spatial en général ?
-Compétences appréciées :
-Attrait aux technologies d'Intelligence Artificielle et de Deep Learning
-Connaissance des frameworks Deep Learning comme Keras, TensorFlow
-CE QUE NOUS POUVONS ACCOMPLIR ENSEMBLE :
-Thales a une forte expertise dans le domaine du spatial, en particulier dans les développements des algorithmes de traitement d’images permettant de rendre exploitables les données issues d'un satellite d'observation de la Terre.
-Ces algorithmes sont implémentés par Thales dans des logiciels intégrés à divers segments sol de systèmes satellitaires d’observation optique.
-Avec l’augmentation permanente du volume des données à traiter et les contraintes de performances de plus en plus exigeantes, de nouvelles approches de traitements doivent être trouvées. Les méthodes de Deep Learning permettent de tirer parti de la quantité grandissante de données disponibles, et permettent d’élargir les possibilités d’applications en aval.
-Parmi les applications en aval, la détection de structures (bocages, couvert végétal le long des fleuves ...) ou le suivi de la couverture hivernale à partir d’images satellites sont des applications à forte valeur ajoutée pour le suivi du territoire.
-Encadré par un responsable technique, le/la stagiaire a pour rôle de développer un applicatif permettant de détecter, dénombrer et caractériser des objets ou structures particulières dans les images satellitaires multi-sources via des approches Deep Learning.
-
-En nous rejoignant, vous vous verrez confier les missions suivantes :
-
-Sélectionner, concevoir, et implémenter des modèles pour la détection et classification, notamment sur les méthodes supervisées de Deep Learning
-Préparer des bases de données d’entraînement, de validation et de tests
-Optimiser le réseau de neurones selon une métrique d’évaluation
-Évaluer l'apport de méthodes non supervisées
-Réaliser un rapport final présentant les couches logicielles développées, l’architecture globale choisie, ainsi que les résultats obtenus.
-La perspective de rejoindre un Groupe innovant vous motive ? Alors rejoignez-nous en postulant à cette offre.
-Innovation, passion, ambition : rejoignez Thales et créez le monde de demain, dès aujourd’hui.
-Thales - il y a 20 jours
+Au sein de notre Pôle Scientifique, ton objectif est de participer au développement et la mise en service de nouvelles applications issues du spatial, comme par exemple la cartographie mensuellement l’occupation du sol à l’échelle de la France Métropolitaine à partir des données Sentinel-1 et Sentinel-2 ou encore grâce à des techniques d’apprentissage récurrent profond, d’estimer la probabilité de pannes (de défaut) des systèmes d’un satellite à un horizon donné à partir de l’extraction automatique des caractéristiques fondamentales contenues dans les données
+handicap-job.com - il y a 13 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",24/09/2019,Data_scientist,Toulouse,14/10/2019,vjk=1f7e61fa20b57ca4,vide,stage
-Stage en data scientist H/F,Altran,Blagnac (31),vide,"Blagnac (31)
-Stage
-Au sein de l'entité Digital Engineering, nous recrutons un stagiaire Data Scientist spécialisé dans le traitement du Langage Naturel.
-Vos responsabilités
-Vous contribuerez à la mise en place d’analyses de données non structurées en tirant profit des technologies de Machine Learning et de Natural Language Processing et aurez pour mission de :
-Recueillir, traiter et stocker de grands volumes de données non-structurées
-Concevoir, développer, tester et déployer des algorithmes d’Intelligence Artificielle à l’aide des librairies Scikit-Learn, SpaCy et NLTK
-Promouvoir au sein de l’entité les bonnes pratiques en Data Science, calcul statistique et modélisation prédictive
-Communiquer les résultats de vos analyses au sein de l’équipe Digital Engineering
-Votre profil
-Etudiant(e) en école d’Ingénieur ou de formation équivalente Bac+5, vous êtes issu(e) d’une formation orientée analyse de données avec une première expérience dans le domaine du Machine Learning.
-Vous possédez les compétences suivantes :
-Maîtrise du langage Python et de la librairie Scikit-Learn.
-Analyse statistique et quantitative.
-Machine Learning : régression logistique, réseaux de neurones.
-Idéalement une connaissance théorique du NLP (Natural Langage Processing) et des outils associés : NLTK, Word2Vec, SpaCy.
-il y a 14 jours
-- Continuer pour postuler
-Signaler cette offre d'emploi",30/09/2019,Data_scientist,Toulouse,14/10/2019,vjk=e7fa0c34a056dc8e,vide,stage
+Signaler cette offre d'emploi",01/10/2019,Data_scientist,Toulouse,14/10/2019,vjk=77a07fe699122faa,vide,stage
 Stage ingénieur: Traitement du signal radar automobile et id...,NXP Semiconductors,Toulouse (31),vide,"Toulouse (31)
 Temps plein, Stage
 NXP Semiconductors N.V. enables secure connections for a smarter world, advancing solutions that make lives easier, better, and safer. As the world leader in secure connectivity solutions for embedded applications, NXP is driving innovation in the automotive, industrial & IoT, mobile, and communication infrastructure markets. Built on more than 60 years of combined experience and expertise, the company has approximately 30,000 employees in more than 30 countries and posted revenue of $9.41 billion in 2018.
@@ -1364,6 +1315,25 @@ The internship may continue with a master Thesis supervised by 3IA (Toulouse Int
 il y a 17 jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",27/09/2019,Data_scientist,Toulouse,14/10/2019,vjk=5990a1d899d0c65a,vide,stage
+Stage en data scientist H/F,Altran,Blagnac (31),vide,"Blagnac (31)
+Stage
+Au sein de l'entité Digital Engineering, nous recrutons un stagiaire Data Scientist spécialisé dans le traitement du Langage Naturel.
+Vos responsabilités
+Vous contribuerez à la mise en place d’analyses de données non structurées en tirant profit des technologies de Machine Learning et de Natural Language Processing et aurez pour mission de :
+Recueillir, traiter et stocker de grands volumes de données non-structurées
+Concevoir, développer, tester et déployer des algorithmes d’Intelligence Artificielle à l’aide des librairies Scikit-Learn, SpaCy et NLTK
+Promouvoir au sein de l’entité les bonnes pratiques en Data Science, calcul statistique et modélisation prédictive
+Communiquer les résultats de vos analyses au sein de l’équipe Digital Engineering
+Votre profil
+Etudiant(e) en école d’Ingénieur ou de formation équivalente Bac+5, vous êtes issu(e) d’une formation orientée analyse de données avec une première expérience dans le domaine du Machine Learning.
+Vous possédez les compétences suivantes :
+Maîtrise du langage Python et de la librairie Scikit-Learn.
+Analyse statistique et quantitative.
+Machine Learning : régression logistique, réseaux de neurones.
+Idéalement une connaissance théorique du NLP (Natural Langage Processing) et des outils associés : NLTK, Word2Vec, SpaCy.
+il y a 14 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",30/09/2019,Data_scientist,Toulouse,14/10/2019,vjk=e7fa0c34a056dc8e,vide,stage
 Stage ingénieur: radar automobile et mitigations des interfé...,NXP Semiconductors,Toulouse (31),vide,"Toulouse (31)
 Temps plein, Stage
 NXP Semiconductors N.V. enables secure connections for a smarter world, advancing solutions that make lives easier, better, and safer. As the world leader in secure connectivity solutions for embedded applications, NXP is driving innovation in the automotive, industrial & IoT, mobile, and communication infrastructure markets. Built on more than 60 years of combined experience and expertise, the company has approximately 30,000 employees in more than 30 countries and posted revenue of $9.41 billion in 2018.
@@ -1420,6 +1390,44 @@ Possible continuation of the internship towards a PhD (slightly more oriented to
 il y a 17 jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",27/09/2019,Data_scientist,Toulouse,14/10/2019,vjk=9075b8cc9c02dc72,vide,stage
+STAGE - Détection d'objets complexes sur images très haute r...,Thales Group,Toulouse (31),vide,"Toulouse (31)
+Stage
+QUI SOMMES-NOUS ?
+Thales propose des systèmes d’information et de communication sécurisés et interopérables pour les forces armées, les forces de sécurité et les opérateurs d’importance vitale. Ces activités, qui regroupent radiocommunications, réseaux, systèmes de protection, systèmes d’information critiques et cybersécurité, répondent aux besoins de marchés où l’utilisation des nouvelles technologies numériques est déterminante. Thales intervient tout au long de la chaîne de valeur, des équipements aux systèmes en passant par le soutien logistique et les services associés.
+Le site de Toulouse-Labège développe, en tant que CESTI - Centre d’Évaluation de la Sécurité des Technologies de l’Information agréé par l’ANSSI - et dans le cadre d’un partenariat de plus de 20 ans avec le CNES, une offre intégrée d’expertise et d’évaluation qui s’étend des composants aux produits de sécurité matériels et/ou logiciels, de la carte électronique au système d’information. De plus, nos équipes de l’activité Systèmes d’information critiques et cybersécurité fournissent des services et des solutions globales optimisant la performance, la résilience et la sécurité des systèmes d’information afin de faire face aux ruptures technologiques et aux cybermenaces.
+Au sein de Thales Services, société du groupe Thales spécialisée dans l'informatique des systèmes critiques, nous recherchons un(e) stagiaire pour le sujet suivant :
+""Détection de structures dans des images satellites à partir de méthodes de Deep Learning"".
+La durée du stage est de 6 mois et celui-ci sera réalisé dans les locaux de Thales Services à Labège (31).
+QUI ETES-VOUS ?
+
+Vous êtes élève-ingénieur(e) en dernière année d’études ou en Master 2 avec une spécialisation en data science, computer vision ou traitement d'images ?
+Vous avez des bases solides en mathématiques, en traitement d'images et en Intelligence Artificielle ?
+Vous possédez des compétences de codage en Python ?
+Vous êtes rigoureux(se), curieux(se) et êtes force de proposition ?
+Vous faites preuve d'initiative et d'autonomie ?
+Vous avez un attrait pour la R&D et pour le domaine spatial en général ?
+Compétences appréciées :
+Attrait aux technologies d'Intelligence Artificielle et de Deep Learning
+Connaissance des frameworks Deep Learning comme Keras, TensorFlow
+CE QUE NOUS POUVONS ACCOMPLIR ENSEMBLE :
+Thales a une forte expertise dans le domaine du spatial, en particulier dans les développements des algorithmes de traitement d’images permettant de rendre exploitables les données issues d'un satellite d'observation de la Terre.
+Ces algorithmes sont implémentés par Thales dans des logiciels intégrés à divers segments sol de systèmes satellitaires d’observation optique.
+Avec l’augmentation permanente du volume des données à traiter et les contraintes de performances de plus en plus exigeantes, de nouvelles approches de traitements doivent être trouvées. Les méthodes de Deep Learning permettent de tirer parti de la quantité grandissante de données disponibles, et permettent d’élargir les possibilités d’applications en aval.
+Parmi les applications en aval, la détection de structures (bocages, couvert végétal le long des fleuves ...) ou le suivi de la couverture hivernale à partir d’images satellites sont des applications à forte valeur ajoutée pour le suivi du territoire.
+Encadré par un responsable technique, le/la stagiaire a pour rôle de développer un applicatif permettant de détecter, dénombrer et caractériser des objets ou structures particulières dans les images satellitaires multi-sources via des approches Deep Learning.
+
+En nous rejoignant, vous vous verrez confier les missions suivantes :
+
+Sélectionner, concevoir, et implémenter des modèles pour la détection et classification, notamment sur les méthodes supervisées de Deep Learning
+Préparer des bases de données d’entraînement, de validation et de tests
+Optimiser le réseau de neurones selon une métrique d’évaluation
+Évaluer l'apport de méthodes non supervisées
+Réaliser un rapport final présentant les couches logicielles développées, l’architecture globale choisie, ainsi que les résultats obtenus.
+La perspective de rejoindre un Groupe innovant vous motive ? Alors rejoignez-nous en postulant à cette offre.
+Innovation, passion, ambition : rejoignez Thales et créez le monde de demain, dès aujourd’hui.
+Thales - il y a 20 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",24/09/2019,Data_scientist,Toulouse,14/10/2019,vjk=1f7e61fa20b57ca4,vide,stage
 Stagiaire Data Scientist (H/F),Altran,Blagnac (31),vide,"Blagnac (31)
 Stage
 Leader mondial du conseil en innovation et ingénierie avancée, Altran propose à ses clients d’innover autrement en les aidant à développer ou en développant pour eux les produits et les services de demain. Le Groupe les accompagne sur l’intégralité de la chaine de valeur du cycle de vie d’un projet, de l’idée à l’industrialisation. Altran intervient depuis plus de 30 ans auprès des grands acteurs de nombreux secteurs : aérospatial, automobile, défense, énergie, ferroviaire, finance, sciences de la vie, télécoms, etc. En 2018, le groupe Altran a réalisé un chiffre d’affaires de 2,916 milliard d’euros. Il compte désormais près de 46 000 collaborateurs dans plus de 20 pays.
@@ -1472,39 +1480,6 @@ Engineering
 il y a 25 jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",19/09/2019,Data_scientist,Toulouse,14/10/2019,vjk=777ff9b7227544f3,vide,vide
-Junior Data Scientist,Montreal Associates,Toulouse (31),32 000 € - 35 000 € par an,"Toulouse (31)
-CDI
-32 000 € - 35 000 € par an
-Start up dans l'IoT
-Entreprise en pleine croissance
-Autonomie et responsabilité
-Localisation : Toulouse (31)
-Contrat : CDI
-Salaire : Selon profil (Entre 32.000,00 et 35.000,00 €)
-
-Notre client est une start up de l'industrie de la Domotique. En forte de croissance depuis sa création, ils travaillent sur des sujets de temps réel, de maintenance prédictive et d'optimisation de leurs produits notamment grâce à des algorithmes dans le cloud.
-Dans cette optique d'industrie 2.0, l'entreprise est à la recherche d'un Data Scientist qui aura la charge de traiter l'ensemble des données collectés par les objets (plusieurs millions de données).
-
-Quel sera votre rôle ?
-
-Accompagné par un chef de projet spécialisé dans le développement de systèmes embarqués, vous interviendrez sur l'ensemble des problématiques liées à la Data.
-Après avoir assimilé les problématiques métiers, vous serez notamment attendu sur les missions suivantes :
-Identification et analyse des données
-Développement des solutions data aux problématiques métiers
-Test des solutions
-Mise en production des solutions
-Qui êtes-vous ?
-Titulaire d'un BAC +4/5
-Expérience en traitement et analyse des données
-Expérience en algorithmie
-Confirmé sur Python et SQL
-Des connaissances Docker, GIT et MQTT sont un plus
-Montreal Associates is acting as an Employment Agency in relation to this vacancy.
-
-JN -092019-51039_156887774869313
-il y a 24 jours
-- Continuer pour postuler
-Signaler cette offre d'emploi",20/09/2019,Data_scientist,Toulouse,14/10/2019,vjk=6f2d28df5da32fc2,junior,cdi
 Data Scientist Senior,GEOSYS,Balma (31),vide,"Balma (31)
 Offre d’emploi
 
@@ -1587,6 +1562,39 @@ Siège social : 2 rue Joseph Hubert - CS 63388 - 31133 BALMA CEDEX - France
 il y a 21 jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",23/09/2019,Data_scientist,Toulouse,14/10/2019,vjk=1fa6709e9670a537,senior,cdi
+Junior Data Scientist,Montreal Associates,Toulouse (31),32 000 € - 35 000 € par an,"Toulouse (31)
+CDI
+32 000 € - 35 000 € par an
+Start up dans l'IoT
+Entreprise en pleine croissance
+Autonomie et responsabilité
+Localisation : Toulouse (31)
+Contrat : CDI
+Salaire : Selon profil (Entre 32.000,00 et 35.000,00 €)
+
+Notre client est une start up de l'industrie de la Domotique. En forte de croissance depuis sa création, ils travaillent sur des sujets de temps réel, de maintenance prédictive et d'optimisation de leurs produits notamment grâce à des algorithmes dans le cloud.
+Dans cette optique d'industrie 2.0, l'entreprise est à la recherche d'un Data Scientist qui aura la charge de traiter l'ensemble des données collectés par les objets (plusieurs millions de données).
+
+Quel sera votre rôle ?
+
+Accompagné par un chef de projet spécialisé dans le développement de systèmes embarqués, vous interviendrez sur l'ensemble des problématiques liées à la Data.
+Après avoir assimilé les problématiques métiers, vous serez notamment attendu sur les missions suivantes :
+Identification et analyse des données
+Développement des solutions data aux problématiques métiers
+Test des solutions
+Mise en production des solutions
+Qui êtes-vous ?
+Titulaire d'un BAC +4/5
+Expérience en traitement et analyse des données
+Expérience en algorithmie
+Confirmé sur Python et SQL
+Des connaissances Docker, GIT et MQTT sont un plus
+Montreal Associates is acting as an Employment Agency in relation to this vacancy.
+
+JN -092019-51039_156887774869313
+il y a 24 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",20/09/2019,Data_scientist,Toulouse,14/10/2019,vjk=6f2d28df5da32fc2,junior,cdi
 Stage: Ingénieur Data Science & DataViz H/F,"CGI Group, Inc.",Toulouse (31),vide,"Toulouse (31)
 Stage
 Position Description:
@@ -1850,6 +1858,18 @@ Airbus is committed to achieving workforce diversity and creating an inclusive w
 il y a 30+ jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",14/09/2019,Data_scientist,Toulouse,14/10/2019,vjk=9a1a4a95c1eafa79,senior,vide
+Ingénieur Machine Learning F/H,TREPIA,Toulouse (31),vide,"Toulouse (31)
+CDI
+« C’est en repoussant les limites du progrès et de l’innovation que les projets les plus fous finissent par se réaliser !»Avec plus de 700 collaborateurs en France et dans ses filiales au Canada, aux USA, en Chine, en Pologne et en Espagne, le groupe Intitek conseille et accompagne ses clients dans leur transformation digitale autour de 3 branches métiers :•Intitek for Industry : Transport, santé, télécommunication, industrie militaire...•Intitek for Manufacturing : Conception, outils, tests•Intitek for People : Sites web, applications, objets connectésLe groupe Intitek réunit de multiples ressources et talents dont le quotidien consiste à repousser les limites du possible et développer des solutions numériques qui profitent à tous. Celles et ceux qui osent sont encouragés à libérer leur créativité afin de servir les desseins les plus ambitieux.Rejoignez vous aussi le Happy Digital World !
+Poste
+Quoi de plus stimulant que de participer aux innovations du véhicule de demain, de l’avion sans pilote, de l’ingénierie optique ou de l’industrie spatiale ? Intitek for Industry développe des approches et des solutions exclusives dans les domaines du transport, de la défense, du biomédical ou de l’aéronautique.
+Le candidat concevra et développera de nouveaux algorithmes de classification dynamique et statique d'objets à partir d'images fournies par les technologies radar.
+Les applications sont doubles, la classification de la nature de l'objet, les VRU (piétons, cyclistes, motos ...) et la reconstruction de l'environnement du véhicule (objets mobiles et statiques)
+Profil recherché
+De Formation ingénieur ou bac +5, vous justifiez des compétences suivantes :Compétences fondamentales:- Les méthodologies d'apprentissage machine sont obligatoires (classification, clustering, boosting, SVM, raisonnement bayésien ...)- Maîtrise de C ++- compréhension, création et amélioration d'algorithmes- Compétences analytiques- joueur d'équipe- La créativitéCompétences secondaires:- La connaissance des techniques de suivi d'objet sera appréciée- Connaissance des techniques de vision par ordinateur- Maîtrise de Matlab et Python- développement en temps réel (optimisation ...)- maîtrise du françaisUne parfaite maitrise de l'anglais est indispensable. La connaissance de l'allemand est un plus.Devenez un Happy Digital Member en nous envoyant votre candidature !
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/09/2019,Data_scientist,Toulouse,14/10/2019,vjk=d478a386e5831b8c,vide,cdi
 Alternant Big Data & Machine Learning (m/f),Continental,Toulouse (31),vide,"Toulouse (31)
 Apprentissage, Contrat pro
 Description
@@ -1876,18 +1896,6 @@ Engineering
 il y a 30+ jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",14/09/2019,Data_scientist,Toulouse,14/10/2019,vjk=cda15fadb47c2c1e,vide,stage
-Ingénieur Machine Learning F/H,TREPIA,Toulouse (31),vide,"Toulouse (31)
-CDI
-« C’est en repoussant les limites du progrès et de l’innovation que les projets les plus fous finissent par se réaliser !»Avec plus de 700 collaborateurs en France et dans ses filiales au Canada, aux USA, en Chine, en Pologne et en Espagne, le groupe Intitek conseille et accompagne ses clients dans leur transformation digitale autour de 3 branches métiers :•Intitek for Industry : Transport, santé, télécommunication, industrie militaire...•Intitek for Manufacturing : Conception, outils, tests•Intitek for People : Sites web, applications, objets connectésLe groupe Intitek réunit de multiples ressources et talents dont le quotidien consiste à repousser les limites du possible et développer des solutions numériques qui profitent à tous. Celles et ceux qui osent sont encouragés à libérer leur créativité afin de servir les desseins les plus ambitieux.Rejoignez vous aussi le Happy Digital World !
-Poste
-Quoi de plus stimulant que de participer aux innovations du véhicule de demain, de l’avion sans pilote, de l’ingénierie optique ou de l’industrie spatiale ? Intitek for Industry développe des approches et des solutions exclusives dans les domaines du transport, de la défense, du biomédical ou de l’aéronautique.
-Le candidat concevra et développera de nouveaux algorithmes de classification dynamique et statique d'objets à partir d'images fournies par les technologies radar.
-Les applications sont doubles, la classification de la nature de l'objet, les VRU (piétons, cyclistes, motos ...) et la reconstruction de l'environnement du véhicule (objets mobiles et statiques)
-Profil recherché
-De Formation ingénieur ou bac +5, vous justifiez des compétences suivantes :Compétences fondamentales:- Les méthodologies d'apprentissage machine sont obligatoires (classification, clustering, boosting, SVM, raisonnement bayésien ...)- Maîtrise de C ++- compréhension, création et amélioration d'algorithmes- Compétences analytiques- joueur d'équipe- La créativitéCompétences secondaires:- La connaissance des techniques de suivi d'objet sera appréciée- Connaissance des techniques de vision par ordinateur- Maîtrise de Matlab et Python- développement en temps réel (optimisation ...)- maîtrise du françaisUne parfaite maitrise de l'anglais est indispensable. La connaissance de l'allemand est un plus.Devenez un Happy Digital Member en nous envoyant votre candidature !
-il y a 30+ jours
-- Continuer pour postuler
-Signaler cette offre d'emploi",14/09/2019,Data_scientist,Toulouse,14/10/2019,vjk=d478a386e5831b8c,vide,cdi
 Ingénieur Data Scientist Junior H/F,CS Communication & Systèmes,Toulouse (31),vide,"Toulouse (31)
 CDI
 DESCRIPTION DE L'OFFRE
@@ -2380,34 +2388,6 @@ Anglais (Intermédiaire)
 il y a 9 mois
 - Continuer pour postuler
 Signaler cette offre d'emploi",14/01/2019,Data_scientist,Toulouse,14/10/2019,vjk=ac5992e132c20a10,vide,cdi
-Ingénieur en Machine Learning H/F,Scalian,Toulouse (31),vide,"Toulouse (31)
-CDI
-L'agence SCALIAN Systèmes Numériques Toulouse compte aujourd'hui près de 170 ingénieurs et poursuit sa croissance en accompagnant de grands groupes industriels dans leurs projets innovants.
-
-Dans le cadre du développement de ses activités dans le domaine automobile, SCALIAN à Toulouse recherche des Ingénieurs en Machine Learning.
-
-Vous aurez pour mission la conception et l'étude de nouveaux algorithmes de modélisation du comportement conducteur (état physiologique, activités etc.), à partir de données accessibles dans le véhicule.
-
-Vous aurez la charge de réaliser :
-Le développement d'algorithmes de modélisation de comportement ;
-L'évaluation de la performance de ces algorithmes ;
-Le suivi des mesures qualité appliquées au développement algorithmique.
-Formations et compétences
-Vous réunissez les caractéristiques suivantes :
-Diplômé Bac+5 d'école d'ingénieur, d'un cycle universitaire ou titulaire d'un Doctorat ;
-Des compétences en programmation Python et C/C++ ;
-Idéalement une maîtrise du framework QT et de Matlab ;
-Une aptitude à travailler en Anglais.
-
-Vous êtes passionné, vous visez l'excellence technique et vous êtes force de proposition : rejoignez Scalian et accélérez votre carrière !
-Localisation du poste
-Localisation du poste à pourvoir
-France, Midi-Pyrénées
-Lieu
-Toulouse
-il y a 10 mois
-- Continuer pour postuler
-Signaler cette offre d'emploi",14/12/2018,Data_scientist,Toulouse,14/10/2019,vjk=5b4001787be6f48d,vide,cdi
 Data Scientist – H/F,Altran,Blagnac (31),vide,"Blagnac (31)
 Leader mondial du conseil en innovation et ingénierie avancée, Altran propose à ses clients d’innover autrement en les aidant à développer ou en développant pour eux les produits et les services de demain. Le Groupe les accompagne sur l’intégralité de la chaine de valeur du cycle de vie d’un projet, de l’idée à l’industrialisation. Altran intervient depuis plus de 30 ans auprès des grands acteurs de nombreux secteurs : aérospatial, automobile, défense, énergie, ferroviaire, finance, sciences de la vie, télécoms, etc. En 2018, le groupe Altran a réalisé un chiffre d’affaires de 2,916 milliard d’euros. Il compte désormais près de 46 000 collaborateurs dans plus de 20 pays.
 Vos responsabilités
@@ -2440,6 +2420,34 @@ Maitrise de l’anglais professionnel
 il y a 10 mois
 - Continuer pour postuler
 Signaler cette offre d'emploi",14/12/2018,Data_scientist,Toulouse,14/10/2019,vjk=40144c112c4e51e7,vide,apprentissage
+Ingénieur en Machine Learning H/F,Scalian,Toulouse (31),vide,"Toulouse (31)
+CDI
+L'agence SCALIAN Systèmes Numériques Toulouse compte aujourd'hui près de 170 ingénieurs et poursuit sa croissance en accompagnant de grands groupes industriels dans leurs projets innovants.
+
+Dans le cadre du développement de ses activités dans le domaine automobile, SCALIAN à Toulouse recherche des Ingénieurs en Machine Learning.
+
+Vous aurez pour mission la conception et l'étude de nouveaux algorithmes de modélisation du comportement conducteur (état physiologique, activités etc.), à partir de données accessibles dans le véhicule.
+
+Vous aurez la charge de réaliser :
+Le développement d'algorithmes de modélisation de comportement ;
+L'évaluation de la performance de ces algorithmes ;
+Formations et compétences
+Vous réunissez les caractéristiques suivantes :
+Diplômé Bac+5 d'école d'ingénieur, d'un cycle universitaire ou titulaire d'un Doctorat ;
+Des compétences en algorithmie de Traitement de signal, Data science et/ou Machine learning;
+Des compétences en programmation Python et C/C++ ;
+Idéalement une maîtrise du framework QT et de Matlab ;
+Une aptitude à travailler en Anglais.
+
+Vous êtes passionné, vous visez l'excellence technique et vous êtes force de proposition : rejoignez Scalian et accélérez votre carrière !
+Localisation du poste
+Localisation du poste à pourvoir
+France, Midi-Pyrénées
+Lieu
+Toulouse
+il y a 10 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/12/2018,Data_scientist,Toulouse,14/10/2019,vjk=5b4001787be6f48d,vide,cdi
 Stagiaire Data Scientist Géo Big Data,Gisaïa,Blagnac (31),900 € par mois,"Blagnac (31)
 Stage
 900 € par mois

@@ -1,0 +1,476 @@
+Titre,Nom_Entreprise,Adresse,Salaire,Descriptif_du_poste,Date_de_publication,métier_sc,loc_sc,Date_sc,Identifiant,Experiences,contrat
+Data Engineer - H/F,SOPRA STERIA,Toulouse (31),vide,"Toulouse (31)
+Sopra Steria, fort de près de 44 000 collaborateurs dans plus de 25 pays, propose l'un des portefeuilles d'offres les plus complets du marché : conseil, intégration de systèmes, édition de solutions métier, infrastructure management et business process services.
+
+La division « Santé Social Emploi » regroupe l'ensemble des acteurs qui exercent une mission de service public dans ces domaines. Nos clients sont notamment les organismes de protection sociale de la santé, de la retraite et de la famille, et également de grands acteurs du secteur de l'emploi. Notre présence globale dans l'écosystème et la connaissance approfondie des métiers de nos clients sont un atout majeur pour répondre aux grands enjeux de transformation impliqués par les réformes de l'Etat.
+
+Vos responsabilités
+Afin d'accompagner nos clients dans la mise en place de lacs de données et d'applications Data, nous recherchons un(e) Data Engineer qui saura: Concevoir des solutions nécessitant l'utilisation Big Data pour répondre à des cas d'usages métiers : conception technique et Intervenir sur le processus de BUILD
+
+Afin d'accompagner nos clients dans la mise en place de lacs de données et d'applications Data, nous recherchons un(e) Data Engineer.
+
+Vous serez amené(e) à :
+Concevoir des solutions nécessitant l'utilisation de technologies Big Data pour répondre à des cas d'usages métiers : contribution à la compréhension du besoin métier et conception technique
+Intervenir sur l'ensemble du processus de BUILD
+Rédiger des documentations techniques : dossiers de conception, manuels d'installation et d'exploitation
+Participer à toutes les cérémonies de Scrum : Standup Meeting, démo, rétrospective
+Etre en support des utilisateurs métiers
+Votre profil
+Titulaire d'un Bac +5 en informatique, vous avez une première expérience de 2 ans minimum en développement et maîtrisez Spark / Kafka / NiFi / Hadoop / Hbase / HDFS / ElasticSearch
+Vous avez des connaissances sur l'installation et l'administration des briques Big Data
+Vous maîtrisez les outils Big Data sur une des distributions majeures (Cloudera, Hortonworks)
+Vous avez une expérience en DevOps et sur des chaînes d'intégration continue (Git, Jenkins, ..)
+Vous avez des connaissances sur le machine learning (algorithmes, scikit, panda, ...)
+A compétences égales, tous nos postes sont ouverts aux personnes en situation de handicap.
+StepStone FR - il y a 3 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",11/10/2019,Data_engineer,Toulouse,14/10/2019,vjk=0bd64d1fcd1e82cf,vide,vide
+Stagiaire – Data Engineer Big Data domaine Commercial H/F,Air France-KLM,Toulouse (31),vide,"Toulouse (31)
+Stage
+Rattaché(e) au service Center BI et sous la responsabilité de
+votre maître de stage vos principales missions porteront sur plusieurs sujets de stages à l’étude, le choix dépendant des compétences du/de la postulant(e), et des priorités du métier qui seront définies début 2020.
+Néanmoins tous les sujets auront pour point commun la mise en œuvre de la plateforme BigData pour l’analyse des données Commercial Clients Firmes et Agences, pour enrichir :
+Projet Sword : une application fournissant des rapports de vente harmonisés à tous les Directeurs de zone Air France/KLM, aux Directeurs Généraux ainsi qu’à la Planification Commerciale en leur donnant une vue synthétique de leurs performances et de leurs parts de marché. Manipulation de données de domaines fonctionnels très variés (Ventes, Clients Firmes, Parts de marché, Prévisions de réservations…). Utilisation de la méthode Agile Scrum pour le suivi de projet.
+
+Projet Impact : collecte et analyse des données InFlight media Entertainment (IFE) pour fournir à la Direction Marketing, une vue globale de l’utilisation des médias disponibles à bord des avions et ainsi maîtriser le budget annuel.
+
+Vous serez amené(e) à utiliser les outils innovants du Big Data (Java, Spark, Hadoop), des bases de données Sql (Teradata, Oracle), des solutions de visualisation statique (SAP BI4) et dynamique (Spotfire).
+
+Une grande autonomie sera nécessaire dans la réalisation de ce projet, tout en ayant à disposition les contacts utiles en support et conseil.
+
+Les marges de manœuvres seront importantes, avec une place laissée à l’initiative, aux possibilités de propositions supplémentaires tant techniques que fonctionnelles.
+
+Profil recherché
+Vous êtes étudiant(e) en dernière année d'Ecole d'Ingénieur (Bac+5) ou en Master II à l'Université dans le domaine de l’informatique et vous recherchez un stage pour une durée de 6 mois.
+
+Vous avez un gout très prononcé pour les technologies du développement.
+
+Une première expérience académique dans le domaine de la business intelligence en général et des technologies Big Data serait un plus.
+
+Des compétences techniques approfondies seront requises en Java et SQL.
+
+Une bonne aisance en anglais sera également indispensable pour s’intégrer dans un contexte multi-culturel AFKL.
+
+Curiosité, dynamisme, autonomie, sont également des qualités requises pour la réussite de ce stage.
+
+Conformément aux engagements pris par Air France dans son accord 2018-2020 en faveur de l’emploi des personnes en situation de handicap, nos contrats sont ouverts à tous.
+Type de contrat
+Convention de stage
+Durée du contrat (mois) :
+6 mois
+Date de prise de poste souhaitée
+03/02/2020
+Temps partiel possible
+Non
+Type d'horaires
+Administratif
+Profil candidat
+Spécialisation
+SYSTEMES D'INFORMATION
+Niveau d'études min. requis
+Bac + 5 et plus / 3ème année grande école
+Langue
+Anglais (3 - Confirmé)
+Localisation du poste
+Localisation du poste
+France, Occitanie, Haute Garonne (31)
+Site
+5 AVENUE MAXWELL - 31109 TOULOUSE CEDEX 9
+il y a 4 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",10/10/2019,Data_engineer,Toulouse,14/10/2019,vjk=b912e28a0a0e819b,vide,stage
+Data Engineer Intern,Sigfox,Labège (31),vide,"Labège (31)
+Stage
+Within Sigfox, the Data & Analytics team is responsible for collecting and making data available for analytics and other services. Data freshness is becoming more and more critical for the company. At the same time, as the amount of data collected is growing, it is also becoming interesting to rationalize the cost to process the data. Most of the data processing is currently realized with Apache Spark. The aim of the internship is to fine tune the sizing and configuration of our Spark clusters in order to offer the best trade-off between performance and cost. Some problematics of hybrid cloud will also be explored during the internship.
+
+WIN/WIN MISSIONS:
+As part of Data & Analytics team, the intern will work on the following tasks:
+
+Get familiar with existing data processing pipeline
+Explore Spark documentation to acquire the best practices in terms of configuration
+Define different Spark cluster architectures and data preparation plans to be tested
+Carry out performance tests
+Write test reports
+Write technical documentation to best size and configure Spark clusters given Sigfox’s use case
+Technical environment: Python, Apache Spark, AWS S3, AWS EMR, Bitbucket, JIRA
+
+KEY SKILLS & MINDSET:
+The candidate should be in the last year of a master’s degree in computer engineering. Ideally the candidate would demonstrate the following skills:
+Proficient in Python programming
+Knowledge of some open source tools for Big Data (Spark, Hadoop, Flink, Storm, Hive)
+Interest in performance tuning
+Proactive
+Team player
+
+""Sigfox, as a learning organization and open minded on Diversity is ready to welcome Extra-ordinary people and adapt their Workplace.""
+Detail
+Labège
+Internship
+October 09, 2019
+il y a 5 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",09/10/2019,Data_engineer,Toulouse,14/10/2019,vjk=ed34616de71224d4,vide,stage
+Data Engineer (H/F),Brico Privé,L'Union (31),vide,"L'Union (31)
+Temps plein, CDI
+Brico Privé c’est l’histoire de 2 fondateurs, 170 collaborateurs et plus de 8 millions de membres qui se rencontrent tous les jours sur notre site de ventes privées www.bricoprive.com.
+Notre point commun ? Notre passion pour le matériel de bricolage de qualité et, de manière plus générale, l’aménagement de la maison.
+Notre objectif ? Donner accès à nos membres à du matériel de grande marque et de qualité professionnelle à moindre coût, avec un service client que nous voulons irréprochable.
+Devenu un acteur incontournable du e-commerce en France, nous développons aujourd’hui notre activité en Europe.
+Afin de relever ces nouveaux challenges, nous sommes à la recherche de talents passionnés et passionnants au capital sympathie +++.
+BricoPrivé souhaite donner une place centrale aux données dans sa stratégie : d’une Business Intelligence innovante, à la multiplication des data services pour répondre tous les jours davantage aux besoins de ses métiers et de ses clients. Pour consolider notre stratégie data, nous recrutons un nouveau Data Engineer.
+Dans ce contexte, l’enjeu quotidien du data engineer est de productifier de nouvelles sources de données, de nouveaux axes d’analyse, ou de nouveaux modèles de machine learning au sein d’une architecture logicielle complexe et sur des volumes de données grandissants (transactions, clickstream, etc.), et cela avec pragmatisme.
+A titre d’exemple, notre futur data engineer travaillera sur l’intégration de données de navigation afin de fournir des données en temps réel à un service de recommandation produits développé par nos Data Scientists.
+Les missions :
+Améliorer l’infrastructure data au sein d’une équipe spécialisée (Data Scientists, Data Engineers, Devops et Business Analysts),
+Fournir la data pour aider aux bonnes prises de décisions. L’équipe gère 3 types de données :
+Données transactionnelles
+Données externes de partenaires (Google, LinkedIn, Axa, …)
+Données d’usage
+Votre profil :
+Vous êtes diplômé(e) d’un bac+5 (école d’ingénieur, école d’informatique ou faculté d’informatique).
+Vous disposez de 2-3 ans d’expérience dans un environnement Big data avec les technologies/langages : Python / SQL, ou sur le développement d’ETL.
+Comprendre les concepts d’une data architecture moderne est requis, tout comme une expérience sur des frameworks Big Data (Spark, Hadoop, Kafka, etc.).
+Une première expérience sur AWS est un atout.
+Trois points importants :
+Vous êtes proche du code et des solutions, et démontrez une capacité à apporter de la valeur ajoutée face à la complexité qu’elles peuvent comporter,
+Vous êtes agnostique des technologies et comprenez les contraintes et les avantages de chaque choix technologique,
+Vous êtes curieux(se) des nouveautés technologiques du domaine.
+Type d'emploi : Temps plein, CDI
+il y a 13 jours
+Signaler cette offre d'emploi",01/10/2019,Data_engineer,Toulouse,14/10/2019,vjk=a92a4cd3bba239d3,vide,cdi
+Data engineer,Dev6group,Toulouse (31),vide,"Toulouse (31)
+CDI
+Nous recrutons, pour un de nos clients grand compte sur Toulouse, un Data Engineer F/H.
+
+Dans ce cadre vous serez amené à intervenir et à développer vos compétences sur les thématiques suivantes :
+Développer les différents éléments logiciels en Python
+Intégrer des algorithmes dans le logiciel
+Débuguer des algorithmes
+En charge de la création du maintien et de la création de data pipelines
+Participer au déploiement des mises à jour, ainsi qu'à l'installation du logiciel
+Assurer le support du produit auprès de des clients
+Veille technologique afin de proposer des améliorations logicielles
+
+Vous rêvez de travailler sur les outils du futur ? Ce poste est fait pour vous.
+
+Rejoignez-nous si vous êtes curieux, dynamique, autonome et force de proposition !
+
+Compétences indispensables : Python, MongoDB, the Hive, Spark, Tensorflow, PySpark, spark-streaming, Elastic, Logstash, the Hive4Py
+
+Connaissances très appréciables : Docker, Agile/Scrum, Keras, Scikitlearn, Kafka, Pandas
+Type de contrat
+Durée indéterminée (CDI)
+Poste à pourvoir à une date précise : ASAP
+Lieu : Toulouse Midi-Pyrénées
+Compétences souhaitées
+python
+Alsacreations emploi - il y a 27 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",17/09/2019,Data_engineer,Toulouse,14/10/2019,vjk=1f1096b8894b285f,vide,cdi
+Data Engineer Junior (H/F),Atos,Toulouse (31),vide,"Toulouse (31)
+À propos d’Atos
+Atos est un leader international de la transformation digitale avec plus de 110 000 collaborateurs dans 73 pays et un chiffre d’affaires annuel de plus de 11 milliards d’euros. Numéro un européen du Cloud, de la cybersécurité et des supercalculateurs, le groupe fournit des solutions intégrées de Cloud Hybride Orchestré, Big Data, Applications Métiers et Environnement de Travail Connecté. Partenaire informatique mondial des Jeux Olympiques et Paralympiques, le Groupe exerce ses activités sous les marques Atos, Atos Syntel, et Unify. Atos est une SE (Société Européenne) cotée sur Euronext Paris et fait partie de l’indice CAC 40.
+La raison d’être d’Atos est de contribuer à façonner l’espace informationnel. Avec ses compétences et ses services, le groupe supporte le développement de la connaissance, de l’éducation et de la recherche dans une approche pluriculturelle et contribue au développement de l’excellence scientifique et technologique. Partout dans le monde, Atos permet à ses clients et à ses collaborateurs, et plus généralement au plus grand nombre, de vivre, travailler et progresser durablement et en toute confiance dans l’espace informationnel.
+
+Descriptif du poste
+
+Au sein d’Atos, la division Big Data & Security est responsable de la définition, de la conception et de la construction de plateformes et de solutions sécurisées Big Data.
+
+Vous interviendrez au sein d’une équipe jeune et dynamique en très forte croissance réalisant des activités allant du conseil en architecture et gouvernance de la donnée aux aspects Data analytiques et DataScience, en passant par la mise en place, l’intégration, le développement et l’optimisation de solutions souples et évolutives pour les projets stratégiques de nos clients. Notre valeur ajoutée repose sur une forte expertise technique et business de la data renforcée par de nombreux partenariats avec les éditeurs actifs dans les domaines des architectures applicatives distribuées et du Big Data & Analytics.
+
+L’équipe Big Data & Security a un esprit Start-Up de confiance, de partage et de collaboration et elle est fortement impliquée dans le programme WellBeing@Work.
+Dans le cadre de notre croissance et pour répondre aux nouveaux besoins de nos clients, nous recherchons à étoffer nos équipes Big Data en intégrant un data engineer confirmé.
+Au sein d’une équipe, et sous la responsabilité de managers confirmés, vous interviendrez en amont pour aider au choix d’outils et à la mise en place de solutions big data
+Vous mettrez en œuvre au sein de projets au forfait ou en régie pour nos clients :
+l’alimentation et la préparation des données,
+le scraping de données
+les traitements de la donnée afin d’en tirer de la valeur.
+La modélisation et implémentation des systèmes de gestion de la base des données (base SQL et/ou NoSql)
+
+Ce domaine technologique étant très dynamique, plus que des connaissances et des compétences techniques, vous devrez démontrer une réelle envie d’apprendre, de progresser et de se tenir à jour sur toutes les technologies et architectures
+
+Profil
+
+De formation supérieure en ingénierie informatique, vous avez une première expérience professionnelle sur des missions liées à la collecte et / ou analyse de la données.
+Vous êtes familier de l’écosystème Hadoop ( Hortonworks, Cloudera, MapR) et les bases NoSql ( MongoDB , Cassandra …)
+Vous maitrisez des outils / solutions d’ingestion tels que Talend , Kafka, Flume, Sqoop, Nifi ..
+Vous maitrisez un ou plusieurs des langages de programmation et outils suivants : Java / Sqoop / Scala / Spark / Pig / Python
+Vous êtes en veille permanente sur les innovations technologiques
+Vous disposez d’un niveau d’anglais opérationnel, à l’oral comme à l’écrit
+Une connaissance des Cloud Publics majeurs (Google Cloud Platform, Microsoft Azure, AWS, …) serait un plus appréciable.
+INFORMATIONS ADDITIONNELLES :
+Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi Atos a mis en place un accord relatif à l’égalité professionnelle entre les hommes et les femmes. Par ailleurs, nos métiers sont tous accessibles aux personnes en situation de handicap, et ce quelle que soit la nature de leur handicap.
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/09/2019,Data_engineer,Toulouse,14/10/2019,vjk=87e69dc83de462a6,junior,vide
+DATA ENGINEER (H/F),APSYS Airbus,Blagnac (31),vide,"Blagnac (31)
+Temps plein, CDI
+Référence : APSFDP00749
+Date de début : 04-11-2019
+Temps de travail : Temps plein
+Lieu : Blagnac
+Type de contrat : CDI
+Expérience : 3 à 10 ans
+
+Tâches & Activités :
+Rattaché(e) au pôle Data & AI de la Business Unit Digital & Software, vous interviendrez de manière transverse pour le compte de l’ensemble des Business Unit d’APSYS (Aerospace, Digital & Software, Product Security et Transport Energy Defence). A ce titre, vous aurez la responsabilité de définir et mettre en œuvre différents projets en rapport avec la démarche de digitalisation des activités d’APSYS.
+
+Afin d’améliorer la performance de nos offres, nous souhaitons étudier plusieurs nouveaux projets de type « Data » ou « AI Driven » autour des données à la disposition d’APSYS. Ces projets incluent de nouvelles fonctionnalités basées sur les données issues de nos applications mais aussi les sujets portés par les secteurs Aerospace, Product Security et Transport Energy Defence (maintenance de sites, véhicule autonome, etc…).
+
+Par ailleurs, la Business Unit Digital & Software édite et commercialise le progiciel AMASIS (Aircraft Maintenance And Spares Information System), contenant plus de 30 ans de données, qui permet à nos clients (opérateurs civils principalement) d’assurer la maintenance de leurs aéronefs. Les bases de données associées à ce progiciel peuvent contenir plusieurs dizaines d’années d’informations relatives aux tâches de maintenance de ces opérateurs.
+
+Le Data Engineer, au sein d’Apsys, a pour mission de soutenir activement le pôle Data & AI et de contribuer à la transformation Digitale. Les objectifs suivants sont définis :
+
+Développer de nouveaux systèmes de bases de données (Big Data ou NoSQL),
+
+Implémenter de nouvelles fonctionnalités autour de ces bases de données,
+
+Surveiller les bases de données existantes et veiller à la qualité des données,
+
+Participer de manière significative à l’identification des points faibles des bases de données,
+
+Assister à la définition et au pilotage de la stratégie autour des données internes,
+
+En cas de problèmes de fonctionnement d’une base de données, participer à leurs résolutions
+
+Vos tâches et responsabilités principales comprendront :
+Concevoir, développer, tester et déployer des solutions de Data Science et AI,
+
+Mise en place de nouvelles fonctionnalités et amélioration continue des bases de données,
+
+Connexion et réalisation de systèmes de stockage et de virtualisation,
+
+Préparation et support à l’analyse de données (préparation de l’acquisition et de la gestion de données, développement de plates-formes « Big Data » ou « NoSQL », sélection de technologies appropriées, etc…),
+
+Participer à la gestion et le contrôle d’accès des données, notamment en s’assurant que le cadre de la gouvernance de données est correctement appliqué et conforme aux normes et spécifications de sécurité mises en place.
+
+Compétences :
+Titulaire d’un Master (Bac+5) ou Doctorat en informatique, en mathématiques appliquées, Big Data ou dans un domaine connexe, vous disposez de :
+
+Plus de 3 ans d’expérience en matière d’intégration, de qualité et de gestion des données, en combinant des sources de données multiples, hétérogènes et indépendantes,
+
+Une bonne connaissance des bases de données, de l’informatique en générale, de la Data Science, de l’analyse métier, du Big Data ou des nouveaux paradigmes NoSQL,
+
+Expérience axée sur le client offrant des capacités analytiques au service de résultats opérationnels tangibles.
+
+Compétences en programmation dans au moins deux des domaines suivants : Python, Spark, Cypher, SQL, Java ou équivalents,
+
+Connaissance des méthodes et outils de Data Ingestion,
+
+Compétences en gestion des données, notamment la qualité et sécurité,
+
+Compétences autour des bases de données NoSQL (orientées graphe, spatial ou document) et Data Lake,
+
+Excellentes aptitudes en communication et capacité à présenter des sujets techniques complexes aux principaux acteurs de l’entreprise de manière convaincante,
+
+Intérêt pour la gestion de projets internationaux, l’analyse de processus, la communication, l’innovation, la créativité et la gestion du changement,
+
+Compétences dans l’un des sous-domaines de la Data Science, tels que l’apprentissage automatique, l’intelligence artificielle, l’analyse statistique, etc… serait un plus,
+
+Connaissance de Skywise ou d’une solution intégrée Big Data (AWS, Azure, etc…) serait un plus,
+
+Niveau d’Anglais professionnel/intermédiaire requis.
+
+Vous disposez des qualités suivantes :
+Rigueur avec le sens du détail et une passion pour les solutions et les technologies qui résolvent les problèmes,
+
+Curiosité et créativité avec un esprit novateur « out of the box »,
+
+Esprit d’équipe avec le désir d’apprendre pour soi et pour les autres,
+
+Autonomie avec des capacités d’écoute active et de prise d’initiatives pragmatiques.
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/09/2019,Data_engineer,Toulouse,14/10/2019,vjk=cf6df9e0aabaabde,vide,cdi
+Data Engineer H/F,BVA groupe,Balma (31),vide,"Balma (31)
+CDI
+À propos
+Société d’études et conseil, spécialiste du comportement, le groupe BVA est reconnu comme l’un des leaders les plus innovants du secteur.
+Afin de participer à la réalisation de nos études et de nos projets de R&D, nous recherchons un(e) Data Engineer H/F pour rejoindre notre équipe. Vous aurez l’opportunité de travailler pour des clients de l’univers de la banque-assurance, automobile, télécom-multimédia, tourisme, transport, industrie, du commerce et de la distribution.
+Descriptif du poste
+Ce que nous pouvons accomplir ensemble …
+Notre équipe data-engineering a la responsabilité de concevoir, orchestrer et maintenir nos pipelines de données, colonne vertébrale des dispositifs techniques mis en œuvre pour nos clients.
+Nos Data Engineers sont intégrés à des équipes pluridisciplinaires incluant des experts passionnés (Data Scientists, Data Collection, BI, Data Analysts) où ils collaborent étroitement pour délivrer en continu une forte valeur ajoutée à nos clients.
+Attachés à l’excellence technique, ils conçoivent, maintiennent et améliorent en continu nos systèmes d’orchestration de flux de données.
+Force de proposition, ils participent activement à l’évolution de nos infrastructures en collaboration étroite avec nos équipes d’architectes IT/Cloud.
+Une infrastructure en constante évolution est mise à leur disposition pour leur permettre l’accès aux meilleures technologies open-source (Spark, Hadoop, conteneurisation, orchestration Kubernetes) et ainsi concevoir des solutions répondants à nos impératifs de scalabilité et de qualité.
+Responsabilisés, ils sont encouragés à constamment faire évoluer nos pratiques et à explorer les dernières technologies pour répondre et devancer les attentes de nos clients.
+Passionnés, ils participent activement à nos communautés techniques (Dev/Ops, Data) pour partager leurs connaissances et profiter d’un environnement encourageant l’innovation.
+Profil recherché
+*Vous êtes la perle rare car … *
+Vous justifiez d’une expérience de 1 à 3 ans et vous avez des connaissances en :
+Extensive knowledge of data processing (pandas, luigi, sqlalchemy) and storage, in Python, PostgresSQL or MSSQL.
+Knowledge of Linux Environment
+Experience of Machine Learing in Python or R is appreciated
+Knowledge of Spark, Talend, Impala is appreciated
+Good english communication skills required
+Vous êtes capable de :
+Recueil des besoins des end-users
+Collaborer avec d'autres équipes pour résoudre des problèmes business
+Communiquer vos résultats à d'autres équipes et partager les meilleures pratiques au sein de l’équipe Data Engineering
+Vous avez une forte capacité de priorisation, une qualité rédactionnelle et de présentation de vos travaux à l'oral, un esprit analytique poussé et êtes force de proposition
+Vous êtes organisé, rigoureux, autonome et orienté client
+*On est fait pour vous car … *
+ESPRIT START’UP que nous avons gardé : collaboration, reconnaissance, convivialité et esprit d’initiative font partie de nos valeurs.
+LET’S INNOVATE nous investissons 4% de notre chiffre d’affaires dans la R&D : venez relever les défis de demain dans une entreprise qui adore se réinventer !
+FRENCH BUT WORLDWIDE Avec plus de 98 nationalités différentes et une présence dans 16 pays, l'international fait partie de notre ADN : source de diversité culturelle, d'ouverture d'esprit et de projets internationaux !
+WORK HARD, PLAY HARD Nos soirées sont à l'image de nos collaborateurs : créatives, innovantes et un peu folles. Etes-vous prêt à en prendre plein les yeux ?
+Informations complémentaires
+Type de contrat : CDI
+Lieu : Balma, France (31130)
+Expérience : > 1 an
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/09/2019,Data_engineer,Toulouse,14/10/2019,vjk=d53476acf4e8c554,vide,cdi
+Data engineer débutant secteur Aéronautique,MP DATA,Toulouse (31),vide,"Toulouse (31)
+CDI
+MP DATA est une société de Conseil spécialisée dans la transformation digitale des entreprises. Dans le cadre de son développement, MP DATA recrute un(e) data engineer débutant(e) qui va travailler sur différents projets de chaînes d'ingestions pour une multinationale engagée dans l'Aéronautique.
+Vous contribuez au initiatives machine Learning et optimisation en collaboration étroite avec les data scientist.
+Un produit de machine Learning passe par plusieurs étapes au cours de son cycle de vie : exploration, Proof of concept, production et monitoring. Au- delà de l'algorithme, chacune de ses étapes soulève de nombreux challenges techniques : environnement de travail, collecte et stockage des données, optimisation des traitements, exposition des données, architecture de code, intégration continue, ...
+Votre rôle consistera à penser, appliquer, et évangéliser les bonnes pratiques pour répondre à ces challenges. En utilisant notamment les technologies Kafka, MangoDB et SQL par exemple.
+Vous serez le référent des data scientists sur les questions liées à leurs environnements de travail, ainsi qu'à l'industrialisation des moteurs de machine learning. Sur cette phase d'industrialisation, vous serez amené à accompagner l'équipe dans les choix d'architectures et les échanges avec les autres équipes du groupe.
+Ingénieur Grande Ecole (Centrale, Mines, Supaero, Supelec, …), ou avec une forte expérience, vous avez des connaissances en Java, Scala acquises lors de votre scolarité ou de vos expériences passées. Vous connaissez Sparket Hadoop. Vous êtes familier avec les langages de manipulation des bases de données (CosmosDB, Blob Storage, ElasticSearch). Votre autonomie et votre capacité à être force de proposition ont été reconnues durant vos précédentes expériences ainsi que votre esprit de synthèse.
+Type d'emploi : CDI
+il y a 30+ jours
+Signaler cette offre d'emploi",14/09/2019,Data_engineer,Toulouse,14/10/2019,vjk=7a804cacf459b813,junior,cdi
+Data Engineer H/F - IT,NextGen RH,Toulouse (31),vide,"Toulouse (31)
+Présentation
+NEXTGEN RH est un cabinet de recrutement atypique, en pleine expansion (+100% de croissance en 2017-2018 / + de 400 postes à pourvoir en CDI).
+Notre expertise s’articule autour de la découverte de talents d’aujourd’hui et de demain.
+Véritable guide tout au long du process, notre équipe se différencie par sa manière d’entrevoir le côté humain et les compétences acquises et/ou à potentiel.
+Description
+Data Engineer – Toulouse
+
+Vous aimez les entreprises à la pointe des nouvelles technologies ? Les défis à relever ? Les ambiances dynamique et conviviale ? Les algorithmes et la data vous passionne ? Alors arrêtez-vous quelques minutes, cette offre est faite pour vous !
+
+Vos missions si vous les acceptez seront :
+N°1 : Développement sur une des distributions Big Data majeures du marché : HortonWorks (HDP/HDF), MAPR, Cloudera.
+N°2 : Conception de pipeline d’ingestion de données sur des frameworks de calcul distribués (Spark, Akka, Flink, etc.) temps réel (Kafka, Storm, Spark Streaming).
+N°3 : Conception de pipeline d’ingestion de données sur des frameworks de calcul distribués (Spark, Akka, Flink, etc.) temps réel (Kafka, Storm, Spark Streaming).
+N°4 : Choix de la persistence des données à adopter selon les use cases à traiter (HDFS, Hive, Hbase, MongoDB, Cassandra, ElasticSearch, Neo4j etc.).
+N°5 : Appréhension d’un environnement BI type datawarehouse d’entreprise (modélisation relationnelle, stockage RDBMS, SQL Fluent)
+N°6 : Consommation des données véhiculées et transformées dans ce type d’architecture avec des outils éditeurs (Tableau, Qlik, Spotfire, Dataiku) ou des outils Opensource (Kibana, D3 JS, Zeppelin, Graffana, Rshiny, Jupyter)
+N°7 : Intervention sur des environnements containérisés (Docker, Kubernetes, Mesos, etc.)
+
+(Usage des langages et outils : Java, Python, Scala, JIRA, Bitbucket, Confluence, Bamboo, Github, GitLab, Jenkins, Ansible, etc.)
+Profil
+Les profils qui pourrez nous séduire sont :
+Les diplômé(e)s d’une école d’ingénieur ou autodidactes passionné(e)s
+Ceux ayant de bonnes connaissances de la data, et plus particulièrement de l’écosystème Hadoop
+Des as de la maîtrise d’un ou de plusieurs langages de programmation (Java / Python / Scala)
+Ceux qui aime le travail en équipe
+Ceux qui n’ont pas peur de faire part de leurs idées novatrices
+Ceux pour qui l’agilité n’a plus de secret (Scrum / Kanban)
+
+Vous pensez que votre profil match avec cette annonce ? Alors envoyez nous votre candidature sous la référence GM/JR/DE/31.
+
+
+Plus d'informations
+Merci de postuler via notre site ou directement sur le site de l'annonceur.
+NEXTGEN RH - Bordeaux - Paris - Lille - Lyon - Nantes - Strasbourg - Rennes - Toulouse: Découvrez toutes nos offres d'emploi sur www.nextgenrh.fr et www.nextgenrhhandicap.fr (offres adaptées aux Travailleurs Handicapés - RQTH)
+il y a 6 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/04/2019,Data_engineer,Toulouse,14/10/2019,vjk=a9091277b2f43482,vide,cdi
+Data Engineer H/F (Toulouse),Keyrus,Toulouse (31),vide,"Toulouse (31)
+CDI
+Qui sommes-nous ?
+Une success story dans la Data et le Digital !
+Notre mission ? Des projets à forte valeur ajoutée pour accroître la performance et la compétitivité des entreprises, faciliter et accélérer leur transformation.
+Notre expertise depuis plus de 20 ans ? Le conseil et l'intégration de solutions innovantes autour de trois domaines :
+Data Intelligence : Business Intelligence et Big Data & Analytics
+Digital Experience : Conseil, Stratégie & Performance Digitales
+Conseil en Management & Transformation : Pilotage de la Performance & Accompagnement des Projets
+Nous sommes plus de 3200 talents sur plus de 18 pays et 4 continents. Notre ADN ? Innover et entreprendre.
+Vous êtes ambitieux et souhaitez intégrer un groupe agile et international où vos qualités professionnelles et personnelles seront reconnues et cultivées ?
+Pour cela,
+Nous vous proposons de nous rejoindre et d’intégrer notre agence de Toulouse !
+Nos maitres mots sont AGILITE, EXPERTISE, DIVERSITE.
+L’entité Keyrus Régions recrute sur la région Sud-Ouest et recherche un Data Engineer H/F à Toulouse,
+Mission ?
+Vous avez pour projet professionnel de monter en compétences et de diversifier vos expériences ?
+Vous serez tout au long de votre parcours, encouragé et accompagné dans un processus de certification technologique et méthodologique, et aux outils de BI/Big Data.
+Pour ce poste, vous interviendrez sur les activités big data de notre client et vous agirez essentiellement sur l’évolution de ses chaines de traitement actuelles ainsi que leur maintenance.
+Vous avez pour mission de construire des solutions prenant en compte une masse importante de données avec des technologies telles que Spark pour le Big Data, NoSQL pour les bases de données et Hadoop pour les infrastructures.
+Vous vous assurerez de la collecte, du stockage et de l’exploitation fluides des données en développant des solutions qui peuvent traiter un gros volume de data dans un temps limité.
+Votre profil ?
+Vous avez le sens du service, le dynamisme, la curiosité, le goût du challenge et du travail en équipe.
+Vous êtes diplômé Bac +5 et disposez de deux années d’expérience minimum dans un environnement Big Data.
+Vous avez l’habitude de travailler sur des langages de types ; Hadoop, Spark, Scala, Kafka, ScyllaDB ou Cassandra.
+L'Anglais est recommandé pour la traduction et la rédaction de documents. Possibilités d'avoir des réunions en Anglais.
+Vous êtes ambitieux et souhaitez intégrer un groupe agile et international où vos qualités professionnelles seront reconnues et cultivées, où vos qualités personnelles seront développées et pourront s’épanouir, où vos compétences seront élargies et enrichies.
+Pourquoi nous rejoindre ?
+Pour intégrer une communauté d’experts curieux et passionnés et évoluer dans un environnement multiculturel, formateur et favorisant la mobilité internationale.
+Parce que vous êtes #DataGeek, #DigitalAddict, #InnovationLover
+#KeyrusRocks#YouRock
+Keyrus est une entreprise où il fait bon vivre et travailler !
+Découvrez nos animations pour nos collaborateurs sur notre album Facebook et sur Youtube.
+Nous découvrir en vidéo, en 3 mots via ce lien.
+il y a 8 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/02/2019,Data_engineer,Toulouse,14/10/2019,vjk=bb225780d27dc6a9,vide,cdi
+Consultant en Data Engineer H/F,Scalian,Toulouse (31),vide,"Toulouse (31)
+CDI
+Pour participer à cette aventure et vous épanouir dans une équipe projets à Toulouse et /ou Paris, intégrez Scalian en tant que Consultant Data Engineer.
+
+Votre quotidien:
+Concevoir, développer, tester et mettre en production des applications métiers Big Data (Internet des Objets, Réalité augmentée, Industrie 4.0, …), intégrant notamment les technologies open-source Spark, HDFS, Cassandra, MongoDB, ElasticSearch.
+Formations et compétences
+Vous avez une formation minimum BAC +5 (PhD, Ingénieur, Master) avec expérience réussie en développement et mise en production de solutions manipulant énormément de données (Volume, Vélocité et Variété), de préférence dans un contexte industriel et vous justifiez idéalement d'une première expérience en Big Data.
+
+Vous avez un excellent niveau en technologies Big Data parmi lesquelles Spark, Hadoop MapReduce, Impala, Hive, Pig, Kafka.
+
+Vous connaissez bien les bases de données NoSQL : Cassandra, MongoDB, Elastic Search.
+
+La DataViz vous est familière notamment D3.js, Kibana.
+
+Vous maitrisez la programmation en Java, Python et idéalement Scala ou R, Les environnements familiers sont UNIX/LINUX.
+
+Vous souhaitez vous impliquer et prendre rapidement des responsabilités sur des missions à forte valeur ajoutée au sein d'une structure dynamique.
+
+Vous aurez la possibilité d'évoluer vers un poste d'architecte Data ou Manager.
+Mobile, vous êtes doté(e) d'une ouverture d'esprit et d'une capacité à travailler en équipe et vous souhaitez rejoindre un environnement professionnel motivant où vous partagerez les valeurs que sont la culture du résultat, la qualité et la satisfaction client.
+
+Anglais professionnel indispensable.
+
+Alors n'hésitez plus, postulez !
+Localisation du poste
+Localisation du poste à pourvoir
+France, Midi-Pyrénées
+Lieu
+Toulouse
+Critères candidat
+Langues
+Anglais (Intermédiaire)
+il y a 9 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/01/2019,Data_engineer,Toulouse,14/10/2019,vjk=1de4e3c7f31d022a,vide,cdi
+Data Engineer (H/F),Capgemini,Occitanie,vide,"Occitanie
+Sogeti Application Testing & Sécurité
+Sogeti France (filiale du groupe Capgemini) est une entreprise de services du numérique.
+Nous accompagnons la transformation des entreprises dans 4 domaines : Digital, Testing, Sécurité et Infrastructure.
+Aujourd’hui notre entreprise figure parmi les 15 meilleurs employeurs du secteur high-tech en France.
+Poste
+Vous êtes un Fullstack Data Engineer (H/F), rejoignez notre équipe toulousaine !
+
+Intégré(e) au sein d’une équipe projet pour l’un de nos clients grands comptes du secteur tertiaire (banques, transports, secteur public, assurances, télécommunications etc.), vous intervenez sur plusieurs phases du projet : la conception, le développement et la qualification.
+
+Au sein d’une équipe, votre mission portera sur plusieurs facettes/stacks de compétences :
+Usage des langages suivants : Java, Python, Scala
+Développement sur une des distributions Big Data majeures du marché : HortonWorks (HDP/HDF), MAPR, Cloudera.
+Conception de pipeline d’ingestion de données sur des frameworks de calcul distribués (Spark, Akka, Flink, etc.) temps réel (Kafka, Storm, Spark Streaming).
+Choix de la persistence des données à adopter selon les use cases à traiter (HDFS, Hive, Hbase, MongoDB, Cassandra, ElasticSearch, Neo4j etc.).
+Appréhension d’un environnement BI type datawarehouse d’entreprise (modélisation relationnelle, stockage RDBMS, SQL Fluent)
+Consommation des données véhiculées et transformées dans ce type d’architecture avec des outils éditeurs (Tableau, Qlik, Spotfire, Dataiku) ou des outils Opensource (Kibana, D3 JS, Zeppelin, Graffana, Rshiny, Jupyter)
+Intervention sur des environnements containérisés (Docker, Kubernetes, Mesos, etc.)
+Usage de stacks d'outils d'aide au développement collaboratif et à l'intégration continue (JIRA, Bitbucket, Confluence, Bamboo, Github, GitLab, Jenkins, Ansible, etc.)
+Profil
+Passionné(e) d’algorithme, vous avez idéalement une formation d’ingénieur ou un bac +5 universitaire. Vous avez de bonnes connaissances de la data, et plus particulièrement de l’écosystème Hadoop. De plus, vous êtes proactif(ve) et n’hésitez pas à participer à des outils d’entre-aide pour les communautés de développeurs (StackOverflow, Quora, etc.)
+Compte tenu du contexte international des projets, l’anglais opérationnel est un réel plus. De plus, vous êtes à l’aise avec les méthodes AGILE (Scrum / Kanban).
+Vous êtes doté(e) d’une personnalité ambitieuse et créative ?
+Vous aimez les challenges ?
+Vous avez l’esprit d’équipe ?
+Alors, REJOIGNEZ-NOUS !
+Retrouvez-nous sur Facebook, LinkedIn, Twitter et Viadeo. Sogeti est signataire de la charte de la diversité en entreprise.
+il y a 10 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/12/2018,Data_engineer,Toulouse,14/10/2019,vjk=e8a3ac5d77a5d4fc,vide,vide

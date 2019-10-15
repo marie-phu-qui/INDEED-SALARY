@@ -1,0 +1,412 @@
+Titre,Nom_Entreprise,Adresse,Salaire,Descriptif_du_poste,Date_de_publication,métier_sc,loc_sc,Date_sc,Identifiant,Experiences,contrat
+BI / Data Engineer Senior H/F,Betclic Group,Bordeaux (33),vide,"Bordeaux (33)
+POSTE
+En tant que BI/Data Engineer vous serez en relation avec plusieurs équipes techniques et métiers portant sur de nombreux domaines et fonctions de l'entreprise. Votre quotidien sera de travailler avec un large éventail de technologies de données (SQL Server 2016, Snowflake, AWS S3, Tableau, Talend…).
+Vous participerez à la création d’une plate-forme d'analyse permettant aux différentes équipes Betclic d'accéder aux informations dont ils ont besoin pour prendre des décisions.
+Vous participerez également à la création de processus ETL de collecte et de mise à disposition de données.
+
+MISSIONS
+Dans ce contexte, vos missions seront les suivantes :
+Collaborer avec l’équipe d’ingénieurs BI pour aider à créer de nouveaux processus ETL ainsi que des processus d'automatisation
+Concevoir, implémenter et gérer les nombreux KPI de l’entreprise
+Offrir des conseils stratégiques aux différentes équipes de Betclic sur l’optimisation des résultats et données
+Contribuer aux processus de Version Control et de QA pour garantir l'exactitude et la qualité des données
+Concevoir et mettre en œuvre de nouveaux tableaux de bord desktop et mobile
+Surveiller et résoudre les problèmes opérationnels ou de données dans les workflows
+Garantir la disponibilité et la fiabilité des données dans les délais prévus
+
+
+
+PROFIL
+Vous avez une expérience de 5 ans minimum en tant qu’ingénieur BI et/ou Data
+Vous maitrisez l’utilisation de plusieurs bases de données (en particulier SQL Server 2016)
+Vous maitrisez SQL et êtes expérimenté dans l'utilisation de bases de données relationnelles et de création de requêtes
+Vous avez l'habitude d'utiliser des outils de Dataviz tels que Tableau, SSRS…
+Vous avez une connaissance approfondie d’outils ETL tels que Talend, SSIS…
+Vous vous intéressez aux différents cloud providers
+Vous parlez couramment Anglais
+Vous souhaitez participer à la formation et à l’encadrement des collaborateurs débutants
+Une première expérience en lien avec des problématiques de Data Science serait un plus
+il y a 17 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",27/09/2019,Data_engineer,Bordeaux,14/10/2019,vjk=139c2cac0cd12c8e,senior,vide
+Développeur / Data Engineer H/F,AT Internet,Mérignac (33),vide,"Mérignac (33)
+CDI
+Éditeur de logiciel Digital Analytics français et indépendant, AT Internet ne ressemble pas aux géants de notre industrie. Notre approche unique de l’Analytics, nos 200 collaborateurs et nos 20 années d’expérience nous ont portés jusqu’à atteindre l’excellence dans notre domaine. Nous revendiquons cette différence et sommes ravis d’avoir été nommé « Leader » du Web Analytics dans la dernière étude « The Forrester Wave™ : Web Analytics, Q4 2017 ».
+Résolument tournés vers l’international, nous cultivons la confiance, le sens du client, l’innovation permanente, l’intelligence collective ainsi que l’enthousiasme au sein de nos équipes.
+Vous avez du talent et vous êtes passionné(e) par le digital ? Vous souhaitez travailler sur des projets qui façonneront le numérique de demain ? Lancez-vous dans une aventure humaine et rejoignez une entreprise unique, indépendante, où il fait bon travailler située à Bordeaux.
+Poste et missions :
+Au sein de l’équipe DataV3 – Analytics Processing constituée de développeurs confirmés travaillant sur des technologies innovantes et un volume de données très important, vous participerez à l’optimisation et l’évolution du traitement des données en temps réel dans une architecture full cloud. Dans ce contexte, votre mission consistera à :
+- S’intégrer dans une équipe agile en tant que Développeur ;
+- Être force de proposition sur le choix et la mise en œuvre de solutions techniques ;
+- Participer au développement des différentes applications permettant d’assurer le traitement des données nécessaires aux nouveaux produits AT Internet ;
+- Participer aux déploiements des solutions et à la mise en œuvre des indicateurs de performance ;
+- Participer à l’élaboration de tests unitaires et fonctionnels ;
+- Participer à la maintenance de ces applications ;
+- Participer à l’intégration de nouvelles technologies.
+Vous serez amené(e) à travailler dans une équipe Scrum avec l’animation d’un Scrum Master dans une dynamique d’amélioration continue.
+Environnement technique :
+– Programmation : Scala, Python, SQL ;
+– Framework : Apache Spark, Apache Kafka ;
+– Cloud : Amazon Web Services ;
+– Déploiement : Docker, Rancher, Kubernetes ;
+– Environnement de développement : IntelliJ ;
+– Qualité et intégration continue : Git, Jenkins.
+Profil :
+– Formation Bac+2 à Bac+5 en génie logiciel ;
+– Maitrise des concepts de programmation orientée objet ;
+– Anglais technique ;
+– Connaissance de Java et/ou Scala ;
+– Une connaissance des services AWS serait un plus.
+*Les avantages :
+*
+Mutuelle prise en charge à plus de 70% par AT Internet
+Prévoyance
+Télétravail
+RTT
+Parcours d’intégration
+Excellente politique de formation
+Communication directe avec les décideurs et membres du comité de direction
+Prime de vacances
+Indemnité vélo
+Tickets restaurants
+Tickets cadeaux
+Fruits frais à disposition
+Évènements team building : déjeuners d’équipe, AT Summit, Ship-It day…
+Comité d’entreprise : cinéma, loisirs, voyages
+Équipes de sport AT Internet
+Pack mobilité : recherche personnalisée de logements et aides dans les démarches administratives
+Contrat : CDI à pourvoir immédiatement
+Type d'emploi : CDI
+Expérience:
+développeur / data engineer h/f ou similaire: 1 an (Souhaité)
+il y a 30+ jours
+Signaler cette offre d'emploi",14/09/2019,Data_engineer,Bordeaux,14/10/2019,vjk=a0cd49dc348a63c7,vide,cdi
+Data Engineer,Back Market,Bordeaux (33),45 000 € - 60 000 € par an,"Bordeaux (33)
+45 000 € - 60 000 € par an
+Chez Back Market, nous avons à cœur de promouvoir un nouveau mode de consommation favorisant l’économie circulaire tout en luttant contre le gâchis électronique et l’obsolescence programmée.
+1ere marketplace européenne (et bientôt mondiale !!!) dédiée exclusivement à la vente de produits électroniques reconditionnés, nous connectons professionnels certifiés (usines de reconditionnement, distributeurs, etc..) donnant une seconde vie à vos équipements et clients à la recherche de qualité, d’accessibilité et d’un type de consommation plus écologique.
+
+Ce que l'on recherche au sein de Back Market? Une bonne dose d'humour, respect et bienveillance, un amour pour les lapins, un peu de zèle et une réelle expertise dans ton domaine ! Pour la bonne personne, c’est l’occasion de participer à la construction d’une marketplace de premier plan, directement dans l'équipe au cœur de l’innovation : le Bureau Of Technology.
+
+https://medium.com/back-market-engineering/refurbishing-our-tech-organization-at-back-market-e3b6f954d41d
+On a besoin de toi pour :
+Implémenter des algorithmes d’analyse de données pour l'industrialisation ou l'exploration R&D.
+Collecter, consolider et modéliser de gros volumes de données (Big Data, Data Warehouses, Data Lakes).
+Développer et automatiser les flux de données et leurs visualisations en dashboards, reporting.
+S'assurer de la scalabilité, la sécurité, la stabilité et la disponibilité des données de la plateforme.
+Analyser des données web pour répondre aux questions métiers et participer à la construction de l’architecture Big Data
+Tu seras comme un poisson dans l'eau si :
+Tu possède une excellente maîtrise d’un langage de programmation (Python, Go…)
+Tu sais communiquer des résultats de manière claire et synthétique
+Tu as des bonnes expériences en Data Mining, Data Warehouse, Big Data, Algorithm, NoSQL, Apache Spark, Parallel Programming
+Tu as une excellente capacité d’analyse des données et de leurs visualisations
+Tu es flexible et créatif dans la résolution des problèmes
+Tu es le roi de la glisse ? Tu surf les vagues autant que les pipes de données ?
+Tu es bien organisé, autonome, rigoureux et doté d'un bon esprit d’équipe
+T'interesses-tu à plus?
+Git, Linux, Django, REST, bash
+Data Lakes
+Designing and developing RESTful APIs
+Multi-threading et integration en continue
+Celery, RabbitMQ, ElasticSearch
+Scalability and Security tests
+Pourquoi nous ?
+
+Un salaire attractif (45/60K€), des stocks (BSPCE), avantages multiples (tickets restos, mutuelle, etc...), Fruits et petit dej, plusieurs jours de remote par semaine, journée avec des collègues sympas et et évènements offsite fréquents
+Des challenges techniques à relever au quotidien : avec nous, tu n’auras pas le temps de t’ennuyer !
+Un groupe d’experts qui t’apporteront leur savoir-faire technique et te permettront de monter en compétence sur ton domaine de prédilection mais pas que ! (Backademy, guildes techniques, Meet-up & Conférence)
+Des perspectives d’évolution avec la possibilité de changer de team feature tous les 1 ans et différents plans de carrières possibles
+Un job qui a du sens : à travers ton travail, tu convaincras des gens d’acquérir des produits ayant déjà vécu au lieu de les acheter neufs. Ce qui signifie réduire la production de déchets électroniques et lutter contre la surproduction. Ça compte.
+Un projet en forte croissance : 3 fondateurs il y a 4 ans. A présent, on est plus de 140, et on a ouvert dans 6 pays différents. Boom.
+Du groove, plein : tu auras l’opportunité de bosser avec des gens talentueux et super sympathiques.
+
+Process de recrutement :
+Pré qualification téléphonique avec notre recruteur
+Test technique
+Entretien technique et relationnel avec le Head of Product et l'équipe technique.
+Rencontre avec la DRH, CTO & CEO
+
+Ce poste est ouvert à toutes les personnes en situation de handicap !
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/09/2019,Data_engineer,Bordeaux,14/10/2019,vjk=1c8881e968199265,vide,vide
+Ingénieur des Données - Data Engineer H/F,Lectra,Cestas (33),vide,"Cestas (33)
+Temps plein, CDI
+Notre équipe Data, basée à Cestas, recherche pour compléter ses effectifs un/une :
+
+Ingénieur des Données - Data Engineer H/F
+
+Mission
+
+Au sein de l'équipe Data de Lectra, vous aurez pour mission principale la conception, le développement et la maintenance des solutions et outils liés aux données. Pour cela, vous serez amené à réaliser les tâches suivantes :
+Maintenir et améliorer les pipelines de traitement des données : Participer à la définition des workflows de calcul, mettre en évidence les points forts, les points faibles et les limites de ceux-ci.
+Mettre en place la collecte, le stockage et l’accès aux données : Identifier les solutions technologiques et mettre en perspective ces solutions au regard de leurs coûts.
+Soutenir l'exploitation, être force de proposition sur la qualité de service et l'amélioration continue : Développer des outils et des bibliothèques adaptées au traitement massif de données, utiliser ceux-ci dans le cadre du développement des workflows de traitement des données. Effectuer une veille technologique sur les nouvelles solutions pour le calcul distribué.
+Support des produits en production: Documenter les workflows de calcul et communiquer auprès des équipes de développement.
+
+Profil
+De formation Bac +5 en école d’Ingénieur ou équivalent, vous justifiez d’une expérience d’au moins 2 ans au sein d'une équipe de développement, avec une première expérience réussie dans le déploiement d'une plateforme Data d'entreprise.
+Une excellente compréhension des problématiques du calcul distribué (failover, réplication, élection, haute-disponibilité), de l’aisance avec un interpréteur de lignes de commande de type Unix et des connaissances de HDFS, MapReduce, Spark, Kafka... sont indispensables pour la tenue de ce poste.
+La maitrise de l’anglais est nécessaire pour une bonne exécution des missions qui vous seront confiées.
+Intéressé(e) ? Contactez-nous à l’adresse suivante : drh-lectra@lectra.com
+
+La Diversité : une priorité pour Lectra qui s’engage à
+Refléter dans ses équipes mondiales et à tous les niveaux la réalité sociale, et promouvoir ainsi la diversité en termes de nationalité, d’origine ethnique ou sociale, de sexe ou d’âge
+Favoriser l’emploi des personnes handicapées et la mise en place des moyens nécessaires à l’adaptation de leurs conditions de travail
+Capitaliser sur la diversité culturelle de nos salariés et valoriser les expériences pour faciliter le développement professionnel.
+Nous vous invitons à faire de votre réussite, la réussite de Lectra.
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/09/2019,Data_engineer,Bordeaux,14/10/2019,vjk=051732a0fa0851bd,vide,cdi
+Data Engineer H/F,Groupe Pichet,Pessac (33),vide,"Pessac (33)
+CDI
+Le groupe Pichet est aujourd’hui l’un des 10 premiers promoteurs immobiliers nationaux. Son champ d’expertise s’étend sur toute la chaîne de l’immobilier : la promotion immobilière et la construction, l’administration de biens, l’exploitation hôtelière, la foncière patrimoniale et le viticole. Notre croissance, nos solutions innovantes, notre agilité et notre audace sont le fruit de l’engagement quotidien de nos 1400 collaborateurs.
+Avec Nous, devenez promoteur de talents !
+
+Pour accompagner notre croissance, et dans le cadre de l’évolution de notre service Data, nous recherchons à Pessac :
+
+UN DATA ENGINEER (H/F)
+
+Vos principales missions seront les suivantes :
+Rédaction specs fonctionnelles et/ou techniques
+Développement flux alimentation ETL
+Conception / modélisation de cubes
+Gestion livraisons dans les différents environnements (dev, recette, préprod, prod)
+Participation à l’optimisation des processus de développement (système d’intégration continue, automatisation des systèmes de production de données,…)
+Test / Recette
+
+
+De formation supérieure, BAC+5 formation informatique ou ingénieur, vous justifiez d'une expérience en tant qu'expert et référent technique dans des environnements Big Data / Data Science.
+Vous avez une forte appétence technique et avez à coeur de transmettre votre savoir en faisant monter les équipes en compétence
+Vous maîtrisez Maitrise des outils Microsoft :
+Les bases de données SQL Server (SQL / T-SQL)
+Les outils décisionnel SSIS, SSRS, SSAS (et idéalement Power BI)
+Vous maîtrisez l’outil GIT (Gestion des sources), un langage de programmation (C# de préférence) et avez des connaissances dans les formats de structuration des données (XML, JSON).
+il y a 4 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/06/2019,Data_engineer,Bordeaux,14/10/2019,vjk=8a0c6127bfe61178,vide,cdi
+DATA Engineer Scala Performance Produit,Solocal Group,Eysines (33),vide,"Eysines (33)
+Temps plein, CDI
+Au sein d'un équipe BI de la direction technique du groupe, la mission s'inscrit dans le cadre d'un projet orienté sur le calcul de la performance et ROI de nos produits, restitués aux fronts clients, commerciaux et autres acteurs internes.
+Description des activités
+Le projet dispose :
+d’une partie back office d’ingestion de flux de données, contrôles, intégration, consolidation des flux, agréations de données, indexations
+d’une partie front de restitution de données au travers d’une api graphQL sur laquelle se greffe un portail vendeurs, une api PDF et un moteur de production industrielle de documents MSOffice.
+
+Objectifs de la mission et tâches
+La mission consiste en :
+développement des US de la backlog
+migration des flux sur cloud Google (GCP)
+support technique sur la qualité des développements
+amélioration de la supervision des flux
+développement du contrôle qualité des données
+développement d’alertes sur la qualité des flux de données
+
+Profil
+Nous recherchons un profil développeur Spark-Scala ayant les compétences suivantes :
+Développement : Scala/Spark – ElasticSearch – GraphQL
+- CI/CD : Git – Jenkins - Azkaban - Docker
+Agile : Scrum/Kanban
+Cloud : GCP (pub/sub, BigQuery, DataFlow, DataProc, BigTable) – Azure (APP services)
+
+Compétences attendues
+Expérience confirmée dans le développement Spark-Scala
+il y a 5 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/05/2019,Data_engineer,Bordeaux,14/10/2019,vjk=f0d17ca71173dffd,vide,cdi
+DATA Engineer - Squad Commerce & Finance H/F,Solocal Group,Eysines (33),vide,"Eysines (33)
+Temps plein, CDI
+Solocal est le partenaire digital, local, de confiance de toutes les entreprises pour accélérer leur croissance.
+Son offre intégrée permet à chaque entreprise de dynamiser ses activités et d'accélérer leur croissance : c'est-à-dire de construire et développer leur image et leurs relations digitales, de fidéliser leurs propres clients, d'en trouver de nouveaux, mais aussi de gérer et enrichir leurs relations avec eux. Elle permet une présence digitale maximale à la fois sur nos médias propriétaires (PagesJaunes et Mappy) et sur ceux de nos partenaires dont les GAFAM font partie.
+Le groupe s'appuie sur six actifs stratégiques : des médias à très fortes audiences, la puissance de sa data géolocalisée, des plateformes technologiques évolutives, sa couverture commerciale dans toute la France, des partenariats privilégiés avec les GAFAM* et de nombreux talents (experts en matière de data, de développement, de digital marketing, etc.).
+Profil
+Au sein de l’équipe Data de la direction technique du groupe, vous serez conduits à participer à des projets stratégiques sur le domaine commercial et finance (pilotage des forces commerciales, du chiffre d’affaires et de la trésorerie du groupe Solocal) : sourcing des données, qualification, transformation, restitution de tableaux de bord de pilotage et décisionnels.
+Intégré à une « squad » constituée d’un Business Analyst, d’un PO et de développeurs, dans un environnement bilingue anglais, vous serez en charge :
+de réaliser le développement d’US de la backlog
+de participer aux phases de qualification et de recette fonctionnelle
+de proposer des simplifications et/ou optimisations
+d’assurer la correction d’incidents et la maintenance corrective
+de veiller à la stabilité des applicatifs ainsi qu’à la continuité de service dans le respect des normes de qualité et de performance attendues par l’entreprise.
+
+Compétences attendues
+De formation bac+5 en école d'ingénieur ou équivalent, vous justifiez d'une expérience d'au moins 4 ans au sein d'une équipe de développement avec une expérience réussie, idéalement sur des projets de Data.
+Vos compétences techniques doivent vous permettre d’évoluer aisément sur des plateformes de développement Unix/Linux, Git. Vous maîtrisez les langages SQL (fonctions analytiques, fenêtrage), Python/Scala (Spark). Des connaissances en CI/CD et une expérience GCP (Composer, pub/sub, BigQuery, DataProc, DataFlow…) serait un plus significatif.
+Formé aux méthodes agiles (rituels, outils – Trello, Jira…), vous possédez un bon relationnel, une bonne écoute et vous saurez démontrer une réelle curiosité et ’une appétence pour les technologies. Sachant travailler en équipe, vous savez également faire preuve d’une véritable autonomie dans les missions qui vous sont confiées.
+il y a 5 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/05/2019,Data_engineer,Bordeaux,14/10/2019,vjk=749edd363f809192,vide,cdi
+Data Engineer F/H,Kent FR,Bordeaux (33),35 000 € - 40 000 € par an,"Bordeaux (33)
+CDI
+35 000 € - 40 000 € par an
+KENT, marque de GroupAgora dédiée aux recrutements de profils IT, recherche 1 Data Engineer F/H.
+Rôles & Missions
+Pourquoi ne pas vous laissez tenter par une offre très intéressante ? C’est ce que nous vous proposons aujourd’hui !
+En effet, notre client spécialisé dans le négoce, recherche actuellement un data engineer dans un cadre d’expansion de son équipe composée de 5 techniciens supports, de 2 webmaster et d’un autre data engineer.
+Fort de ses 30 ans d’ancienneté et possédant plus de 1 200 collaborateurs, vous deviendrez un réel membre de cette société dynamique où « travail » rime avec « convivialité ».
+
+Environnement :
+SQL Server
+T-SQL
+SSIS, SSRS, SSAS, Power BI
+Outil GIT
+XML
+JSON
+Missions :
+Rédiger les specs fonctionnelles et/ou techniques
+Développer le flux alimentation ETL
+Conceptualiser et modéliser les cubes
+Manager les livraisons dans différents environnements
+Participer à l’optimisation des processus de développement
+Effectuer des rapports et tableaux de bord
+Profil Attendu
+Nous recherchons donc un data engineer de formation bac+3/5 et justifiant de 3 à 5 ans d’expérience dans un poste similaire.
+Vous êtes curieux, autonome et rigoureux.
+Des connaissances sur le langage C# est un plus et/ou vous maîtrisez un autre langage de programmation.
+Si vous êtes intéressé(e) par cette offre, n’hésitez pas à nous envoyer au plus vite votre cv !
+Date de début souhaitée
+ASAP
+il y a 6 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/04/2019,Data_engineer,Bordeaux,14/10/2019,vjk=9270ffc18c479790,vide,cdi
+Data Engineer,OnCrawl,Bordeaux (33),vide,"Bordeaux (33)
+CDI
+OnCrawl relies on data to prove SEO is no dark magic. SEO is pure data science and our customers rely on it to make predictable decisions in terms of SEO campaigns.
+As a data engineer, you will join our gang of data nerds to help us provide our customers with insightful, SEO-minded, analysis jobs. Our jobs are designed to scale at the billion web pages scale and massive amounts of data are processed daily to compute very high level metrics such as near duplicate pages, similarity heat maps, flow diagrams of InRank juice, and many more. We run our data platform using Spark, but other solutions can be used depending on the purpose.
+Your mission:
+Write state-of-the art data processing jobs crunching millions of web pages and millions of web-server log events per hour
+Work on structured and unstructured data
+Get familiar with Spark, Elasticsearch and the data warehouse system to achieve stability and scalability
+Create new ways to explore and visualize reports in real time
+Required skills:
+Java
+Spark or Hadoop MR or Apache Hive
+Experience writing scalable jobs running 24/7, or willing to learn
+Nice to have:
+Elasticsearch, MongoDB
+Python
+Git, Continuous integration
+Experience: At least 2 years
+Permanent contract
+Based in Bordeaux, France
+Apply now
+il y a 6 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/04/2019,Data_engineer,Bordeaux,14/10/2019,vjk=ac2c2fb0e8be8b6c,vide,cdi
+Data Engineer – Editeur de logiciels (H/F),Altaide,Bordeaux (33),vide,"Bordeaux (33)
+CDI
+Data Engineer – Editeur de logiciels (H/F)
+Editeur de Logiciels de taille mondiale, nous facilitons la transformation digitale des entreprises de notre secteur. Nous donnons ainsi aux marques et fabricants les moyens de leurs ambitions du design au retail en passant par la production. Ainsi, nous renforçons aujourd’hui notre équipe Data basée à Bordeaux en recrutant un Data Engineer.
+
+Mission :
+En tant que Data Engineer, vous serez intégré à l’équipe Data. Vous aurez pour mission principale la conception, le développement et la maintenance des solutions et outils liés aux données.
+Pour cela, vos responsabilités seront les suivantes :
+Maintenir et améliorer les pipelines de traitement des données : Participer à la définition des workflows de calcul, mettre en évidence les points forts, les points faibles et les limites de ceux-ci.
+Mettre en place la collecte, le stockage et l’accès aux données : Identifier les solutions technologiques et mettre en perspective ces solutions au regard de leurs coûts.
+Soutenir l’exploitation, être force de proposition sur la qualité de service et l’amélioration continue : Vous développerez des outils et des bibliothèques adaptées au traitement massif de données, et utiliserez ceux-ci dans le cadre du développement des workflows de traitement des données.
+Effectuer une veille technologique sur les nouvelles solutions pour le calcul distribué.
+Support des produits en production: Documenter les workflows de calcul et communiquer auprès des équipes de développement.
+Profil :
+De formation Bac +5 en école d’Ingénieur ou équivalent, vous justifiez d’une expérience d’au moins 2 ans au sein d’une équipe de développement, avec une première expérience réussie dans le déploiement d’une plateforme Data d’entreprise.
+Vous êtes doté d’une excellente compréhension des problématiques du calcul distribué : failover, réplication, élection, haute-disponibilité.
+Idéalement vous possédez des connaissances de HDFS, MapReduce, Scala, Spark et Kafka
+Par ailleurs, la connaissance du processus de mise en production d’une grande entreprise vous permettra de vous intégrer et vous adapter plus facilement
+Motivé et passionné par le Big Data, vous avez envie d’apprendre et également de participer à un projet fédérateur
+Enfin, la maîtrise de l’anglais est nécessaire pour une bonne exécution des missions qui vous seront confiées.
+De bonnes raisons pour nous rejoindre ?
+Intégrer un leader mondial reconnu pour sa capacité d’innovation
+Contribuer fortement à l’amélioration ainsi qu’à la performance de notre industrie
+Rejoindre une équipe d’experts passionnés de Data
+Travailler dans un environnement technologique de pointe et dans une bonne ambiance également
+Enfin, vivre dans une région à la qualité de vie reconnue
+Retrouvez toutes nos offres d’emploi d’Ingénieurs/Développeurs !
+il y a 7 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/03/2019,Data_engineer,Bordeaux,14/10/2019,vjk=8a538204fa878333,vide,cdi
+Data Engineer H/F (Bordeaux),Keyrus,Bordeaux (33),vide,"Bordeaux (33)
+CDI
+Qui sommes-nous ?
+Une success story dans la Data et le Digital !
+Notre mission ? Des projets à forte valeur ajoutée pour accroître la performance et la compétitivité des entreprises, faciliter et accélérer leur transformation.
+Notre expertise depuis plus de 20 ans ? Le conseil et l'intégration de solutions innovantes autour de trois domaines :
+Data Intelligence : Business Intelligence et Big Data & Analytics
+Digital Experience : Conseil, Stratégie & Performance Digitales
+Conseil en Management & Transformation : Pilotage de la Performance & Accompagnement des Projets
+Nous sommes plus de 3200 talents sur plus de 18 pays et 4 continents. Notre ADN ? Innover et entreprendre.
+Vous êtes ambitieux et souhaitez intégrer un groupe agile et international où vos qualités professionnelles et personnelles seront reconnues et cultivées ?
+Pour cela,
+Nous vous proposons de nous rejoindre et d’intégrer notre agence de Bordeaux !
+Nos maîtres mots sont AGILITE, EXPERTISE, DIVERSITE.
+Notre ADN ? Innover et entreprendre.
+Bordeaux recherche un Data Engineer
+Votre mission :
+Il s’agit d’un projet orienté sur le calcul de la performace et ROI des produits clients en vue d'une restitution aux fronts clients, commerciaux et différents acteurs internes.
+Le projet dispose :
+d’une partie back office de consommation, contrôles, intégration, consolidation de flux de données
+d’une partie front de restitution de données au travers d’une api graphQL sur laquelle se greffe un portail vendeurs, une api PDF et un moteur de production industrielle de documents MSOffice.
+La mission consiste en :
+développement des US de la backlog
+migration des flux sur cloud Google (GCP)
+support technique sur la qualité des développements
+amélioration de la supervision des flux
+développement du contrôle qualité des données
+développement d’alertes sur la qualité des flux de données
+Votre profil:
+Vous avez pu mettre à profit durant 3 ans minimum des compétences dans :
+Développement : Scala/Spark – ElasticSearch – GraphQL
+CI/CD : Git – Jenkins - Azkaban - Docker
+Agile : Scrum – Kanban
+Cloud : GCP (pub/sub, BigQuery, DataFlow, DataProc, BigTable) – Azure (APP services)
+Pourquoi nous rejoindre ?
+Parce que notre équipe saura vous accueillir et votre manager vous accompagner dans votre épanouissement professionnel.
+#KeyrusRocks #YouRock
+Keyrus est une entreprise où il fait bon vivre et travailler !
+Découvrez :
+> La vie chez Keyrus en 60 sec
+> Keyrus en 3 mots
+> Nos animations pour nos collaborateurs sur Facebook et sur Instagram.
+il y a 8 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/02/2019,Data_engineer,Bordeaux,14/10/2019,vjk=465ccce5fc3fe76c,vide,cdi
+Data Engineer – Startup avancée marché Data (H/F),Altaide,Bordeaux (33),vide,"Bordeaux (33)
+CDI
+Data Engineer – Startup avancée marché Data (H/F)
+Startup avancée (20 personnes, plusieurs millions d’€ levés, des centaines de clients actifs…), basée à Paris, Bordeaux et au Canada, nous sommes experts de l’automatisation de l’accès à la data pour les décideurs en marketing digital et ecommerce. Fondée par un serial entrepreneur et un expert de la data, tous deux également passionnés de search et sémantique, notre équipe a pour objectif de construire un produit actionnable et fun pour aider nos utilisateurs à obtenir et comprendre facilement la data dont ils ont besoin et à améliorer leur performance de leurs sites. Par ailleurs, nous nous définissons comme une bande de geeks enthousiastes et innovants et nous faisons tout notre possible pour organiser notre projet autour de cet esprit. Notre réussite business et les résultats obtenus nous permettent d’accélérer notre croissance et donc de renforcer notre équipe. Nous recrutons ainsi un(e) Data Engineer !
+
+Une mission passionnante :
+Notre solution s’appuie sur les données pour aider nos clients à prendre des décisions prévisibles en termes de campagnes de référencement. Nous traitons ainsi une très grosse volumétrie.
+En tant que Data Engineer, vous rejoignez notre gang de data nerds pour nous aider à fournir à nos clients des outils d’analyse perspicaces et fiables. Nos applications sont conçues pour évoluer à l’échelle du milliard de pages Web et des quantités massives de données sont traitées quotidiennement pour calculer des métriques de très haut niveau telles que l’identification de pages presque dupliquées, des mesures de taux de similarité, des diagrammes de flux de popularité internes (« InRank juice flow diagram ») et bien d’autres.
+Au quotidien vos principales missions en tant que Data Engineer seront de :
+Ecrire des algorithmes avancés capable d’analyser des centaines de million de pages web et des milliards d’évènements journalisés.
+Travailler sur des données structurées et non structurées
+S’approprier Spark, Elasticsearch et le data warehouse system pour obtenir stabilité et scalabilité
+Créer de nouvelles façons d’explorer et de visualiser les rapports en temps réel
+Environnement technologique:
+Java
+Spark, Hadoop MR, Apache Hbase, Google BigQuery et BigTable
+Elasticsearch, MongoDB
+Python
+Git, CI
+Kubernetes et DataProc
+
+Profil :
+De formation école d’ingénieur, vous disposez de minimum deux ans d’expérience.
+Vous savez développer en Java, et maîtrisez soit Spark, Hadoop MR ou Apache Hive.
+Vous avez une expérience dans l’écriture de jobs scalables d’analyse de données ou bien vous souhaitez monter en compétences dessus
+Idéalement, vous savez utiliser Elasticsearch et MongoDB
+Un plus serait également de connaître Python, Git et l’intégration continue.
+Reconnu(e) pour votre excellence technique, vous êtes toujours en veille sur les nouveautés tant en termes de technologies que de solutions existantes permettant d’améliorer l’expérience.
+Votre capacité de travail et votre implication, vous permettront de vous intégrer rapidement au sein d’une équipe de passionnés.
+Pourquoi rejoindre notre équipe ?
+Un projet innovant avec des résultats concrets validés par des centaines de clients (dont les plus grands comptes de l’ecommerce français)
+L’opportunité de travailler au sein d’une top équipe intégrant des experts reconnus en développement, data, machine learning…
+Une gamme de bénéfices et d’à-côtés variés afin d’aider nos employés à trouver un équilibre entre le temps de travail et le temps personnel.
+Notre ambition est de construire un environnement de travail productif et agréable avec par exemple : 100 € d’allocation pour l’achat de livres, horaires de travail flexibles, café à volonté, déjeuners d’équipe et afterworks réguliers, une superbe terrasse de 100m2 pour bosser ou se détendre au soleil…
+Un environnement où l’initiative est favorisée avec du temps accordé pour découvrir des nouvelles technos et approches
+Des packages salaires compétitifs
+Des bureaux dans Bordeaux aux pieds d’une station de Tram
+
+Retrouvez toutes nos offres d’emploi de Data Scientist / BI / IA !
+il y a 8 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/02/2019,Data_engineer,Bordeaux,14/10/2019,vjk=c7c5c998605199d1,vide,cdi
