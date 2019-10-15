@@ -31,6 +31,8 @@ Modèle de prédiction ML concernant les salaires des métiers de la tech en Fra
 --> Dockeriser
 --> [https://www.linode.com/docs/tools-reference/tools/schedule-tasks-with-cron/ ](Cron) (rafraichir base de données automatique)  
 --> NLP (selon les langages ex: Python, R...)...
+--> Bayesian model (pour une accuracy de 90% sur une petite base de données)  
+
 
 # STACK
 
