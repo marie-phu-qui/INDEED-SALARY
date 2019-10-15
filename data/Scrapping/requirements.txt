@@ -1,18 +1,16 @@
 # handle date
-
 datetime
-dateutil
-time
+python-dateutil
 
 # handle scrap
 selenium
-re
 
 # basics
-numpy
-pandas
+numpy==1.16.5
+# numpy-base==1.16.5
+pandas==0.25.1
 random
 
 # mongo connect
 pymongo
-os
+# os

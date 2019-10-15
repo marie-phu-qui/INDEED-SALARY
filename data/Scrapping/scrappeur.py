@@ -315,7 +315,7 @@ def Calcul_mod(column):
 def Recup_exp(string):
     string = str(string)
     debutants = 'junior|débutant| debutant'
-    confirmes = 'confirmé'
+    confirmes = 'confirmé|intermédiaire intermediaire'
     senior ='senior'
     
     if re.search(debutants,string.lower()):

@@ -1,0 +1,81 @@
+Titre,Nom_Entreprise,Adresse,Salaire,Descriptif_du_poste,Date_de_publication,métier_sc,loc_sc,Date_sc,Identifiant,Experiences,contrat
+Data Engineer / Freelance,Phaidon International (UK) Ltd,Nantes (44),vide,"Nantes (44)
+Temps plein, Freelance / Indépendant
+Les compétences clés comprennent :
+Spark
+Scala
+HIVE
+Mon client met en place son propre environnement et reçoit des données jour après jour. Votre mission est d’aider à protéger ces données, d’élaborer une matrice de données et de trouver des moyens de protéger cette matrice de données. Il s’agira également d’analyser les données actuelles.
+Freelance-info - il y a 4 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",10/10/2019,Data_engineer,Nantes,14/10/2019,vjk=9b2b4e187853b689,vide,freelance
+Data Engineer / Freelance,CS Group Solutions,Nantes (44),vide,"Nantes (44)
+Temps plein, Freelance / Indépendant
+Nous recherchons un consultant Data Engineer pour la mission suivante:
+
+Mettre en uvre les traitements Big Data d’ingestion de données dans le datalake et d’alimentation de la base de données selon le modèle pré défini.
+Créer le modèle de données dans la base de données Elastic.
+Assurer la cohérence et la mise en qualité des données ingérées.
+Respecter les normes de développement et documenter les travaux réalisés.
+Réaliser les user stories demandées par le Product Owner.
+Savoir échanger et questionner sur les fonctionnalités à développer lors des cérémonies agiles.
+Travailler avec le data scientist.
+
+Compétences
+Développement confirmé en langage Python Spark + Git.
+Une première expérience sur le cloud Azure : Databricks, Azure data factory.
+Expérience sur la Stack Elastic ou une autre base de données orientée moteur de recherche.
+Environnement de travail agile : Jira, Confluence.
+Idéalement utilisation d’un outil de gouvernance de données.
+
+Vanille LACOSTE
+Ingénieur d’affaires
+
+CS GROUP SOLUTIONS
+Tel : 05 67 16 15 97
+Mob : 06 87 38 86 76
+vlacoste@groupcs.com
+Freelance-info - il y a 5 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",09/10/2019,Data_engineer,Nantes,14/10/2019,vjk=a793a026b15cfaeb,vide,freelance
+Senior Data Engineer (M/F),iAdvize,Nantes (44),vide,"Nantes (44)
+Job Description
+
+You will ensure the building and evolution of the data platform at iAdvize, with a wide spectrum of responsibilities, from monitoring the data infrastructure to identifying data business needs. Collaboration with other engineers is key, as you will have to expand and improve the usage of data across teams and projects. You’ll work with another data engineer, data scientists and ML engineers.
+Responsibilities
+Lead the technical vision of data engineering and architecture at iAdvize
+Design, build, scale, and evolve our data platform, services and tooling
+Provide guidance, and contribute with engineering teams in building features improving access to new or existing data
+Mentor and evangelise developers about Apache Kafka, Stream processing, Event sourcing, reactive architecture and analytics
+Help Data Scientist / ML Engineer / Developers on data platform usage
+Examples
+Build and scale an engagement pipe to evaluate visitors on our clients sites
+Collect data and metadata on conversation to build insights on subjects, feelings and different sorts of analysis
+Introduce Avro to P&E, explain how it will improve message exchange and help to use it on concrete swarm project
+
+Qualifications
+
+1st significative experience on cloud distributed data platform.
+Must have
+Master Apache Kafka, usage and configuration / Brokers de messages
+Must know Java and the JVM
+Must have worked on Cloud (AWS, GCP, Azure, …)
+Nice to have
+knowledge on Scala and/or Python
+knowledge on Event-driven architecture or good knowledge on data system architecture (data platform, data intensive application)
+knowledge on Docker et micro-services
+Soft skills
+Good communication skills, able to evangelise about Apache Kafka, Stream processing, Event sourcing
+Make decisions based on business needs
+Technical watch très bonne connaissance de l’écosystème big data
+You are a strong team player who is proactive in collaborating with other software engineers
+
+Additional Information
+
+Start Date: Asap, obviously :)
+Office: Nantes
+Salary : Depending on your profile
+iAdvize is committed to promoting diversity among teams and follows a strict non-discrimination recruitment policy
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/09/2019,Data_engineer,Nantes,14/10/2019,vjk=e517ef4a21813631,senior,vide

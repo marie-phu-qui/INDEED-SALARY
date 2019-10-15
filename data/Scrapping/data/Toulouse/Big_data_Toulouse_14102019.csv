@@ -1,0 +1,1779 @@
+Titre,Nom_Entreprise,Adresse,Salaire,Descriptif_du_poste,Date_de_publication,métier_sc,loc_sc,Date_sc,Identifiant,Experiences,contrat
+Stage - Monitoring d'une infrastructure Big Data (H/F),Thales Group,Toulouse (31),vide,"Toulouse (31)
+Stage
+QUI SOMMES-NOUS ?
+Thales propose des systèmes d’information et de communication sécurisés et interopérables pour les forces armées, les forces de sécurité et les opérateurs d’importance vitale. Ces activités, qui regroupent radiocommunications, réseaux, systèmes de protection, systèmes d’information critiques et cybersécurité, répondent aux besoins de marchés où l’utilisation des nouvelles technologies numériques est déterminante. Thales intervient tout au long de la chaîne de valeur, des équipements aux systèmes en passant par le soutien logistique et les services associés.
+Le site de Toulouse-Labège développe, en tant que CESTI - Centre d’Évaluation de la Sécurité des Technologies de l’Information agréé par l’ANSSI - et dans le cadre d’un partenariat de plus de 20 ans avec le CNES, une offre intégrée d’expertise et d’évaluation qui s’étend des composants aux produits de sécurité matériels et/ou logiciels, de la carte électronique au système d’information. De plus, nos équipes de l’activité Systèmes d’information critiques et cybersécurité fournissent des services et des solutions globales optimisant la performance, la résilience et la sécurité des systèmes d’information afin de faire face aux ruptures technologiques et aux cybermenaces.
+Dans le cadre de nos projets du domaine spatial, nous fournissons à nos clients des solutions clés en main innovantes reposant sur les technologies les plus récentes.
+L'équipe Big Computing recherche un/une stagiaire - Monitoring d'une infrastructure Big Data (H/F).
+Basé(e) à Labège (31).
+QUI ÊTES-VOUS ?
+Étudiant(e) en dernière année d’une école d’ingénieur ou de la faculté (BAC+5), spécialisé en informatique, vous possédez de bonnes compétences dans les produits de supervision d’infrastructures tels que Elasticsearch/Kibana/Kibana/Metricbeat, Nagios/Zabbix/Ganglia/Zabbix/Ganglia ?
+Vous êtes curieux (se) dans les nouvelles technologies ?
+Vous êtes autonome et rigoureux (se) ?
+Alors ce stage est fait pour vous!
+La connaissance des infrastructures Big Data est un plus.
+CE QUE NOUS POUVONS ACCOMPLIR ENSEMBLE :
+Alors que les architectures IT se complexifient, il devient primordial de fournir des informations pertinentes et adaptées sur l’état de l’infrastructure.
+Dans ce cadre, Thales Services souhaite étudier les différentes solutions open source telles que Elasticsearch/Metricbeat, Nagios, Zabbix, Ganglia, …permettant de superviser les différents paramètres relatifs à la performance de telles infrastructures, telles que Elasticsearc/Metribeat ou Nagios, puis de les comparer entre elles.
+L’objectif du stage est de mettre en œuvre une solution configurable et réutilisable de monitoring d’infrastructure dans le cadre d’un projet du domaine spatial.
+A ce titre, vos missions seront les suivantes:
+définir les sondes de mesure et les graphiques pertinents pour la surveillance de la performance
+d'effectuer un état des lieux de l'existant
+de mettre en œuvre ces différentes approches solutions puis de les comparer les unes par rapport aux autres.
+
+La mise en œuvre de la solution se basera sur l’architecture de cible pour déployer l’outillage est une infrastructure existante dont les principales technologies sont Kafka, Storm, voire Spark.
+Innovation, passion, ambition : rejoignez Thales et créez le monde de demain, dès aujourd’hui.
+Thales - il y a 5 heures
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/10/2019,Big_data,Toulouse,14/10/2019,vjk=30deb5213b8c1bb2,vide,stage
+Développeur Talend / Big Data / BI (H/F),EOTIM,Toulouse (31),vide,"Toulouse (31)
+CDI
+Notre client, spécialisé dans la protection de données, souhaite recruter un(e) Développeur(euse) Talendafin de rejoindre l’équipe chargée des échanges de données et du maintien opérationnel du SI décisionnel de son pôle édition de logiciel.
+Vous serez en charge d’évaluer la difficulté des projets et de réaliser les spécifications et évaluations de charges.
+Vous devrez être force de proposition concernant la conception tout en tenant compte des SI et des normes en vigueur.
+Vous réaliserez les développements et effectuerez les tests afin d’apporter les corrections nécessaires au bon fonctionnement du produit.
+PROFIL REQUIS
+Vous maîtrisez Talend, Postgre SQL, Hive, Spark Hbase et HDFS.
+Vous avez également des compétences spécifiques au Big Data :
+Java, Scala ou Python
+Hadoop, Apache (Hive, Spark, Kafka)
+Bases de données noSQL(MongoDB, hBase, Druid) et relationnelles (DB2, MySQL, mariaDB…)
+Titulaire d’un Bac+3 minimum, vous avez au moins 3 ans d’expérience dont 18 mois sur Talend.
+La conception d’interfaces, la réalisation de développements et le requêtage SQL n’ont pas de secrets pour vous.
+Vous savez rédiger des documents techniques mais aussi des documents utilisateurs.
+Vous êtes à l’aise en Anglais (écrit et oral).
+Type d'emploi : CDI
+il y a 3 jours
+Signaler cette offre d'emploi",11/10/2019,Big_data,Toulouse,14/10/2019,vjk=9b126a2ba3b4c182,vide,cdi
+Stagiaire - Développement Big Data – Données Réservation Cli...,Air France-KLM,Toulouse (31),vide,"Toulouse (31)
+Stage
+Rattaché(e) au sein de l’équipe AGILE SCRUM en charge du produit PNR et sous la responsabilité de votre maître de stage, votre principale missio consistera à:
+Travailler en lien permanent avec les utilisateurs de la direction commerciale AF ou KLM afin de proposer les meilleures solutions, les plus innovantes et à fortes valeurs ajoutées.
+
+Suivre de bout en bout les développements : analyse, conception, tests et déploiement.
+
+En pratique, après avoir compris et interprété le besoin des utilisateurs :
+
+Utiliser une plateforme de développement complète regroupant les outils de la suite Atlassian comme Bamboo pour l'intégration continue, Confluence pour la documentation et BitBucket (Git) pour la gestion de version.
+
+Lancer des exécutables sur une distribution Hadoop (HDP sur unix) mettant notamment en œuvre les composants HBase pour le stockage en base non-relationnelle distribuée et Kafka pour du temps réel.
+
+Architecture technique du produit PNR :
+Teradata (SQL, UNIX),
+Hadoop, Spark Java, HDFS,
+Outil de restitution : QlikView/ SAP BI4 /Spotfire .
+
+Profil recherché
+Vous êtes étudiant(e) en dernière année d’Ecole d’ingénieur (Bac+5 )/ Master II dans le domaine de l'informatique et vous recherchez un stage d’une durée de 6 mois.
+
+Vous êtes intéressé(e) par le côté opérationnel et gestion de production d’une compagnie aérienne.
+
+Rigoureux(se), autonome, vous avez de bonnes capacités d’analyse et de synthèse, et de bonnes aptitudes relationnelles.
+
+Vous êtes attiré(e) par les systèmes d’information.
+
+Connaissances souhaitées :
+Développement Java & Spark
+Développement et architecture BigData
+Requêtage SQL
+Unix, scripting Unix
+Anglais lu / écrit et parlé (documentation technique en Anglais + échanges courants avec KLM)
+
+Aptitudes recherchées :
+Très bonne communication orale et écrite, très bon relationnel
+Esprit d’analyse et de synthèse
+Esprit d’équipe
+Autonomie, organisation
+Créativité
+Ouverture d’esprit
+
+Type de contrat
+Convention de stage
+Durée du contrat (mois) :
+6 mois
+Date de prise de poste souhaitée
+02/03/2020
+Temps partiel possible
+Non
+Type d'horaires
+Administratif
+Profil candidat
+Spécialisation
+SYSTEMES D'INFORMATION
+Niveau d'études min. requis
+Bac + 5 et plus / 3ème année grande école
+Langue
+Anglais (3 - Confirmé)
+Localisation du poste
+Localisation du poste
+France, Occitanie, Haute Garonne (31)
+Site
+5 AVENUE MAXWELL - 31109 TOULOUSE CEDEX 9
+il y a 4 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",10/10/2019,Big_data,Toulouse,14/10/2019,vjk=e4cfc22b52afcebe,vide,stage
+Stagiaire – Data Engineer Big Data domaine Commercial H/F,Air France-KLM,Toulouse (31),vide,"Toulouse (31)
+Stage
+Rattaché(e) au service Center BI et sous la responsabilité de
+votre maître de stage vos principales missions porteront sur plusieurs sujets de stages à l’étude, le choix dépendant des compétences du/de la postulant(e), et des priorités du métier qui seront définies début 2020.
+Néanmoins tous les sujets auront pour point commun la mise en œuvre de la plateforme BigData pour l’analyse des données Commercial Clients Firmes et Agences, pour enrichir :
+Projet Sword : une application fournissant des rapports de vente harmonisés à tous les Directeurs de zone Air France/KLM, aux Directeurs Généraux ainsi qu’à la Planification Commerciale en leur donnant une vue synthétique de leurs performances et de leurs parts de marché. Manipulation de données de domaines fonctionnels très variés (Ventes, Clients Firmes, Parts de marché, Prévisions de réservations…). Utilisation de la méthode Agile Scrum pour le suivi de projet.
+
+Projet Impact : collecte et analyse des données InFlight media Entertainment (IFE) pour fournir à la Direction Marketing, une vue globale de l’utilisation des médias disponibles à bord des avions et ainsi maîtriser le budget annuel.
+
+Vous serez amené(e) à utiliser les outils innovants du Big Data (Java, Spark, Hadoop), des bases de données Sql (Teradata, Oracle), des solutions de visualisation statique (SAP BI4) et dynamique (Spotfire).
+
+Une grande autonomie sera nécessaire dans la réalisation de ce projet, tout en ayant à disposition les contacts utiles en support et conseil.
+
+Les marges de manœuvres seront importantes, avec une place laissée à l’initiative, aux possibilités de propositions supplémentaires tant techniques que fonctionnelles.
+
+Profil recherché
+Vous êtes étudiant(e) en dernière année d'Ecole d'Ingénieur (Bac+5) ou en Master II à l'Université dans le domaine de l’informatique et vous recherchez un stage pour une durée de 6 mois.
+
+Vous avez un gout très prononcé pour les technologies du développement.
+
+Une première expérience académique dans le domaine de la business intelligence en général et des technologies Big Data serait un plus.
+
+Des compétences techniques approfondies seront requises en Java et SQL.
+
+Une bonne aisance en anglais sera également indispensable pour s’intégrer dans un contexte multi-culturel AFKL.
+
+Curiosité, dynamisme, autonomie, sont également des qualités requises pour la réussite de ce stage.
+
+Conformément aux engagements pris par Air France dans son accord 2018-2020 en faveur de l’emploi des personnes en situation de handicap, nos contrats sont ouverts à tous.
+Type de contrat
+Convention de stage
+Durée du contrat (mois) :
+6 mois
+Date de prise de poste souhaitée
+03/02/2020
+Temps partiel possible
+Non
+Type d'horaires
+Administratif
+Profil candidat
+Spécialisation
+SYSTEMES D'INFORMATION
+Niveau d'études min. requis
+Bac + 5 et plus / 3ème année grande école
+Langue
+Anglais (3 - Confirmé)
+Localisation du poste
+Localisation du poste
+France, Occitanie, Haute Garonne (31)
+Site
+5 AVENUE MAXWELL - 31109 TOULOUSE CEDEX 9
+il y a 4 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",10/10/2019,Big_data,Toulouse,14/10/2019,vjk=b912e28a0a0e819b,vide,stage
+Stage Big Data / Data Science Transport Aérien F/H,Viseo,Toulouse (31),vide,"Toulouse (31)
+Stage, Apprentissage, Contrat pro
+Votre mission
+Contexte :
+
+Pour notre client, un acteur majeur du transport aérien, nous avons mis en oeuvre et industrialisé un algorithme de rapprochement de données complexes et volumineuses. Celui-ci s’appuie sur les techniques standards du « record linkage » telles que l’indexation par clés multiples, le « matching » déterministe, des algorithmes de calcul de similarité (Distance de Levenshtein, Jaro Winkler). Ce traitement de rapprochement s’appuie sur des technologies Big Data : Hadoop, Spark & Spark GraphX.
+
+C’est dans ce contexte que l’étudiant(e) rejoindra l’équipe VISEO DATA & ANALYTICS afin de réaliser son stage de fin d’études.
+
+Sujet de Stage :
+
+Le périmètre du stage concerne les phases de comparaison et de classification sur laquelle nous souhaitons apporter des améliorations. Cette étape consiste actuellement à effectuer des comparaisons en se basant sur des règles essentiellement déterministes. Des tests ont été effectués pour compléter les règles existantes en utilisant une approche probabiliste. L’objectif de ce stage est d’approfondir cette approche et de l’implémenter dans le moteur existant.
+
+Plusieurs tâches ont été identifiées :
+
+Améliorer l’algorithme de comparaison en introduisant des règles probabilistes.
+Améliorer le jeu de test et identifier les critères d’évaluation de l’algorithme.
+Identifier d’autres techniques de comparaison (machine learning, deep learning, etc)
+
+Dans le cadre de son stage, l’étudiant(e) devra :
+
+Implémenter l’approche probabiliste et comparer les résultats obtenus avec l’algorithme existant.
+Proposer d’autres techniques et éventuellement évaluer celles qui semblent les plus pertinentes.
+
+Prérequis techniques :
+
+Connaissances en Big Data : Hadoop, HDFS, Spark 2
+Un des langages suivants : Java (framework Spark), python.
+Autres : librairies de machine learning (spark ML, Scikit-learn, etc).
+Langues : Français, Anglais technique
+Votre profil
+Le stagiaire doit posséder de bonnes connaissances mathématique et informatique et être capable de les implémenter sur des données réelles. La connaissance des technologies Big Data est un plus.
+
+Rigoureux(se), le/la stagiaire sera capable d’appliquer les connaissances acquises lors de sa formation.
+
+Curieux(se), il/elle sera force de proposition pour soumettre différentes solutions et en mettre en oeuvre une ou plusieurs.
+
+Une montée en compétences sur les technologies utilisées sera proposée si nécessaire.
+il y a 5 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",09/10/2019,Big_data,Toulouse,14/10/2019,vjk=a40c75d184e22daf,vide,stage
+Administrateur composants big data - (H/F),APSIDE,Toulouse (31),vide,"Toulouse (31)
+Le poste :
+Voici les composantes de cette mission dans le tertiaire :
+– Mise en oeuvre, paramétrage, interfaçage, montée de versions des composants HDP/HDF
+– Industrialisation des composants de la plateforme Big Data
+– Sécurisation (par exemple : usage de Knox, Kerberos, chiffrement des échanges entre les datanodes, …)
+Notre collaborateur assurera notamment :
+– Une contribution et une force de propositions via des échanges avec les architectes de la solution.
+– Une mise en oeuvre dans les respects des processus existants du service (ITIL)
+– la remontée d’alertes le cas échéant (dysfonctionnement, retard, anomalies diverses)
+– la gestion des incidents et problèmes auprès du support IBM ou Hortonworks/Cloudera
+– le reporting des actions réalisées
+– l’identification des actions devant être menées
+– La constitution -puis le maintien à jour :
+— Des documents (méthodologie et bonnes pratiques, nomenclature)
+— Des outils (référentiels)
+– Suivi et adaptation le cas échéant des paramètres composants et/ou socle impactant le fonctionnement ou la performance de la plateforme
+– Définition des scripts et ordonnancements des traitements nécessaires au maintien en conditions opérationnelles : servitudes (check de l’état du HDFS, suivi de la croissance namenode, blocks consommés et corrompus, etc.), sauvegardes, export, import, …
+– Mise en oeuvre des mécanismes d’export et/ou de sauvegarde des données, dans les formats adéquats
+– Maintien en conditions opérationnelles du SGBD-R associé : PostgreSQL
+– Identification des besoins en surveillance et mise en oeuvre (ou suivi de la mise en oeuvre)
+– Définition et mise en oeuvre des scripts de Sauvegarde / Restauration en cas de corruption des données
+– Force de proposition sur les solutions installées ou celles pouvant être apportées pour améliorer le service rendu
+– Des interventions en HNO et une contribution aux astreintes pourront être nécessaires dans certaines périodes de déploiement de projets Métiers
+Votre profil :
+Peu importe les diplômes ! Tant que vous avez une expérience dans l’informatique et que vous maîtrisez les technos suivantes, je serai ravi de faire le point avec vous :
+Kerberos / Knox / Composants HDP/HDF / PostgreSQL / Scripting / Hortonworks / Cloudera
+Nous rejoindre :
+Et si Apside devenait votre futur employeur
+ESN singulière par son histoire et son fonctionnement, Apside trouve son succès dans la place qu’elle accorde à ses collaborateurs, ses valeurs, et sa projection à long terme.
+Intégrer Apside, c’est bénéficier d’une gestion RH personnalisée :
+– Un management de proximité : suivis de mission réguliers, entretiens de carrière bi-annuels.
+– Des réunions d’agence trimestrielles, soirée de fin d’année.
+– Une gestion de carrière adaptée : formations techniques, fonctionnelles, linguistiques, en interne ou externe, cellules d’experts, conférences.
+APSIDE de par son organisation, sa culture d’entreprise et son indépendance sait rester à l’écoute et répondre à ses clients par la qualité de ses prestations qui repose sur l’aptitude de ses collaborateurs.
+Vous souhaitez donner un nouvel élan à votre carrière
+Ne cherchez plus, faites partie des 900 collaborateurs qui rejoindront Apside en 2018 !
+Les Modalités :
+Temps plein en CDI
+il y a 5 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",09/10/2019,Big_data,Toulouse,14/10/2019,vjk=6410689a195bcd22,vide,cdi
+Big Data – Analyse de données d’essais H/F,Groupe SII,Toulouse (31),vide,"Toulouse (31)
+Description du poste :
+Au sein du Département Aéronautique dans l’équipe Bureau d’études Commandes de vol, le/la stagiaire devra mettre au point un environnement et un algorithme de pré-analyse des résultats pour optimiser les campagnes de validation formelle.
+
+L’objectif de ce stage est d’optimiser les campagnes de validation formelle sur moyens de tests simulés et réels.
+Vos missions seront :
+Collecter, comprendre et analyser les données issues des essais ;
+Réalisation d’un état de l’art des solutions possibles ;
+Réalisation d’un outil adapté au besoin des équipes ;
+Promouvoir ses études, travaux et résultats auprès de l’entreprise.
+Profil:
+Dynamisme, Confiance, Innovation et Autonomie sont nos leitmotivs !
+Intégrer SII Sud-Ouest (800 collaborateurs), c’est travailler sur des sujets innovants avec des #Fungénieurs créatifs. Pour nous, la proximité avec nos collaborateurs est une de nos priorités.
+Pour accompagner votre carrière, nous vous proposons d’être membre d’une communauté technique correspondant à vos centres d’intérêts : «Big Data», «Front-end IHM», «Back end – Architecture logicielle», «Sécurité, architecture technique, devops », «Aéronautique» ou «Simulation, Modélisation».
+N’attendez plus, rejoignez le mouvement #Fungénieur : Bien plus qu’un métier, une philosophie !
+Compétences :
+Vous êtes issu(e) d’une Ecole d’Ingénieur en dernière année d’études ou d’une formation universitaire Bac +5 avec une spécialité en informatique.
+Des connaissances en Big data sont nécessaires et des connaissances du milieu aéronautique constituent des plus.
+Le(la) candidat(e) idéal(e) dispose de compétences ou notions sur les techniques suivantes:
+Algorithmes de Data Mining ;
+Gestion de Base de données ;
+Langage de programmation orienté Data Science tels que R ou Python ;
+Systèmes avioniques.
+Vous êtes autonome, proactif(ve) et rigoureux(se). Vous aimez le travail en équipe. Vous disposez de la pédagogie nécessaire pour expliquer et vulgariser ses travaux auprès d’interlocuteurs Métier.
+Référence de l’annonce :
+DST/ASE/BIGDATA
+Expérience:
+Indifférent
+Qualification:
+Consultant
+Rémunération:
+
+POSTULER
+il y a 6 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",08/10/2019,Big_data,Toulouse,14/10/2019,vjk=1db4455f5026fcec,vide,stage
+Big Data – Etude ADS-B H/F,Groupe SII,Toulouse (31),vide,"Toulouse (31)
+Description du poste :
+Dans notre Département Aéronautique, vous interviendrez au sein du projet dans les mêmes conditions qu’un ingénieur SII. Vous serez encadré(e) par un référent qui est membre de l’équipe projet et travaillerez sous l’autorité du Chef de Projet. Votre référent assurera votre intégration dans l’équipe et vous accompagnera pendant toute la durée de votre stage.
+L’objectif de ce stage est de réaliser une étude de faisabilité sur l’analyse statistique de données ADS-B (données émises par le trafic aérien). Vous accompagnerez les équipes techniques dans la valorisation de leurs activités avec des solutions orientées études et réalisation. Pendant la durée du stage, vous réaliserez les activités listées ci-dessous :
+Décoder et formater des données issues d’un récepteur ADS-B ;
+Définir l’architecture et le dimensionnement d’une base de données permettant de stocker ces données ;
+Chiffrer l’installation d’un serveur pour cette base de données ;
+Réaliser la base de données ;
+Développer et mettre en place un outil de traitement des données ;
+Réaliser une étude sur le trafic aérien de la région toulousaine ;
+Promouvoir ses études, travaux et résultats auprès de l’entreprise.
+Profil:
+Dynamisme, Confiance, Innovation et Autonomie sont nos leitmotivs !
+Intégrer SII Sud-Ouest (800 collaborateurs), c’est travailler sur des sujets innovants avec des #Fungénieurs créatifs. Pour nous, la proximité avec nos collaborateurs est une de nos priorités.
+Pour accompagner votre carrière, nous vous proposons d’être membre d’une communauté technique correspondant à vos centres d’intérêts : «Big Data», «Front-end IHM», «Back end – Architecture logicielle», «Sécurité, architecture technique, devops », «Aéronautique» ou «Simulation, Modélisation».
+N’attendez plus, rejoignez le mouvement #Fungénieur : Bien plus qu’un métier, une philosophie !
+Compétences :
+Vous êtes issu(e) d’une école d’ingénieur ou d’une université en dernière année d’études avec une majeure en Data Science.
+Des connaissances du milieu aéronautique constituent un plus.
+Vous êtes autonome, proactif(ve) et rigoureux(se). Vous aimez le travail en équipe. Vous disposez de la pédagogie nécessaire pour expliquer et vulgariser ses travaux auprès d’interlocuteurs Métier.
+Référence de l’annonce :
+DST/ASE/BIGDATAADS
+Expérience:
+Indifférent
+Qualification:
+Consultant
+Rémunération:
+
+POSTULER
+il y a 6 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",08/10/2019,Big_data,Toulouse,14/10/2019,vjk=d812b660141b9f8a,vide,stage
+"POSTE EN STAGE, DEVELOPPEUR LOGICIEL BIG DATA (h/f)",Airbus,Toulouse (31),vide,"Toulouse (31)
+Stage
+AIRBUS SAS
+Airbus est un leader mondial de l'aéronautique, de l'espace et des services associés. En 2018, le groupe a publié un chiffre d'affaires de 64 milliards d'euros, avec un effectif d'environ 134 000 personnes. Airbus propose la famille d'avions de ligne la plus complète qui soit. Airbus est, en outre, le leader européen dans le domaine des avions de mission, de ravitaillement en vol, de combat, et de transport. Par ailleurs, l'entreprise est également un leader de l'industrie spatiale. Enfin, dans le domaine des hélicoptères, Airbus propose les solutions civiles et militaires les plus performantes au monde.
+
+Nos équipes travaillent avec passion et détermination pour faire du monde un endroit plus connecté, plus sûr et plus intelligent. Fiers de notre travail, nous nous appuyons sur l'expertise et l'expérience de chacun pour atteindre l'excellence. Notre diversité et culture du travail en équipe nous poussent à accomplir l'extraordinaire - sur terre, dans le ciel et dans l'espace.
+Description de l'offre
+Descriptif du poste:
+Et si VOTRE aventure commençait avec NOUS !
+Dans le cadre d'un cursus scolaire en formation initiale, vous recherchez un , d'une durée allant de 6 mois maximum, vous permettant de valider votre année.
+Nous vous proposons de travailler dans une entreprise leader mondial dans son domaine, tournée vers le digital, à la pointe de la recherche et de l’innovation.
+Une offre de stage en Développement Logiciel Big Data (h/f) vient de s'ouvrir au sein d’Airbus sur notre site de Toulouse – Site Copernic.
+Ce stage est à pourvoir à partir du mois de Janvier 2020 (date sujette à une certaine flexibilité)
+Vous rejoindrez le département «Data Govenance for Support and Services ».
+Dans le cadre de Skywise, nous capturons les informations de configuration de l'avion à partir des systèmes d'information des compagnies aériennes, et même de l'avion lui-même. Nous devons comparer ces informations avec la configuration de l'avion telle qu'elle est connue par Airbus.
+L'objectif du stage serait de développer des outils dans la Fonderie Skywise afin de :
+Comparer les données de configuration d'aéronefs provenant de différentes sources
+Faciliter et soutenir l'analyse des divergences identifiées
+Tâches et responsabilités :
+Vous serez sous la responsabilité d’un manager qui vous aidera à identifier vos objectifs professionnels et vous soutiendra dans le développement de vos compétences.
+Dans ce contexte, vos principales activités seront les suivantes :
+Analyser des données de Configuration Avion provenant de différentes sources d’un point de vue fonctionnel
+Développer des outils d’analyse de ces données dans la plate-forme Skywise
+Profil recherché et Compétences requises:
+Vous préparez un diplôme de niveau Bac +5, en formation informatique ou équivalent, et vous avez les compétences suivantes :
+Anglais : Niveau intermédiaire
+Français : Niveau intermédiaire
+Vous avez une bonne connaissance des statistiques, de la technologie des bases de données, de la modélisation des données.
+Vous êtes capable d'utiliser efficacement des outils tels que Python
+Un vif intérêt pour le Big Data, le métier aéronautique, le travail dans un environnement international, challenging techniquement, orienté vers le client.
+Savoir-être :
+Rigoureux (se), curieux (se) et autonome
+Doté (e) d’un sens relationnel et bonne capacité de communication
+Capacité d'intégration dans une équipe et souplesse d'adaptation
+Aptitude d’analyse et de synthèse
+et pourvu(e) d’esprit d’équipe.
+Vous pourrez, selon les offres proposées, être amené(e) à vous déplacer.
+Si votre profil retient notre attention, vous serez invité à réaliser un entretien vidéo au cours duquel vous aurez quelques minutes pour nous convaincre. Par la suite, votre candidature pourra être proposée aux managers.
+Si la perspective de rejoindre notre Groupe innovant vous motive ? N’hésitez pas ! Postulez en ligne ! www.airbus.com/careers
+
+Ce poste exige une connaissance des risques potentiels de non-conformité. Le/la titulaire s’engage à agir avec intégrité, fondement du succès, de la réputation et de la croissance durable de la Société.
+
+En soumettant votre CV ou votre candidature, vous autorisez Airbus à utiliser et stocker des informations vous concernant à des fins de suivi de votre candidature ou de futurs emplois. Ces informations ne seront utilisées que par Airbus.
+Airbus s’engage pour la Diversité. Nous encourageons toutes les candidatures indépendamment de l’origine sociale et culturelle, de l’âge, du genre, du handicap, de l’orientation sexuelle ou des croyances religieuses.
+il y a 11 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",03/10/2019,Big_data,Toulouse,14/10/2019,vjk=87c2dfd87f5c0c63,vide,stage
+Stage Big Data / Data Science Retail F/H,VISEO,Toulouse (31),vide,"Toulouse (31)
+Temps plein, Stage
+Notre Entreprise
+Le Groupe VISEO (2000 salariés), spécialiste des systèmes d'informations depuis 20 ans, partenaire des éditeurs leaders de ce marché propose à ses consultants des carrières évolutives et variées basées sur une politique de formation et de parrainage.
+
+L'offre DATA de VISEO est portée par un réseau de consultants qui assurent la conduite des projets décisionnels de bout en bout, en outillant la démarche de supports méthodologiques et de prototypes. Ils se distinguent à la fois par une solide expertise et une triple compétence technique, fonctionnelle et organisationnelle. Vous souhaitez évoluer avec un acteur spécialisé et développer votre savoir-faire avec des experts du décisionnel. Rencontrons-nous !
+
+VISEO DATA Sud-Ouest, c'est :
+Plus de 70 consultants spécialistes de la DATA
+Des projets multiples, adressant des secteurs d'activités et des métiers variés
+De la diversité technologique
+Du travail en équipe
+Un management de proximité
+De nombreuses formations/certifications
+
+Contexte
+Un de nos clients, un acteur mondial du retail, dispose d'un datalake contenant une quantité
+importante de données. Celles-ci sont majoritairement exploitées à l'aide d'outils de Dataviz. Il
+souhaite désormais lancer une étude sur différents sujets à l'aide des techniques et technologies de
+machine learning afin d'effectuer des prédictions.
+
+Sujet du stage
+Plusieurs sujets ont été identifiés et seront traités tout ou en partie par le stagiaire. Parmi ceux-ci
+nous pouvons citer :
+Prédiction : mise en place d'un outil capable d'estimer le nombre de vendeurs(ses) qu'il sera nécessaire de solliciter dans les prochaines semaines pour chacune des boutiques. L'outil s'appuiera sur les ventes par boutiques sur plusieurs années et si nécessaire pas des informations complémentaires (calendrier, vacances scolaires, météo).
+Analyse sémantique : analyse des avis laissés par les clients afin d'identifier les sentiments émis vis-à-vis des produits.
+Les données sont présentes dans une base de données Cloud (Snowflake). Le choix des outils mis à
+disposition pour fabriquer le modèle n'est pas encore totalement arrêté mais il reposera sur une (ou
+plusieurs) des solutions suivantes : une solution packagée de Machine Learning (Knime, Dataiku,
+Alteryx, etc), Spark ML, Python/Anaconda
+
+Le stage se déroulera dans les locaux de VISEO sur une période de 5 à 6 mois.
+
+Prérequis techniques :
+Base de données (SQL).
+Spark SQL + ML.
+Python et différentes librairies de machine learning.
+Langues : Français, Anglais technique
+
+Votre profil
+Le stagiaire doit posséder de bonnes connaissances sur les techniques de machine learning et en
+interrogation de base de données (SQL).
+Rigoureux, le stagiaire sera capable d'appliquer les connaissances acquises lors de sa formation.
+OYHB452lap
+il y a 11 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",03/10/2019,Big_data,Toulouse,14/10/2019,vjk=682bc77a4f4f7482,vide,stage
+BIG DATA - ETUDE ADS-B (H/F),sii,Toulouse (31),vide,"Toulouse (31)
+Description du poste :
+dans notre département aéronautique, vous interviendrez au sein du projet dans les mêmes conditions qu'un ingénieur sii. vous serez encadré(e) par un référent qui est membre de l'équipe projet et travaillerez sous l'autorité du chef de projet. votre référent assurera votre intégration dans l'équipe et vous accompagnera pendant toute la durée de votre stage.
+
+l'objectif de ce stage est de réaliser une étude de faisabilité sur l'analyse statistique de données ads-b (données émises par le trafic aérien). vous accompagnerez les équipes techniques dans la valorisation de leurs activités avec des solutions orientées études et réalisation. pendant la durée du stage, vous réaliserez les activités listées ci-dessous :
+
+décoder et formater des données issues d'un récepteur ads-b ;
+définir l'architecture et le dimensionnement d'une base de données permettant de stocker ces données ;
+chiffrer l'installation d'un serveur pour cette base de données ;
+réaliser la base de données ;
+développer et mettre en place un outil de traitement des données ;
+réaliser une étude sur le trafic aérien de la région toulousaine ;
+promouvoir ses études, travaux et résultats auprès de l'entreprise.
+
+Description de l'entreprise :
+dynamisme, confiance, innovation et autonomie sont nos leitmotivs !
+
+intégrer sii sud-ouest (800 collaborateurs), c'est travailler sur des sujets innovants avec des #fungénieurs créatifs. pour nous, la proximité avec nos collaborateurs est une de nos priorités.
+
+pour accompagner votre carrière, nous vous proposons d'être membre d'une communauté technique correspondant à vos centres d'intérêts : «big data», «front-end ihm», «back end – architecture logicielle», «sécurité, architecture technique, devops », «aéronautique» ou «simulation, modélisation».
+
+n'attendez plus, rejoignez le mouvement #fungénieur : bien plus qu'un métier, une philosophie !
+
+Informations complémentaires :Compétences :
+vous êtes issu(e) d'une école d'ingénieur ou d'une université en dernière année d'études avec une majeure en data science.
+
+des connaissances du milieu aéronautique constituent un plus.
+
+vous êtes autonome, proactif(ve) et rigoureux(se). vous aimez le travail en équipe. vous disposez de la pédagogie nécessaire pour expliquer et vulgariser ses travaux auprès d'interlocuteurs métier.
+JobinTree - il y a 4 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",10/10/2019,Big_data,Toulouse,14/10/2019,vjk=d032bb22fddb5688&advn=7736870941523477,vide,stage
+BIG DATA - ANALYSE DE DONNÉES DESSAIS (H/F),sii,Toulouse (31),vide,"Toulouse (31)
+Description du poste :
+au sein du département aéronautique dans l'équipe bureau d'études commandes de vol, le/la stagiaire devra mettre au point un environnement et un algorithme de pré-analyse des résultats pour optimiser les campagnes de validation formelle.
+
+l'objectif de ce stage est d'optimiser les campagnes de validation formelle sur moyens de tests simulés et réels.
+
+vos missions seront :
+collecter, comprendre et analyser les données issues des essais ;
+réalisation d'un état de l'art des solutions possibles ;
+réalisation d'un outil adapté au besoin des équipes ;
+promouvoir ses études, travaux et résultats auprès de l'entreprise.
+
+Description de l'entreprise :
+dynamisme, confiance, innovation et autonomie sont nos leitmotivs !
+
+intégrer sii sud-ouest (800 collaborateurs), c'est travailler sur des sujets innovants avec des #fungénieurs créatifs. pour nous, la proximité avec nos collaborateurs est une de nos priorités.
+
+pour accompagner votre carrière, nous vous proposons d'être membre d'une communauté technique correspondant à vos centres d'intérêts : «big data», «front-end ihm», «back end – architecture logicielle», «sécurité, architecture technique, devops », «aéronautique» ou «simulation, modélisation».
+
+n'attendez plus, rejoignez le mouvement #fungénieur : bien plus qu'un métier, une philosophie !
+
+Informations complémentaires :Compétences :
+vous êtes issu(e) d'une ecole d'ingénieur en dernière année d'études ou d'une formation universitaire bac +5 avec une spécialité en informatique.
+
+des connaissances en big data sont nécessaires et des connaissances du milieu aéronautique constituent des plus.
+
+le(la) candidat(e) idéal(e) dispose de compétences ou notions sur les techniques suivantes:
+
+algorithmes de data mining ;
+gestion de base de données ;
+langage de programmation orienté data science tels que r ou python ;
+systèmes avioniques.
+
+vous êtes autonome, proactif(ve) et rigoureux(se). vous aimez le travail en équipe. vous disposez de la pédagogie nécessaire pour expliquer et vulgariser ses travaux auprès d'interlocuteurs métier.
+JobinTree - il y a 4 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",10/10/2019,Big_data,Toulouse,14/10/2019,vjk=1bbb56f93e3bfe3d&advn=7736870941523477,vide,stage
+Stage-Consultant Big Data H/F-Toulouse,Capgemini,Occitanie,vide,"Occitanie
+Stage
+Description de l'entreprise
+Capgemini est un leader mondial du conseil, des services informatiques et de la transformation numérique. A la pointe de l’innovation, le Groupe aide ses clients à saisir l’ensemble des opportunités que présentent le cloud, le digital et les plateformes. Fort de 50 ans d’expérience et d’une grande expertise des différents secteurs d’activité, il accompagne les entreprises et organisations dans la réalisation de leurs ambitions, de la définition de leur stratégie à la mise en œuvre de leurs opérations. Pour Capgemini, ce sont les hommes et les femmes qui donnent toute sa valeur à la technologie. Résolument multiculturel, le Groupe compte 200 000 collaborateurs présents dans plus de 40 pays. Il a réalisé un chiffre d'affaires de 12,8 milliards d'euros en 2017.
+
+Intégré au sein de notre Pôle d'Excellence Toulouse, Business Information / Big Data & Analytics, tu participeras à aider nos clients à construire ou à transformer leur stratégie de gestion de l'information structurée et non structurée et évolueras au sein d'un marché passionnant, innovant et en pleine explosion.
+Plus d’informations sur www.capgemini.com. People matter, results count.
+Description de la mission
+Intégré à l'une de nos équipes projets, tu participeras à :
+la définition, la mise en œuvre et l'exploitation de plateformes Big data,
+la réalisation des différentes phases d'un projet (acquisition des données, stockage, analyse, data visualisation...)
+l'alimentation d'outils opérationnels liés à l'activité du client.
+Profil
+Tu prépares un diplôme de Bac+ 5 en informatique et :
+tu as un profil technique (Java /Hadoop, R, Python, Cloudera, Hortonworks),
+tu disposes de connaissances en bases de données SQL, NoSQL,
+tu apprécies le travail en équipe,
+es autonome et rigoureux(se),
+tu maîtrises l'anglais.
+Tu travailleras dans un environnement technique et fonctionnel de haut niveau, basé sur des engagements forts et acquerras la visibilité complète d'un projet de développement.
+Stage de pré-embauche ou pré-alternance.
+Tu peux postuler directement en envoyant ta candidature à l'adresse suivante : recrutement.ts.fr@capgemini.com
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/09/2019,Big_data,Toulouse,14/10/2019,vjk=d05da68800d241ec,vide,stage
+Stage Ingénieur système avion HUD et analyse Big Data H/F,Expleo,Toulouse (31),vide,"Toulouse (31)
+Stage
+Aéronautique
+Midi-Pyrénées - TOULOUSEStage
+2019-2384
+Qui sommes-nous ?
+Expleo propose une offre unique de services intégrés d'ingénierie, qualité et conseil stratégique pour la transformation digitale. Dans un contexte d'accélération technologique sans précédent, nous sommes le partenaire de confiance des entreprises qui innovent.
+Expleo est présent dans tous les secteurs à forte intensité technologique qui contribuent à une société plus connectée, plus durable et plus sûre. Nous nous appuyons sur une forte expertise sectorielle et accompagnons nos clients sur l'ensemble de la chaîne de valeur : conseil et business agility, conception, production et services post développement, management de la qualité.
+Nos 15 000 collaborateurs interviennent dans plus de 25 pays et nous avons réalisé un chiffre d'affaires de 1,1 milliard d'euros en 2018.
+
+Votre future mission
+Pourquoi nous rejoindre ?
+
+Nous sommes un incubateur de talents. Chez Expleo, le nouveau nom d’Assystem Technologies, vous accélérez votre carrière. Vous relevez des défis techniques complexes et élargissez votre champ de compétences. Vous collaborez à des projets inspirants avec des experts de tous horizons : véhicule autonome, avion à faible empreinte écologique, usine de demain ou technologies bancaires de pointe. Chez Expleo, laissez votre audace s’exprimer. Ensemble, changeons la donne.
+
+Notre offre de stage
+
+L’Equipe et ses missions :
+EXPLEO intervient sur les essais d’intégration du système de vision tête haute (Head Up Display). Nous vous proposons d’y contribuer en accompagnant une équipe en place. L’étude portera sur la piste synthétique affichée sur ce système, utilisée pour les atterrissages, notamment à faible visibilité. Le but sera de poursuivre une étude réalisée et de mettre en place une nouvelle solution pour en analyser les performances.
+
+Missions / étapes du stage :
+Intégré au sein de l’équipe et rattaché à un tuteur expérimenté, le stagiaire réalisera les activités suivantes:
+
+Définition d’indicateurs chiffrés de performances de la piste synthétique, et application de ces indicateurs sur une grande quantité de données disponibles
+Définition et mise en place d’une méthode permettant de retrouver les paramètres d’entrées à partir d’un affichage donné
+Extension de ces méthodes à d’autres affichages
+Les analyses seront réalisées sur un volume conséquent de données, l’étude fera appel à des méthodes big data et data science.
+
+Ce qui vous différencie
+Niveau de formation : Bac +5
+
+Domaine de spécialisation : Aéronautique, Systèmes, Informatique
+
+Informatique, logiciels : Python, approches big data, data science
+
+Langue : Français & Anglais avancé
+
+Compétences particulières : Capacité d’analyse, esprit de synthèse, autonomie, esprit innovant
+
+Partager cette offre
+
+postuler à cette offre
+il y a 12 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",02/10/2019,Big_data,Toulouse,14/10/2019,vjk=65b81e1754cd0f32,vide,stage
+"INTERNSHIP POSITION, BIG DATA SOFTWARE DEVELOPER (M/F)",Airbus,Toulouse (31),vide,"Toulouse (31)
+Temps plein, Stage
+AIRBUS SAS
+Airbus is a global leader in aeronautics, space and related services. In 2018 it generated revenues of € 64 billion and employed a workforce of around 134,000. Airbus offers the most comprehensive range of passenger airliners. Airbus is also a European leader providing tanker, combat, transport and mission aircraft, as well as one of the world's leading space companies. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions worldwide.
+
+Our people work with passion and determination to make the world a more connected, safer and smarter place. Taking pride in our work, we draw on each other's expertise and experience to achieve excellence. Our diversity and teamwork culture propel us to accomplish the extraordinary - on the ground, in the sky and in space.
+Job Description
+Job Description:
+What if YOU starts your journey with US!
+As part of a school curriculum in initial training, you are looking for a mandatory internship or integrated into a gap year, that will allow you to validate your studies. The internship duration is 6 months maximum.
+We offer you to work in a world-leading company which is at the heart of a digital transformation, at the cutting edge of research and innovation.
+We are looking for Big Data Software Developer (m/f) who will be joining us at Airbus site in Toulouse – Site Copernic.
+This internship is to be filled from January 2020 (the dates are subject to a certain flexibility)
+You will be joining the department « Data Govenance for Support and Services ».
+In the frame of Skywise, we capture aircraft configuration information from the airline information systems, and even from the Aircraft itself. We need to compare this information with the aircraft configuration as known by Airbus.
+The objective of the internship would be to develop tools in the Skywise Foundry in order to:
+Compare aircraft configuration data from different sources
+Ease and support the analysis of the identified discrepancies
+Tasks and Responsibilities :
+You will be working under the supervision of your manager who will help you identify your professional objectives and support you in the development of your skills.
+Your main activities will include:
+Analysing configuration data from various source from a functional point of view
+Designing and implementing software tools in the Skywise environment based on this analysis
+Required skills:
+You are preparing a diploma level Bac +5, in Computer training or equivalent, and you obtain following competences:
+English: Intermediate Level
+French: Intermediate Level
+You have a good knowledge of Statistics, Database technology, Data Modelling
+You are able to use proficiently such tools as Python
+You are interested in big data, the aeronautic business, working in an international, technically challenging, customer-oriented context
+Soft skills:
+Rigorous, curious and autonomous
+Obtain good interpersonal and communication skills
+Able to integrate into team and be a flexible team player
+Have organizational skills
+Able to analyze and synthesize information
+Depending on the specifics of the offer, you may have to travel to another locations.
+If your profile catches our attention, you will be invited to perform a video interview during which you will have a few minutes to tell us about your background, motivations and your professional project. Afterwards, your application could be proposed to the managers for further review.
+If the prospect of joining our innovative Group motivates you do not hesitate and apply online on our website www.airbus.com/careers!
+
+This job requires an awareness of any potential compliance risks and a commitment to act with integrity, as the foundation for the Company’s success, reputation and sustainable growth.
+
+By submitting your CV or application you are consenting to Airbus using and storing information about you for monitoring purposes relating to your application or future employment. This information will only be used by Airbus.
+Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief.
+il y a 11 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",03/10/2019,Big_data,Toulouse,14/10/2019,vjk=c22c9a1b836210cd,vide,stage
+Jeune Docteur – Data Science / IA / Big Data H/F,Berger-Levrault,Labège (31),vide,"Labège (31)
+CDI
+BERGER-LEVRAULT est éditeur de logiciels international, historiquement éditeur-imprimeur, fondé il y a plus de 400 ans pour accompagner les professionnels publics, privés et les usagers dans leur vie quotidienne.
+
+Le groupe étend son expertise métier dans les domaines des ressources humaines, de la gestion financière, de la gestion de la maintenance des infrastructures, ainsi que des solutions spécifiques destinées aux citoyens, aux établissements scolaires et de santé. BERGER-LEVRAULT c'est 1700 collaborateurs réunis autour de plusieurs marques (Carl-Software, Aytos, Segilog, LibreAir, Sigems, Infosilem...) à l'international (France, Canada, Espagne, Maroc, Italie, Belgique) avec plus 51 000 clients et 25% de son chiffre d'affaires investi dans la Recherche & Développement.
+
+Si vous souhaitez intégrer une entreprise pérenne et en pleine croissance, avec une culture fondée sur le renouvellement et des valeurs qui placent incontestablement l'humain au cœur de l'entreprise…
+
+Alors rejoignez-nous et venez vivre l'odyssée Berger-Levrault !
+Référence
+2019-282
+Catégorie de l'offre
+Standard
+Description du poste
+Intitulé du poste
+Jeune Docteur – Data Science / IA / Big Data H/F
+Contrat
+CDI
+Description de la mission
+Nos outils de gestion stockent et structurent l’information des nos processus, de nos ressources, de nos patrimoines financiers et immobiliers. En quelque sorte, ils embarquent des données nous permettant d’avoir une vision parcellaire du réel, de notre monde. Berger-Levrault met à disposition des collectivités locales ce type d’outil depuis maintenant plusieurs décennies.
+Les phénomènes physiques et sociaux sont néanmoins complexes et les données que nous collectons permette parfois de constater des phénomènes surprenants qui guident l’investigation et les processus décisionnels. Par exemple, dans certaines situations nous observons empiriquement que des phénomènes sont corrélés. Par exemple, dans le domaine des ressources humaines, que le nombre d’absence pour un individu est corrélé au volume d’heure supplémentaires effectués. Ce type de constat, extrêmement informatif, permet de prévoir, piloter, gérer les effectifs d’une organisation.
+De la même manière le processus administratifs sont sujets à des anomalies qui induisent des situations non anticipées et ralentissent les organisations. Par exemple, des erreurs peuvent s’insérer dans les bulletins de paies à cause de fautes ou d’oubli de saisie manuelle, des données comptables peuvent être enregistrées en double, des dossiers citoyens dupliqués ou incorrects. Dans le cas de l’administration publique, ces cas d’anomalies, bien qu’à la marge, diminuent considérablement la qualité de service rendue au citoyen et créer une surcharge pour les agents territoriaux.
+Pour pallier à ces problèmes nous bénéficions à ce jour d’une quantité de techniques d’analyse des données qui permettent de détecter des anomalies, des fraudes, des doublons, etc. Les méthodes d’apprentissage machine (supervisées et non supervisées) peuvent rendre de grands services et assister les agents dans la détection des données à la marge de la norme.
+De la même manière, la Robotisation des Processus Automatisé (RPA) promet une révolution non négligeable dans le domaine du back-office et ouvre le champs à l’intégration de mécanismes d’intelligence augmentée.
+Dans ce cadre, le travail proposé se traduira sous la forme de diverses expérimentations impliquant de l’IA, du RPA, du traitement de données à large échelle sur la totalité des secteurs d’activité de Berger-Levrault. D’un point de vue scientifique, Il sera nécessaire de travailler à la fiabilité ainsi qu’à l’explicabilité des méthodes de traitements proposées.
+
+Profil requis
+En tant que Jeune Docteur (premier CDI après l’obtention du Doctorat), vous intégrerez les équipes de R&D du Groupe Berger Levrault au sein de la Direction de le Recherche et de l’Innovation. Dans ce cadre vous intégrerez une équipe de scientifiques, doctorants, ingénieurs et docteurs en informatique travaillant sur des sujets divers.
+Vos premières missions seront les suivantes :
+Vous implémentez des prototypes de solutions exploitant du machine-learning
+Vous créez et implémentez des démonstrateurs de ces prototypes sous la forme d’applications web
+Vous mettez en place une solution de collecte, stockage, administrations des données
+Vous encadrez des stagiaires et collaborez avec des doctorants dans le cadre de vos missions
+Vous interagissez avec nos experts métiers pour identifier les croisements et corrélations pertinentes à réaliser
+Vous serez impliqué sur des programmes de R&D ambitieux avec nos multiples partenaires universitaires
+Vous participerez également activement à la vie de l’équipe de Recherche et Innovation (15-20 personnes), via la participation à des séminaires scientifiques, des opérations de valorisation/communication en interne et en externe, des publications scientifiques, et la rédaction de rapports.
+Compétences requises
+o Maîtrise des techniques de machine learning (SVM, XGboost, Random forest, etc.) et de deep-learning (RNN, CNN, etc.)
+o Maîtrise d’un framework de machine learning (scikit-learn, keras, tensorflow, h2o, etc.) et des outils de traitement des données (panda,
+o Bonnes connaissances en développement web (Javascript, REST, HTML, CSS)
+o Goût très prononcé pour la programmation (e.g. Python, C#, Java, etc.)
+o Bonne capacité à rédiger et à communiquer en Anglais et en Français.
+Compétences souhaitées
+o Des connaissances en base de données structurées et non structurées
+o Connaissances en architecture logicielle
+Venez rejoindre notre équipe de chercheurs et participer dans un cadre industriel au futur de nos produits et à la mise en œuvre de l’état de l’art scientifique et technique dans des applications concrètes.
+Critères candidat
+Niveau d'études min. requis
+6- Doctorat
+Niveau d'expérience min. requis
+Inférieur à 2 ans
+Langues
+Français (C2 - Maîtrise)
+Anglais (C1 - Autonome)
+Localisation du poste
+Localisation du poste
+France, Occitanie, Haute Garonne (31)
+Lieu
+Labège
+il y a 13 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",01/10/2019,Big_data,Toulouse,14/10/2019,vjk=3faa1720bb985480,vide,cdi
+Consultant Big Data F/H,SCALIAN,Toulouse (31),vide,"Toulouse (31)
+CDI
+Vous êtes Consultant Big Data H/F ou vous souhaitez le devenir !
+
+En tant que consultant, vous interviendrez chez nos clients afin de leur apporter vos compétences et expertise et les accompagner dans leurs problématiques autour du Big Data.
+
+Quel sera votre rôle ?
+
+Vous accompagnerez nos clients dans la mise en œuvre de solutions Big Data en utilisant des outils tels que Hadoop et Spark. Vous concevrez et développerez des architectures de données, vous concevrez des algorithmes afin de réaliser les analyses statistiques.
+
+Vous serez force de proposition sur les méthodes statistiques à mettre en œuvre.
+Profil recherché Des connaissances en Big Data et notamment des outils Hadoop et Spark, une connaissance des architectures de données afin de proposer les meilleurs solutions à nos clients, l’envie de monter en compétences et de partager ses compétences au sein de notre communauté interne.
+
+Entreprise Rejoindre Scalian, c'est :
+S'associer
+
+au développement d'un groupe français en croissance (2700 collaborateurs, 190 M CA)
+
+Enrichir
+
+vos expériences humaines et professionnelles au sein de nos 2 pôles d'expertises: Digital Systems et Performance des Opérations
+
+Grandir
+
+grâce au L@b et à ses projets de recherche (drone, RV, RA, simulation, blockchain, ….)
+
+Adopter
+
+une démarche basée sur l'envie d'apprendre et de transmettre tout au long de votre parcours
+
+Evoluer
+
+dans un groupe pérenne du secteur du Conseil et de l'Ingénierie, à taille humaine, en étant accompagné dans la réalisation de vos projets et de vos souhaits de mobilité.
+
+Au sein du pôle Digital Systems
+
+, vous côtoierez nos experts en systèmes embarqués et critiques, en testabilité, en simulation, en informatique scientifique, en IoT, en SI et en solutions digitales.
+
+Au sein du Performance des Opérations,
+
+vous retrouverez nos experts en management de projet, en qualité, en organisation des achats, en contrôle de gestion et en performance industrielle.
+
+L’agence SCALIAN Eurogiciel sur Labège Innopole à Toulouse
+
+focalise son développement sur le pôle Digital Systems et compte 99 collaborateurs.
+
+L’agence SCALIAN Digital Systems Toulouse compte aujourd’hui près de 170 ingénieurs et poursuit sa croissance en accompagnant de grands groupes industriels dans leurs projets innovants.
+Apec.fr - il y a 7 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",07/10/2019,Big_data,Toulouse,14/10/2019,vjk=109c7ec60e694c55,vide,cdi
+"INTERNSHIP POSITION, SUPPORTING BIG DATA FOR REPAIR SOLUTION...",Airbus,Toulouse (31),vide,"Toulouse (31)
+Temps plein, Stage
+AIRBUS SAS
+Airbus is a global leader in aeronautics, space and related services. In 2018 it generated revenues of € 64 billion and employed a workforce of around 134,000. Airbus offers the most comprehensive range of passenger airliners. Airbus is also a European leader providing tanker, combat, transport and mission aircraft, as well as one of the world's leading space companies. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions worldwide.
+
+Our people work with passion and determination to make the world a more connected, safer and smarter place. Taking pride in our work, we draw on each other's expertise and experience to achieve excellence. Our diversity and teamwork culture propel us to accomplish the extraordinary - on the ground, in the sky and in space.
+Job Description
+Job Description:
+What if YOU starts your journey with US!
+As part of a school curriculum in initial training, you are looking for a mandatory internship or integrated into a gap year, that will allow you to validate your studies. The internship duration is 4 to 6 months maximum.
+We offer you to work in a world-leading company which is at the heart of a digital transformation, at the cutting edge of research and innovation.
+We are looking for SUPPORTING BIG DATA FOR REPAIR SOLUTIONS (m/f) who will be joining us at Airbus site in Toulouse - Blagnac.
+This internship is to be filled from January 2020 (the dates are subject to a certain flexibility)
+You will be joining the the Repair Solutions Department in Customer Services, who are responsible for all structural repairs encountered during routine maintenance activities.
+In repair solutions, 25000 individual repairs requiring more than 70000 customer queries are managed by 7 teams in 4 different countries every year. Vast amounts of data are created as a result.
+Digitalisation of reporting is a major challenge for this department, where frequent customer (airline) contact is encountered. Such contact requires the availability and presentation of data that is concise, clear and easy to understand. From a business perspective this data is also used to aid decision making linked to workload balance, identification of risks and anticipation of problems.
+Tasks and Responsibilities :
+You will be working under the supervision of your manager who will help you identify your professional objectives and support you in the development of your skills.
+Your main activities will include:
+1. Assessment of the current data available.
+2. Use of the data to support 7 group managers in their daily dealings with customers and internal stakeholders.
+3. Working with dedicated customer focal points to identify the key data that can be useful in their daily work.
+4. Supporting the preparation of customer visits, internal and external meetings.
+Required skills:
+You are preparing a diploma level Bac +5, in University or Business School, specialising in IT and information systems or equivalent, and you obtain following competences:
+English: Intermediate Level
+French: Advance Level
+Knowledge of ""Big Data"" analysis tools and methods.
+An understanding of the concept of big data and its application in a large organization.
+Familiarity with Aeronautics and some aspects of structural repairs.
+Ability to work with programming languages and be flexible enough to learn/develop new skills.
+A willingness to ""learn on the spot"" and seek out support when required
+You are able to use proficiently such tools as Microsoft Excel, Word, Google Suite, C+, Javascript,or any other programming languages.
+An ability to communicate clearly in French and English. Ability to adapt to different languages, cultures and ways of working and a willingness to work on one owns initiative. The candidate should also be able to present their ideas and solutions to management in a clear and comprehensible manner
+Soft skills:
+Rigorous, curious and autonomous
+Obtain good interpersonal and communication skills
+Able to integrate into team and be a flexible team player
+Have organizational skills
+Able to analyze and synthesize information
+Knowledge of project management would be a plus.
+Depending on the specifics of the offer, you may have to travel to another locations in the Toulouse area.
+If your profile catches our attention, you will be invited to perform a video interview during which you will have a few minutes to tell us about your background, motivations and your professional project. Afterwards, your application could be proposed to the managers for further review.
+If the prospect of joining our innovative Group motivates you do not hesitate and apply online on our website www.airbus.com/careers!
+
+This job requires an awareness of any potential compliance risks and a commitment to act with integrity, as the foundation for the Company’s success, reputation and sustainable growth.
+
+By submitting your CV or application you are consenting to Airbus using and storing information about you for monitoring purposes relating to your application or future employment. This information will only be used by Airbus.
+Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief.
+il y a 11 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",03/10/2019,Big_data,Toulouse,14/10/2019,vjk=0953605c45286fd9,vide,stage
+Développeur informatique Big DATA AERO (H/F),Manpower,Toulouse (31),vide,"Toulouse (31)
+L'entreprise
+Manpower TOULOUSE INFORMATIQUE recherche pour son client, un acteur du secteur de l'aéronautique, un Développeur informatique Big DATA AERO (H/F)
+Les missions
+Based on data modelling provided by IT, with a focus on business needs, extract and integrate both structured and unstructured data from various databases / data-stores :
+Develop, test and implement the most suitable analytical models to identify meaningful patterns or trends from complex data sets and types;
+Implement the annalytics pipeline against the business needs;
+Analyse and improve regularly the accuracy of models against business needs;
+Communicate findings through effective and easy-to-understand data visualisations adapted to the audience;
+Be the interface between their functions, the data ecosystem and the requested solution;
+Coach the function in the data-driven mind-set;
+Actively contribute and share best practices, findings, and techniques with the wider data community.
+Le profil ingénieur est souhaité avec une expérience en BIG DATA , DATA Analyse...
+Une bonne maîtrise de JAVA et SQL est souhaitée.
+Dans le cadre de sa politique diversité, Manpower étudie, à compétences égales, toutes candidatures dont celles de personnes en situation de handicap
+il y a 11 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",03/10/2019,Big_data,Toulouse,14/10/2019,vjk=68bb608e95df930e,vide,vide
+Consultant Big Data F/H,VISEO,Toulouse (31),vide,"Toulouse (31)
+Notre Entreprise
+Avec 2250 collaborateurs répartis sur 5 continents et un chiffre d'affaires de 218 millions d'euros, VISEO est le premier spécialiste Français à avoir développé un niveau d'expertise aussi élevé sur toutes les dimensions du système d'information (Process, Data, Digital et Technologies)
+Par une stratégie volontariste de large couverture des éditeurs majeurs du marché du décisionnel, VISEO a développé une politique active de partenariats tout en conservant une farouche volonté d'indépendance afin de conseiller le plus objectivement possible chaque client quant à ses choix de solutions et d'architectures.
+VISEO c'est aussi une entreprise à forte croissance avec un management de proximité attentif à l'évolution de ses collaborateurs, qui favorise la diversité des expériences (technologies, secteurs d'activités et métiers variés) et l'intérêt de la progression de carrière à long terme.
+L'offre DATA de VISEO est portée par des consultants qui assurent la conduite des projets décisionnels de bout en bout, en outillant la démarche de supports méthodologiques et de prototypes.
+Ils se distinguent à la fois par une solide expertise et une triple compétence technique, fonctionnelle et organisationnelle.
+Les Consultants VISEO DATA partagent ces valeurs :
+L'innovation
+Entretenir notre expertise en faisant de la veille
+La transparence, l'écoute
+
+Votre Mission
+Nous recrutons des consultants Big Data pour notre agence de Toulouse, pour intervenir sur différentes phases de nos projets clients.
+Exemples de projets proposés :
+Mise en place de solution dédiée à l'industrialisation et au déploiement des modèles de machine learning.
+Technologies : ZOE, Jupyter, R, Spark SQL, Spark ML.
+Normalisation des traitements temps réel (incluant ou non des moteurs de recommandations).
+Technologies : Spark Streaming, Spark ML, Kafka, NoSQL (HBase, MongoDB), NIFI.
+Gestion des données de références (référentiel d'entreprise, Open Data).
+Technologies : Teradata, Spark, etc …
+Metadonnées Big Data .
+Technologies : Hadoop, Base de données NoSQL, Talend Metadata Manager.
+
+Votre Profil
+Ingénieur ou universitaire Bac +5, avec une première expérience significative (minimum 2 ans) dans le décisionnel et les technologies Big Data (Hadoop, HDFS, Spark 2 , Java (framework Spark), scala, python...). La connaissance d'outils statistiques telles que R ou Spark ML est un plus.
+
+Rigoureux et doté de qualités relationnelles, vous serez capable de travailler en équipe (mode agile) et d'appliquer les connaissances acquises. Curieux, vous serez force de proposition pour proposer différentes solutions et la/les mettre en œuvre.
+nz06PNNqmD
+il y a 17 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",27/09/2019,Big_data,Toulouse,14/10/2019,vjk=aacdf13f95ea2fb1,vide,vide
+Ingénieur(e) BI - BIG DATA - Secteur du transport aérien F/H,ASTEK,Toulouse (31),vide,"Toulouse (31)
+CDI
+Notre équipe technique, en charge des activités dans le secteur du transport aérien, vous propose d’intégrer un projet en tant qu’
+
+Ingénieur(e) BI et Big data (H/F).
+
+Il s’agit d’assurer le traitement de millions de données liées à la maintenance des avions mais aussi concernant la gestion de la relation client.
+
+Ce que nous allons accomplir ensemble
+
+Vos missions seront les suivantes :
+Assurer la refonte du système actuel en pleine transformation avec l’arrivée du big data,
+Concevoir, développer et maintenir des solutions d’alimentation, de traitement et de visualisation des données sur de la volumétrie massive alliant Big data et base de données Teradata ainsi que des solutions de Data visualisation,
+Animer une équipe dans un contexte agile.
+Profil recherché Diplômé(e) d’une école d’ingénieurs ou équivalent (Bac+5), vous avez une expérience significative sur un poste similaire dans le domaine de la business intelligence et du big data.
+
+Vous maîtrisez les outils de data visualisation: Business object, QlikView, Spotfire ainsi que des bases de Java qui vous permettront de monter en compétences sur du Big Data (Hadoop, Spark).
+
+Une aisance en anglais à la fois à l’oral et à l’écrit est indispensable pour échanger avec l’équipe.
+
+Vous êtes reconnu(e) pour votre relationnel, vos qualités d’écoute, d’adaptation et votre esprit d’analyse.
+Entreprise Astek se positionne comme un réel vecteur de solutions audacieuses et un catalyseur de changements technologiques. Depuis 1988, les femmes et les hommes du Groupe pilotent avec succès les stratégies de développement de nos clients. Autour de valeurs communes, nous avons gagné leur confiance et répondons à leurs enjeux en favorisant l'interaction des technologies et en bousculant les frontières sectorielles. Rejoignez notre Groupe et ensemble réinventons les codes.
+Apec.fr - il y a 19 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",25/09/2019,Big_data,Toulouse,14/10/2019,vjk=e97c07e986b3efb5,vide,cdi
+Stagiaire BIG DATA H/F,AKKA TECHNOLOGIES,Toulouse (31),vide,"Toulouse (31)
+Temps plein, Stage
+Dans le cadre de notre pôle de recherche BIG DATA, nous recherchons un(e) Stagiaire/Alternant(e) BIG DATA (H/F) pour nous accompagner sur le déploiement et l’enrichissement de notre plate-forme technologique. Au sein de notre nouveau siège d'innovation située à Blagnac, composée d’ingénieurs experts dans le domaine performance des Systèmes d’Informations, nous réalisons pour nos clients une variété de supports et de solutions techniques. Encadré(e) par notre référente BIG DATA, vous avez comme principales missions de : Participer aux études de faisabilité sur les architectures cibles à déployer sur notre plate-forme. Participer à l’implémentation de solutions BIG DATA. Participer à la veille technologique afin de pouvoir enrichir notre référentiel BIG DATA.
+
+En cours d'obtention d'un diplôme d'ingénieur ou de formation équivalente Bac+5, vous avez des compétences sur les technologies précitées. Une première expérience sur des composants BIG DATA (HDFS, MAPREDUCE, SPARK, HIVE,...), ainsi qu’une distribution HADOOP et NoSQL sont appréciées.
+
+Une curiosité vis-à-vis des objets connectés est un plus. Autonome, vous souhaitez évoluer dans un environnement qui favorise l’apprentissage par le challenge technique et la pratique.
+
+Votre capacité d'adaptation et d'intégration sont autant d'atouts qui vous permettront d'apporter de la valeur aux projets et d'assurer la réussite de vos missions. A compétences égales, le poste est ouvert aux personnes en situation de handicap. Rejoindre AKKA Group, c'est évoluer dans les domaines qui vous passionnent, développer vos compétences, avec la possibilité d'évoluer sur différents secteurs, dans un cadre qui favorise les initiatives individuelles ; votre rôle s’inscrit dans un véritable projet d'entreprise !
+
+Ce stage sera d’une durée de 6 mois.
+il y a 24 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",20/09/2019,Big_data,Toulouse,14/10/2019,vjk=7c3c76738b92ac36,vide,stage
+Ingénieur.e Big Data F/H,Liebherr-Aerospace Toulouse SAS,Toulouse (31),vide,"Toulouse (31)
+Liebherr-Aerospace Toulouse SAS fait partie du Groupe Liebherr et développe, fabrique et assure la maintenance de systèmes de traitement de l'air pour l'aéronautique. Systémier de référence, parmi les leaders mondiaux, la société accompagne dans leurs projets les clients avionneurs, hélicoptéristes et compagnies aériennes.
+Pour accompagner notre croissance et développer notre Data Lab, nous recherchons un(e) Ingénieur.e Big Data F/H
+Description du poste :
+L’analyse de données est devenue un enjeu immédiat et incontournable pour Liebherr-Aerospace Toulouse. Le Data Lab est intégré à la Direction des Systèmes d’Information et supporte l’ensemble de l’entreprise dans les initiatives de valorisation des données. Ces initiatives visent à améliorer nos processus et produits mais aussi à créer de nouveaux services digitaux. Notre entreprise est en pleine transformation digitale, les challenges sont nombreux : vous vous retrouverez au cœur de l’innovation.
+Missions principales :
+Opérer, maintenir, développer et industrialiser la plateforme interne data analytics
+Développer des pipes de données (ingestion, normalisation et publication)
+Effectuer une veille régulière sur les dernières technologies big data
+Développer des démonstrateurs fonctionnels à déployer en interne mais aussi vers nos clients
+Supporter les initiatives de partage de données et d’analyse collaborative sur des plateformes tierces
+
+Profil :
+
+De formation Bac+5 dans le domaine Data Engineering ou Big Data, vous justifiez d’une expérience d’au moins 3 ans sur un poste similaire.
+
+Vous maitrisez la Stack Elastic, les langages R, Python, Spark et Scala ainsi que Linux.
+
+Lors de vos précédentes expériences, vous avez également travaillé avec les outils de data viz du type R Shiny et PowerBI. Vous avez connaissez l’ecosystème Hadoop.
+Anglais courant exigé.
+Liebherr-Aerospace Toulouse SAS
+Emilie ANDERSON
+0561352828
+Liebherr Group - il y a 24 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",20/09/2019,Big_data,Toulouse,14/10/2019,vjk=49873eae06313f53,vide,vide
+Architecte Big Data H/F,SOPRA STERIA,Toulouse (31),vide,"Toulouse (31)
+Sopra Steria, fort de près de 44 000 collaborateurs dans plus de 25 pays, propose l'un des portefeuilles d'offres les plus complets du marché : conseil, intégration de systèmes, édition de solutions métier, infrastructure management et business process services.
+
+Vous aussi, rejoignez-nous et participez au monde numérique de demain !
+La division « Santé Social Emploi » regroupe l'ensemble des acteurs qui exercent une mission de service public dans ces domaines. Nos clients sont notamment les organismes de protection sociale de la santé, de la retraite et de la famille, et également de grands acteurs du secteur de l'emploi. Notre présence globale dans l'écosystème et la connaissance approfondie des métiers de nos clients sont un atout majeur pour répondre aux grands enjeux de transformation impliqués par les réformes de l'Etat.
+
+Vos responsabilités
+Afin d'accompagner nos clients dans la mise en place de lacs de données et d'applications Data, nous recherchons des architectes Big Data.
+
+Vous serez amené(e) à :
+Définir et/ou mettre en oeuvre des solutions / architectures / projets autour de l'écosystème Big Data
+Participer à des avant-ventes
+Contribuer à définir et diffuser les bonnes pratiques au sein des équipes Sopra Steria sur le Big Data
+
+Afin d'accompagner nos clients dans la mise en place de lacs de données et d'applications Data, nous recherchons des architectes Big Data.
+
+Vous serez amené(e) à :
+Définir et/ou mettre en oeuvre des solutions / architectures / projets autour de l'écosystème Big Data
+Participer à des avant-ventes
+Mettre en place des benchmarks de solutions, des prototypes et des projets
+Contribuer à définir et diffuser les bonnes pratiques au sein des équipes Sopra Steria sur le Big Data
+Supporter les équipes de réalisation par une expertise sur les solutions et/ou démarches Big Data
+Contribuer à la veille technologique sur les solutions Big Data
+Elaborer et présenter nos retours d'expérience auprès de nos clients
+
+Environnement technologique/fonctionnel :
+Architecture et Infrastructure Hadoop (NiFi, Kafka, Spark, Druid, Hive, Schema Registry, HBase) et distributions associées (Cloudera / Hortonworks)
+Data Science (CDSW)
+Data Visualisation (Superset, Zeppelin, Kibana, SAS Visual Analytics, Power BI)
+Bases de données NoSQL
+
+Votre profil
+Titulaire d'un Bac +5 en informatique, et d'une expérience de 3 à 8 ans, avec des références significatives dans la définition d'architectures et la mise en oeuvre de projets et solutions Big Data chez des clients.
+
+Vous êtes reconnu pour votre capacité à animer, à fédérer autour d'une vision, pour votre rigueur, vos capacités d'analyse, de synthèse et d'innovation.
+
+A compétences égales, tous nos postes sont ouverts aux personnes en situation de handicap.
+
+Notre offre
+Afin d'accompagner nos clients dans la mise en place de lacs de données et d'applications Data, nous recherchons des architectes Big Data. Vous serez amené(e) à : Définir et/ou mettre en oeuvre des solutions / architectures / projets autour de l'écosystème Big Data Participer à des avant-ventes Mettre en place des benchmarks de solutions, des prototypes et des projets Contribuer à définir et diffuser les bonnes pratiques au sein des équipes Sopra Steria sur le Big Data
+StepStone FR - il y a 28 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",16/09/2019,Big_data,Toulouse,14/10/2019,vjk=15a8a3bd3de9bccd&advn=6251826015201314,vide,vide
+Stage-Consultant Big Data H/F-Toulouse,Forum Emploi-Formation-Alternance: Talents Handica...,Toulouse (31),vide,"Toulouse (31)
+Stage
+Description de l'entreprise
+Capgemini est un leader mondial du conseil, des services informatiques et de la transformation numérique. A la pointe de l’innovation, le Groupe aide ses clients à saisir l’ensemble des opportunités que présentent le cloud, le digital et les plateformes. Fort de 50 ans d’expérience et d’une grande expertise des différents secteurs d’activité, il accompagne les entreprises et organisations dans la réalisation de leurs ambitions, de la définition de leur stratégie à la mise en œuvre de leurs opérations. Pour Capgemini, ce sont les hommes et les femmes qui donnent toute sa valeur à la technologie. Résolument multiculturel, le Groupe compte 200 000 collaborateurs présents dans plus de 40 pays. Il a réalisé un chiffre d'affaires de 12,8 milliards d'euros en 2017.
+
+Intégré au sein de notre Pôle d'Excellence Toulouse, Business Information / Big Data & Analytics, tu participeras à aider nos clients à construire ou à transformer leur stratégie de gestion de l'information structurée et non structurée et évolueras au sein d'un marché passionnant, innovant et en pleine explosion.
+Plus d’informations sur www.capgemini.com. People matter, results count.
+
+Description de la mission
+
+Intégré à l'une de nos équipes projets, tu participeras à :
+la définition, la mise en œuvre et l'exploitation de plateformes Big data,
+la réalisation des différentes phases d'un projet (acquisition des données, stockage, analyse, data visualisation...)
+l'alimentation d'outils opérationnels liés à l'activité du client.
+Profil
+
+Tu prépares un diplôme de Bac+ 5 en informatique et :
+tu as un profil technique (Java /Hadoop, R, Python, Cloudera, Hortonworks),
+tu disposes de connaissances en bases de données SQL, NoSQL,
+tu apprécies le travail en équipe,
+es autonome et rigoureux(se),
+tu maîtrises l'anglais.
+Tu travailleras dans un environnement technique et fonctionnel de haut niveau, basé sur des engagements forts et acquerras la visibilité complète d'un projet de développement.
+Stage de pré-embauche ou pré-alternance.
+Tu peux postuler directement en envoyant ta candidature à l'adresse suivante : recrutement.ts.fr@capgemini.com
+handicap-job.com - il y a 23 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",21/09/2019,Big_data,Toulouse,14/10/2019,vjk=d4fecd385b70ad39,vide,stage
+Ingénieur Big Data (H/F),Labsoft,Toulouse (31),vide,"Toulouse (31)
+CDI
+Dans le cadre du développement de notre activité, nous recherchons, un(e) Super INGENIEUR BIG DATA (H/F).
+
+Intégré(e) à une équipe de X-Men, vos principales activités consistent à prendre en charge :
+
+L'analyse des besoins clients et la compréhension des attentes métier du projet
+Développement en conformité avec les spécifications techniques
+Validation des développements et recettes
+La conception et la réalisation de solutions Big Data : collecte, transformation, analyse et visualisation de données,
+Le développement d’une plateforme Big Data ayant pour but de récolter des statistiques concernant les transferts des fichiers
+La mise en place des technologies adaptées aux problématiques à traiter
+Dans une logique d'amélioration continue, vous serez force de proposition pour les améliorations techniques ou de procédures.
+Valider les architectures Hadoop et système
+Effectuer des revues de code et valider les bonnes normes de développement.
+
+VOS COMPETENCES :
+
+Vous avez l’étoffe d’un Héros ?
+Vous maîtrisez idéalement les langages de programmation comme Java, Python, Scala.
+Environnement technique : Java JEE, Python, Hadoop, ElasticSearch, Linux, Spark
+Ce poste vous intéresse ?
+Enfilez votre costume et rejoignez notre équipe de X-Men du digital.
+
+PRESENTATION DE L'ENTREPRISE :
+LABSOFT assure depuis 18 années un accompagnement personnalisé dans les projets de transformationsnumériques de ses clients.
+Présente en régions Toulousaine et Parisienne, nous comptons sur nos 150 collaborateurs pour apporter un savoir-faire transverse à nos partenaires.
+Notre volonté ? Garder notre état d’esprit collaboratif à taille humaine.
+Notre ADN ? L’alliance du numérique avec l’approche d’une PME.
+Nous vous proposons un modèle basé sur la proximité, l’écoute, l’épanouissement, le développement de vos compétences et de votre carrière !
+Pour cela, nous avons lancé la dynamique « LabSoft Building, ensemble construire demain »
+Quésaco ? Un After work mensuel fun et collectif allouant le partage d’un bon moment et la prise de parole pour façonner la société à votre image, développer votre esprit d’équipe et s’assurer que chacun œuvre dans la même direction.
+Vous avez soif d’aventures, de nouveaux challenges et d’innovations technologiques ? Vous recherchez aussi une nouvelle famille ? Labsoft est fait pour vous !
+A vous de jouer ! Rejoignez-vite l’aventure humaine en nous transmettant votre candidature : rh@labsoft.fr.
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/09/2019,Big_data,Toulouse,14/10/2019,vjk=95f361202555a4bc,vide,cdi
+Digital Accelerator - 2 Big Data Software Engineers (m/f),Airbus,Toulouse (31),vide,"Toulouse (31)
+Airbus Operations SAS
+Airbus is a global leader in aeronautics, space and related services. In 2018 it generated revenues of € 64 billion and employed a workforce of around 134,000. Airbus offers the most comprehensive range of passenger airliners. Airbus is also a European leader providing tanker, combat, transport and mission aircraft, as well as one of the world's leading space companies. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions worldwide.
+
+Our people work with passion and determination to make the world a more connected, safer and smarter place. Taking pride in our work, we draw on each other's expertise and experience to achieve excellence. Our diversity and teamwork culture propel us to accomplish the extraordinary - on the ground, in the sky and in space.
+Job Description
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/09/2019,Big_data,Toulouse,14/10/2019,vjk=2ffb0ed495286d6b,vide,vide
+Alternant Big Data & Machine Learning (m/f),Continental,Toulouse (31),vide,"Toulouse (31)
+Apprentissage, Contrat pro
+Description
+La mission de l’alternant(e) est de contribuer à développer nos produits. Vous travaillerez sur des chantiers communs pour nous aider à mettre en production nos services pour le véhicule connecté.
+Qualifications
+Profil recherché : Etudiant(e) en Master 2 Big Data ou Data Science ou Machine Learning ou Intelligence Artificielle en alternance.
+Diplôme(s) : Master 1.
+Expérience :
+Les stages et projets personnels (hackathon, Kaggle, …) orientés data sont recommandés. En leur absence, une curiosité pour les technologies Big Data, Cloud et Machine Learning est fortement souhaitée.
+Connaissances techniques souhaitées:
+Connaissances sur le développement logiciel cloud et sur les technologies type Hadoop, Hive, Spark, Kafka …
+Connaissances des principes de programmation et des langages Python, R, Scala…
+Connaissances des librairies Numpy, Pandas, Matplotlib, Scikit Learn, Keras, XGBoost, Pytorch, Theano, Caffe, TensorFlow…
+Autres compétences :
+Capacité à travailler et communiquer dans un environnement collaboratif en équipe multidisciplinaire
+Capacité à travailler en contexte international et innovant (anglais obligatoire)
+Culture « datadriven », curiosité, esprit pédagogique.
+
+Keyfacts
+Job-ID
+123545BR
+Function
+Engineering
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/09/2019,Big_data,Toulouse,14/10/2019,vjk=cda15fadb47c2c1e,vide,stage
+Ingénieur Big Data F/H,TECH'FIRM INFORMATION SYSTEMS FRANCE,Toulouse (31),vide,"Toulouse (31)
+CDI
+Pour accompagner notre forte croissance, nous recherchons des Ingénieurs Big Data.
+
+Tu travailleras pour des clients exigeants dans des secteurs d’activités fonctionnellement riches et complexes.
+
+Concrètement, au sein la Direction Software de notre client, dans un contexte de méthodologie Agile, tu auras en charge l'amélioration de plusieurs applications développées sur la plateforme Big Data.Tu apporteras ton savoir-faire dans la conception, le développement et la validation.
+Profil recherché Diplômé(e) BAC+5, tu justifies d’une première expérience significative dans le développement du Big Data.
+
+Nous recherchons des consultants avec les compétences suivantes :
+
+Jobs spark en Scala
+Services / API java
+Web services REST
+Images Docker
+Environnement technique :
+Hadoop/Spark
+Java/J2ee
+Scala
+Docker, Kubernetes
+Web service
+Intellij, Maven, GIT
+Windows, Linux
+Testlink, JIRA
+Ton sens relationnel et ton goût du contact client sont des qualités essentielles pour réussir à ce poste. De plus, tu souhaites t'impliquer dans le développement d’une société en pleine expansion.
+
+Tu as l'esprit start-up, tu aimes les nouveaux challenges et tu souhaites intégrer une nouvelle TEAM : Tech’firm est fait pour toi !
+
+Rejoins vite l'aventure Tech'firm !!
+Entreprise Tech’Firm IS France est une start-up toulousaine dans le domaine de l'IT, adossée au groupe Suisse Tech'Firm qui est implanté dans plusieurs pays (250 p, 10 M€ de CA, en forte croissance).
+
+La société a adopté un modèle basé sur la proximité, l'écoute, l'épanouissement, le développement de vos compétences et de votre carrière.
+
+Dans le cadre de son développement, Tech’Firm recrute des talents et des leaders pour réaliser des missions de conseil, d'assistance technique et des projets agiles.
+Apec.fr - il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/09/2019,Big_data,Toulouse,14/10/2019,vjk=501dab4090a1f55b,vide,cdi
+Data Scientist/ Big Data,ALTEN,Toulouse (31),30 000 € - 50 000 € par an,"Toulouse (31)
+CDI
+30 000 € - 50 000 € par an
+Partenaire technologique de référence des plus grandes entreprises françaises et internationales, ALTEN est devenu en 30 ans le leader européen de l’Ingénierie et du Conseil en Technologies (28 000 collaborateurs dont 88% d’ingénieurs – CA de 2 Milliards €- implantation du groupe dans 20 pays). Labélisé ""Top employeur"" 2018, ALTEN est un acteur majeur du recrutement d’ingénieurs en France.
+Rejoindre ALTEN, c'est la promesse de participer, en France comme à l'International, aux projets technologiques les plus passionnants, notamment dans le secteur aéronautique pour nos équipes d'ALTEN Sud-Ouest.
+Descriptif du poste :
+Nous recherchons notre futur consultant Data Scientist Big Data qui aura pour mission de :
+- Mettre en oeuvre des solutions Big Data en utilisant les frameworks de dernière génération (Hadoop/ Spark/ Cloudera/ Pivotal).
+- Gérer l'acquisition et l'organisation des données
+- Concevoir des algorithmes sur la base de Proof of Concept pour permettre des analyses statistiques
+Description du profil :
+De formation supérieure Informatique (Bac+5), vous bénéficiez d'une première expérience réussie dans le déploiement de solutions BIG DATA. Autonome et dynamique, vous êtes doté(e) d'un excellent relationnel et d'une grande adaptabilité. N'hésitez pas à candidater pour en savoir plus.
+Type d'emploi : CDI
+Salaire : 30 000,00€ à 50 000,00€ /an
+Expérience:
+data scientist/ big data ou similaire: 1 an (Souhaité)
+il y a 30+ jours
+Signaler cette offre d'emploi",14/09/2019,Big_data,Toulouse,14/10/2019,vjk=e3836a643b20ef2e,vide,cdi
+Développeur Big Data/Talend (H/F),be-ys,Toulouse (31),vide,"Toulouse (31)
+CDI
+be|ys crée et assure le suivi de solutions numériques dans le traitement de données sensibles sur des secteurs d’activité exigeants tels que la santé et la sécurité.
+Leader national de la sécurisation des données en plein essor international, notre groupe déploie ses solutions grâce à des technologies de pointe.
+Nous recherchons aujourd’hui de nombreux talents pour consolider notre position de leader et innover sur le marché.
+Notre success-story :
+2000 : start-up clermontoise, premier acteur de la santé numérique... 2010 : leader national sur son marché... Aujourd’hui un groupe à envergure internationale.
+
+be|ys est organisé en pôles de développement : R&D, Production, Relation Clients, Informatique et fonctions transverses.
+
+Description du poste
+be|softilys est l’éditeur de logiciel du groupe be|ys dont la vocation est de développer des produits pour l’ensemble des acteurs des marchés couverts par les domaines d’activité du groupe.
+Les activités de développement sont :
+découpées en micro-services et réalisées dans l’approche devops favorisant la collaboration, du processus de développement jusqu’au support en production, des équipes de développement Scrum, des opérations mais aussi d'assurance qualité et métier ;
+réalisées à partir d’une plateforme de développement et d’intégration continue ;
+réalisées sur une plateforme d’écosystème accueillant des places de marché de services dans l’assurance, la santé, les services de confiance numérique, le droit, le logement, bientôt la mobilité, ... sur laquelle repose l’ensemble des offres du groupe be|ys et qui peut, en sus, accueillir des offres de partenaire ;
+réalisées à partir des principes de « gouvernance de données » dans le respect des exigences liées aux différentes réglementations telles que le RGPD, les normes internationales, les attentes des organismes de contrôle, ... liées aux métiers couverts par le groupe be|ys ;
+automatiquement déployées sur notre Cloud privé hébergé dans les datacenters HADS du groupe be|ys adossés à son centre de cybersécurité.
+be|softilys recherche un Développeur Big Data/Talend (H/F) à Toulouse pour rejoindre son équipe big data afin de travailler sur des sujets liés aux échanges de donnée et des sujets BI.
+Missions principales :
+Evaluer le niveau de difficulté des projets, réaliser les spécifications et les évaluations de charges ;
+Proposer la conception en tenant compte des SI existants, des règles et normes en vigueur ;
+Réaliser les développements en ayant conscience des enjeux métiers de vos réalisations ;
+Effectuer les phases de test nécessaires pour assurer le niveau de qualité ;
+Réaliser le diagnostic et les corrections si nécessaire, sur les dysfonctionnements en production.
+Profil recherché
+Vous avez une expérience solide en développement Talend et Big Data.
+Vous maitrisez les technos : Java, scala ou python et les bases de données : noSQL(MongoDB, hBase, Druid), relationnelles (DB2,MySQL,mariaDB,...).
+Vous avez idéalement travaillé sur les sujets BI (Business Intelligence), sur du traitement de gros volumes de données hétérogènes, la création de datamarts ou d’entrepôt de données dans un environnement big data.
+Rejoignez notre équipe à taille humaine à Toulouse et venez développer sur nos technos de pointe !
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/09/2019,Big_data,Toulouse,14/10/2019,vjk=3e16d18cab9f064c,vide,cdi
+Stagiaire Qualification Plateforme Big Data H/F,Atos,Toulouse (31),vide,"Toulouse (31)
+Stage
+Atos est un leader international de la transformation digitale avec environ 100 000 collaborateurs dans 72 pays et un chiffre d’affaires annuel de l’ordre 12 milliards d’euros. Numéro un européen du Big Data, de la Cybersécurité, des supercalculateurs et de l’environnement de travail connecté, le Groupe fournit des services Cloud, solutions d’infrastructure et gestion de données, applications et plateformes métiers, ainsi que des services transactionnels par l’intermédiaire de Worldline, le leader européen des services de paiement. Grâce à ses technologies de pointe et son expertise digitale & sectorielle, Atos accompagne la transformation digitale de ses clients dans les secteurs Défense, Finance, Santé, Industrie, Médias, Énergie & Utilities, Secteur Public, Distribution, Télécoms, et Transports. Partenaire informatique mondial des Jeux Olympiques et Paralympiques, le Groupe exerce ses activités sous les marques Atos, Atos Consulting, Atos Worldgrid, Bull, Canopy, Unify et Worldline. Atos SE (Societas Europea) est une entreprise cotée sur Euronext Paris et fait partie de l’indice CAC 40.
+Environnement du stage
+
+Ce stage s’inscrit autour de notre Practice Big Data Solutions And Services de la ligne de service Big Data et Security qui regroupe les produits et les services dédiés à la sécurité et aux offres de Big Data. Sa mission est de répondre aux entreprises & administrations qui souhaitent transformer leurs données en avantages concurrentiels tout en sécurisant leurs actifs.
+
+Vous interviendrez au sein d’une équipe dynamique et en forte croissance disposant d’une forte expertise technique dans le domaine du Big Data (Hadoop/Spark, Datalake, Cloud, Analytics, DataViz, Datascience, …) et des architectures applicatives distribuées et complexes (MDM, ESB, BPM, CEP, …). Nos activités vont du conseil à la mise en place et l’optimisation de solutions souples et évolutives en passant par les activités de formation et de support.
+
+Nous cherchons constamment à améliorer notre offre auprès de nos clients pour mettre à disposition des solutions selon l’état de l’art pour intégrer et déployer des applications, analyser les données et optimiser les processus métiers.
+Notre offre
+Vous intègrerez un projet dont l’objectif en 2019 est de réaliser et industrialiser une plateforme Cloud Privé Big Data destinée à accueillir les applications IA de la DGA.
+La DGA a décidé d’investir dans un projet de partenariat innovant pour une solution souveraine de traitement massif des données permettant de faire face à l’explosion des volumes, des débits de circulation, de la diversité des types et des formats de données qui impliquent des changements majeurs dans la conception des systèmes d’information.
+Cette solution fait appel à toutes les technologies modernes du Big Data et de l’intelligence artificielle. Elle représente une véritable rupture technologique dans les systèmes d’information et pourra couvrir des domaines aussi différents que sont le Renseignement, la Sécurité, la Cybersécurité, la Maintenance prédictive, la détection, etc.
+
+Dans le cadre de votre intervention, vous participerez à la réalisation d’applications de qualification des capacités techniques de la Plateforme. Ces applications devront permettre de tester l’ensemble des interactions entre les nombreux composants techniques de la plateforme (virtualisation, orchestrateur, moteur d’exécution, communication et distribution, moyens de stockages…).
+
+Ces développements impliquent de maitriser les langages Python, Java (et éventuellement Scala) et requièrent curiosité et forte capacité à développer ses connaissances techniques sur les nombreux composants techniques de la plateforme (en relation avec les différents experts du projet).
+
+Contribuer à la conception en définissant les interactions, entre les composants techniques, à qualifier.
+
+Développer : réaliser des applications permettant de tester le bon fonctionnement (interactions simples 2 à 2 ou plus complexes : qualifier la haute disponibilité, qualifier le dispositif d’allocation dynamique des ressources…).
+
+Intégrer les applications dans une chaine d’intégration continue permettant notamment de qualifier une plateforme (qualification initiale et non régression).
+
+Profil recherché
+
+Étudiant(e) en dernière année de cursus diplômant, vous avez une 1ère expérience en Data Engineering ou dans la mise en œuvre d’une plateforme Big Data.
+
+Vous savez travailler en équipe, rendre compte de votre avancement, et partager vos interrogations et vos connaissances.
+
+Vous avez une bonne connaissance des outils requis pour la réalisation d’application d’intelligence artificielle et connaissez certaines solutions du marché.
+
+N’hésitez pas à envoyer votre candidature : philippe.lang@atos.net
+
+INFORMATIONS ADDITIONNELLES :
+Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi Atos a mis en place un accord relatif à l’égalité professionnelle entre les hommes et les femmes. Par ailleurs, nos métiers sont tous accessibles aux personnes en situation de handicap, et ce quelle que soit la nature de leur handicap
+il y a 5 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/05/2019,Big_data,Toulouse,14/10/2019,vjk=5374d0f569348cda,vide,stage
+Architecte Big Data,Sept Lieues,Haute-Garonne,vide,"Haute-Garonne
+CDI
+Leader sur le marché des nouvelles technologies, ce groupe à dimension internationale - présent dans plus de 50 pays - propose ses services à un portefeuille de clients très variés.
+LE POSTE / LES MISSIONS
+Au sein de l'entité Big Data & Security de l'entreprise, vous interviendrez en tant qu'Architecte Big Data sur des projets complexes et variés.
+
+Exemples de missions:
+Développement d'architectures / d'infrastructures Big Data: phases de conception, de modélisation et de test
+Participation aux différentes étapes relatives aux projets (cadrage, spécifications techniques, recette...)
+Avant-vente (réponses aux appels d'offres, rédaction de documents techniques)
+Mise en oeuvre des solutions techniques choisies
+
+Les plus: environnement agile, partage de connaissances, projets de grandes envergures et très belles perspectives d'évolution et de mobilité
+PROFIL RECHERCHÉ
+Ingénieur Bac+5 / PhD
+Expérience de 3 ans en tant qu'architecte Big Data
+Background technique obligatoire: Admin Hadoop / R&D / Cloud
+Anglais: courant
+
+Qualités recherchés:
+Prise d'initiatives / Goût du challenge / Capacités d'analyse
+il y a 5 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/05/2019,Big_data,Toulouse,14/10/2019,vjk=b113ece9781b4b92,vide,cdi
+Ingénieur(e) BIG DATA / CLOUD COMPUTING - Secteur Spatial H/...,AKKA TECHNOLOGIES,Toulouse (31),vide,"Toulouse (31)
+Temps plein, CDI
+Le Spatial, secteur historique du groupe AKKA, propose des métiers passionnants au service des Hommes, de la Terre et de la recherche scientifique.
+
+Vous avez envie d'avoir la tête dans les étoiles ? N'attendez plus et rejoignez nos ingénieurs de l’agence spatiale Toulousaine.
+Votre challenge ? Faites la différence et participez à la conquête de l’espace en accompagnant les grands acteurs de l’industrie spatiale Française.
+Dans le cadre du développement de ses activités, l’agence spatiale de Toulouse recherche un(e) Ingénieur(e) Développement BIG DATA / CLOUD COMPUTING (H/F).
+A ce titre, vous participez :
+A la mise en œuvre d’architectures distribuées et élastiques BIG DATA autour des frameworks HADOOP, HORTONWORK, CLOUDERA et SPARK.
+A l’organisation des données non structurées, multi sources et multi formats (HBASE, HDFS, GLUSTERFS, ELASTICSEARCH).
+A l’analyse et la valorisation des données via les plateformes de type APACHE HIVE et les concepts de fouille de données.
+
+Vous maîtrisez les technologies JAVA, HADOOP et SPARK. Vous connaissez les serveurs SIG tels que GEOSERVER, MAPSERVER et DEEGREE. Vous utilisez les outils de gestion d’application JERSEY, JCLOUDS et MAVEN.
+Vous avez idéalement une première expérience en méthode AGILE.
+Passionné(e) par les nouvelles technologies et le développement, vous aimez la complexité et êtes capable d'appréhender les problématiques des clients avec pragmatisme et précision.
+Doté(e) de réelles capacités relationnelles, vous avez le goût du travail en équipe et souhaitez vous investir dans des projets techniques à forte valeur ajoutée.
+AKKA Technologies accompagne ses clients dans la mondialisation de leurs projets, aussi un anglais opérationnel est requis pour l’ensemble de nos collaborateurs.
+A compétences égales, le poste est ouvert aux personnes en situation de handicap.
+Rejoindre AKKA Technologies, c'est évoluer dans les domaines qui vous passionnent, développer vos compétences, avec la possibilité d'évoluer sur différents secteurs, dans un cadre qui favorise les initiatives individuelles ; votre rôle s’inscrit dans un véritable projet d'entreprise !
+il y a 5 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/05/2019,Big_data,Toulouse,14/10/2019,vjk=d2b7902b0b4fc08e,vide,cdi
+Concepteur développeur BI Big Data Toulouse H/F,Air France-KLM,Toulouse (31),vide,"Toulouse (31)
+CDI
+Le domaine BI est en pleine mutation avec l’arrivée du BIGDATA et la volonté de mettre la donnée au cœur de l’entreprise.
+En tant que développeur concepteur BI BIGDATA vous travaillerez sur des applications utilisées par plus de 8000 utilisateurs dans le monde.
+Vous découvrirez plusieurs domaines fonctionnels passionnants tels que Flying Blue, le Revenue Management, la Maintenance, le Cargo, l'Embarquement des passagers, le Personnel Navigant et bien d'autres encore.
+Vous travaillerez dans un contexte agile ainsi que de forte volumétrie sur des solutions d'alimentation alliant BIGDATA et base de données Teradata, ainsi que des solutions de Dataviz.
+Vous collaborez étroitement avec d’autres équipes pour trouver des solutions innovantes afin de garder une longueur d'avance sur la concurrence.
+
+Profil recherché
+Vous vous reconnaissez dans les valeurs décrites dans cette offre, vous avez le sens du client et du résultat, vous êtes capable d'évoluer vers d'autres domaines ou fonctions au sein de l'IT, vous partagez notre envie, alors nous avons hâte de vous rencontrer et de travailler ensemble.
+De formation Bac+5, vous avez 1 ou 2 années d'expérience au minimum dans le développement d’applications autour de la data que ce soit au cours d’une mission, de stages, ou d’une alternance.
+Compétences requises :
+Obligatoires :
+Base de données SQL
+Langage de programmation JAVA
+Environnement Unix / Linux
+
+Souhaitées
+Big Data (Hadoop, Spark, MongoDB …)
+Outils de Dataviz (Business Object, QlikView, Spotfire …)
+ETL (Powercenter, Talend MM )
+Scrum, Kanban , SAFe, JIRA.
+Outils de versioning (Git, SVN, etc)
+
+Vous utilisez régulièrement l'anglais dans le domaine professionnel et votre niveau vous permet d'assurer l'ensemble des activités qu'implique la mission (réunions, lecture/rédaction de documentations). La coopération sur des projets communs Air France KLM implique une bonne sensibilité interculturelle.
+Toulouse – Déplacements occasionnels à Paris Nice et Amsterdam
+
+Type de contrat
+CDI
+Date de prise de poste souhaitée
+01/05/2019
+Type d'horaires
+Administratif
+Localisation du poste
+Localisation du poste
+France, Occitanie, Haute Garonne (31)
+Site
+TOULOUSE La barigoude
+il y a 6 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/04/2019,Big_data,Toulouse,14/10/2019,vjk=afec28ed05d0d75d,vide,cdi
+Geo Big Data - Développeur(se),Gisaïa,Blagnac (31),vide,"Blagnac (31)
+CDI
+Le Big Data vous attire ? Vous avez envie de plonger dans le bain Spark / Kafka, de vous exprimer et de vous épanouir dans un domaine innovant ? Vous disposez d’expérience... ou pas, rencontrons-nous !
+Gisaïa est une jeune société innovante d’applications cartographiques (données spatiales/géolocalisées) et Big Data. Nous relevons le défi de façonner et d’analyser les grands volumes de données pour les enrichir, les rendre accessibles et compréhensibles par tous au travers de techniques de visualisation novatrices et efficaces.
+Gisaïa édite la solution open source ARLAS d’analyses spatio-temporelles et geo-exploration Big Data : traiter, analyser et représenter sur une carte de très grands volumes de données avec une remarquable fluidité et une expérience utilisateur significative www.arlas.io
+Pourquoi Gisaïa ?
+Gisaïa est un lieu d’échange, d’épanouissement, de créativité et d’innovation. Dans nos locaux, au sein d’Ethics Biotope à Blagnac, vous évoluerez dans un environnement moderne et vivifiant. La société est en phase d'accélération basée sur une offre forte et à haut potentiel.
+Vous rejoignez une équipe talentueuse et enthousiaste dans une entreprise où l’humain est capital. Avantage sociaux : RTT, mutuelle, accord d’intéressement, tickets restaurant, flexibilité, ...
+Description du poste
+Au sein de l’équipe Gisaïa vous :
+Mettez en place des flux de données hétérogènes, structurez l’espace cible, enrichissez la donnée pour en révéler tout son potentiel
+Concevez et réalisez des services, flexibles et temps réel, d’accès aux grands volumes de données
+Déployez des solutions avancées de data analytics et de machine learning, créez des indicateurs clé, des représentations graphiques et cartographiques
+Vous participez à la vie de la société, vous êtes un maillon actif d’acquisition et de partage de connaissances.
+Intégré(e) aux équipes GISAIA vous travaillez selon les méthodes en cours dans la société : méthodes Agile, intégration continue, procédures et techniques de développement.
+Profil recherché
+Vous êtes curieux(se), créatif(ve), dynamique, efficace, porté(e) vers les nouvelles technologies. Développeur(se) de talent, vous êtes à l'affût des nouvelles technologies/solutions et faites de la veille sur les sujets qui vous passionnent.
+De nature curieuse et ouverte, vous avez le goût du travail en équipe et la volonté de vous investir au sein d'une société innovante et en plein développement.
+Vous vous épanouissez dans :
+L’édification d’architectures hautement scalables.
+La modélisation, l’organisation et l’optimisation des données.
+Le développement bien fait avec des outils modernes et efficaces.
+Vous baignerez - entre autres - dans les environnements suivants :
+DATA - MongoDB, Cassandra, ElasticSearch, HDFS
+BIGDATA - Spark, Kafka, Kubernetes, Docker, OpenStack, Mesos
+DEV - JAVA, Scala, Python, C++, git, maven, sbt, gradle, intégration continue
+WEB & VISUALISATION- Angular, D3.js, MapBox GL JS, Kibana
+SIG - Services OGC, calculs géographiques et géométriques
+INTELLIGENCE ARTIFICIELLE - Algorithmie, Machine Learning, TensorFlow, SVM, HM
+il y a 9 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/01/2019,Big_data,Toulouse,14/10/2019,vjk=a0ee1b46846e9ea3,vide,cdi
+Développeur Web/Big Data - H/F,Labsoft,Toulouse (31),vide,"Toulouse (31)
+CDI
+Dans le cadre du développement de notre activité, Labsoft recute un(e) Super Dévelopeur Big Data H/F :
+Le poste consiste a pour objectif de développer des Dashboards de supervision applicative SI dans un environnement Big Data.
+Envie de mettre vos super-pouvoirs de développeur à disposition ?
+Rejoignez la galaxie Labsoft et devenez le prochain héros Labsoftein(nes).
+VOTRE FUTUR JOB :
+Recueil du besoin auprès des utilisateurs et conception des Dashboards
+Implémentation de Dashboard
+Réaliser la documentation associée aux développements notamment permettant la réutilisation des modules par d’autres équipes
+Réaliser le reporting de l'activité dans un outil propre au projet
+Participer et présenter les résultats en Sprints Démo
+Participer et contribuer aux différents comités projet
+Environnement Technique :
+Kafka / Hbase / Hadoop / ELK /OpenTracing
+OpenAM / Adobe EM / JBoss / Apache / Postgre SQL / Open LDAP
+Application d'analyse et de prédiction du fonctionnement des SI, basé sur des technologies Big Data, dont la finalité est d'être l'outil support de l'exploitation des SI
+
+Connaissance des problématiques liées à la supervision applicative des SI
+Méthode de travail basée sur Agile
+Travail en équipe, dans un environnement multi acteurs
+
+
+Ce poste vous intéresse ?
+Enfilez votre costume et rejoignez notre équipe de X-Men du digital
+PRESENTATION DE L'ENTREPRISE :
+LABSOFT assure depuis 18 années un accompagnement personnalisé dans les projets de transformations numériques de ses clients.
+Présente en régions Toulousaine et Parisienne, nous comptons sur nos 150 collaborateurs pour apporter un savoir-faire transverse à nos partenaires.
+Notre volonté ? Garder notre état d’esprit collaboratif à taille humaine.
+Notre ADN ? L’alliance du numérique avec l’approche d’une PME.
+Nous vous proposons un modèle basé sur la proximité, l’écoute, l’épanouissement, le développement de vos compétences et de votre carrière !
+Pour cela, nous avons lancé la dynamique « LabSoft Building, ensemble construire demain »
+Quésaco ? Un After work mensuel fun et collectif allouant le partage d’un bon moment et la prise de parole pour façonner la société à votre image, développer votre esprit d’équipe et s’assurer que chacun œuvre dans la même direction.
+Vous avez soif d’aventures, de nouveaux challenges et d’innovations technologiques ? Vous recherchez aussi une nouvelle famille ? Labsoft est fait pour vous !
+A vous de jouer ! Rejoignez-vite l’aventure humaine en nous transmettant votre candidature : rh@labsoft.fr.
+il y a 9 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/01/2019,Big_data,Toulouse,14/10/2019,vjk=44b773c7c2cb711b,vide,cdi
+CONSULTANT INGÉNIEUR BIG DATA (H/F),Fortil,Toulouse (31),vide,"Toulouse (31)
+CDI
+MISSIONS
+En tant qu'ingénieur / développeur Big Data, vos principales missions sont les suivantes :
+Analyser l’existant en terme d’architecture application et proposer des améliorations d’architecture
+Réaliser des développements dans un environnement Big Data (Hadoop, Spark…)
+Participer au support et à la maintenance des applications
+OUTILS / LANGUES
+Connaissances de la distribution de Hadoop : Hive, HDFS, Kafka, oozie etc…
+Connaissance d’un langage de programmation : Scala, Java, Python
+Vous avez l’habitude de travailler dans un environnement Linux
+Maîtrise de l’anglais technique
+PROFIL RECHERCHÉ
+De formation Bac+5 en école d’ingénieur ou équivalent, vous avez une première expérience réussie dans le développement informatique, idéalement dans un contexte Big Data.
+il y a 9 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/01/2019,Big_data,Toulouse,14/10/2019,vjk=b6782cf2f2c46f83,vide,cdi
+Architecte BIG DATA H/F,"CGI Group, Inc.",Toulouse (31),vide,"Toulouse (31)
+Position Description:
+CGI en France est le 4ème acteur indépendant en conseil et services en technologies de l'information réunissant 10 000 collaborateurs présents dans 21 villes.
+
+Fort d'un positionnement unique dans le groupe CGI, l'entité CGI dédiée à la Transformation Digitale rassemble les meilleures pratiques en matière de cyber sécurité, Big Data, expérience digitale, mobilité, customer experience, … Basée sur 2 sites géographiques, Toulouse et Montpellier, cette entité CGI adresse tous les secteurs d'activités (industrie, banque, assurance, retail, médias,…) pour des clients de France entière mais aussi à l'international.
+
+CGI vous propose de rejoindre cette entité à Toulouse ou à Montpellier : un projet ambitieux dans un contexte de transformation du système d'information de nos clients, une gestion des carrières motivante dans un contexte international.
+
+En effet, après une croissance de 40% en 2016 puis 2017, et une implantation de notre entité digitale à Toulouse en 2016 (100 salariés en moins d'un an à Toulouse, 380 à Montpellier), nous souhaitons recruter 40 personnes sur Montpellier & Toulouse dans les métiers de la Business Intelligence, du Big Data et de l'Analytics
+
+Venez avec votre expérience, vos idées, vos envies, enrichir un leader mondial dans une entité à l'esprit start-up
+
+Vous avez envie de conserver votre écosystème de travail ? Emmenez vos collègues dans l'aventure…
+
+Boostez votre carrière, rejoignez-nous !
+
+Your future duties and responsibilities:
+Votre rôle au sein du Centre d'Excellence aura de très nombreuses facettes, toutes orientées vers un seul et même objectif : Contribuer à la transformation digitale et au succès de nos Clients.
+
+En tant qu'architecte technique Big Data, vous serez intégré dans un pôle de consultants spécialistes de la BI, du Big Data et de la Data Science intervenants sur des projets analytiques stimulants. Vos missions sont :
+
+Participer à la définition des architectures techniques Big Data
+Rédaction des dossiers d'architecture technique
+Préconiser des solutions techniques
+Participer aux avants ventes
+Participation et support aux prototypes
+Accompagner les équipes projet client
+Assurer un support technique aux équipes internes Big Data et Data Science
+Encadrer des consultants et les faire monter en compétence sur l'usage des technologies de l'écosystème Big Data
+Veille technologique
+Required qualifications to be successful in this role:
+Passionné de nouvelles technologies, la Business Intelligence, les nouveaux enjeux de la donnée, l'IA et la Data Science, vous aimez le travail en équipe, apprendre, partager, vous êtes également dotés d'un esprit audacieux et ambitieux. Vous faites preuve d'initiative et travaillez sur le long terme.
+
+De formation ingénieur ou Bac+5, Vous justifiez d'une expérience significative en tant que Leader Technique ou Architecte Technique dans le domaine de la BI et/ou du Big Data, avec au moins 8 ans d'expérience professionnelle au sein d'une entreprise de services numériques ou d'un cabinet de conseil.
+
+Vous disposez d'une vision large des technologies et vous connaissez les principaux enjeux autour de la Data Science et de la Data Visualisation et maitrisez les composants Big Data (Hadoop, Spark, Hive, Impala, Flume, NiFi, Kafka...) et NoSQL (MongoDB, Neo4j, Cassandra...).
+
+Vous êtes mobiles pour des déplacements réguliers dans la région de Toulouse et de Paris principalement.
+
+Votre dynamisme, votre ambition et votre goût du challenge sont vos atouts pour réussir dans ce poste.
+
+Comme tous les postes de l'entreprise, ce poste est ouvert aux personnes en situation de handicap
+
+Skills:
+Big Data
+What you can expect from us:
+Donnez un élan à votre carrière.
+
+Le secteur des technologies de l'information (TI) connaît une période extraordinaire. La transformation numérique des organisations continue de s'accélérer, et CGI est au premier plan de ce changement. Nous accompagnons nos clients dans leur démarche numérique et offrons à nos professionnels des opportunités de carrière stimulantes.
+
+La réussite de CGI repose sur le talent et l'engagement de nos professionnels. Ensemble, nous relevons les défis et partageons les bénéfices issus de la croissance de notre entreprise. Cette approche renforce notre culture d'actionnaire-propriétaire ainsi, tous nos professionnels bénéficient de la valeur que nous créons collectivement.
+
+Joignez-vous à nous pour prendre part à la croissance de l'une des plus importantes entreprises indépendantes de services en technologies de l'information (TI) et en gestion des processus d'affaires au monde.
+
+Pour en savoir davantage à propos de CGI : www.cgi.com.
+
+Les candidatures non sollicitées provenant de cabinets de recrutement ne seront pas retenues.
+
+CGI favorise l'équité en matière d'emploi.
+CGI - il y a 11 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/11/2018,Big_data,Toulouse,14/10/2019,vjk=9ddc630927f8aa75,vide,vide
+Ingénieur Big Data H/F,,,vide,"Toulouse (31)
+CDI
+Dans le cadre du développement de notre activité en Data Science, nous recherchons pour un de nos clients des Ingénieurs Big Data H/F.
+
+Vos principales missions :
+Mise en œuvre de solutions Big Data en utilisant des outils tels que Hadoop et Spark
+Conception et développement des architectures de données
+Conception des algorithmes pour réaliser les analyses statistiques
+Etre force de proposition sur les méthodes statistiques à mettre en œuvre
+Assurer le reporting
+Formations et compétences
+De formation Bac + 5 (école d'ingénieur ou universitaire), vous justifiez d'une expérience significative dans les Data Science.
+Bonne connaissance: Hadoop, Spark,…
+
+Vous êtes autonome, sérieux, vous avez le sens du service et de l'analyse, vous êtes impliqué, nous vous offrons une ouverture sur des projets complexes et une rapide évolution de carrière
+Localisation du poste
+Localisation du poste à pourvoir
+France, Midi-Pyrénées
+Lieu
+Toulouse
+il y a 12 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/10/2018,Big_data,Toulouse,14/10/2019,vjk=43ed3ecb8b1b6817,vide,cdi
+Stagiaire Développeur(se) Géo Big Data,Gisaïa,Blagnac (31),900 € par mois,"Blagnac (31)
+Stage
+900 € par mois
+Le Big Data vous attire ? Vous avez envie de vous exprimer et de vous épanouir dans un domaine innovant, de vous perfectionner et devenir un artisan du logiciel ?
+Rencontrons-nous !
+Gisaïa est une jeune société innovante dans l’univers des applications cartographiques (données spatiales/géolocalisées) et du Big Data. Nous relevons le défi de façonner et d’analyser les grands volumes de données pour les enrichir et les rendre accessibles et compréhensibles par tous au travers de techniques de visualisation novatrices et efficaces.
+Gisaïa édite la solution open source ARLAS - www.arlas.io - d’analyses spatio-temporelles et geo-exploration Big Data : traiter, analyser et représenter sur une carte de très grands volumes de données avec une remarquable fluidité et une expérience utilisateur significative
+
+Pourquoi Gisaïa ?
+Gisaïa est un lieu d’échange, d’épanouissement, de créativité et d’innovation ; vous intégrerez une équipe talentueuse et enthousiaste dans une entreprise où l’humain est capital.
+Dans nos locaux, au sein d’Ethics Biotope à Toulouse Blagnac, vous évoluerez dans un environnement moderne et vivifiant. La société est dans une phase d’accélération basée sur une offre forte et à haut potentiel.
+Description du poste
+L’objectif du stage est de mettre en oeuvre des micro-services REST et une API riche sur la base de donnée géographique mondiale OpenStreetMap (OSM).
+Cette API interroge OSM pour y retrouver entre autre l’ensemble des éléments (villes, ports, bâtiments, rues, etc) ayant les caractéristiques souhaitées et se trouvant dans un périmètre d’intérêt ou à une distance donnée d’un point ou encore étant le plus proche à vol d’oiseau d’une position d’intérêt.
+Avec le support des ingénieurs Gisaïa vous :
+Étudiez et comparez la pertinence d’une base SQL et de bases NoSQL
+Intégrez les données dans la base retenue
+Définissez l’API REST selon nos cas d’usages. Ces services sont principalement utilisés par nos algorithmes d’intelligence artificielle. Vous collaborez avec les équipes d’IA
+Concevez et réalisez des micro-services, scalables
+Une interface graphique pourra être mise en oeuvre afin d’évaluer et prendre en main l’API
+Vous participez à la vie de la société, vous êtes intégré(e) aux équipes GISAIA et travaillez selon les méthodes en cours dans la société : méthodes Agile, intégration continue, procédures et techniques de développement.
+Profil recherché
+En cours de formation supérieure (école d’ingénieur ou master), vous connaissez un ou plusieurs langages (Java en particulier). Vous évoluerez dans un écosystème technique évolué (tests, déploiement, packaging, etc.) et travaillerez en équipe tout en disposant d'une belle autonomie.
+Vous êtes curieux(se), créatif(ve), dynamique, efficace et porté(e) vers les nouvelles technologies.
+Vous vous épanouissez dans:
+La mise en place de serveurs applicatifs
+L’édification d’architectures multi-tiers hautement scalables
+La modélisation, l’organisation et l’optimisation des données
+L’élaboration d’interfaces riches de type Web
+Le développement bien fait et l’utilisation de techniques efficaces
+Exemples d’environnements techniques :
+DATA - MongoDB, Cassandra, PostgreSQL / PostGIS, ElasticSearch
+BIG DATA - Kubernetes, Docker
+DEV - Java, Dropwizard, Swagger, maven, gradle, docker, intégration continue
+WEB & VISUALISATION- Angular, D3.js, MapBox GL JS, Kibana
+SIG - OpenStreetMap, PostGIS & MapBox
+Conditions
+Gratification : 900 € / mois pour PFE
+Tickets restaurant, prise en charge à 50% des transports publics.
+Lieu du stage : Toulouse Blagnac
+Le stage peut se prolonger via une alternance ou 1 CDI selon votre profil
+il y a 12 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/10/2018,Big_data,Toulouse,14/10/2019,vjk=07d72c0b75a2726f,vide,cdi
+Stagiaire Data Scientist Géo Big Data,Gisaïa,Blagnac (31),900 € par mois,"Blagnac (31)
+Stage
+900 € par mois
+Vous êtes passionné(e) par l’exploration de données issues d’environnements riches et variés afin de les comprendre et les valoriser ? Les algorithmes et l’innovation vous attirent ? Vous avez envie de plonger dans l’univers Big Data ?
+Rencontrons-nous !
+Gisaïa est une jeune société innovante dans l’univers des applications cartographiques (données spatiales/géolocalisées) et du Big Data. Nous relevons le défi de façonner et d’analyser les grands volumes de données pour les enrichir et les rendre accessibles et compréhensibles par tous au travers de techniques de visualisation novatrices et efficaces.
+Gisaïa édite la solution open source ARLAS d’analyses spatio-temporelles et geo-exploration Big Data : traiter, analyser et représenter sur une carte de très grands volumes de données avec une remarquable fluidité et une expérience utilisateur significative www.arlas.io
+
+Pourquoi Gisaïa ?
+Gisaïa est un lieu d’échange, d’épanouissement, de créativité et d’innovation ; vous intégrerez une équipe talentueuse et enthousiaste dans une entreprise où l’humain est capital.
+Dans nos locaux, au sein d’Ethics Biotope à Toulouse Blagnac, vous évoluerez dans un environnement moderne et vivifiant. La société est dans une phase d’accélération basée sur une offre forte et à haut potentiel.
+Description du poste
+Avec le support des ingénieurs Gisaïa vous :
+Confrontez les algorithmes à l’étude à l’état de l’art maintenu par la société
+Concevez des algorithmes d’enrichissement de la donnée (machine learning)
+Développez des prototypes de manière à en mesurer le potentiel : résultats et performances
+Mettez en place des flux de données hétérogènes, structurez l’espace des données cibles, appliquez des pré-traitements aux données
+Implémentez les algorithmes dans un environnement scalable Big Data
+Vous travaillez dans l’environnement ARLAS solution d’exploration Geo Big Data.
+Vous participez à la vie de la société, vous êtes intégré(e) aux équipes GISAIA et travaillez selon les méthodes en cours dans la société : méthodes Agile, intégration continue, procédures et techniques de développement.
+Profil recherché
+En cours de formation supérieure (école d’ingénieur ou master) mathématiques / statistiques orientées data science, vous connaissez un ou plusieurs langages (Python, Java, Scala). Vous évoluerez dans un écosystème technique évolué et travaillerez en équipe tout disposant d'une belle autonomie.
+Vous êtes curieux(se), créatif(ve), dynamique, efficace et porté(e) vers les nouvelles technologies.
+Vous vous épanouissez dans:
+L’algorithmie, intelligence artificielle / machine learning,
+La modélisation et l’organisation des données,
+Les environnements Big Data,
+Le développement bien fait et l’utilisation de techniques efficaces.
+Exemples d’environnements techniques :
+INTELLIGENCE ARTIFICIELLE - Jupyter, TensorFlow, Keras, Scikit
+DATA - MongoDB, ElasticSearch, Cassandra, PostgreSQL / PostGIS
+BIG DATA - Spark, OpenStack, Kubernetes, Mesos, Docker
+VISUALISATION - Data visualization: D3js, Leaflet, Kibana
+DEV - JAVA, Python, Scala, C++, NodeJS, git, maven, gradle, docker, intégration continue
+WEB - Angular, CSS, Javascript & Typescript
+SIG - Services OGC, serveurs SIG libres ou propriétaires, outillages divers
+Conditions
+Gratification : 900 € / mois pour PFE
+Tickets restaurant, prise en charge à 50% des transports publics.
+Lieu du stage : Toulouse Blagnac
+Le stage peut se prolonger via une alternance ou 1 CDI selon votre profil
+il y a 12 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/10/2018,Big_data,Toulouse,14/10/2019,vjk=8582c7978a6febf2,vide,cdi
+Stage – Développeur BI / Big Data H/F,Devoteam,Occitanie,vide,"Occitanie
+Stage
+Description du poste
+
+Durant ton stage, tu participeras, dans le cadre du Centre d'Excellence de Toulouse, aux différentes étapes du cycle de vie de chantiers de Business Intelligence et de Big Data :
+
+Recueil des besoins
+
+Spécifications
+
+Développement
+
+Test
+
+Livraison.
+
+Qualifications
+
+Tu as :
+Une bonne maitrise du langage SQL et connaissances en BI (Reporting, Alimentation de données)
+
+Des connaissances en Big Data
+
+Tu connais :
+L'environnement LinuxOutillage BI: JasperSoft Jasper Server, SAP Business Objects, Informatica (ETL)
+
+L'outillage Big Data: ElasticSearch, Kibana, Akka, Kafka, Spark
+
+Surtout, tu es organisé(e), rigoureux(euse), communiquant(e) et a un bon relationnel.
+Description de l’entreprise
+
+Chez Devoteam , nous sommes des « Digital Transformakers ». Le respect, la franchise et la passion animent chaque jour notre tribu. Ensemble, nous aidons nos clients du CAC40 à remporter la bataille du Digital : du conseil à la mise en œuvre de technologies innovantes, jusqu’à l’adoption des usages.
+
+Nous intervenons principalement dans les secteurs de la banque, de l’énergie et de l’industrie ainsi que dans la santé, les transports et la distribution.
+
+Cloud, Cybersécurité, Digital Workplace ainsi que Big Data et Project Management n’ont aucun secret pour notre tribu ! Nos 7 200+ collaborateurs sont certifiés, formés et accompagnés au quotidien pour relever de nouveaux challenges innovants.
+
+En 2018, nous avons réalisé 652 M€ de chiffre d’affaires. D’ici 2020, nous serons un des leaders européens de la transformation digitale. Es-tu prêt(e) à relever le défi ?
+Informations complémentaires
+
+Tu es étudiant en école d'ingénieur, de commerce ou à l'université. Tu recherches un stage de 6 mois à partir de mars 2020.
+
+Ce que l’on te propose :
+Une intégration et un suivi rigoureux tout au long de ton stage pour développer tes compétences.
+
+Devenir acteur de notre croissance, relever des défis ambitieux et prendre des responsabilités.
+
+Participer activement à la vie interne du groupe : publication d'articles sur notre blog, contribution au recrutement et aux relations écoles, formations et événements internes.
+
+Le savais-tu ?
+
+Notre objectif : poursuivre l'aventure en CDI avec nos talents à l’issue de leur stage ou de leur alternance de fin d’études.
+
+Depuis 4 ans déjà nous sommes labellisés entreprise HappyTrainees, nos talents sont heureux chez Devoteam ! Retrouve les avis ici .
+
+Cela fait aussi 4 années que nous sommes parmi les 120 employeurs les plus attractifs et nous avons reçu le prix « Leadership Opportunities » d'Universum !
+
+Chaque année nous accompagnons du mieux possible nos équipes au travers de Devoteam University qui forme plus de 1000 consultants et 300 certifications sont obtenues.
+
+Tous nos postes sont ouverts aux personnes en situation de handicap. Devoteam est engagé dans une politique Diversité.
+il y a 12 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",02/10/2019,Big_data,Toulouse,14/10/2019,vjk=254a1f93b0d83d67,vide,cdi
+Stage ingénieur - Amélioration de la modélisation Système su...,Capgemini,Occitanie,vide,"Occitanie
+Stage
+Description de l'entreprise
+Capgemini Digital Engineering & Manufacturing Services, filiale de Capgemini, met son expérience et ses compétences en Ingénierie, Informatique technique et Digital Manufacturing au service des secteurs aéronautique, spatial, défense, énergie, transport.
+
+Description de la mission
+Lieu du stage: Toulouse
+
+Dans le cadre d'essais réalisés sur des équipements physiques, nous intervenons dans la mise en place de solutions de type Big Data.
+
+Durant ce stage, vous intervenez sur une mission de gestion de données techniques liées à des essais systèmes ACMS (Aircraft Condition Monitoring System) embarqués sur la gamme d’avion Airbus.
+
+Dans un premier temps, vous vous imprégnez de l’architecture et du fonctionnement du système.
+
+Vous intervenez également dans l’amélioration de la solution de simulation de comportement du système ACMS (environnement : Python, Shell, Spotfire, outils Airbus d’exploitation des données).
+
+Enfin, intégré à une équipe métier vous êtes acteur dans l’apport de plus-value de cette solution ainsi que dans la valorisation de la technologie pour notre client.
+
+Profil
+Etudiant(e) en dernière année d'une Ecole d'Ingénieur ou Université, vous avez une réelle passion pour les nouvelles technologies, complétée d'une solide base technique, idéalement dans le domaine de la modélisation / Big Data et la manipulation de données. Vous êtes dynamique et force de proposition, votre caractère vous permettra de mener à bien ce projet.
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/09/2019,Big_data,Toulouse,14/10/2019,vjk=b5740a5cd5d18175,vide,stage
+Stage ingénieur - Modélisation Système sur une application B...,Capgemini,Occitanie,vide,"Occitanie
+Stage
+Description de l'entreprise
+Capgemini Digital Engineering & Manufacturing Services, filiale de Capgemini, met son expérience et ses compétences en Ingénierie, Informatique technique et Digital Manufacturing au service des secteurs aéronautique, spatial, défense, énergie, transport.
+Description de la mission
+Lieu du stage: Toulouse
+
+Durée du stage: 4 à 6 mois à partir de Février 2020
+
+Capgemini travaille depuis de nombreuses années au sein des départements essais pour de grands comptes, que ce soit essais systèmes, ou essais mécaniques en vol.
+Aujourd’hui, Capgemini a développé un outil de validation de paramètres basé sur une approche mathématique simple qui évalue les mesures sur leurs comportements moyens lors d’événements similaires durant des essais. Capgemini souhaite améliorer cet outil en associant une Intelligence Artificielle qui permettrait de mieux évaluer la validité des mesures issues des jauges de contraintes.
+
+L’objectif principal de ce stage est l’amélioration de l’outil existant. Vos missions sont les suivantes :
+
+Vous prenez en main l’outil construit en langage Python
+Vous évaluez la meilleure approche d’IA ou BigData adaptée au besoin et vous l’intégrez comme fonctionnalité dans l’outil
+Vous complétez la documentation de l’outil à la suite des fonctions développées
+Vous travaillez en collaboration avec l’équipe d’ingénieurs essai de manière à rendre utilisable de façon simple, intuitive et efficace l’outil de validation.
+Profil
+Etudiant(e) en dernière année d'une Ecole d'Ingénieur ou Université, vous avez une réelle passion pour les nouvelles technologies, complétée d'une solide base technique, idéalement dans le domaine de la modélisation / Big Data et la manipulation de données. Vous êtes dynamique et force de proposition, votre caractère vous permettra de mener à bien ce projet.
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/09/2019,Big_data,Toulouse,14/10/2019,vjk=3771a7c3f527e798,vide,stage
+Ingénieur développement Big Data (MDI),Serma Technologies,Occitanie,vide,"Occitanie
+CDI
+Poste et missions
+Dans le cadre du développement de nos activités, nous recherchons un(e) Ingénieur développement d’une plateforme Big Data (véhicule connecté).
+Vous interviendrez dans un contexte international (anglais courant impératif)
+Intégré(e) dans une équipe internationale en mode agile, vous apporterez votre expertise et votre enthousiasme pour nous aider à construire notre plateforme de services.
+Profil et compétences
+Vos Compétences techniques :
+Recherche appliquée: pneus, capteurs, véhicule…
+Physique et traitement du signal –
+Algorithmie, stats descriptives et exploratoires
+C++, Python
+Le poste est basé sur la région Toulouse (31) et est à pourvoir dès que possible.
+Pourquoi SERMA ?
+Intégrer le Groupe SERMA c'est intégrer un groupe en forte croissance, bénéficiant de 30 ans d'expérience en électronique.
+Depuis sa création, le Groupe SERMA s’appuie sur des valeurs qui ont fait son succès :
+Respect des collaborateurs et des clients
+Management technique de proximité
+Esprit d’équipe et de solidarité
+En nous rejoignant, vous prenez part à des projets innovants et bénéficiez de réelles opportunités d’évolution professionnelle.
+il y a 6 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/04/2019,Big_data,Toulouse,14/10/2019,vjk=c5aa102cf240d96d,vide,cdi
+Ingénieur développement Big Data (MDI),Serma Ingéniérie,Occitanie,vide,"Occitanie
+CDI
+Poste et missions
+Dans le cadre du développement de nos activités, nous recherchons un(e) Ingénieur développement d’une plateforme Big Data (véhicule connecté).
+Vous interviendrez dans un contexte international (anglais courant impératif)
+Intégré(e) dans une équipe internationale en mode agile, vous apporterez votre expertise et votre enthousiasme pour nous aider à construire notre plateforme de services.
+Profil et compétences
+Vos Compétences techniques :
+Recherche appliquée: pneus, capteurs, véhicule…
+Physique et traitement du signal –
+Algorithmie, stats descriptives et exploratoires
+C++, Python
+Le poste est basé sur la région Toulouse (31) et est à pourvoir dès que possible.
+Pourquoi SERMA ?
+Intégrer le Groupe SERMA c'est intégrer un groupe en forte croissance, bénéficiant de 30 ans d'expérience en électronique.
+Depuis sa création, le Groupe SERMA s’appuie sur des valeurs qui ont fait son succès :
+Respect des collaborateurs et des clients
+Management technique de proximité
+Esprit d’équipe et de solidarité
+En nous rejoignant, vous prenez part à des projets innovants et bénéficiez de réelles opportunités d’évolution professionnelle.
+il y a 6 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/04/2019,Big_data,Toulouse,14/10/2019,vjk=1e62009565241e52,vide,cdi
+Développeur Big data H/F,Capgemini,Occitanie,vide,"Occitanie
+Description de l'entreprise
+Capgemini est l'un des leaders mondiaux du Conseil, des Services informatiques et de l'Infogérance. En 2016, le Groupe a réalisé un chiffre d'affaires de 12,5 milliards d'euros et emploie aujourd'hui plus de 193 000 collaborateurs dans plus de 44 pays.
+Le groupe Capgemini est signataire de la Charte de la diversité en entreprise
+Description de la mission
+Dans un monde qui change toujours plus vite, les solutions de nos clients doivent être bâties avec encore plus de réactivité ! Notre "" practice "" CSD ("" Custom Software Development "") offre de nouvelles façons de construire rapidement, adossées à de nouvelles façons d'innover. Riche d'un capital humain de plus de 3 300 collaborateurs sur 16 sites en France partageant la culture des grands projets d'intégration, elle réunit de solides compétences en pilotage, technologiques (AngularJS, Node.js, React, Symfony, AKKA, Drupal, Sharepoint, Java EE, …) et métiers (e-Santé, e-Education, Smart Cities, Smart Building, Billing, …).
+
+Vous interviendrez en tant qu'Ingénieur Développement Logiciel en intégrant nos équipes sur des projets innovants dans le domaine du Big Data.
+Vous intégrerez directement les équipes qui développent les solutions de transformation digitale (SMAC) pour nos clients grands comptes.
+Profil
+Diplômé d'une école d'ingénieurs ou d'une formation universitaire équivalente (Bac +5), vous êtes à la recherche d'une nouvelle opportunité de carrière dans la conception et le développement de solutions Big Data.
+Vous maîtrisez une des technologies suivantes : NoSql (MongoDB, Caldera…), Hadoop, Business Intelligence en complément d'une maitrise de la programmation objet Java ou .NET.
+
+Nous vous donnons la possibilité de :
+
+Travailler dans des contextes clients diversifiés pour des entreprises de dimension internationale ;
+Mettre en pratique vos acquis sur des projets d'envergure ambitieux et dynamiques ;
+Développer vos connaissances et acquérir de nouvelles compétences techniques, méthodologiques et fonctionnelles via nos cursus de formation ;
+Construire votre carrière grâce à notre programme de développement professionnel.
+
+Autonomie, créativité, maîtrise de l'anglais, capacité rédactionnelle et esprit d'équipe sont des qualités qui vous caractérisent.
+
+Rejoignez-nous et révélez-vous chez Capgemini.
+il y a 12 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/10/2018,Big_data,Toulouse,14/10/2019,vjk=29446ad39312a2c1,vide,vide
+Développeur Big Data confirmé - Toulouse (H/F),Capgemini,Occitanie,vide,"Occitanie
+Description de l'entreprise
+À propos de Capgemini
+Capgemini est un leader mondial du conseil, des services informatiques et de la transformation numérique. A la pointe de l’innovation, le Groupe aide ses clients à saisir l’ensemble des opportunités que présentent le cloud, le digital et les plateformes. Fort de 50 ans d’expérience et d’une grande expertise des différents secteurs d’activité, il accompagne les entreprises et organisations dans la réalisation de leurs ambitions, de la définition de leur stratégie à la mise en œuvre de leurs opérations. Pour Capgemini, ce sont les hommes et les femmes qui donnent toute sa valeur à la technologie. Résolument multiculturel, le Groupe compte 200 000 collaborateurs présents dans plus de 40 pays. Il a réalisé un chiffre d'affaires de 12,8 milliards d'euros en 2017.
+Plus d’informations sur www.capgemini.com. People matter, results count.
+Description de la mission
+Intégré au sein de nos équipes projets pour des clients grands comptes, vous participerez à la construction et transformation digitale de nos clients.
+Vous interviendrez en tant qu'Ingénieur Développement Logiciel sur des projets innovants dans le domaine du Big Data
+Vous participerez à des études techniques et benchmarks sur les outils Big Data / Analytics du marché
+Vous participerez au développement Big Data / Analytics sur des technologies variées (Hadoop, Python, NoSQL, ElasticSearch, Data Visualization, Data Science Studios, …)
+Vous participerez à l'industrialisation des technologies Big Data (notamment l'ingestion massive de données dans un Data Lake)
+Profil
+De formation école d'ingénieur ou BAC+5 scientifique, vous disposez d'une expertise en Business Intelligence d'au minimum 4 ans ou d'une connaissance des concepts clés et des méthodologies de la Business Intelligence Big Data/ Analytics, d'un réel leadership, d'un bon relationnel
+Vous êtes à la recherche d'une nouvelle opportunité de carrière dans la conception et le développement de solutions Big Data
+Vous maîtrisez une des technologies suivantes : Hadoop (Sqoop, Hive, MapReduce, Spark, ..), NoSql (MongoDB, Cassandra…) en complément d'une maitrise de la programmation objet Java ou .NET.
+Autonomie, créativité, maîtrise de l'anglais, capacité rédactionnelle et esprit d'équipe sont des qualités qui vous caractérisent.
+il y a 12 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/10/2018,Big_data,Toulouse,14/10/2019,vjk=47faa8ee7e3da7ff,confirmé,vide

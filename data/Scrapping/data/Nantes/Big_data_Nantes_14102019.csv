@@ -1,0 +1,719 @@
+Titre,Nom_Entreprise,Adresse,Salaire,Descriptif_du_poste,Date_de_publication,métier_sc,loc_sc,Date_sc,Identifiant,Experiences,contrat
+Architecte Big Data H/F,EXTERNATIC,Nantes (44),vide,"Nantes (44)
+CDI
+DESCRIPTION DE L'OFFRE
+Externatic, c'est le premier cabinet de recrutement IT de l'ouest, mais surtout un accès privilégier à des opportunités cachées au sein de pépites (+300 postes ouverts HORS ESN / SSII #evil).
+Notre moteur : trouver l'opportunité (en CDI) qui vous correspond
+Notre approche : on parle un peu, on vous écoute, on vous écoute, on parle un peu
+=> Rencontrons-nous !
+
+L'ENTREPRISE / LE POSTE
+L’entreprise édite une solution logicielle exploitant des données par les méthodes d'intelligence artificielle pour les équipes marketing et commerce.
+En plein croissance internationale, la société complète ses équipes data avec la création d'un poste d'Architecte Data H/F.
+Leader technique vous accompagnez la migration vers une architecture évènementielle.
+Vous travaillez en lien avec l’équipe de développement, l’équipe de data scientists et le responsable produit.
+La mission consistera à
+Evaluer, définir, implémenter et supporter l’architecture Big Data
+Proposer des solutions et piloter techniquement la migration, le découpage et l’avancement au sein de l’équipe Data.
+Former et évangéliser sur les technologies data en interne
+Conditions : centre de Nantes. Salaire suivant profil
+Les plus :
+Environnement bouillonnant et exaltant => veille / montée en compétences / croissance
+Super ambiance
+Centre de Nantes
+Agilité
+Salaire
+CDI : évolutif + Package attractif.
+
+Benjamin Casseron, votre interlocuteur chez Externatic
+Chaque année, j'accompagne des candidats, comme vous, dans la définition de leur projet professionnel et la recherche d'un nouveau job.
+N'hésitez pas à me contacter pour échanger sur ce poste et plus généralement sur votre carrière (contacts direct disponibles dans la rubrique ""qui sommes nous"" sur le site d'Externatic).
+
+PROFIL REQUIS
+Vous disposez d'une expérience en tant qu'Architecte dont une expérience sur une chaine à base de Kafka.
+Vous disposez si possible :
+Une expertise sur les bases de données NoSQL (MongoDB),
+Une expertise sur les outils de transformations (Kafka Stream, Streamsets, Akka stream, Spark, etc.),
+Une maîtrise des technologies Cloud : AWS, Docker, Kubernetes, micro-services, etc.
+Une bonne connaissance de l’anglais pour la production documentaire.
+il y a 3 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",11/10/2019,Big_data,Nantes,14/10/2019,vjk=beb398d288038925,vide,cdi
+Consultant Big Data H/F NANTES,Umanis,Loire-Atlantique,vide,"Loire-Atlantique
+LE LEADER FRANCAIS DE LA DATA RECRUTE.Rejoindre Umanis, c'est participer à une formidable aventure, celle d'une entreprise française en croissance continue, reconnue pour sa capacité d'innovation et son dynamisme.Umanis, c'est plus de 2700 passionnés de nouvelles technologies qui partagent les mêmes valeurs qu sont l'excellence, la responsabilité, le respect et la convivialité.Umanis, c'est une communauté avec une moyenne d'âge de 35 ans qui intervient en ingénierie de pointe sur les projets stratégiques des plus grands donneurs d'ordre ou pour le compte d'entreprises pour qui la data est vecteur de transformation.Umanis, c'est un management et une organisation au plus proche de ses collaborateurs pour vous accompagner dans votre parcours professionnel. Formation, certifications, MOOC, CPEC ; nous avons à coeur de vous faire évoluer en continu.VOS MISSIONS: Venez rejoindre notre communauté d’expert Big data sur des projets ambitieux qui vous feront gagner en compétences.Dans un écosystème Big Data basé principalement sur Hadoop (Hortonworks, Cloudera, MapR, Microsoft Azure, AWS), conception et développement d’applications Big Datapour : - L’intégration des flux de données dans un Data Lake(HDFS, Hive, Impala, HBase, …) avec Spark (Scala/Java), Kafka, Storm, Nifi, Sqoop, Flume, Shell Linux, … ;- Transformation et préparation des données en mode batch (Spark, Pig, Hive, …);- Traitement des évènements en temps réel à l’aide de Kafka, Spark Streaming, Storm, Nifi, …;- L’automatisation et l’orchestration des chaines de traitements avec Oozie;- Analyse des données avec Hive, Impala, …;- Suivi de production et maintenance des chaines de traitements;- Rédaction des tests fonctionnels et des tests d’acceptance avec des outils tels que Cucumber et les lancer depuis Jenkins;- Estimation de la charge des tâches et participation aux Pocker plannings;- Conseiller et éclairer le client sur les enjeux liés aux architectures et aux technologies Big Data;- Participation à l’enrichissement du Blog Big Data d’Umanis via des articles et des publications sur les différentes problématiques Big Data.De formation supérieure en informatique, Ecoles d’Ingénieurs ou Universités, vous justifiez de 2 ans d’expériences en conception et développement d’applications Big DataCompétences requises: - Maîtrise d’un langage de programmation orienté objet: Java, Scala, C++, C# …- Linux- Scripting: Shell Linux, Python…- SQL et des fondamentaux du Data Warehousing- Sécurité (Authentification, Autorisation, …)- Hadoop, HDFS, YARN, MapReduce, HBase, Spark, Hive, Impala, Pig, Sqoop, Kafka, Cassandra, ElasticSearch, Nifi, …- Une maitrise d’outils de DevOps et d’Usine de Développements (Cucumber, Maven, Gradle, Git/GitLab, Jenkins, Jira) serait un plus.Aimant le travail en équipe et maitrisant la langue anglaise, vous vous décrivez volontiers comme quelqu’un de polyvalent, créatif et plein d’humour!Pourquoi Umanis?COMPETENCES REQUISES: Analyses qualitatives et quantitatives (Avancé), Anglais (Confirmé), Architecture fonctionnelle SI (Avancé), Architecture technique SI (Avancé), Conception d'ouvrages, produits ou événements (Avancé), Développement d'ouvrages, produits ou événements (Avancé), Gestion budgétaire, financière et économique (Confirmé), Gestion de projet (Avancé), Gouvernance SI (Confirmé), Maîtrise des logiciels (Avancé)En 2019, Umanis recrute 1000 nouveaux talents sur l'ensemble du territoire français. Et si c'était vous ?
+Handi-it.fr - il y a 6 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",08/10/2019,Big_data,Nantes,14/10/2019,vjk=d086e38e1fc73b5d,vide,vide
+Consultant Big Data F/H,SIDERLOG,Nantes (44),vide,"Nantes (44)
+CDI
+Concevoir et alimenter une plateforme Big Data (Datalake, Datalab)
+
+Conseiller les clients sur les solutions proposées
+
+Savoir proposer des outils adaptés aux besoins du projet
+
+Exécuter les différents scénarios de tests
+
+Mettre en œuvre les benchmarks
+
+Savoir exploiter les outils de restitution de données
+Profil recherché Bac +5
+
+Formation universitaire, école d’ingénieur
+
+Compétences techniques dans les outils Big Data (R, Cloudera, Hortonworks, Hive, Ambari, Hue, Superset, Nifi, Oozie…) et Décisionnel (Qlickview, Informatica BODS, BO, Cognos, SAS, Talend…)
+
+Expérience dans le monde bancaire et assurance
+Entreprise Du plaisir à faire son travail, dans un environnement stimulant où l’on apprécie la qualité de la relation humaine. Voilà le ressenti exprimé par les femmes et les hommes de Siderlog.
+
+Depuis 2003, nos valeurs reconnues sont l’excellence, l’exigence, la confiance et l’esprit d’équipe.
+
+A Paris, Nantes, Lyon et Niort, de grands noms de l’assurance, de la banque, des mutuelles et de l’industrie s’attachent nos services et voient tous les avantages de notre approche du conseil, notre flexibilité et notre sens du service.
+
+Nous intervenons et sommes des acteurs reconnus dans 3 domaines :
+
+Conseil en organisation et en conduite du changement,
+
+AMOA SI et Management de projet,
+
+Décisionnel et Big Data.
+
+Nous rejoindre, c’est intégrer une entreprise dont l’humain est l’épicentre, une société où autonomie, confiance et partage sont des principes forts.
+
+Siderlog est l’un des 25 cabinets de l’écosystème Alan Allman Associates : 1700 experts répartis sur toute la France et à l’étranger (Singapour, Benelux…) : http://alan-allman.com/.
+Apec.fr - il y a 10 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",04/10/2019,Big_data,Nantes,14/10/2019,vjk=5836ebd2d8caedbb,vide,cdi
+Ingénieur Big Data Spark H/F,EXTERNATIC,Nantes (44),vide,"Nantes (44)
+CDI
+DESCRIPTION DE L'OFFRE
+Externatic, le hub d’opportunités web, mobile, informatique et électronique dans l’ouest.
+Cabinet de recrutement technologique nous vous trouvons des postes chez des clients finaux (startup, éditeur, DSI, agences digitales, etc. => pas de SSII) depuis 2010. Chaque offre d’emploi correspond à un poste réel.
+Notre mission : vous trouver le job de vos rêves !
+
+Pour le compte d'une entreprise bancaire sur Nantes, nous recherchons :
+
+un Ingénieur Big Data Spark H/F
+
+Vous souhaitez travailler sur des technologies récentes, appliquer des méthodes innovantes, évoluer dans des équipes à taille humaine et dans une ambiance dynamique.
+Dans un contexte d’investissements importants, plusieurs projets majeurs sont lancés ou en passe de l’être au sein du système d’information. Ils répondent à des enjeux variés, nombreux, et ambitieux :
+Croissance organique des activités
+Lancement de nouveaux produits
+Croissance externe et intégrations
+Refonte des socles technologiques
+Modernisation des applications, mise en place de nouvelles architectures
+Vous intégrez une équipe agile qui a la charge de mettre en place et exploiter la plateforme BigData Hadoop basée sur la distribution HortonWorks. Votre rôle dans l’équipe est le développement des jobs spark pour alimenter les différentes zones du datalake.
+Vous mettez à la disposition du groupe vos expertises spécifiques, et profitez des intéractions quotidiennes pour développer celles que vous maitrisez moins et qui vous intéressent. Vous êtes bien sûr l’un des éléments clés du développement de votre produit, mais vous prenez aussi part au développement des outils DevOps, à l’amélioration des méthodes de testing et de déploiement.
+PROFIL REQUIS
+Diplômé d'un niveau BAC+4 ou Bac+5, vous justifiez d'une expérience de 2 à 5 ans réussie dans le domaine du développement Java, Scala spark et tout ou partie de l’environnement technologique évoqué.
+Vous êtes passionné(e)s de nouvelles technologies et vous souhaitez développer vos compétences.
+Dynamique, rigoureux(se), disposant d’une excellente communication, vous aimez travailler en équipe et faites preuve d’un très bon relationnel.
+
+Vous êtes disponible immédiatement ou à trois mois et souhaitez surtout vous investir sur la durée : ce poste est pour vous !
+il y a 14 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",30/09/2019,Big_data,Nantes,14/10/2019,vjk=0492688a8ced6da1,vide,cdi
+Développeur Big Data / Hadoop H/F,HAYS,Loire-Atlantique,vide,"Loire-Atlantique
+Intégrez le service Etudes et Developpement d'un Groupe du domaine Bancaire
+Nous recherchons pour le compte de notre client, acteur du secteur bancaire basé à l'est de Nantes, un Développeur Big Data / Hadoop dans le cadre d'une opportunité de poste en CDI.
+
+Dans un contexte d’investissements importants, plusieurs projets majeurs sont lancés ou en passe de l’être au sein du système d’information de notre client et répondent à des enjeux variés, nombreux, et ambitieux :
+Croissance organique des activités
+Lancement de nouveaux produits
+Croissance externe et intégrations
+Refonte des socles technologiques
+Modernisation des applications, mise en place de nouvelles architectures
+
+Vous intégrez une équipe agile qui a la charge de mettre en place et exploiter la plateforme BigData Hadoop basée sur la distribution HortonWorks. Votre rôle dans l’équipe est le développement des jobs spark pour alimenter les différentes zones du datalake.
+
+Vous mettez à la disposition du groupe vos expertises spécifiques et profitez des interactions quotidiennes pour développer celles que vous maîtrisez moins et qui vous intéressent. Vous êtes bien sûr l’un des éléments clés du développement de votre produit, mais vous prenez aussi part au développement des outils devops, à l’amélioration des méthodes de testing et de déploiement.
+
+De formation Bac +4 minimum en Informatique, vous justifiez d'au moins 2 ans d'expérience similaire dans le domaine du développement Java, Scala spark et tout ou partie de l’environnement technologique évoqué.
+Passionné de nouvelles technologies, vous souhaitez développer vos compétences.
+
+Autonome et rigoureux, vous faites preuve d'un bon esprit d'analyse et de diagnostic et êtes force de proposition.
+
+Environnement technique :
+
+Langages : Java – Spark
+Outils CI/CD : Gitlab – Gitlab CI – JIRA
+Containers : Docker – AWS
+AWS : EC2 – RDS
+Outils & Framework : Hadoop (HDFS / Yarn) – Kafka – HortonWorks HDP 3.1 (Ambari)
+Sécurité : Kerberos – Apache Ranger / Ranger KMS – Free IPA
+Base de données : HBase – Hive
+#1191252
+il y a 18 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",26/09/2019,Big_data,Nantes,14/10/2019,vjk=5bba49f17d893852,vide,cdi
+CONSULTANT BIG DATA H/F NANTES-NIORT,Umanis,Loire-Atlantique,vide,"Loire-Atlantique
+LE LEADER FRANCAIS DE LA DATA RECRUTE.Rejoindre Umanis, c'est participer à une formidable aventure, celle d'une entreprise française en croissance continue, reconnue pour sa capacité d'innovation et son dynamisme.Umanis, c'est plus de 2700 passionnés de nouvelles technologies qui partagent les mêmes valeurs qu sont l'excellence, la responsabilité, le respect et la convivialité.Umanis, c'est une communauté avec une moyenne d'âge de 35 ans qui intervient en ingénierie de pointe sur les projets stratégiques des plus grands donneurs d'ordre ou pour le compte d'entreprises pour qui la data est vecteur de transformation.Umanis, c'est un management et une organisation au plus proche de ses collaborateurs pour vous accompagner dans votre parcours professionnel. Formation, certifications, MOOC, CPEC ; nous avons à coeur de vous faire évoluer en continu.VOS MISSIONS: Pour toujours mieux se développer, nous sommes en quête de talents avides de nouvelles aventures et souhaitant s’investir à nos côtés.Pour renforcer l’équipe en place, nous recherchons notre futur(e) Consultant(e) Big Data!En intégrant le projet de notre client, votre mission sera articulée autour de plusieurs axes : Concevoir et mettre en place des chaines de processing Big Data (Hadoop, Spark)Développer des modules de traitements de données Spark en ScalaÊtre force de proposition sur les solutions techniques mises en œuvreParticiper aux déploiements des solutions dans une démarche Agile / DevOpsDévelopper une expertise autour Java / Hadoop / Spark / KafkaDe formation supérieure en informatique, Ecoles d’Ingénieurs ou Universités, vous justifiez d’une ou plusieurs expériences en matière de développement Big Data (3, 5, 10 ans d’expérience, ce n’est pas la quantité qui compte, c’est le talentet la passion!)Votre domaine de compétences couvre l’écosystème Hadoop : Hive, Kafka, Ambari, Cloudera, Hortonworks; la capacité à implémenter des algorithmes distribués avec un langage de programmation Java, Scala, ou Python; la connaissance de NoSQL, d’une solution telle que Cassandra ou MongoDB et d’un moteur de recherche type ElasticSearch.Aimant le travail en équipe et maitrisant la langue anglaise, vous vous décrivez volontiers comme quelqu’un de polyvalent, créatif et plein d’humour!Pourquoi Umanis?Un suivi régulier et personnalisé par votre manager et votre référente RH.Une écoute constante pour accompagner votre montée en compétences et vous proposer les projets les plus en phase avec vos attentes.Des moments de partage: soirées d’agence et afterworks, rencontres sportives…La possibilité, en fonction de vos aspirations, de devenir l’un des référents techniques de notre équipe. Ceux qui, grâce à leur expertise, nous accompagnent dans le recrutement des futurs collaborateurs.Notre objectif: continuer de grandir, sans jamais oublier le lien tissé avec chacun, car VOUS êtes notre valeur ajoutée!COMPETENCES REQUISES: Anglais (Confirmé), Architecture fonctionnelle SI (Avancé), Architecture technique SI (Avancé), Compétences rédactionelles (Avancé), Conception d'ouvrages, produits ou événements (Confirmé), Développement d'ouvrages, produits ou événements (Avancé), Gestion budgétaire, financière et économique (Intermédiaire), Gestion de projet (Confirmé), Gouvernance SI (Confirmé), Maîtrise des logiciels (Avancé)En 2019, Umanis recrute 1000 nouveaux talents sur l'ensemble du territoire français. Et si c'était vous ?
+Handi-it.fr - il y a 24 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",20/09/2019,Big_data,Nantes,14/10/2019,vjk=f46cd355d88f539a,vide,vide
+Développeur Big Data - Bank - CDI,montreal,Nantes (44),vide,"Nantes (44)
+CDI
+Big Data
+Cloud AWS
+Java Spark
+L'entreprise est une banque digitale indépendante basée à Nantes.
+Vous interviendrez dans un contexte technologique riche en méthode agile dans un environnement dynamique.
+
+Au sein de la direction informatique, vous aurez un poste de Développeur Big Data/Data Engineer.
+
+Votre rôle:
+Développement des jobs Spark
+Développement des outils DevOps
+Amélioration des outils de testing et de déploiement
+Mise en place et exploitation plateforme Big Data
+
+Qui êtes-vous?
+Vous maitrisez le développement en Java,Scala ou Spark
+Vous êtes en veille technologique
+La connaissance Cloud (AWS) est un plus
+Vous êtes curieux et avez envie d'apprendre
+
+Avantages:
+45 jours de congés
+CE
+Formation
+
+Cerise sur le gâteau:
+Abondement
+
+Montreal Associates is acting as an Employment Agency in relation to this vacancy.
+Montreal Associates is acting as an Employment Agency in relation to this vacancy.
+
+JN -072019-50466_156879122306931
+il y a 26 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",19/09/2019,Big_data,Nantes,14/10/2019,vjk=a39eb635d5916d88,vide,cdi
+CONSULTANT BIG DATA H/F NIORT,Umanis,Saint-Herblain (44),vide,"Saint-Herblain (44)
+Temps partiel
+THE FRENCH LEADER OF THE DATA RECRUITS.
+Joining Umanis is to participate in a formidable adventure, that of a French company in continuous growth, recognized for its capacity for innovation and its dynamism.
+Umanis is more than 2700 enthusiasts of new technologies who share the same values as excellence, responsibility, respect and conviviality.
+Umanis, it is a community with an average age of 35 years that intervenes in advanced engineering on the strategic projects of the largest customers of order or on behalf of companies for whom data is transformation vector.
+Umanis, it is a management and an organization closest to its collaborators to accompany you in your career. Training, certifications, MOOC, CPEC; We are committed to making you evolve continuously.
+YOUR MISSIONS:
+Venez rejoindre notre communauté d’expert Big data sur des projets ambitieux qui vous feront gagner en compétences.
+Dans un écosystème Big Data basé principalement sur Hadoop (Hortonworks, Cloudera, MapR, Microsoft Azure, AWS), conception et développement d’applications Big Data pour :
+- L’intégration des flux de données dans un Data Lake (HDFS, Hive, Impala, HBase, …) avec Spark (Scala/Java), Kafka, Storm, Nifi, Sqoop, Flume, Shell Linux, … ;
+- Transformation et préparation des données en mode batch (Spark, Pig, Hive, …) ;
+- Traitement des évènements en temps réel à l’aide de Kafka, Spark Streaming, Storm, Nifi, … ;
+- L’automatisation et l’orchestration des chaines de traitements avec Oozie ;
+- Analyse des données avec Hive, Impala, … ;
+- Suivi de production et maintenance des chaines de traitements ;
+- Rédaction des tests fonctionnels et des tests d’acceptance avec des outils tels que Cucumber et les lancer depuis Jenkins ;
+- Estimation de la charge des tâches et participation aux Pocker plannings ;
+- Conseiller et éclairer le client sur les enjeux liés aux architectures et aux technologies Big Data ;
+- Participation à l’enrichissement du Blog Big Data d’Umanis via des articles et des publications sur les différentes problématiques Big Data.
+De formation supérieure en informatique, Ecoles d’Ingénieurs ou Universités, vous justifiez de 2 ans d’expériences en conception et développement d’applications Big Data
+Compétences requises :
+- Maîtrise d’un langage de programmation orienté objet : Java, Scala, C++, C# …
+- Linux
+- Scripting : Shell Linux, Python…
+- SQL et des fondamentaux du Data Warehousing
+- Sécurité (Authentification, Autorisation, …)
+- Hadoop, HDFS, YARN, MapReduce, HBase, Spark, Hive, Impala, Pig, Sqoop, Kafka, Cassandra, ElasticSearch, Nifi, …
+- Une maitrise d’outils de DevOps et d’Usine de Développements (Cucumber, Maven, Gradle, Git/GitLab, Jenkins, Jira) serait un plus.
+Aimant le travail en équipe et maitrisant la langue anglaise, vous vous décrivez volontiers comme quelqu’un de polyvalent, créatif et plein d’humour !
+Pourquoi Umanis ?
+Un suivi régulier et personnalisé par votre manager et votre référente RH.
+Une écoute constante pour accompagner votre montée en compétences et vous proposer les projets les plus en phase avec vos attentes.
+Des moments de partage : soirées d’agence et afterworks, rencontres sportives…
+L’intégration d’une communauté DATA nationale active.
+La possibilité, en fonction de vos aspirations, de devenir l’un des référents techniques de notre équipe.
+Ceux qui, grâce à leur expertise, nous accompagnent dans le recrutement des futurs collaborateurs.
+En 2019, Umanis recrute 1000 nouveaux talents sur l'ensemble du territoire français. Et si c'était vous?
+REQUIRED COMPETENCIES:
+Budgetary, financial and economic management (Intermediate), Design of works, products or events (Advanced), English (Confirmed), Functionnal Architecture SI (Advanced), Governance IT (Confirmed), Product or event development (Confirmed), Project management (Confirmed), Qualitative and quantitative analyzes (Advanced), Software mastery (Advanced), Technical Architecture SI (Advanced)
+In 2018, Umanis recruited 900 new talents throughout the French territory. What if it was you?
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/09/2019,Big_data,Nantes,14/10/2019,vjk=a17983416e321915,vide,vide
+Développeur / Développeuse Big Data – Nantes H/F,Crédit Agricole Technologies & Services,Nantes (44),vide,"Nantes (44)
+CDI
+Métier
+Informatique / Réseaux
+Titre du poste
+Développeur / Développeuse Big Data – Nantes H/F
+Description du poste
+« Et si vous mettiez votre expertise et votre engagement à 100%
+au service de notre entreprise ? »
+
+Vous avez de l'expérience dans le développement informatique ? Vous êtes créatif et passionné, aimez travailler en équipe ? Vous aspirez à enrichir vos compétences et à évoluer dans un environnement stimulant?
+
+Si oui, ce poste est fait pour vous !
+
+Crédit Agricole Technologies et Services (CA-TS) en bref
+Crédit Agricole Technologies et Services est l'entité en charge de l'informatique du réseau bancaire régionalisé du groupe Crédit Agricole.
+Dans un contexte de digitalisation de la banque, nous sommes engagés dans une transformation vers un mode de fonctionnement Agile afin de répondre aux nouveaux enjeux de nos 21 millions d'utilisateurs en France. Notre objectif : se nourrir des évolutions technologiques et fournir des services innovants en plaçant la vision client cœur de nos préoccupations.
+
+Vous intégrerez la Tribu Datahub (Système d'Information Décisionnel, big data, data management, pilotage et décisionnel, …) qui fait partie du Pôle Produit Data Pilotage et Marketing.
+
+Quel sera mon rôle ?
+Vous garantissez le bon développement des applications IT et élaborez des solutions techniques adaptées. Vous travaillez avec l'ensemble de votre équipe (Squad Big Data) et donnez la vision technique du produit. Vos missions principales :
+Réaliser la conception, développement et tests unitaires des applications informatiques dans le respect des normes et standards que qualité
+Effectuer des évolutions fonctionnelles ou corrections d'incidents
+Participer au chiffrage des solutions IT (poker planning) et contribuer à la priorisation (backlog)
+Etre responsable des évolutions fonctionnelles et participer aux démonstrations associées, incluant les tests de performance
+Contribuer à la résolution des blocages rencontrés par d'autres développeurs
+Profil
+Quel est le profil recherché ?
+Maitrise des technologies et environnement JAVA, Python, Scala, Hadoop, SQL, Suite HortonWorks
+Vous avez à minima une première expérience réussie dans le développement informatique et vous souhaitez vous spécialiser dans les technologies du Big Data
+Autonomie, enthousiasme et esprit d'initiative, notamment dans la recherche de solutions
+Bonne communication et capacité à travailler en équipe
+Diplôme de niveau Bac +5
+Forte appétence à travailler dans un contexte agile - une expérience dans un environnement agile serait un plus
+
+Pourquoi rejoindre CA-TS ?
+Participation à des projets à fort impact dans le cadre de notre transformation digitale
+Autonomie et co-localisation des équipes dans un environnement dynamique et créatif
+Opportunité de carrière et dispositif de formation global et innovant
+Des valeurs humaines et bienveillantes avec un accompagnement de proximité
+Avantages et stabilité d'un grand groupe
+
+« Parce que le handicap ne doit plus être un handicap en entreprise, nous, Crédit Agricole Technologies et Services, avons ouvert nos métiers à tous les talents, sans exception.»
+Contrat
+CDI
+Localisation du poste
+Localisation du poste
+Pays-de-la-Loire, Loire Atlantique (44)
+Lieu de travail
+nantes
+Critères candidat
+Niveau d'études min. requis
+Bac+5
+Crédit Agricole Caisses Régionales - il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/09/2019,Big_data,Nantes,14/10/2019,vjk=23538d42bcf20e2d,vide,cdi
+CONSULTANT BIG DATA H/F RENNES,Umanis,Saint-Herblain (44),vide,"Saint-Herblain (44)
+THE FRENCH LEADER OF THE DATA RECRUITS.
+Joining Umanis is to participate in a formidable adventure, that of a French company in continuous growth, recognized for its capacity for innovation and its dynamism.
+Umanis is more than 2700 enthusiasts of new technologies who share the same values as excellence, responsibility, respect and conviviality.
+Umanis, it is a community with an average age of 35 years that intervenes in advanced engineering on the strategic projects of the largest customers of order or on behalf of companies for whom data is transformation vector.
+Umanis, it is a management and an organization closest to its collaborators to accompany you in your career. Training, certifications, MOOC, CPEC; We are committed to making you evolve continuously.
+YOUR MISSIONS:
+Umanis Rennes est une agence à taille humaine qui regroupe une trentaine de collaborateurs en 2019. Pour toujours mieux se développer, nous sommes en quête de talents avides de nouvelles aventures bretonnes et souhaitant s’investir à nos côtés.
+Pour renforcer l’équipe en place, nous recherchons notre futur(e) Consultant(e) Big Data !
+En intégrant le projet de notre client, votre mission sera articulée autour de plusieurs axes :
+Concevoir et mettre en place des chaines de processing Big Data (Hadoop, Spark)
+Développer des modules de traitements de données Spark en Scala
+Être force de proposition sur les solutions techniques mises en œuvre
+Participer aux déploiements des solutions dans une démarche Agile / DevOps
+Développer une expertise autour Java / Hadoop / Spark / Kafka
+De formation supérieure en informatique, Ecoles d’Ingénieurs ou Universités, vous justifiez d’une ou plusieurs expériences en matière de développement Big Data (3, 5, 10 ans d’expérience, ce n’est pas la quantité qui compte, c’est le talent et la passion !)
+Votre domaine de compétences couvre l’écosystème Hadoop : Hive, Kafka, Ambari, Cloudera, Hortonworks ; la capacité à implémenter des algorithmes distribués avec un langage de programmation Java, Scala, ou Python ; la connaissance de NoSQL, d’une solution telle que Cassandra ou MongoDB et d’un moteur de recherche type ElasticSearch.
+Aimant le travail en équipe et maitrisant la langue anglaise, vous vous décrivez volontiers comme quelqu’un de polyvalent, créatif et plein d’humour !
+Pourquoi Umanis ?
+Un suivi régulier et personnalisé par votre manager et votre référente RH.
+Une écoute constante pour accompagner votre montée en compétences et vous proposer les projets les plus en phase avec vos attentes.
+Des moments de partage : soirées d’agence et afterworks, rencontres sportives…
+La possibilité, en fonction de vos aspirations, de devenir l’un des référents techniques de notre équipe. Ceux qui, grâce à leur expertise, nous accompagnent dans le recrutement des futurs collaborateurs.
+Notre objectif : continuer de grandir, sans jamais oublier le lien tissé avec chacun, car VOUS êtes notre valeur ajoutée !
+REQUIRED COMPETENCIES:
+Budgetary, financial and economic management (Intermediate), Design of works, products or events (Advanced), English (Confirmed), Functionnal Architecture SI (Advanced), Governance IT (Confirmed), Product or event development (Confirmed), Project management (Confirmed), Qualitative and quantitative analyzes (Advanced), Software mastery (Advanced), Technical Architecture SI (Advanced)
+In 2018, Umanis recruited 900 new talents throughout the French territory. What if it was you?
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/09/2019,Big_data,Nantes,14/10/2019,vjk=c2a865ff7bc09679,vide,vide
+DEVELOPPEUR BIG DATA H/F RENNES,Umanis,Saint-Herblain (44),vide,"Saint-Herblain (44)
+THE FRENCH LEADER OF THE DATA RECRUITS.
+Joining Umanis is to participate in a formidable adventure, that of a French company in continuous growth, recognized for its capacity for innovation and its dynamism.
+Umanis is more than 2700 enthusiasts of new technologies who share the same values as excellence, responsibility, respect and conviviality.
+Umanis, it is a community with an average age of 35 years that intervenes in advanced engineering on the strategic projects of the largest customers of order or on behalf of companies for whom data is transformation vector.
+Umanis, it is a management and an organization closest to its collaborators to accompany you in your career. Training, certifications, MOOC, CPEC; We are committed to making you evolve continuously.
+The developer realizes the software or application according to the detailed specifications of the client and the chosen technical architecture
+YOUR MISSIONS:
+Umanis Rennes est une agence à taille humaine qui regroupe une trentaine de collaborateurs en 2019. Pour toujours mieux se développer, nous sommes en quête de talents avides de nouvelles aventures bretonnes et souhaitant s’investir à nos côtés.
+Pour renforcer l’équipe en place, nous recherchons notre futur(e) Développeur(se) Big Data !
+En intégrant le projet de notre client, votre mission sera articulée autour de plusieurs axes :
+Etudes en amont et analyse des besoins
+Modèles de DataWarehouse et de Hub innovants
+Architecture des flux et des processus d’alimentation
+Conception, mise en œuvre et déploiement des traitements informatiques de calcul et de reporting et des processus temps réel dans le cadre de la digitalisation
+De formation supérieure en informatique, Ecoles d’Ingénieurs ou Universités, vous justifiez d’une ou plusieurs expériences en matière de Big Data (3, 5, 10 ans d’expérience, ce n’est pas la quantité qui compte, c’est le talent et la passion !)
+Votre domaine de compétences couvre l’écosystème Hadoop : Hive, Kafka, Ambari, Cloudera, Hortonworks ;
+la capacité à implémenter des algorithmes distribués avec un langage de programmation Java, Scala, ou Python ;
+la connaissance de NoSQL, d’une solution telle que Cassandra ou MongoDB
+d’un moteur de recherche type ElasticSearch ou Solr .
+Aimant le travail en équipe et maitrisant la langue anglaise, vous vous décrivez volontiers comme quelqu’un de polyvalent, créatif et plein d’humour !
+Pourquoi Umanis ?
+Un suivi régulier et personnalisé par votre manager et votre référente RH.
+Une écoute constante pour accompagner votre montée en compétences et vous proposer les projets les plus en phase avec vos attentes.
+Des moments de partage : soirées d’agence et afterworks, rencontres sportives…
+La possibilité, en fonction de vos aspirations, de devenir l’un des référents techniques de notre équipe. Ceux qui, grâce à leur expertise, nous accompagnent dans le recrutement des futurs collaborateurs.
+Notre objectif : continuer de grandir, sans jamais oublier le lien tissé avec chacun, car VOUS êtes notre valeur ajoutée !
+REQUIRED COMPETENCIES:
+English
+In 2018, Umanis recruited 900 new talents throughout the French territory. What if it was you?
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/09/2019,Big_data,Nantes,14/10/2019,vjk=de947dd074cf9d46,vide,vide
+Post Doc : Maths/Big Data,FrançAsie,Nantes (44),vide,"Nantes (44)
+Nous cherchons :
+Post Doc : Maths/Big Data au siège de l’école CNAM Paris (75).
+Les tâches à accomplir essentielles sont :
+– Compléter et mettre à jour ma veille technologique déjà effectuée
+– Maîtriser les outils R nécessaires (nous pouvons vous aider évidemment) : valeurs extrêmes, la théorie est entre autres dans un livre de Paul Embrechts, Quantitative Risk Management de 2007. Mais aussi calcul parallèle en R (indispensable, nous pouvons vous aider), gestion de chaînes de caractères, gestion de dates etc.
+– Trouver des bases de données publiques pouvant servir d’exemple pour nos calculs : probablement dans open data gouv fr
+– Du classique en machine learning qui se transpose sur l’anonymisation : encodage de valeurs réelles, découpage en blocs etc.
+– Rédaction du rapport final du projet (très important)
+– Préparation d’une conférence sur le sujet au Cnam (nous pouvons peut-être mettre un budget spécial pour cela)
+– Rédaction d’un article (ou deux si possible, si les calculs marchent vraiment bien)
+Profil
+– Titulaire au moins d’un PhD
+
+Merci de nous transmettre votre CV à recrutement@francasie.com
+il y a 4 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/06/2019,Big_data,Nantes,14/10/2019,vjk=88641cdefaf7ea33,vide,vide
+ANALYSTE DÉVELOPPEUR SOLUTIONS BIG DATA (H/F),Crédit mutuel,Nantes (44),vide,"Nantes (44)
+CDI
+En accompagnement du développement de projets mettant en œuvre des technologies Big Data et Data Science, vous serez amené à :
+
+Choisir et mettre en œuvre les solutions et les architectures Big Data et Data Science, dans un contexte d’intégration continue et d’automatisation,
+Garantir le maintien opérationnel de ces solutions,
+Conseiller et accompagner les développeurs,
+Contribuer activement à des travaux de veille technologique et d’études de faisabilité / prototypage.
+Activités et tâches spécifiques
+Vous participerez à la vie collaborative de l’équipe et vous serez accompagné par un tuteur pour faciliter votre intégration.
+Connaissances et compétences
+De formation Bac +4/+5, vous bénéficiez d’une première expérience réussie dans la mise en œuvre de solutions Data, soit en entreprise, soit dans le cadre d’un projet d’études. Vous disposez d’une forte appétence pour les technologies et les innovations
+Vous pratiquez les langages Java, SQL, Shell.
+Des compétences sur une ou plusieurs solutions Big Data (Hadoop/YARN/Hive, Kafka, Spark, Cassandra, Elasticsearch, …) sont souhaitées.
+Des connaissances en Intégration et Déploiement Continus seraient un plus (Git, Artifactory, Jenkins/Gitlab, Ansible, …), de même sur Docker/Kubernetes/Openshift.
+
+Des connaissances en Machine Learning (Théories, Langages, Frameworks, IDE) seraient appréciées ainsi que la maîtrise des langages/codes R, Python, RStudio/Jupyter, Scikit, Keras, Tensorflow,…
+
+La pratique de l’anglais est souhaitée.
+Savoir-être - savoir-faire
+Doté d’un bon sens relationnel, vous appréciez travailler en équipe et vous souhaitez vous investir sur des projets innovants. Vous êtes curieux, faites preuve d'autonomie, d'initiatives et d'esprit de synthèse.
+Autres informations
+Le poste est à pourvoir à Nantes, en CDI, dès que possible.
+
+Vous bénéficierez d’avantages « Convention Collective Banque » comme :
+13ème mois,
+RTT,
+Prime d’intéressement et de participation,
+Abondement,
+Conditions bancaires avantageuses,
+Régime de Frais de Santé et de Retraite très attractif,
+Et encore plein d’autres avantages à découvrir …
+
+Vous évoluez dans un environnement stimulant basé sur un management de proximité. Un Groupe qui s’engage pour ses salariés par la formation et l’évolution professionnelle.
+Vous recherchez un projet innovant ? Alors Rejoignez la Team EI en postulant!
+Retour
+il y a 5 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/05/2019,Big_data,Nantes,14/10/2019,vjk=a287fc268e0b425b,vide,cdi
+ANALYSTE DÉVELOPPEUR SOLUTIONS BIG DATA (H/F),Euro Information,Nantes (44),vide,"Nantes (44)
+CDI
+Présentation de la société
+Euro-Information, filiale Informatique du groupe de bancassurance Crédit Mutuel, conçoit, réalise, maintient et exploite un système d’information commun utilisé par le Groupe.
+
+Les activités de développement et de production informatique au niveau national et international sont assurées par environ 3200 salariés répartis sur plusieurs sites géographiques au niveau national : Strasbourg, Nancy, Dijon, Orléans, Lyon, Lille, Cergy, Val de Fontenay, Paris et Nantes.
+Mission principale
+En accompagnement du développement de projets mettant en œuvre des technologies Big Data et Data Science, vous serez amené à :
+
+Choisir et mettre en œuvre les solutions et les architectures Big Data et Data Science, dans un contexte d’intégration continue et d’automatisation,
+Garantir le maintien opérationnel de ces solutions,
+Conseiller et accompagner les développeurs,
+Contribuer activement à des travaux de veille technologique et d’études de faisabilité / prototypage.
+Vous participerez à la vie collaborative de l’équipe et vous serez accompagné par un tuteur pour faciliter votre intégration.
+Connaissances et compétences
+De formation Bac +4/+5, vous bénéficiez d’une première expérience réussie dans la mise en œuvre de solutions Data, soit en entreprise, soit dans le cadre d’un projet d’études. Vous disposez d’une forte appétence pour les technologies et les innovations
+Vous pratiquez les langages Java, SQL, Shell.
+Des compétences sur une ou plusieurs solutions Big Data (Hadoop/YARN/Hive, Kafka, Spark, Cassandra, Elasticsearch, …) sont souhaitées.
+Des connaissances en Intégration et Déploiement Continus seraient un plus (Git, Artifactory, Jenkins/Gitlab, Ansible, …), de même sur Docker/Kubernetes/Openshift.
+
+Des connaissances en Machine Learning (Théories, Langages, Frameworks, IDE) seraient appréciées ainsi que la maîtrise des langages/codes R, Python, RStudio/Jupyter, Scikit, Keras, Tensorflow,…
+
+La pratique de l’anglais est souhaitée.
+Savoir-être - savoir-faire
+Doté d’un bon sens relationnel, vous appréciez travailler en équipe et vous souhaitez vous investir sur des projets innovants. Vous êtes curieux, faites preuve d'autonomie, d'initiatives et d'esprit de synthèse.
+Autres informations
+Le poste est à pourvoir à Nantes, en CDI, dès que possible.
+
+Vous bénéficierez d’avantages « Convention Collective Banque » comme :
+13ème mois,
+RTT,
+Prime d’intéressement et de participation,
+Abondement,
+Conditions bancaires avantageuses,
+Régime de Frais de Santé et de Retraite très attractif,
+Et encore plein d’autres avantages à découvrir …
+
+Vous évoluez dans un environnement stimulant basé sur un management de proximité. Un Groupe qui s’engage pour ses salariés par la formation et l’évolution professionnelle.
+Vous recherchez un projet innovant ? Alors Rejoignez la Team EI en postulant!
+il y a 5 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/05/2019,Big_data,Nantes,14/10/2019,vjk=de2a2472eab8aa00,vide,cdi
+Product Manager / Chef de Produit Big Data,Talend,Nantes (44),vide,"Nantes (44)
+WHO WE ARE:
+
+Talend is a leader in cloud data integration and data integrity.
+We are a global company with offices in Redwood City, Paris, London, Bonn, Beijing, Tokyo, Singapore, Sydney, and Bangalore. Our customers are pioneers/innovative leaders in their market when it comes to data and cloud projects. We are proud to count Domino’s, the world’s largest pizza company, Euronext, the #1 stock exchange in Europe, and HP Inc., a leading IT company, as Talend customers.
+We enable companies to transform their business by delivering trusted data at the speed of business. Talend offers a suite of apps for data integration and integrity that brings data, people and technology together by generating end-to-end data pipelines.
+Customers can collect data; transform it to power analytics; govern it from end-to-end; and share it across internal and external stakeholders. They can work across systems and across environments: in the cloud and on-premises.
+
+Vous recherchez un nouveau challenge, à définir la stratégie et roadmap de solutions innovantes en Big Data, dans un contexte international, et à contribuer à l'importante croissance d'un leader mondial en Big Data, Cloud, Real Time et Self-Service ?
+Afin de soutenir sa forte croissance, Talend recherche un(e) Chef de Produit / Product Manager Big Data.
+Poste en CDI basé à Nantes de préférence (ou à Suresnes).
+Vos missions
+La définition de la Roadmap produit en collaboration avec les équipes commerciales, marketing et R&D ;
+La définition de la stratégie produit via une analyse du marché en anticipant les besoins des clients et en assurant une veille concurrentielle ;
+Le développement du produit en étroite collaboration avec l’équipe R&D, vous vous assurez du succès de chaque release ;
+Vous serez en contact avec les clients pour élaborer les roadmaps, comme représentant du logiciel, et vous participerez à la présentation des roadmaps ;
+L’élaboration de la stratégie de commercialisation du produit : définition du pricing, communication interne et externe (presse, conférences) sur les nouvelles fonctionnalités ;
+Formation produit et formation commerciale pour les Pre-Sales.
+Votre profil
+3 à 5 ans d’expérience comme Chef de Produit ou Product Owner dans le domaine du développement logiciel ;
+Au moins 3 ans d’expérience dans les domaines du data management, du big data et des technologies associées, et excellente compréhension de ces concepts ;
+Excellente compréhension d’un large éventail de clients et de use cases au sein de plusieurs secteurs (santé, retail, assurance ou finance) et capacité à les traduire en fonctionnalités produit et user stories ;
+Expérience dans l’utilisation de solution de gestion de data governance ou metadata comme Collibra, GDE ou des technologies similaires de chez IBM, Oracle ou Informatica ;
+Expérience avec les outils Agile de gestion de produits comme Aha !, Jira, Confluence, etc.
+Sensibilité à la partie User Experience. Idéalement vous avez une expérience de collaboration avec des UX designers pour créer les wire-frames, mock-ups, analyse de comportements utilisateurs (use labs), etc.
+Vous avez une excellente communication, vous savez vous affirmer et défendre vos idées, capacité à prendre des décisions ;
+Niveau professionnel courant en Français et en Anglais ;
+Des déplacements entre Suresnes et Nantes seront à prévoir.
+AND NOW, A LITTLE ABOUT US:
+
+Talend has received some pretty impressive accolades along the way:
+""2018 Best Public Cloud Computing Companies To Work For"" by Glassdoor
+Named a Leader for Data Integration Tools in the Gartner Magic Quadrant
+Named a Leader in Big Data Fabric for the Forrester Wave
+Ranked in the DBTA “100 Companies that Matter Most in Data”
+Listed in the CRN Big Data 100 Companies
+
+We are passionate about helping companies become more data driven; and, if we can be honest, we are all geeks at heart who pride ourselves on the vibrant company culture that we have built.
+
+As a global employer, at Talend, we believe our success depends on diversity, inclusion and mutual respect among our team members. We seek to recruit, develop and retain the most talented people from a diverse candidate pool. We are committed to making all employment decisions on the basis of business need, merit, capability and equality of opportunity. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin.
+il y a 5 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/05/2019,Big_data,Nantes,14/10/2019,vjk=9f60a4af90035026,vide,cdi
+Consultant Big Data H/F,Alan Allman Associates,Nantes (44),vide,"Nantes (44)
+CDI
+A propos de Siderlog
+Cabinet de conseil en management, organisation, système d'information, Siderlog Conseil accompagne ses clients grands comptes dans la déclinaison opérationnelle de leur stratégie.
+
+Présent à Paris, Lyon, Nantes et Niort, le cabinet agit au cœur des projets de ses clients dans les domaines d’intervention suivants : la business intelligence, l'assistance à maîtrise d'ouvrage, la conduite du changement, le management de projet.
+Suivez-nous
+http://www.siderlog.fr
+
+Contexte :
+Vous maîtrisez les techniques fondamentales liées au Big Data et vous savez prendre des décisions stratégiques ? Rencontrez-nous !
+
+Vos missions
+Concevoir et alimenter une plateforme Big Data (Datalake, Datalab)
+Conseiller les clients sur les solutions proposées
+Savoir proposer des outils adaptés aux besoins du projet
+Exécuter les différents scénarios de tests
+Mettre en œuvre les benchmarks
+Savoir exploiter les outils de restitution de données
+
+Profil :
+Votre profil
+De bac +3 à bac +5
+Formation universitaire, école d’ingénieur
+Compétences techniques dans les outils Big Data (R, Cloudera, Hortonworks, Hive, Ambari, Hue, Superset, Nifi, Oozie…) et Décisionnel (Qlickview, Informatica BODS, BO, Cognos, SAS, Talend…)
+Expérience dans le monde bancaire et assurance
+il y a 8 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/02/2019,Big_data,Nantes,14/10/2019,vjk=190d3af80a665909,vide,cdi
+Ingénieur Big Data H/F (Nantes),Keyrus,Nantes (44),vide,"Nantes (44)
+CDI
+Keyrus Nantes recherche un Ingénieur Big Data (H/F).
+
+Qui sommes-nous ?
+Une success story dans la Data et le Digital !
+Notre mission ? Des projets à forte valeur ajoutée pour accroître la performance et la compétitivité des entreprises, faciliter et accélérer leur transformation.
+Notre expertise depuis plus de 20 ans ? Le conseil et l'intégration de solutions innovantes autour de trois domaines :
+Data Intelligence : Business Intelligence et Big Data & Analytics ;
+Digital Experience : Conseil, Stratégie & Performance Digitales ;
+Conseil en Management & Transformation : Pilotage de la Performance & Accompagnement des Projets.
+Nous sommes plus de 3200 talents sur 18 pays et 4 continents. Notre ADN ? Innover et entreprendre.
+Vous êtes ambitieux et souhaitez intégrer un groupe agile et international où vos qualités professionnelles et personnelles seront reconnues et cultivées ?
+Pour cela,
+Nous vous proposons de nous rejoindre et d’intégrer notre agence Nantaise !
+Nos maitres mots sont AGILITE, EXPERTISE, DIVERSITE.
+
+Vos missions ?
+Votre mission, si vous l’acceptez, sera de rejoindre nos clients Grands Comptes dans les secteurs d’activités Banque, Assurance, Industrie, Services & Retail.
+Votre rôle consistera à :
+Analyser les besoins clients et la compréhension des attentes métier du projet ;
+Concevoir et réaliser les solutions Big Data : collecte, transformation, analyse et visualisation de données ;
+Développer la plateforme Big Data ;
+Valider les architectures Hadoop et plateformes associées;
+Effectuer les revues de code et valider les bonnes normes de développement.
+Nos activités dans la Région Nord-Ouest connaissent une forte croissance !
+Rejoindre Keyrus vous permettra de profiter d’opportunités :
+En intervenant selon différents modes de prestations (Assistance Technique, Centre de Services, dans différents secteurs d’activités, etc.) au sein d’équipe pluridisciplinaire ayant une forte expérience sur des sujets Big Data ;
+En évoluant en fonction de vos centres d’intérêt et de potentiel comme par exemple la possibilité de contribuer activement à porter notre offre Big Data en Région.
+Votre goût du challenge et votre capacité à être force de propositions vous permettront de progresser rapidement chez KEYRUS.
+
+Votre profil ?
+Cloudera, Machine Learning et Spark n’ont pas de secret pour vous ?
+Vous êtes fan de Python et Scala et avez utilisé(e) les bases NoSQL ?
+Vous avez une expérience significative dans la conception et le développement des environnements Big Data ?
+Vous êtes Ingénieur(e) Big Data et avez la volonté de découvrir des environnements clients innovants au sein d’équipes jeunes et dynamiques ?
+Vous souhaitez progresser vers de l’expertise, de la maîtrise d’ouvrage ou de la gestion de projet ?
+Keyrus a des projets pour vous ! Alors, n’hésitez plus et postulez !
+
+Pourquoi nous rejoindre ?
+Pour intégrer une communauté d’experts curieux et passionnés et évoluer dans un environnement multiculturel, formateur et favorisant la mobilité internationale.
+Parce que vous êtes #DataGeek, #DigitalAddict, #InnovationLover
+Vous serez tout au long de votre parcours, encouragé(e) et accompagné(e) dans un processus de certification technologique et méthodologique, et aux outils de BI.
+#KeyrusRocks #YouRock
+Keyrus est une entreprise où il fait bon vivre et travailler !
+Découvrez nos animations pour nos collaborateurs sur notre album Facebook et sur Youtube.
+Nous découvrir en vidéo, en 3 mots via ce lien.
+Des questions - Une Adresse ?
+jobs@keyrus.com
+Où sommes-nous ?
+Euptouyou, immeuble Asturia Bâtiment C, 4 rue Edith Piaf 44 800 Saint-Herblain
+il y a 9 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/01/2019,Big_data,Nantes,14/10/2019,vjk=49fe213597a65671,vide,cdi
+Consultant BI/BIG DATA - H/F,Micropole,Nantes (44),vide,"Nantes (44)
+CDI
+Vous nous connaissez ? Alors super, vous êtes chanceux ou bien renseignés ! Pour les autres, pas de panique, nous allons nous présenter : Micropole est un groupe international spécialisé en conseil et technologies innovantes.
+Acteurs incontournables du pilotage de la performance, les collaborateurs Micropole Grand-Ouest participent activement à la croissance et au rayonnement de l’agence. Au quotidien, ces spécialistes de la performance, de la BI, du contrôle de gestion et de l’élaboration budgétaire accompagnent des clients de tous secteurs d’activité dans la définition, le suivi des indicateurs et le pilotage de leurs activités stratégiques & opérationnelles.
+
+
+Aujourd’hui, Stéphanie, Manager BI Enterprise et Smart BI, est à la recherche de nouveaux talents pour rejoindre sa brillante équipe ! A ce titre, nous recrutons des Consultants BI/BIG DATA à Nantes.
+
+
+Vos missions :
+Au sein d'une équipe de consultants dynamiques ayant à cœur de vous intégrer et de vous accompagner, vous aurez l'opportunité d'intervenir sur des projets décisionnels innovants, riches et variés :
+Vous vous positionnerez dès la phase d’avant-vente (préparation des supports, réalisation de la maquette de démonstration, qualification technique des cahiers des charges, préconisation de l’architecture décisionnelle, estimation des charges, soutenance des propositions).
+Vous participerez activement aux phases d’étude et réalisation (étude technique, spécifications fonctionnelles, conception, réalisation, tests, formation, maintenance).
+Vous accompagnerez la maîtrise d’ouvrage dans la validation de livrables, l’assistance à la recette et la conduite du changement sur le projet.
+Vous développerez des relations avec les différents acteurs du partenaire, animerez les réunions et communiquerez autour du projet car nous vous faisons confiance !
+
+Votre profil :
+Vous mangez, buvez, dormez et rêvez data
+Vous êtes de formation supérieure en informatique Bac +3/5. Vous justifiez d’une expérience significative sur des missions de conception et de réalisation de projets décisionnels et/ou Big Data / Smart Data.
+Familier des technologies innovantes, alors : Hadoop, Spark, Splunk, Tableau Software, Talend, Informatica, MS BI, Qlikview, Datastage, Microstrategy, Jedox, SAP BO, … seront vos terrains de jeux favoris !
+Vous êtes autonome, impliqué et avez le goût du challenge
+
+En intégrant l’Agence Grand-Ouest vous rejoignez une équipe humaine et dynamique dans laquelle votre savoir-être et votre bonne humeur fera la différence pour inventer le futur de nos clients.
+Ne cherchez plus et rejoignez-nous !
+Qui ne rêve pas d’être épanoui et heureux au travail ? Si c’est votre souhait, ça tombe bien :depuis 2015, Le Groupe Micropole est labellisé Happy Trainees et Happy at Work for Starters.
+En 2018, le Groupe est une nouvelle fois propulsé dans le top 10 des entreprises françaises où il fait bon démarrer sa carrière !
+Avec cela vous êtes forcément conquis pour venir travailler avec nous !
+
+Pour vivre de nouvelles et belles aventures, merci d’envoyer votre CV à : recrutement.ouest@micropole.com
+#LI-CFL
+il y a 8 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/02/2019,Big_data,Nantes,14/10/2019,vjk=30ffb2f3a45c3cbb,vide,cdi
+consultant informatique BIG DATA - Nantes - F/H,TECH VALLEY,Nantes (44),vide,"Nantes (44)
+TECH VALLEY est une société de Consulting en Systèmes d’Informations, et d’Expertise en ingénierie informatique, constituée d’une équipe de consultants, d’ingénieurs, et d’experts.
+Nous mettons en avant une vision fédératrice de la qualité des SI : robustesse, efficacité, dimensionnement, sécurité, performance, évolutivité, conformité, optimisation.
+Nous intervenons au national dans l’accompagnement des Grands Comptes et des ETI secteurs industrie, médical, telecom, finance, énergie, sur la transition de l’industrialisation des systèmes d’informations, principalement sur les architectures fonctionnelles, les process de développement et intégration, la Qualité et sécurité des systèmes d’informations, la fiabilité et les performances, ainsi que sur les architectures techniques et opérationnelles, les process de production et changement.
+Le siège de la société se situe à Perpignan Tecnosud, nos agences couvrent nos interventions à Toulouse, Bordeaux, Nantes, Lille, Paris, Lyon, Montpellier, Aix, Sophia Antipolis.
+
+Intitulé du poste : Consultant BIG DATA
+
+Site : Nantes
+
+Postes ouverts au recrutement :
+. Consultants BIG DATA
+
+Vos compétences :
+. Technologies parmi : Hadoop, Hortonworks, Cloudera, CouchBase (NoSQL), ElasticSearch, Spark, Kibana, ELK Stack, Hive, Sqoop
+. Bases de données NOSQL parmi MongoDB, Teradata, CouchBase, CouchBase, Cassandra, Dataguard, Neo4J
+
+Votre expérience, votre sens du service, votre goût du travail en équipe et vos qualités relationnelles font partie de vos atouts, rejoignez la team TECH VALLEY !
+
+TECH VALLEY - Consultants en Systèmes et Technologies de l’Information - France
+carriere-info - il y a 8 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/02/2019,Big_data,Nantes,14/10/2019,vjk=3ed957a633d3b0bb,vide,vide
+Ingénieur(e) Big Data (F/H),alteca,Nantes (44),vide,"Nantes (44)
+CDI
+Localisation : Nantes
+Métier : Data
+Contrat : CDI
+Poste & Missions :
+< Développez votre carrière >
+Vous aspirez à vous épanouir dans un environnement stimulant et convivial ? Vous êtes passionné(e) par les domaines de l'Informatique et du Digital ? Vous avez envie d'évoluer et de progresser dans des contextes applicatifs et d'infrastructures dynamique à fortes ampleur.
+Rejoignez une entreprise où la vision à long terme, l'ambition et les valeurs humaines seront les connecteurs de votre projet professionnel !
+En effet, dans la continuité de son développement, le groupe Alteca recherche un(e) Ingénieur(e) Big Data (F/H).
+
+< Découvrez votre challenge >
+En tant qu'Ingénieur(e) Big Data, vous serez intégré(e) au Pôle Data de l'agence de Nantes, récemment créé. Au sein de ce pôle, nous avons la volonté de constituer des équipes bénéficiant d'une triple compétence (technique, décisionnelle et métier) afin de prendre en charge les problématiques de gestion de données (structurées ou non-structurées).
+Votre challenge:
+: analyse des besoins utilisateurs, étude de faisabilité, définition de la conception technique
+[20 %] Conception et gestion de l'architecture : définition de l'architecture, prototypage et expérimentation technique.
+[20 %] Analyse des données : mise en place des flux de données, collecte et stockage
+[40 %] Valorisation des données : exploitation et distribution des données en assurant la montée en charge et les performances, test, intégration et mise en production des différents développements, restitutions.
+[10 %] Support technique : suivi de production, maintenance et veille technologique.
+Profil recherché :
+< Démontrez vos talents >
+Votre profil : diplômé(e) d'un Bac+3 à Bac+5 en informatique (Ingénieur ou Universitaire), Vous souhaitez vous investir et développer votre expertise technique dans le traitement des données : Cassandra, Talend, Hive, Hadoop, Pig, Spark, MongoBD, Actuate BIRT...
+Vous justifiez idéalement d'une première expérience significative dans la gestion et l'exploitation de données. Vous maîtrisez les bases de données, le langage SQL et la programmation JAVA dans un environnement technique type GIT, Eclipse, Maven, Jenkins, Artefactory... Vous êtes familier avec les systèmes d'exploitation windows et linux. Vous êtes à l'aise dans des organisations fonctionnant en mode projet.
+Votre personnalité : esprit d'équipe, autodidacte, autonome, force de proposition, curiosité, rigueur.
+
+< Développez votre curiosité >
+Alteca est une entreprise française de services numériques de plus de 700 collaborateurs, dotée d'une forte implantation nationale à travers 8 agences.
+
+Acteur de référence auprès de ses partenaires grand comptes dans les secteurs de la grande distribution, la banque, l'assurance, mais aussi les organismes publics et l'industrie, Alteca propose une grande diversité de métiers et de carrières dans le domaine du Numérique.
+
+Rejoindre l'aventure Alteca, c'est intégrer une entreprise jeune et dynamique, en pleine croissance et découvrir :
+Des valeurs qui nous tiennent à cœur : travail en équipe, entraide, professionnalisme et bonne humeur,
+Un environnement évolutif et dynamique,
+Des formations ""sur mesure"" avec la possibilité de passer des certifications,
+La possibilité de développer votre carrière vers de l'expertise ou de la gestion de projet,
+Une atmosphère familiale,
+Des espaces collaboratifs (communautés fun ou d'expertise, sportives ou gastronomique, espaces d'échanges et de formation dédiées, documentation, wiki, ...) pour capitaliser vos savoirs/savoir-faire et savoir-être.
+il y a 9 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/01/2019,Big_data,Nantes,14/10/2019,vjk=2aa34a67f34bac27,vide,cdi
+Architecte Big Data,Siderlog,Nantes (44),vide,"Nantes (44)
+Nantes | Niort
+
+Du plaisir à faire son travail, dans un environnement stimulant où l’on apprécie la qualité de la relation humaine.
+Voilà le ressenti exprimé par les femmes et les hommes de Siderlog.
+
+Vos missions
+Etre responsable de la définition, de la conception et de la construction de plate-formes ainsi que des solutions Big Data
+Assurer des missions d’expertise sur les architectures clients.
+Etre force de conseil dans les solutions proposées aux clients.
+Etre en capacité d’amener une expertise pragmatique sur les bases de données SQL et NoSql.
+Qualifier les cas d’usages.
+Mettre en œuvre les benchmarks.
+Piloter la performance au sein de nos projets.
+
+Votre profil
+Bac +4 / +5.
+Expérience de 10 ans minimum.
+Passionné(e) par les projets Big Data et tout particulièrement au rôle d’architecte.
+Maîtrise des technologies SQL et NoSql.
+Connaissance d’une ou plusieurs distributions Hadoop.
+La connaissance d’outils de business intelligence (ETL, outils de reporting et outils d’exploration de données) serait un plus.
+
+Lieux
+Nantes
+Niort
+il y a 10 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/12/2018,Big_data,Nantes,14/10/2019,vjk=8e659afcc813a527,vide,vide
+Développeur Big Data (H/F),ASI,Nantes (44),vide,"Nantes (44)
+CDI
+Vous aurez pour missions de :
+Utiliser l’écosystème distribué Hadoop
+Développer une chaîne de traitement de l’information de bout en bout
+Participer aux spécifications techniques
+Qui êtes-vous ?
+Titulaire d’un Bac+4/5 (Ecole d’Ingénieur ou Universitaire), vous disposez d’une expérience acquise sur des projets mettant en oeuvre les technologies du Big Data :
+Langage de développement : Scala, Java
+Big Data : Pig, Hive, Spark, Kafka
+Distribution Hadoop : Cloudera et/ou Horton Works
+Passionné(e) par votre métier, vous avez envie de travailler sur des projets innovants à forte valeur ajoutée ? Rejoignez-nous !
+il y a 10 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/12/2018,Big_data,Nantes,14/10/2019,vjk=af1048d010488568,vide,cdi
