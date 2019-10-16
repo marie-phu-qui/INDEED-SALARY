@@ -39,4 +39,4 @@ data.update(new_data)
 
 if not os.path.exists('data'):
     os.mkdir('data')
-data.to_csv('data\indeed_jobs_exp.csv')
+data.to_csv('data\indeed_jobs_exp.csv', index=False)
