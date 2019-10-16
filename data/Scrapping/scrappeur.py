@@ -374,13 +374,14 @@ def Recup_type_contrat(string):
 Localisations = ["Paris","Lyon", "Toulouse", "Nantes","Bordeaux"]
 metiers = {
            'Data_scientist': 'title:("data scientist" or "data science" or "machine learning" or "deep learning")',
-           'Data_analyst'  : 'title:("data analyst" or "data analyste" or "data analysis" or "data analytics")',
-           'Data_architect': 'title:("data architecte" or "data architect")',
+           'Data_analyst'  : 'title:("data analyst" or "data analyste" or "data analysis" or "data analytics" or "analyste de données")',
+           'Data_architect': 'title:("data architecte" or "data architect" or "administrateur de base de données")',
            'Data_engineer' : 'title:("data engineer" )',
            'Big_data'      : 'title:("big data")',
            'Autres_metiers_data' : 'title:data -scientist -analyst -engineer -"big data" -architecte -bi -"business intelligence"',
-           'developpeur':     'title:(développeur or developer) -data -business -affaire -toiles -bi -"business intelligence"',
-           'BI'          :    'title:(BI or "business intelligence")',
+           'developer': 'title:("developer web" or "developer web" or "développeur front end" or "developer front end" or "developer front end" or "développeur back end" or "developer back end" or "developer back end" "développeur full" or "developer full" or "developer full" ) -data -business -affaire -toiles -bi -"business intelligence"',
+           'software_engineer': 'title:("software engineer" or "ingénieur logiciel" or "ingenieur logiciel") -data -business -affaire -toiles -bi -"business intelligence"',
+           'BI'   :  'title:(BI or "business intelligence")',
            'devops':   'title: devops -développeur -developer -developpeur'
            
            }
@@ -392,7 +393,7 @@ Salaire = []
 Descriptif_du_poste = []
 Date_de_publication = []
 Identifiant = []
-metier = [list(metiers)[int(x)-1] for x in input("Taper 1 pour 'Data_scientist' \n 2 pour 'Data_analyst' \n 3 pour 'Data_architect' \n 4 pour 'Data_engineer' \n 5 pour 'Big_data' \n 6 pour 'Autres_metiers_data' \n 7 pour 'developpeur' \n 8 pour 'BI' \n 9 pour 'devops'")][0]
+metier = [list(metiers)[int(x)-1] for x in input("Taper 1 pour 'Data_scientist' \n 2 pour 'Data_analyst' \n 3 pour 'Data_architect' \n 4 pour 'Data_engineer' \n 5 pour 'Big_data' \n 6 pour 'Autres_metiers_data' \n 7 pour 'developer' \n 8 pour 'software_engineer' \n 9 pour 'BI' \n 10 pour 'devops'")][0]
 loc = [Localisations[int(x)-1] for x in input("Taper 1 pour 'Paris' \n 2 pour 'Lyon' \n 3 pour 'Toulouse' \n 4 pour 'Nantes' \n 5 pour 'Bordeaux'")][0]
 
 dictionnaire = {"Titre":Titre,"Nom_Entreprise":Nom_Entreprise,"Adresse":Adresse,

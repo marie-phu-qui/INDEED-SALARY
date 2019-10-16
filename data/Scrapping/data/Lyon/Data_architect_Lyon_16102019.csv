@@ -1,0 +1,165 @@
+Titre,Nom_Entreprise,Adresse,Salaire,Descriptif_du_poste,Date_de_publication,métier_sc,loc_sc,Date_sc,Identifiant,Experiences,contrat
+Administrateur de Base de Données PostgreSQL / Freelance,TRSB,Lyon (69),vide,"Lyon (69)
+Temps plein, Freelance / Indépendant
+Activités :Etude de l’existant : effectuer une analyse comprenant :
+Une revue le modèle de données
+Une étude sur les configurations du serveur de base de données et les clients qui s’y connectent
+Une collecte les données d’utilisation (volumétrie, types de requêtes )
+Une évaluation les besoins futurs en fonction des informations de conduite du projet
+Formulation de préconisations :
+Formulation d’options pour des modifications du modèle de données
+Documentation des différents éléments correctifs de configuration et explications associées
+Elaboration de tâches techniques qui pourront être traitées dans le cadre du cycle Scrum avec l’équipe
+
+Création de scripts de modifications des configurations en collaboration avec l’équipe responsable de l’infrastructure sur AWS
+Création de scripts d’adaptation du modèle de la Base (DDL) en collaboration avec l’équipe de développement
+Validation fonctionnelle des modifications apportées avec tests de non-régression
+Validation de la performance et capacité de charge en collaboration avec l’ingénieur test
+Préparation d’une feuille de route :
+La mission devra se conclure par l’établissement d’une feuille de route pour permettre à l’équipe projet de poursuivre les améliorations
+et conserver
+les bonnes pratiques mises en place
+Le profil recherché devra donc être capable d’analyser, concevoir et planifier. Il devra faire usage d’une solide compétence technique, de méthode
+et de son
+expérience des bonnes pratiques de DBA.
+
+Compétences :Essentielles pour la mission :
+Administration de base de données relationnelle PostgreSQL. L’expérience sur d’autres bases relationnelles peut aussi être pertinente,
+mais il faut
+pouvoir prendre en compte les spécificités de ce produit.
+Conception de schémas de données et SQL : Création de modèles, analyse de requêtes.
+Git : Gestion des sources pour les scripts de modification de base
+Souhaitables :
+AWS : Compréhension du fonctionnement et des spécificités des services gérés, stockage, configuration réseau
+Ansible : Scripting des modifications de configuration
+Java JDBC : Notions de configuration des accès client à la base
+Liquibase ou autre gestionnaire de migration SQL
+Outils d’analyses et de tests de performance système
+JIRA/Confluence : outil utilisé dans le cadre du projet
+Freelance-info - il y a 21 heures
+- Continuer pour postuler
+Signaler cette offre d'emploi",Aujourd'hui,Data_architect,Lyon,16/10/2019,vjk=c39e859563c08345,vide,freelance
+Administrateur de base de données Teradata / Freelance,CS Group Solutions,Lyon (69),vide,"Lyon (69)
+Temps plein, Freelance / Indépendant
+Nous recherchons un Administrateur de bases de données disposant d’une première expérience sur un poste similaire, pour prendre en charge les activités suivantes au sein du centre de compétences :
+
+Supervision/monitoring (temps réel et prédictif) / alertes
+Traitement des incidents et des demandes
+Contribution active aux crises applicatives et à la gestion des problèmes
+Sécurisation de l’exploitabilité des applications
+Support et accompagnement aux choix techniques
+Audits réguliers
+Contribution aux chantiers d’industrialisation
+Maîtrise de plusieurs moteurs de bases de données, avec une priorité Teradata.
+Connaissance des outils de surveillance des applications (OEM, Newtest, Patrol, Introscope, ...).
+
+Vanille LACOSTE
+Ingénieur d’affaires
+
+CS GROUP SOLUTIONS
+Tel : 05 67 16 15 97
+Mob : 06 87 38 86 76
+vlacoste@groupcs.com
+Freelance-info - il y a 26 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",20/09/2019,Data_architect,Lyon,16/10/2019,vjk=325559a040386a63,vide,freelance
+Administrateur De Base De Données F/H,e-QUADRA,Lyon (69),vide,"Lyon (69)
+CDI
+Prestataire de services informatiques depuis 1997, implanté à Paris, Lille, Lyon et Marseille, le groupe e-QUADRA propose les compétences informatiques adaptées aux projets informatiques des entreprises Grands Comptes et PME/PMI, sur la France entière et recherche notamment 1 Administrateur De Base De Données F/H en 69 - Lyon.
+Rôle & Missions
+Vous voulez vous investir dans un projet passionnant et êtes intéressé(e) par les nouvelles technologies ? Cette mission est peut-être faite pour vous !
+Notre client est à la recherche d’un DBA dans le cadre du développement d’une solution du groupe.
+
+Vos missions consisteront à :
+Réaliser un audit concernant : l’architecture logicielle, le choix des technologies mises en œuvre ainsi que le code de la solution.
+Evaluer la maintenabilité de la solution
+Jauger l’éventuelle obsolescence des technologies utilisées
+Evaluer la capacité à gérer un volume de données plus important
+Préconiser des changements à effectuer
+Prioriser ces modifications
+Évaluer les coûts
+
+Environnement technique :
+JAVA 7+, WebSphere, Sprint BOOT, Angular, JavaScript, PHP, Tomcat, DB2
+Profil recherché
+Issu d’une formation Bac+5, vous disposez d’expériences significatives dans la conduite d’audit de solution informatique. Vous maîtrisez également les nouvelles technologies et savez faire preuve d’esprit d’analyse et de synthèse.
+Ce profil vous correspond ? Alors n'hésitez pas à nous envoyer votre plus beau CV !
+il y a 4 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",16/06/2019,Data_architect,Lyon,16/10/2019,vjk=2c58d09d590eb17c,vide,cdi
+Administrateur de base de données SI,UMANIS Clinical Research,Lyon (69),vide,"Lyon (69)
+CDI
+Créée il y a plus de 25 ans, Umanis est le leader français en Data (Big Data, Business Intelligence, Gouvernance des données, Data science), Solutions Métiers et Digital. Umanis, c’est plus de 2500 passionnés, des agences sur tout le territoire français et un chiffre d’affaires de 250 millions d’euros
+Au sein du groupe Umanis, la BU Life science regroupe plus de 180 consultants qui accompagnent l’industrie pharmaceutique tout au long du cycle de vie d’un médicament et des dispositifs médicaux, en y associant nos connaissances métiers santé.
+L’objectif : être innovant et efficace face aux différentes contraintes de l’industrie (internes, budget, process, réglementaires...).
+Travailler avec Umanis, c’est participer à une formidable aventure, c’est rejoindre une équipe qui partage les mêmes valeurs que sont l’excellence, la responsabilité, le respect et la convivialité.
+
+Dans le cadre du développement de notre BU Life Sciences, nous recherchons un Administrateur (trice) de base de données sur LYON H/F
+
+Dans une démarche de rationalisation et d'optimisation des activités d’administration fonctionnelle de Systèmes d’information documentaires, d’un laboratoire pharmaceutique reconnu, vous êtes l’intermédiaire entre les équipes informatiques en charge du développement des applications et les utilisateurs des systèmes. Votre rôle est d’accompagner les utilisateurs dans leur utilisation des systèmes documentaires dans les domaines des affaires réglementaires, de la pharmacovigilance, des études cliniques.
+
+Vous serez en charge des tâches suivantes :
+la gestion des droits d'accès des utilisateurs
+l’assistance et la formation des utilisateurs
+la mise à jour de la documentation utilisateurs et administrateurs (guide, memocards, supports de formation,…)
+la conception et la mise à jour de modules e-learning et de newsletters
+la gestion des listes de valeurs, plan de classement et création d’éléments dans le SI concerné (produits, pays, études…)
+la gestion des évolutions liées aux systèmes : réalisation des recettes de lots de corrections/évolutions
+
+Votre Profil :
+De formation Bac +2 DUT/BTS orienté SI ou de formation information-documentation, vous êtes rigoureux(se) et savez travailler en multi-projet. Vous maîtrisez absolument les outils informatiques. Des compétences en GED (cycle de vie des documents, propriétés, gestion des versions, gestion des droits d’accès) et/ou connaissances de l’industrie pharmaceutique sont utiles pour la réussite dans ce poste.
+Vous avez un bon niveau d’anglais (écrit et oral).
+
+Ce poste en CDI, basé à Lyon, est à pourvoir dès que possible.
+
+REJOIGNEZ UNE ENTREPRISE DROITE DANS SES BOTTES !
+Nos valeurs sont partagées à tous les étages, combativité, sens du collectif, humilité et technicité.
+Notre positionnement est le même depuis le début
+Nos clients sont fidèles et nous confient des projets passionnants
+Nous innovons tout le temps
+Nous prenons soin de votre avenir, nos managers home-made vous formeront sur nos méthodologies projets et aux nouvelles technologies
+Nous sommes humains, vraiment, nous jugeons et récompensons uniquement sur les compétences, et nous sommes aussi une entreprise handi-accueillante
+Nous sommes chez nous, le fruit de notre travail est réinvestit dans l’entreprise
+
+Cliquez ici pour découvrir d’autres offres d’emploi au sein de la Division Life Sciences d’Umanis
+
+Pour postuler
+Si notre offre vous intéresse, je serai ravie d’échanger avec vous. Merci d’envoyer votre CV et lettre de motivation à Virginie TALBA à l’adresse suivante vtalba@umanis.com avec la référence 201902-ADSI-CRO-VTRLYO-MYPHARMA et rejoignez nos équipes ! Utilisez directement le bouton ci-dessous :
+mypharma-editions - il y a 8 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",16/02/2019,Data_architect,Lyon,16/10/2019,vjk=c88b29a7c4d28cd1,vide,cdi
+Data architecte H/F (Lyon),Keyrus,Lyon (69),vide,"Lyon (69)
+CDI
+Qui sommes-nous ? Une success story dans la Data et le Digital !
+Notre mission ? Des projets à forte valeur ajoutée pour accroître la performance et la compétitivité des entreprises, faciliter et accélérer leur transformation.
+Notre expertise depuis plus de 20 ans ? Le conseil et l'intégration de solutions innovantes autour de trois domaines :
+Data Intelligence Business Intelligence et Big Data & Analytics
+Digital Experience Conseil, Stratégie & Performance Digitales
+Conseil en Management & Transformation Pilotage de la Performance & Accompagnement des Projets
+Nous sommes plus de 3200 talents sur plus de 18 pays et 4 continents. Notre ADN ? Innover et entreprendre.
+Dans ce cadre nous recherchons un Data architecte H/F pour notre entité Centre-Est (Lyon).
+
+Missions
+Vous participez à la mise en place d’architectures décisionnelles et/ou Big Data pour nos clients Grands Comptes ou PME/PMI.
+Dans ce cadre, vous participez activement à la réflexion sur le SI et vous aidez les différents acteurs du SI dans la phase de cadrage technique des projets et à leur mise en œuvre. Votre expertise vous permet d’appréhender et de prendre en charge l’ensemble des phases suivantes :
+Synthèse des différents besoins, aide à la rédaction de l’expression du besoin
+Conception de l’architecture globale ou détaillée des solutions
+Etude des solutions techniques et leurs mises en œuvre
+Animation d’ateliers, POC auprès de nos clients pour montrer l’efficacité de la solution retenue.
+Les missions proposées vous permettent d’intervenir auprès des DSI pour apporter un regard éclairé sur les choix techniques et solutions du marché.
+
+Profil
+Vous avez une expérience significative (5 années minimum) dans les problématiques d’architectures techniques, votre expertise technique vous permet de répondre aussi bien aux problématiques stratégiques que techniques de nos clients. Vous avez une appétence pour les outils Big Data et avez pour projet professionnel de vous spécialiser dans les architectures big data. A ce titre un parcours personnalisé pourra vous être proposé pour assurer votre montée en compétence. Vous êtes diplômé(e) d’un BAC+5 en informatique (Ecole d’ingénieur ou cursus universitaire). L’anglais est recommandé.
+
+POURQUOI NOUS REJOINDRE ?
+Pour intégrer une communauté d’experts curieux et passionnés et évoluer dans un environnement multiculturel, formateur et favorisant la mobilité internationale.
+Nos maitres mots sont AGILITE, EXPERTISE, DIVERSITE.
+Parce que vous êtes #DataGeek, #DigitalAddict, #InnovationLover !
+Keyrus est une entreprise où il fait bon vivre et travailler !
+Découvrez :
+> La vie chez Keyrus en 60 sec
+> Keyrus en 3 mots
+> Nos animations pour nos collaborateurs sur Facebook et sur Instagram.
+il y a 12 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",16/10/2018,Data_architect,Lyon,16/10/2019,vjk=d410bdc5ca00095d,vide,cdi
