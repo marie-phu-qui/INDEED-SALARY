@@ -7,7 +7,7 @@ data = pd.read_csv('data\indeed_jobs_exp.csv')
 no_contrat_descr = data.loc[data["contrat"] == "vide"]
 descriptions = no_contrat_descr["Descriptif_du_poste"]
 
-agg=0
+# À lancer après la fonction handle_exp.py
 
 def define_contrats_from_desc(data) :
     ''' 
@@ -45,4 +45,4 @@ data.update(new_data)
 
 if not os.path.exists('data'):
     os.mkdir('data')
-data.to_csv('data\indeed_jobs_exp_contrat.csv')
+data.to_csv('data\indeed_jobs_exp_contrat.csv', index=False)
