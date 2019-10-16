@@ -1,4 +1,52 @@
 Titre,Nom_Entreprise,Adresse,Salaire,Descriptif_du_poste,Date_de_publication,métier_sc,loc_sc,Date_sc,Identifiant,Experiences,contrat
+Développeur Back-end Python / Devops,STORMSHIELD,Lyon (69),vide,"Lyon (69)
+CDI
+Vous souhaitez travailler en tant que développeur backend, sur des services très innovants, mêlant sécurité, performance et robustesse ?
+Des services, basés sur une stack composée d’un backend en Python, tournant sur Kubernetes, avec des bases de données haute-performances (MongoDB, Time Series Database), ça vous parle ?
+Tests unitaires, pair-programming, merge requests, intégration continue, … vous connaissez ces termes ?
+Vous adhérez aux principes du Software Craftsmanship ?
+Vous êtes également ouvert à apprendre par la suite une nouvelle technologie, comme NodeJS, afin d’avoir la possibilité de travailler sur d’autres backend de notre gamme produit ?
+Alors ce qui suit va vous intéresser.
+Poste et Mission
+Nous recherchons un ingénieur en développement logiciel, orienté backend, avec une excellente connaissance du langage Python, chargé de concevoir et améliorer deux de nos services hébergés, qui permettent de lancer des analyses de malwares dans notre Cloud et de récolter des données de télémétrie de nos clients.
+Vous aurez également la charge d’opérer ces services dans notre Cloud, en mode DevOps : autonomie pour les déploiements, monitoring, …
+Vous serez complètement intégré à l’équipe Scrum et participerez de manière active aux choix qui s'imposent pour les services en question (études, architecture, …).
+Vous devez avoir une forte notion de qualité dans vos développements (lint du code, tests unitaires, intégration continue, …).
+Si vous souhaitez faire du TDD et travailler régulièrement en pair-programming, alors postulez chez nous.
+Vos responsabilités en détails
+Développer les fonctionnalités liées aux services
+Définir les choix techniques et d’architectures
+Faire évoluer la plateforme actuelle en s’assurant de sa maintenabilité
+Surveiller les alertes issues du monitoring, les traiter et assurer la haute-disponibilité des services en production
+Développer, automatiser et faire évoluer les tests unitaires ainsi que les tests fonctionnels
+Participer à l’évolution de notre système d’intégration continue (à base de Jenkins)
+Être en support des autres équipes Stormshield qui participent également à l’élaboration de ces services
+Les services : Breach Fighter et Télémétrie
+Les services en question sont les suivants :
+Breach Fighter: service d’analyse comportementale de malwares, déporté dans le Cloud Stormshield, qui permet, entre autres, d’analyser les pièces jointes qui traversent les firewalls SNS de nos clients.
+Télémétrie: ce service permet de connaitre les tendances d’utilisation de l’ensemble des firewalls SNS en production afin d’améliorer nos produits.
+Profil
+Compétences professionnelles
+Excellente maîtrise du langage Python: vous avez déjà développé des applications complexes en Python et vous savez faire du code maintenable en production
+Maîtrise des environnements Linux
+Au moins une expérience de développement de SaaS (serveur en production, bases de données, déploiement continu, …)
+Application des fondamentaux du « Software Craftsmanship »
+Gestionnaire de source : Git
+Adepte des méthodes agiles et partie prenante de tous les aspects liés au projet :
+Architecture, discussions techniques et fonctionnelles, vision opérationnelle, développement, tests unitaires, …
+Si vous connaissez également Kubernetes, cela est un plus pour vous (et pour nous)
+Et la cerise sur le gâteau, des connaissances en Ansible et Jenkins
+Compétences personnelles
+Rigueur, autonomie, esprit d’équipe, curiosité, capacité d’initiative, remise en question, apprentissage de nouvelles technologies, ouverture au changement, …
+Expérience
+Excellente maîtrise du langage Python : )
+Rejoignez le monde de la cyber-sécurité !
+Filiale d’Airbus, Stormshield est le leader européen dans l’édition de solutions de sécurité des systèmes d’information. Nos solutions protègent les entreprises contre les cyberattaques en tout genre (déni de services, vol d'informations, dégradation d'images…) et les aident à respecter les réglementations concernant la confidentialité de l'information.
+Le Collaborative Success est une de nos valeurs-clés ; nous croyons que le succès ne peut être que collectif et partagé. Aussi, si le travail d’équipe, l’ouverture, l’écoute, la curiosité et le partage vous font vibrer, rejoignez-nous au plus vite!
+Pour plus d’informations, rendez-vous sur stormshield.com
+Type d'emploi : CDI
+il y a 2 heures
+Signaler cette offre d'emploi",16/10/2019,developer,Lyon,16/10/2019,vjk=43d1d1336ac4ea57,vide,cdi
 Développeur back-end drupal 8 confirmé H/F,INSIGN,Lyon (69),vide,"Lyon (69)
 Temps plein, CDI
 On recrute un Développeur back-end Drupal 8 confirmé H/F
@@ -38,7 +86,7 @@ Type d'emploi : Temps plein, CDI
 Salaire : 34,00€ à 40,00€ /an
 Expérience:
 développeur back-end drupal 8 confirmé h/f ou similaire: 5 ans (Souhaité)
-il y a 17 heures
+il y a 20 heures
 Signaler cette offre d'emploi",Aujourd'hui,developer,Lyon,16/10/2019,vjk=cf51a5ecea6dbd76,confirmé,cdi
 Lead développeur Front End / Editeur de Logiciel / CDI,HAYS,Dardilly (69),vide,"Dardilly (69)
 CDI
@@ -53,9 +101,10 @@ Connaissance SQLServer/MySQL
 Maitrise de l’Intégration Continue (TUs, Pull Request, Jenkins, Bitbucket)
 Maitrise de la Livraison Continue (Docker, etc.)
 Maitrise de la Qualité de code (GIT, Sonar, JIRA, etc.)
+Type d'emploi : CDI
 Salaire : 45 000,00€ à 47 000,00€ /mois
-il y a 21 heures
-Signaler cette offre d'emploi",Aujourd'hui,developer,Lyon,16/10/2019,vjk=eb0b0c65922d1304,vide,cdi
+il y a 1 jour
+Signaler cette offre d'emploi",15/10/2019,developer,Lyon,16/10/2019,vjk=eb0b0c65922d1304,vide,cdi
 Lead développeur Back End / Architecte SOA / Client Final /...,HAYS,Dardilly (69),40 000 € - 50 000 € par an,"Dardilly (69)
 CDI
 40 000 € - 50 000 € par an
@@ -68,11 +117,11 @@ Maitrise de Spring Boot/Cloud/Gateway, Angular, API REST/JSON, SQL
 Maitrise de RabbitMQ, Eureka, Zuul
 Maitrise SQLServer/MySQL
 Maitrise de l’Intégration Continue (TUs, Pull Request, Jenkins, Bitbucket)
+Maitrise de la Livraison Continue (Docker, etc.)
 Maitrise de la Qualité de code (GIT, Sonar, JIRA, etc.)
 Type d'emploi : CDI
 Salaire : 40 000,00€ à 50 000,00€ /an
-il y a 21 heures
-Signaler cette offre d'emploi",Aujourd'hui,developer,Lyon,16/10/2019,vjk=8b2ad2499cc0c3c8,vide,cdi
+il y a 1 jour",15/10/2019,developer,Lyon,16/10/2019,vjk=8b2ad2499cc0c3c8,vide,cdi
 Développeur Front-End H/F,Webnet,Lyon (69),vide,"Lyon (69)
 CDI
 En liaison avec les équipes back-end et les graphistes, vous démontrez une large autonomie et une bonne capacité à travailler en équipe, afin de participer au développement des projets web et mobile de nos clients.
@@ -111,8 +160,8 @@ Grâce à notre expertise, nos clients Grands Comptes et PME nous font confiance
 Type d'emploi : CDI
 Expérience:
 développeur front-end h/f ou similaire: 1 an (Souhaité)
-il y a 1 jour
-Signaler cette offre d'emploi",15/10/2019,developer,Lyon,16/10/2019,vjk=8525a004c849f32f,vide,cdi
+il y a 2 jours
+Signaler cette offre d'emploi",14/10/2019,developer,Lyon,16/10/2019,vjk=8525a004c849f32f,vide,cdi
 Développeur Front-end F/H,SULLY GROUP,Lyon 2e (69),vide,"Lyon 2e (69)
 CDI
 Afin de renforcer son équipe de développement dédiée aux applications métiers, notre client acteur dans le domaine des médias, recherche
@@ -231,8 +280,8 @@ Type d'emploi : Temps plein, CDD
 Salaire : 27 000,00€ à 33 000,00€ /mois
 Expérience:
 développeur front-end h/f - villeurbanne ou similaire: 2 ans (Requis)
-il y a 5 jours
-Signaler cette offre d'emploi",11/10/2019,developer,Lyon,16/10/2019,vjk=038b54882263682a,vide,cdd
+il y a 6 jours
+Signaler cette offre d'emploi",10/10/2019,developer,Lyon,16/10/2019,vjk=038b54882263682a,vide,cdd
 Développeur full-stack senior,quarksUp,Lyon (69),vide,"Lyon (69)
 Le super-héros du code ...
 Chez quarksUp, tu seras au milieu d’équipes passionnées par le digital, appliqué aux ressources humaines.
@@ -267,55 +316,9 @@ Nous avons à coeur de travailler à des solutions qui apporteront une réelle v
 Pragmatiques nous nous efforçons à travailler avec les dernières technologies, et méthodes.
 A Lyon, petite équipe soudée et détendue!
 L’équipe de Paris est plus conséquente, et rassemble les équipes de développement du produit ETI (Entreprises Taille Intermédiaire), service marketing, commerciaux, et généraux.
-il y a 5 jours
+il y a 6 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",11/10/2019,developer,Lyon,16/10/2019,vjk=a14395c18a1934d5,senior,vide
-Développeur Front-End F/H,ALEYSIA,Lyon 1er (69),vide,"Lyon 1er (69)
-CDI
-Dans le cadre d'un renfort d'équipe, vous intervenez au sein d'une équipe en mode agile, vos missions sont les suivantes :
-
-Participer à l’analyse détaillée en fonction de l’étude des besoins des utilisateurs et de l’analyse fonctionnelle
-Concevoir et développer des applications informatiques
-Implémenter la solution avec les technologies retenues
-Rédiger la documentation technique et fonctionnelle
-Concevoir et dérouler les tests
-Accompagner pendant la recette
-Gérer la maintenance corrective et évolutive de l’application
-Compétences attendues:
-VueJS ou Angular2+ ou ReactJS
-Une expérience avec GraphQL
-Compétence d'intégration web avec usage de Sass.
-Connaître le standard EcmaScript et ses fonctionnalités
-Connaissances du testing
-Compétences facultatives:
-Notions d'UI et d’UX
-Tests fonctionnels
-Jest
-Connaître Webpack/Babel et Eslint
-Profil recherché De formation Bac+2 à Bac+5, vous justifiez d’une première expérience significative sur un poste similaire, au moins de deux ans. Bon(ne) communicant(e), vous avez le sens du service et êtes reconnu(e) pour vos qualités relationnelles. De nature proactive, vous aimez travailler en équipe et faites preuve de bonnes capacités d’analyse, de synthèse et d’adaptation.
-Entreprise Entreprise de Services du Numérique, nous intervenons dans toutes les étapes des projets IT de nos clients.
-
-Depuis la détermination du besoin jusqu’au déploiement des solutions informatiques, nos équipes proposent leurs expertises métier et technique.
-
-Nos solutions permettent d’optimiser les processus d’organisation, de gestion, de relation client, de production, de logistique ou de pilotage des entreprises.
-
-Nous intégrons au quotidien les facteurs Humain et Économique afin de proposer une solution informatique la plus adaptée et la plus durable.
-
-Rejoindre Aleysia, c’est :
-Intervenir sur des environnements techniques et/ou fonctionnels variés
-
-Pouvoir échanger et partager ses expériences avec une équipe de passionnés
-
-Mettre en avant vos propres ambitions professionnelles
-
-Monter en compétences dans une société à taille humaine
-
-Travailler ensemble pour l’épanouissement de chacun.
-
-Retrouvez toutes nos offres sur www.aleysia/carriere
-Apec.fr - il y a 8 jours
-- Continuer pour postuler
-Signaler cette offre d'emploi",08/10/2019,developer,Lyon,16/10/2019,vjk=1f8b3b3838269036,vide,cdi
+Signaler cette offre d'emploi",10/10/2019,developer,Lyon,16/10/2019,vjk=a14395c18a1934d5,senior,vide
 Chef de projet web/Développeur front-end (H/F),Adéquat,Limonest (69),vide,"Limonest (69)
 CDI
 Notre agence Adéquat recrute pour l'un de ses clients un(e) : Chef de projet web junior / développeur front-end wordpress (F/H) sur le secteur de Limonest en CDI
@@ -398,33 +401,6 @@ Tu peux postuler directement en envoyant ta candidature à l'adresse suivante : 
 il y a 30+ jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",16/09/2019,developer,Lyon,16/10/2019,vjk=650f70c159c46639&advn=5890588353020774,vide,stage
-Développeur Back-End PHP/Symfony,Egis,Lyon (69),vide,"Lyon (69)
-CDI
-Contexte:
-Egis Asset Management Solutions (EAMS) est une filiale d’Egis Road Operation (ERO), opérateur mondial d’autoroutes et partenaire de long terme des maîtres d’ouvrage autoroutiers.
-EAMS fournit des services de gestion de patrimoine aux maîtres d’ouvrage et exploitants d’infrastructures (concessionnaires, collectivités publiques, etc.)
-Dans ce cadre, la société développe ses propres logiciels, qui proposent des outils d’aide à la décision pour les politiques de maintenance et de renouvellement d’infrastructure des maîtres d’ouvrage. Parallèlement à ce métier historique de l’autoroute, EAMS fournit désormais ses services dans d’autres domaines, tels que les routes urbaines, les tramways, les aéroports, ou les ports.
-Missions et Activités principales :
-Intégré(e) dans une équipe de 10 personnes, vous participez à l’enrichissement de nouvelles fonctionnalités et à la création de nouveaux produits.
-
-Autonome dans votre mission, vous avez pour principales activités de :
-Réaliser les développements, incluant les phases de tests et de documentation,
-Assurer leur déploiement et le support,
-Réaliser les évolutions et la maintenance
-
-Si vous désirez travailler dans une bonne ambiance avec une équipe à taille humaine, rejoignez-nous ! Au quotidien, les challenges sont permanents.
-
-Profil recherché :
-Titulaire d'un Bac+3 à Bac+ 5, vous aimez les challenges, et accompagner des équipes motivées dans leur développement.
-Passionné(e) par le Back, vous justifiez au minimum 5 ans d’expérience professionnelle en tant que Développeur Back-End sur des projets d’envergure.
-Vous avez une bonne connaissance du framework Symfony, et vous êtes sensible à la qualité du code. Vous avez la maîtrise des outils suivants : Git, Docker.
-
-Doté(e) d’une implication hors pair, vous êtes reconnu(e) pour votre capacité à vous investir sur des projets ambitieux. Curieux(se), rigoureux(se) et précis(e), vous disposez d’un sens du design. Vous êtes également reconnu(e) pour vos capacités relationnelles et votre communication avec les représentants métiers.
-
-Le contexte international de nos projets requiert un niveau d’anglais opérationnel (oral et écrit).
-il y a 21 jours
-- Continuer pour postuler
-Signaler cette offre d'emploi",25/09/2019,developer,Lyon,16/10/2019,vjk=94bac73f1102a404&advn=5020699157593178,vide,cdi
 Développeur Front-end Javascript Angular NodeJS - Lyon - F/H,TECH VALLEY,Lyon (69),vide,"Lyon (69)
 TECH VALLEY est une société de Consulting en Systèmes d’Informations, et d’Expertise en ingénierie informatique, constituée d’une équipe de consultants, d’ingénieurs, et d’experts.
 Nous mettons en avant une vision fédératrice de la qualité des SI : robustesse, efficacité, dimensionnement, sécurité, performance, évolutivité, conformité, optimisation.
@@ -496,64 +472,52 @@ Alors qu’attendez-vous pour nous rejoindre ?
 carriere-info - il y a 7 jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",09/10/2019,developer,Lyon,16/10/2019,vjk=4287d402075e8101&advn=2715648309700515,vide,vide
-DÉVELOPPEUR FULL STACK JAVA (H/F),sii,Lyon (69),vide,"Lyon (69)
-Description du poste :
-quel est le besoin précis ?
+DÉVELOPPEUR FRONT-END H/F,Sully Group,Lyon (69),vide,"Lyon (69)
+CDI
+Recruteur Sully Group
+Missions du poste
+Sully Group appartient à ses salariés et ses dirigeants sont issus du monde de l'IT. Nous accompagnons nos collaborateurs sur le long terme (37% ont été formés en 2017), ils restent avec nous en moyenne 7 ans. En plus du salaire fixe sur 12 mois, nous vous proposons : une bonne mutuelle, des tickets resto à 9 €, une participation aux frais de transport, un CE, 6 semaines de congés payés + des RTT, intéressement, participation et plan épargne entreprise... (un peu de pub ça ne fait pas de mal !) Double-écrans et café sont fournis pour des conditions de travail optimales.
 
-un référent technique java orienté services !
-un développeur à l'aise sur n'importe quelle stack (front et/ou back) mais avec une réelle expertise sur le back end !
-un leader technique qui étudiera et mettra en œuvre les projets liés à l'exposition des services de l'un de nos clients !
-un véritable leader inspirant qui aidera chacun à progresser !
-un support de proximité aux projets menés par ses collègues !
+Horaires flexibles et charte de télétravail.
 
-une envie de s'impliquer chez un client grands comptes qui ne cesse d'évoluer
+Et une mascotte... c'est déjà bien non ?
 
-et les technos dans tout ça ?
+Avec Sully Group, nos collaborateurs ont trouvé leur voie, alors pourquoi pas vous !
 
-il faudra bien évidement répondre aux besoins de ce client mais également de pouvoir répondre à tes besoins personnels de découverte !
-java (6,7,8), jee, javascript, jquery, vuejs, html/css,
+Afin de renforcer son équipe de développement dédiée aux applications métiers, notre client acteur dans le domaine des médias, recherche son futur Développeur Front-End.
 
-jenkins, maven, sonar, git
-spring, springboot, hibernate
-angular, react
-bases relationnelles
+Les principales compétences requises pour mener à bien la mission sont les suivantes :
+GaphQL.
+Vue, Angular ou react.
+Compétence d'intégration web avec usage de Sass.
+Connaître le standard EcmaScript et ses fonctionnalités.
+Notions d'UI et d'UX.
 
-Description de l'entreprise :
-le groupe sii est au cœur de l'innovation au service de grands comptes dans des secteurs d'ingénierie variés. sii est fier de compter aujourd'hui 10 000 experts à travers 80 implantations dans le monde.
-
-animés de cette même passion pour la technologie et l'innovation, les collaborateurs sii peuvent exercer leur métier dans un cadre bienveillant, de proximité avec une dose de fun. ils intègrent le mouvement #fungenieur dans lequel la créativité et l'esprit d'équipe sont mis à l'honneur.
-
-au palmarès great place to work 2019, le groupe sii a également été labélisé happy candidate et meilleur employeur 2019 dans la catégorie high tech par le magazine capital. il est signataire de la charte de la diversité en entreprise. c'est une société handi-accueillante.
-
-suivez-nous sur les réseaux sociaux : facebook, linkedin, viadeo ou twitter !
-
-Profil recherché :
-pour le reste, nous sommes ouverts à tes recommandations !
-
-que tu sois développeur avec l'envie de devenir tech lead, lead dev junior ou confirmé,
-
-si tu aimes mettre les mains dans la technique tout en aidant les autres,
-si tu as la passion de ton métier, le besoin de partager (organiser des coding dojo),
-
-l'envie constante de proposer des solutions innovantes, agiles et industrialisées,
-
-alors... tu auras ta place dans cette équipe !
-
-alors n'hésitez plus, postulez !
-#expertise – #innovation – #fun, voici le mix gagnant que nous vous proposons !
-suivez nous sur les réseaux sociaux : facebook – linkedin
-
-et twitter :Informations complémentaires :Compétences :
-maven
-angular
-java
-jee
-jquery
-
-#li-er1
-JobinTree - il y a 30+ jours
+Capable de vous intégrer dans une équipe existante, vous savez travailler de manière autonome sur les parties qui vous seront confiées. Vous faites preuve d'une certaine curiosité qui vous sera nécessaire à la bonne compréhension des métiers de notre client, de leurs particularités et enjeux.
+Profil recherché
+Nous ne recherchons pas le mouton à 5 pattes, mais bien un nouveau collaborateur qui aime travailler en équipe, dans une ambiance jeune et dynamique.
+Vous devez justifier d'au moins 2 ans dans un poste similaire et avoir bien entendu le goût du challenge !
+Postuler à cette offre
+Digitalent.io - il y a 23 heures
 - Continuer pour postuler
-Signaler cette offre d'emploi",16/09/2019,developer,Lyon,16/10/2019,vjk=f332581d33b73bc5,vide,vide
+Signaler cette offre d'emploi",Aujourd'hui,developer,Lyon,16/10/2019,vjk=49ae492a5c52db74,vide,cdi
+DÉVELOPPEUR FRONT-END H/F,Aleysia,Lyon (69),vide,"Lyon (69)
+CDI
+Recruteur Aleysia
+Missions du poste
+Au sein d'une équipe intervenant sur un projet ambitieux et d'envergure, sous la responsabilité d'un Chef de Projet, vous intervenez notamment sur les phases projet suivantes :
+Participer à l'analyse détaillée en fonction de l'étude des besoins des utilisateurs et de l'analyse fonctionnelle.
+Concevoir et développer des applications informatiques.
+Implémenter la solution avec les technologies retenues.
+Rédiger la documentation technique et fonctionnelle.
+Profil recherché
+De formation supérieure en informatique, vous justifiez d'une première expérience sur un poste similaire d'au moins deux ans. Bon(ne) communicant(e), vous avez le sens du service et êtes reconnu(e) pour vos qualités relationnelles. De nature proactive, vous aimez travailler en équipe et faites preuve de bonnes capacités d'analyse, de synthèse et d'adaptation.
+
+Connaissances attendues : Git, JavaScript, HTML5, CSS 3, VueJS
+Postuler à cette offre
+Digitalent.io - il y a 23 heures
+- Continuer pour postuler
+Signaler cette offre d'emploi",Aujourd'hui,developer,Lyon,16/10/2019,vjk=26fc7cf9e1873fe0,vide,cdi
 Développeur Front-End H/F - Villeurbanne,MANPOWER,Auvergne-Rhône-Alpes,30 000 € - 40 000 € par an,"Auvergne-Rhône-Alpes
 30 000 € - 40 000 € par an
 Votre futur employeur :
@@ -587,49 +551,6 @@ Doté(e) d’un excellent relationnel, le travail en équipe est un élément pr
 WebEngineering - il y a 5 jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",11/10/2019,developer,Lyon,16/10/2019,vjk=76af165cbbcc16ae,vide,vide
-DÉVELOPPEUR FRONT END (H/F),sii,Lyon (69),vide,"Lyon (69)
-Description du poste :
-le cadre du développement de notre activité e-commerce, nous renforçons notre centre de service dédié, localisé dans nos locaux de lyon (part dieu)
-
-nous intervenons sur ‘ensemble du cycle de développement des sites e-commerce de notre client, ainsi que pour el développement des market place en marque blanche.
-
-votre activité consiste à :
-participation aux daily de l'équipe scrum, contribution à la priorisation du backlog ;
-pilotage de l'ensemble de l'activité front end, en coopération avec le scrum master et le proxi po
-conception, développement ;
-participation aux mep.
-au-delà de ces activités, votre intervention s'étend également à des activités transverses : définition des bonnes pratiques communes aux projets, évolution des processus, mise en place de nouveaux outils.
-
-Description de l'entreprise :
-le groupe sii est au cœur de l'innovation au service de grands comptes dans des secteurs d'ingénierie variés. sii est fier de compter aujourd'hui 10 000 experts à travers 80 implantations dans le monde.
-
-animés de cette même passion pour la technologie et l'innovation, les collaborateurs sii peuvent exercer leur métier dans un cadre bienveillant, de proximité avec une dose de fun. ils intègrent le mouvement #fungenieur dans lequel la créativité et l'esprit d'équipe sont mis à l'honneur.
-
-au palmarès great place to work 2019, le groupe sii a également été labélisé happy candidate et meilleur employeur 2019 dans la catégorie high tech par le magazine capital. il est signataire de la charte de la diversité en entreprise. c'est une société handi-accueillante.
-
-suivez-nous sur les réseaux sociaux : facebook, linkedin, viadeo ou twitter !
-
-Profil recherché :
-nous recherchons pour ce projet un consultant expérimenté (au moins 5 ans) disposant d'une forte expérience en développement front end :
-
-css 3.0
-javascript, jquery
-webpack
-js
-nous vous proposons de se rencontrer afin que nous puissions échanger ensemble sur ces différentes et nombreuses opportunités.
-
-nous avons la passion de la technologie, nos équipes développent les produits et les services du numérique. notre métier est d'aider nos clients à prendre le virage du digital, et de changer le monde. nous sommes fiers d'être ingénieurs, nous sommes #fungénieurs.
-
-alors n'hésitez plus, postulez !
-#expertise - #innovation - #fun, voici le mix gagnant que nous vous proposons !
-suivez nous sur les réseaux sociaux : facebook - linkedin et
-
-Informations complémentaires :Compétences :
-front end
-javascript
-JobinTree - il y a 30+ jours
-- Continuer pour postuler
-Signaler cette offre d'emploi",16/09/2019,developer,Lyon,16/10/2019,vjk=c5e6bcb9bd8704fa,vide,vide
 Développeur back-end PHP H/F,WIZAPLACE-WIZACHA,Lyon (69),35 000 € par an,"Lyon (69)
 35 000 € par an
 Développeur back-end PHP H/F posté par WIZAPLACE-WIZACHA
@@ -710,21 +631,18 @@ De formation BAC+2 à BAC+5, vous justifiez d'une expérience réussie dans des 
 LesJeudis.com - il y a 30+ jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",16/09/2019,developer,Lyon,16/10/2019,vjk=08d72bca0ee8a4d7,vide,vide
-DÉVELOPPEUR BACK END (H/F),sii,Lyon (69),vide,"Lyon (69)
+DÉVELOPPEUR FRONT END (H/F),sii,Lyon (69),vide,"Lyon (69)
 Description du poste :
-votre mission en tant que développeur back end chez sii !
+le cadre du développement de notre activité e-commerce, nous renforçons notre centre de service dédié, localisé dans nos locaux de lyon (part dieu)
 
-intégré(e) à l'équipe de développement de notre client, vous :
+nous intervenons sur ‘ensemble du cycle de développement des sites e-commerce de notre client, ainsi que pour el développement des market place en marque blanche.
 
-participez à la conception et à la réalisation des développements sur la base de spécifications fonctionnelles :
-développez les applications du projet, en conformité avec les bonnes pratiques définies
-chiffrez la charge estimée pour les tâches qui lui sont affectées et ré-estimer le reste à faire au fil des développements
-testez unitairement les développements
-relisez le code produit par les autres développeurs
-participer à la correction des anomalies applicatives
-participez aux réunions d'équipe
-avez un regard critique sur le travail demandé (choix techniques et spécifications fonctionnelles) et proposez des améliorations en conséquence
-remontez les alertes au chef de projet et/ou au pilote opérationnel au plus tôt
+votre activité consiste à :
+participation aux daily de l'équipe scrum, contribution à la priorisation du backlog ;
+pilotage de l'ensemble de l'activité front end, en coopération avec le scrum master et le proxi po
+conception, développement ;
+participation aux mep.
+au-delà de ces activités, votre intervention s'étend également à des activités transverses : définition des bonnes pratiques communes aux projets, évolution des processus, mise en place de nouveaux outils.
 
 Description de l'entreprise :
 le groupe sii est au cœur de l'innovation au service de grands comptes dans des secteurs d'ingénierie variés. sii est fier de compter aujourd'hui 10 000 experts à travers 80 implantations dans le monde.
@@ -735,29 +653,141 @@ au palmarès great place to work 2019, le groupe sii a également été labélis
 
 suivez-nous sur les réseaux sociaux : facebook, linkedin, viadeo ou twitter !
 
-Profil recherché :votre profil pour ce projet :
-vous justifiez d'un bac +5, université ou école d'ingénieur,
-les technologies java j2ee, spring(core, batch) et maven
-sqlsous oracle
-la programmation orientée objet
-les bonnes pratiques de programmation java et sql
-des connaissances de zk, mybatis, git et des méthodes agiles seraient un plus
+Profil recherché :
+nous recherchons pour ce projet un consultant expérimenté (au moins 5 ans) disposant d'une forte expérience en développement front end :
+
+css 3.0
+javascript, jquery
+webpack
+js
+nous vous proposons de se rencontrer afin que nous puissions échanger ensemble sur ces différentes et nombreuses opportunités.
+
+nous avons la passion de la technologie, nos équipes développent les produits et les services du numérique. notre métier est d'aider nos clients à prendre le virage du digital, et de changer le monde. nous sommes fiers d'être ingénieurs, nous sommes #fungénieurs.
 
 alors n'hésitez plus, postulez !
-#expertise – #innovation – #fun, voici le mix gagnant que nous vous proposons !
-suivez nous sur les réseaux sociaux : facebook – linkedin
+#expertise - #innovation - #fun, voici le mix gagnant que nous vous proposons !
+suivez nous sur les réseaux sociaux : facebook - linkedin et
 
-et twitter :Informations complémentaires :Compétences :
-java
-spring
-maven
-oracle
-sql
-
-#li-nh1
+Informations complémentaires :Compétences :
+front end
+javascript
 JobinTree - il y a 30+ jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",16/09/2019,developer,Lyon,16/10/2019,vjk=5b38d6f30fb60538,vide,vide
+Signaler cette offre d'emploi",16/09/2019,developer,Lyon,16/10/2019,vjk=c5e6bcb9bd8704fa,vide,vide
+Développeur Front-End F/H,ALEYSIA,Lyon 1er (69),vide,"Lyon 1er (69)
+CDI
+Dans le cadre d'un renfort d'équipe, vous intervenez au sein d'une équipe en mode agile, vos missions sont les suivantes :
+
+Participer à l’analyse détaillée en fonction de l’étude des besoins des utilisateurs et de l’analyse fonctionnelle
+Concevoir et développer des applications informatiques
+Implémenter la solution avec les technologies retenues
+Rédiger la documentation technique et fonctionnelle
+Concevoir et dérouler les tests
+Accompagner pendant la recette
+Gérer la maintenance corrective et évolutive de l’application
+Compétences attendues:
+VueJS ou Angular2+ ou ReactJS
+Une expérience avec GraphQL
+Compétence d'intégration web avec usage de Sass.
+Connaître le standard EcmaScript et ses fonctionnalités
+Connaissances du testing
+Compétences facultatives:
+Notions d'UI et d’UX
+Tests fonctionnels
+Jest
+Connaître Webpack/Babel et Eslint
+Profil recherché De formation Bac+2 à Bac+5, vous justifiez d’une première expérience significative sur un poste similaire, au moins de deux ans. Bon(ne) communicant(e), vous avez le sens du service et êtes reconnu(e) pour vos qualités relationnelles. De nature proactive, vous aimez travailler en équipe et faites preuve de bonnes capacités d’analyse, de synthèse et d’adaptation.
+Entreprise Entreprise de Services du Numérique, nous intervenons dans toutes les étapes des projets IT de nos clients.
+
+Depuis la détermination du besoin jusqu’au déploiement des solutions informatiques, nos équipes proposent leurs expertises métier et technique.
+
+Nos solutions permettent d’optimiser les processus d’organisation, de gestion, de relation client, de production, de logistique ou de pilotage des entreprises.
+
+Nous intégrons au quotidien les facteurs Humain et Économique afin de proposer une solution informatique la plus adaptée et la plus durable.
+
+Rejoindre Aleysia, c’est :
+Intervenir sur des environnements techniques et/ou fonctionnels variés
+
+Pouvoir échanger et partager ses expériences avec une équipe de passionnés
+
+Mettre en avant vos propres ambitions professionnelles
+
+Monter en compétences dans une société à taille humaine
+
+Travailler ensemble pour l’épanouissement de chacun.
+
+Retrouvez toutes nos offres sur www.aleysia/carriere
+Apec.fr - il y a 8 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",08/10/2019,developer,Lyon,16/10/2019,vjk=1f8b3b3838269036,vide,cdi
+Développeur Back-End PHP/Symfony - H/F,Egis,Lyon (69),vide,"Lyon (69)
+Contexte:
+Egis Asset Management Solutions (EAMS) est une filiale d’Egis Road Operation (ERO), opérateur mondial d’autoroutes et partenaire de long terme des maîtres d’ouvrage autoroutiers.
+EAMS fournit des services de gestion de patrimoine aux maîtres d’ouvrage et exploitants d’infrastructures (concessionnaires, collectivités publiques, etc.)
+Dans ce cadre, la société développe ses propres logiciels, qui proposent des outils d’aide à la décision pour les politiques de maintenance et de renouvellement d’infrastructure des maîtres d’ouvrage. Parallèlement à ce métier historique de l’autoroute, EAMS fournit désormais ses services dans d’autres domaines, tels que les routes urbaines, les tramways, les aéroports, ou les ports.
+Missions et Activités principales :
+Intégré(e) dans une équipe de 10 personnes, vous participez à l’enrichissement de nouvelles fonctionnalités et à la création de nouveaux produits.
+
+Autonome dans votre mission, vous avez pour principales activités de :
+Concevoir l’architecture,
+Réaliser les développements, incluant les phases de tests et de documentation,
+Assurer leur déploiement et le support,
+Réaliser les évolutions et la maintenance
+
+Si vous désirez travailler dans une bonne ambiance avec une équipe à taille humaine, rejoignez-nous ! Au quotidien, les challenges sont permanents.
+
+Profil recherché :
+Titulaire d'un Bac+3 à Bac+ 5, vous aimez les challenges, et accompagner des équipes motivées dans leur développement.
+Passionné(e) par le Back, vous justifiez au minimum 5 ans d’expérience professionnelle en tant que Développeur Back-End sur des projets d’envergure.
+Vous avez une bonne connaissance du framework Symfony, et vous êtes sensible à la qualité du code. Vous avez la maîtrise des outils suivants : Git, Docker.
+
+Doté(e) d’une implication hors pair, vous êtes reconnu(e) pour votre capacité à vous investir sur des projets ambitieux. Curieux(se), rigoureux(se) et précis(e), vous disposez d’un sens du design. Vous êtes également reconnu(e) pour vos capacités relationnelles et votre communication avec les représentants métiers.
+
+Le contexte international de nos projets requiert un niveau d’anglais opérationnel (oral et écrit).
+il y a 15 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",01/10/2019,developer,Lyon,16/10/2019,vjk=3c80576b2d06898e,vide,vide
+Développeur Front-End (H/F),CITECH,Lyon (69),35 000 € - 45 000 € par an,"Lyon (69)
+35 000 € - 45 000 € par an
+Job Description
+
+Dans le cadre d’un projet du groupe, nous recrutons pour notre client un Développeur Front-End (H/F)
+Vous travaillerez en relation directe avec le Scrum Master et les développeurs Back-End basés sur le site.
+Vos missions principales seront les suivantes :
+Investigations et études techniques,
+Recherche de solutions,
+Réalisation de développements techniques,
+Rédaction de normes et outils d'aide au développement,
+Revue de code et tests
+Support auprès des utilisateurs et développeurs
+Rédaction des spécifications techniques documentant vos développement
+
+Qualifications
+
+De formation supérieure en informatique (Ecole d'ingénieurs ou formation universitaire), vous justifiez d’une expérience réussie sur un poste similaire.
+Nous recherchons un profil de développeur Front-End maîtrisant l’environnement technique suivant : Angular, Typescript, HTML, SCSS et Jtest.
+Vous êtes autonome, curieux, inventif et force de proposition.
+Vous avez déjà eu une première expérience et êtes à l’aise avec l’agilité en mode projet.
+
+Additional Information
+
+Pourquoi rejoindre Citech ?
+Une ambiance de travail conviviale avec des afterworks organisés régulièrement !
+Des missions de longues durées
+Des formations adaptées à vos envies et vos aspirations
+Une mobilité que si vous le souhaitez
+Un accompagnement personnalisé avec un suivi régulier (autour d’un café ou un thé, c’est vous qui choisissez )
+Une mutuelle avantageuse pour vous mais aussi pour les membres de votre famille :rougir:
+Une flexibilité sur la gestion de vos repas
+Un statut Cadre et une convention collective SYNTEC
+Alors qu’attendez-vous pour nous rejoindre ?
+
+Poste basé à Lyon (69)
+Salaire : 35-45 k€ brut/an
+Réf : 191001_ DéveloppeurFrontEnd_69
+il y a 14 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",02/10/2019,developer,Lyon,16/10/2019,vjk=679c30e73949ec77,vide,vide
 Développeur back-end Symfony 4 H/F,Wizaplace,Lyon 9e (69),35 000 € - 45 000 € par an,"Lyon 9e (69)
 CDI
 35 000 € - 45 000 € par an
@@ -807,49 +837,8 @@ Type d'emploi : CDI
 Salaire : 35 000,00€ à 45 000,00€ /an
 Expérience:
 développeur back-end symfony 4 h/f ou similaire: 1 an (Souhaité)
-il y a 18 jours
-Signaler cette offre d'emploi",28/09/2019,developer,Lyon,16/10/2019,vjk=1779eb7d828ee30c,vide,cdi
-Développeur Front-End (H/F),CITECH,Lyon (69),35 000 € - 45 000 € par an,"Lyon (69)
-35 000 € - 45 000 € par an
-Job Description
-
-Dans le cadre d’un projet du groupe, nous recrutons pour notre client un Développeur Front-End (H/F)
-Vous travaillerez en relation directe avec le Scrum Master et les développeurs Back-End basés sur le site.
-Vos missions principales seront les suivantes :
-Investigations et études techniques,
-Recherche de solutions,
-Réalisation de développements techniques,
-Rédaction de normes et outils d'aide au développement,
-Revue de code et tests
-Support auprès des utilisateurs et développeurs
-Rédaction des spécifications techniques documentant vos développement
-
-Qualifications
-
-De formation supérieure en informatique (Ecole d'ingénieurs ou formation universitaire), vous justifiez d’une expérience réussie sur un poste similaire.
-Nous recherchons un profil de développeur Front-End maîtrisant l’environnement technique suivant : Angular, Typescript, HTML, SCSS et Jtest.
-Vous êtes autonome, curieux, inventif et force de proposition.
-Vous avez déjà eu une première expérience et êtes à l’aise avec l’agilité en mode projet.
-
-Additional Information
-
-Pourquoi rejoindre Citech ?
-Une ambiance de travail conviviale avec des afterworks organisés régulièrement !
-Des missions de longues durées
-Des formations adaptées à vos envies et vos aspirations
-Une mobilité que si vous le souhaitez
-Un accompagnement personnalisé avec un suivi régulier (autour d’un café ou un thé, c’est vous qui choisissez )
-Une mutuelle avantageuse pour vous mais aussi pour les membres de votre famille :rougir:
-Une flexibilité sur la gestion de vos repas
-Un statut Cadre et une convention collective SYNTEC
-Alors qu’attendez-vous pour nous rejoindre ?
-
-Poste basé à Lyon (69)
-Salaire : 35-45 k€ brut/an
-Réf : 191001_ DéveloppeurFrontEnd_69
-il y a 14 jours
-- Continuer pour postuler
-Signaler cette offre d'emploi",02/10/2019,developer,Lyon,16/10/2019,vjk=679c30e73949ec77,vide,vide
+il y a 19 jours
+Signaler cette offre d'emploi",27/09/2019,developer,Lyon,16/10/2019,vjk=1779eb7d828ee30c,vide,cdi
 Développeur Back-end Drupal H/F,AgenceMayflower,Lyon (69),30 000 € - 40 000 € par an,"Lyon (69)
 30 000 € - 40 000 € par an
 Nos projets ?
@@ -886,9 +875,9 @@ Langue :
 anglais (Souhaitée)
 
 Envoyer votre candidature à l’adresse : jobs@agencemayflower.com
-il y a 19 jours
+il y a 20 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",27/09/2019,developer,Lyon,16/10/2019,vjk=cb2eae35e9bb94db,vide,cdi
+Signaler cette offre d'emploi",26/09/2019,developer,Lyon,16/10/2019,vjk=cb2eae35e9bb94db,vide,cdi
 Développeur Front-End F/H,CITECH,Lyon 3e (69),vide,"Lyon 3e (69)
 CDI
 Entreprise reconnue dans le secteur bancaire, implantée dans de nombreuses villes en France, notre client a pour objectif d'accélérer sa transformation digitale afin d'offrir toujours plus de solutions et de services innovants.
@@ -1040,6 +1029,25 @@ Envie d'aventure, de challenges, de collègues sympa, d'une ambiance décontract
 Apec.fr - il y a 25 jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",21/09/2019,developer,Lyon,16/10/2019,vjk=270b1a1695564a79,vide,cdi
+[FREELANCE] Développeur Full-Stack Dupral8,Adsearch,Lyon (69),vide,"Lyon (69)
+Intérim, Freelance / Indépendant
+Le développeur que nous recherchons pour notre client à un profil full-stack Drupal 8 avec de très bonnes compétences front. Sa charge de travail sera de ~ 70% front 30% back.
+Mission :
+La découpe, le montage et l’intégration des pages en HTML (Twig) / CSS sur l’environnement Drupal en cohérence avec les maquettes graphiques.
+L'intégration des effets graphiques en JavaScript, jQuery, AJAX
+L’intégration de design adaptatif (Responsive Design)
+Développement PHP et configuration de modules Drupal
+Le respect des standards web (Norme W3C, normes d’accessibilité)
+La compatibilité entre les navigateurs (Firefox, Chrome, Internet Explorer, Safari…)
+Maintenance corrective et évolutive des sites existants
+L’architecture de l’information au sein du site
+L’optimisation de l’accessibilité du site
+La mise en place des optimisations techniques propres au référencement
+Participation aux réunions de définition des besoins
+Participation aux choix technologiques et validation de la faisabilité des spécifications fonctionnelles
+il y a 26 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",20/09/2019,developer,Lyon,16/10/2019,vjk=40351679f3efc40d,vide,intérim
 Développeur Front-End H/F,effektiv,Lyon (69),38 000 € - 45 000 € par an,"Lyon (69)
 38 000 € - 45 000 € par an
 Client
@@ -1073,43 +1081,64 @@ Salaire
 il y a 26 jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",20/09/2019,developer,Lyon,16/10/2019,vjk=b8d8deffb63a0d63,vide,cdi
-[FREELANCE] Développeur Full-Stack Dupral8,Adsearch,Lyon (69),vide,"Lyon (69)
-Intérim, Freelance / Indépendant
-Le développeur que nous recherchons pour notre client à un profil full-stack Drupal 8 avec de très bonnes compétences front. Sa charge de travail sera de ~ 70% front 30% back.
-Mission :
-La découpe, le montage et l’intégration des pages en HTML (Twig) / CSS sur l’environnement Drupal en cohérence avec les maquettes graphiques.
-L'intégration des effets graphiques en JavaScript, jQuery, AJAX
-L’intégration de design adaptatif (Responsive Design)
-Développement PHP et configuration de modules Drupal
-Le respect des standards web (Norme W3C, normes d’accessibilité)
-La compatibilité entre les navigateurs (Firefox, Chrome, Internet Explorer, Safari…)
-Maintenance corrective et évolutive des sites existants
-L’architecture de l’information au sein du site
-L’optimisation de l’accessibilité du site
-La mise en place des optimisations techniques propres au référencement
-Participation aux réunions de définition des besoins
-Participation aux choix technologiques et validation de la faisabilité des spécifications fonctionnelles
-il y a 26 jours
-- Continuer pour postuler
-Signaler cette offre d'emploi",20/09/2019,developer,Lyon,16/10/2019,vjk=40351679f3efc40d,vide,intérim
-Stage - Développeur Full Stack H/F - Lyon,Forum Emploi-Formation-Alternance: Talents Handica...,Lyon (69),vide,"Lyon (69)
-Stage
-Cap ou pas Cap ?
-De plonger dans la technique : Angular, Ionic, Xamarin, Spring, Hibernate, ReactJS, AngularJS, Elasticsearch, Git, Jenkins, Groovy, REST, MongoDB, Python, PHP, Drupal
-Si une (ou même mieux), plusieurs de ces technologies n'ont plus de secret pour toi, c'est le stage qui est fait pour toi !
-Agile, Collaboratif, toujours à l'écoute et Innovant, nous te proposons un terrain de jeu unique pour exprimer tes qualités techniques et humaines.
+DÉVELOPPEUR FULL STACK JAVA (H/F),sii,Lyon (69),vide,"Lyon (69)
+Description du poste :
+quel est le besoin précis ?
 
-Profil
-De formation supérieure en école d'ingénieur ou université, tu...
-disposes d'une expérience dans la conception et le développement JAVA EE, PHP,
-maitrises l'une des technologies suivantes Java EE, PHP, HTLM, SharePoint, CSS, WEB, ...
-as des connaissances sur un serveur d'application : Websphere, Weblogic, JBoss,
-Intégré à une équipe qui délivre les plateformes digitales parmi les plus innovantes, tu interviendras sur des projets de développement dans des environnements où l'expérience client est au cœur des enjeux.
-Il s'agit d'un stage de pré-embauche.
-Tu peux postuler directement en envoyant ta candidature à l'adresse suivante : recrutement.ts.fr@capgemini.com
-handicap-job.com - il y a 25 jours
+un référent technique java orienté services !
+un développeur à l'aise sur n'importe quelle stack (front et/ou back) mais avec une réelle expertise sur le back end !
+un leader technique qui étudiera et mettra en œuvre les projets liés à l'exposition des services de l'un de nos clients !
+un véritable leader inspirant qui aidera chacun à progresser !
+un support de proximité aux projets menés par ses collègues !
+
+une envie de s'impliquer chez un client grands comptes qui ne cesse d'évoluer
+
+et les technos dans tout ça ?
+
+il faudra bien évidement répondre aux besoins de ce client mais également de pouvoir répondre à tes besoins personnels de découverte !
+java (6,7,8), jee, javascript, jquery, vuejs, html/css,
+
+jenkins, maven, sonar, git
+spring, springboot, hibernate
+angular, react
+bases relationnelles
+
+Description de l'entreprise :
+le groupe sii est au cœur de l'innovation au service de grands comptes dans des secteurs d'ingénierie variés. sii est fier de compter aujourd'hui 10 000 experts à travers 80 implantations dans le monde.
+
+animés de cette même passion pour la technologie et l'innovation, les collaborateurs sii peuvent exercer leur métier dans un cadre bienveillant, de proximité avec une dose de fun. ils intègrent le mouvement #fungenieur dans lequel la créativité et l'esprit d'équipe sont mis à l'honneur.
+
+au palmarès great place to work 2019, le groupe sii a également été labélisé happy candidate et meilleur employeur 2019 dans la catégorie high tech par le magazine capital. il est signataire de la charte de la diversité en entreprise. c'est une société handi-accueillante.
+
+suivez-nous sur les réseaux sociaux : facebook, linkedin, viadeo ou twitter !
+
+Profil recherché :
+pour le reste, nous sommes ouverts à tes recommandations !
+
+que tu sois développeur avec l'envie de devenir tech lead, lead dev junior ou confirmé,
+
+si tu aimes mettre les mains dans la technique tout en aidant les autres,
+si tu as la passion de ton métier, le besoin de partager (organiser des coding dojo),
+
+l'envie constante de proposer des solutions innovantes, agiles et industrialisées,
+
+alors... tu auras ta place dans cette équipe !
+
+alors n'hésitez plus, postulez !
+#expertise – #innovation – #fun, voici le mix gagnant que nous vous proposons !
+suivez nous sur les réseaux sociaux : facebook – linkedin
+
+et twitter :Informations complémentaires :Compétences :
+maven
+angular
+java
+jee
+jquery
+
+#li-er1
+JobinTree - il y a 30+ jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",21/09/2019,developer,Lyon,16/10/2019,vjk=c28067f2bfdcd09f,vide,stage
+Signaler cette offre d'emploi",16/09/2019,developer,Lyon,16/10/2019,vjk=f332581d33b73bc5&advn=7736870941523477,vide,vide
 Développeur Back-End et/ou Front-End (H/F) – Lyon (69),Synchrone,Lyon (69),50 000 € par an,"Lyon (69)
 50 000 € par an
 Description de l'offre
@@ -1163,6 +1192,24 @@ Rigoureux (se) et organisé(e), vous avez l’esprit d’analyse et de synthèse
 LesJeudis.com - il y a 21 jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",25/09/2019,developer,Lyon,16/10/2019,vjk=7a5b63ecc3e11142&advn=7674958368030736,vide,vide
+Stage - Développeur Full Stack H/F - Lyon,Forum Emploi-Formation-Alternance: Talents Handica...,Lyon (69),vide,"Lyon (69)
+Stage
+Cap ou pas Cap ?
+De plonger dans la technique : Angular, Ionic, Xamarin, Spring, Hibernate, ReactJS, AngularJS, Elasticsearch, Git, Jenkins, Groovy, REST, MongoDB, Python, PHP, Drupal
+Si une (ou même mieux), plusieurs de ces technologies n'ont plus de secret pour toi, c'est le stage qui est fait pour toi !
+Agile, Collaboratif, toujours à l'écoute et Innovant, nous te proposons un terrain de jeu unique pour exprimer tes qualités techniques et humaines.
+
+Profil
+De formation supérieure en école d'ingénieur ou université, tu...
+disposes d'une expérience dans la conception et le développement JAVA EE, PHP,
+maitrises l'une des technologies suivantes Java EE, PHP, HTLM, SharePoint, CSS, WEB, ...
+as des connaissances sur un serveur d'application : Websphere, Weblogic, JBoss,
+Intégré à une équipe qui délivre les plateformes digitales parmi les plus innovantes, tu interviendras sur des projets de développement dans des environnements où l'expérience client est au cœur des enjeux.
+Il s'agit d'un stage de pré-embauche.
+Tu peux postuler directement en envoyant ta candidature à l'adresse suivante : recrutement.ts.fr@capgemini.com
+handicap-job.com - il y a 25 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",21/09/2019,developer,Lyon,16/10/2019,vjk=c28067f2bfdcd09f,vide,stage
 Développeur Full Stack (F/H),AxeoBIM,Villeurbanne (69),vide,"Villeurbanne (69)
 Description de l'offre :
 Vous intégrez le pôle technique comme développeur full stack (F/H) et participez activement aux évolutions du produit phare de l'entreprise - AxeoBim. Vous participez aux réunions de conception et êtes acteur de la R&D.
@@ -1178,6 +1225,20 @@ envoyer vos lettre de motivation & CV à rh@axxone.fr.
 il y a 30+ jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",16/09/2019,developer,Lyon,16/10/2019,vjk=2aa45d4708a4fb47,vide,cdi
+Développeur Full Stack / Devops (F/H),AxeoBIM,Villeurbanne (69),vide,"Villeurbanne (69)
+Description de l'offre :
+Vous intégrez le pôle technique comme développeur Full Stack / devops (F/H) et participez activement aux opérations liées à l'infrastructure d'une part, aux évolutions du produit phare de l'entreprise d'autre part - AxeoBim. Vous participez aux réunions de conception et êtes acteur de la R&D.
+Expérimenté, vous avez au moins trois ans d'expérience sur le poste, en mode agile (scrum) et en équipe.
+Vous serez amené à travailler avec tout ou partie des technologies suivantes : Linux ; PHP, VueJS, ReactNative, C#, Python.
+Nous recherchons avant tout une personne compétente, motivée, rigoureuse et sympathique, avec le sens de la qualité et de la continuité de service.
+Niveau d'étude minimum BAC+4/5 en informatique souhaité mais toute candidature sera étudiée
+Détails de l’offre :
+Lieu de travail : Villeurbanne (69)
+Type de contrat : CDI
+envoyer vos lettre de motivation & CV à rh@axxone.fr.
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",16/09/2019,developer,Lyon,16/10/2019,vjk=0768bc0654babfda,vide,cdi
 Développeur Full Stack H/F,Teamsquare,Lyon (69),vide,"Lyon (69)
 Temps plein, CDI
 Introduction
@@ -1270,20 +1331,6 @@ Ingénieur Logiciel Full Stack
 Apec.fr - il y a 30+ jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",16/09/2019,developer,Lyon,16/10/2019,vjk=d90d874dbbb85bb8,vide,cdi
-Développeur Full Stack / Devops (F/H),AxeoBIM,Villeurbanne (69),vide,"Villeurbanne (69)
-Description de l'offre :
-Vous intégrez le pôle technique comme développeur Full Stack / devops (F/H) et participez activement aux opérations liées à l'infrastructure d'une part, aux évolutions du produit phare de l'entreprise d'autre part - AxeoBim. Vous participez aux réunions de conception et êtes acteur de la R&D.
-Expérimenté, vous avez au moins trois ans d'expérience sur le poste, en mode agile (scrum) et en équipe.
-Vous serez amené à travailler avec tout ou partie des technologies suivantes : Linux ; PHP, VueJS, ReactNative, C#, Python.
-Nous recherchons avant tout une personne compétente, motivée, rigoureuse et sympathique, avec le sens de la qualité et de la continuité de service.
-Niveau d'étude minimum BAC+4/5 en informatique souhaité mais toute candidature sera étudiée
-Détails de l’offre :
-Lieu de travail : Villeurbanne (69)
-Type de contrat : CDI
-envoyer vos lettre de motivation & CV à rh@axxone.fr.
-il y a 30+ jours
-- Continuer pour postuler
-Signaler cette offre d'emploi",16/09/2019,developer,Lyon,16/10/2019,vjk=0768bc0654babfda,vide,cdi
 Développeur Front-End WordPress H/F,KIZ RECRUTEMENT,Limonest (69),vide,"Limonest (69)
 Au sein d'une structure en croissance et actuellement de près de 30 collaborateurs, vous aurez pour principales activités :
 Gérer les projets web des clients (plateforme candidats, espace carrières) : analyser, définir et accompagner le client dans le cahier des charges
@@ -1394,6 +1441,7 @@ DÉVELOPPEUSE / DÉVELOPPEUR FRONT-END
 PRÉSENTATION DE LA SOCIÉTÉ
 EDF Store & Forecast, filiale du groupe EDF, développe et commercialise une solution logicielle pour l’optimisation énergétique des systèmes électriques locaux via la prévision et le stockage d’énergie. Nos solutions s’adressent aux producteurs d’énergie et gestionnaires de réseau impliqués dans les EnR et le stockage, ainsi qu’aux clients tertiaires et industriels souhaitant développer leur autoconsommation grâce aux EnR. De l’étude à l’exploitation, la société propose une offre complète : ingénierie, prévisions, fourniture, et maintenance. Notre Système de Management de l’Energie (EMS) fonctionne 24h/24 et de manière totalement autonome dans un système d’information construit dans l’environnement du client.
 Depuis sa création en 2014, EDF Store & Forecast a concrétisé des projets en France (Guyane, la Réunion, Mayotte et dans les îles Bretonnes) ainsi qu’au Royaume-Uni et aux Etats-Unis. Fin 2018, les logiciels d’EDF Store & Forecast contrôlent 82 MW d’actifs de production et 95 MW d’actifs de stockage d’énergie sur une dizaine de sites, et devraient doubler de périmètre d’ici fin 2019. La société est basée à Villeurbanne près de Lyon et compte aujourd’hui près d’une trentaine de personnes.
+MISSIONS
 Vous travaillerez au sein du Pôle Informatique & Télécom, qui développe notamment les EMS.
 Vous lancerez l’activité de développement Front-End de l’entreprise :
 Développement de dashboards web pour nos clients sur la base des prototypes élaborés précédemment en ReactJS
@@ -1422,59 +1470,6 @@ sur la page de notre partenaire de recrutement.
 il y a 30+ jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",16/09/2019,developer,Lyon,16/10/2019,vjk=dabfc03b1cee3bf0,vide,cdi
-Développeur Back End (H/F),Groupe SII,Lyon (69),vide,"Lyon (69)
-Description du poste :
-Votre mission en tant que Développeur Back End chez SII !
-Intégré(e) à l’équipe de Développement de notre client, vous :
-Participez à la conception et à la réalisation des développements sur la base de spécifications fonctionnelles :
-Développez les applications du projet, en conformité avec les bonnes pratiques définies
-Chiffrez la charge estimée pour les tâches qui lui sont affectées et ré-estimer le reste à faire au fil des développements
-Testez unitairement les développements
-Relisez le code produit par les autres développeurs
-Participer à la correction des anomalies applicatives
-Participez aux réunions d’équipe
-Avez un regard critique sur le travail demandé (choix techniques et spécifications fonctionnelles) et proposez des améliorations en conséquence
-Remontez les alertes au chef de projet et/ou au pilote opérationnel au plus tôt
-Profil:
-Votre profil pour ce projet :
-Vous justifiez d’un Bac +5, université ou école d’ingénieur,
-Les technologies Java J2EE, Spring(Core, Batch) et Maven
-SQLsous Oracle
-La programmation orientée objet
-Les bonnes pratiques de programmation Java et SQL
-Des connaissances de Zk, MyBatis, Git et des méthodes agiles seraient un plus
-
-Alors n’hésitez plus, postulez !
-#Expertise – #Innovation – #Fun, voici le mix gagnant que nous vous proposons !
-Suivez nous sur les réseaux sociaux : Facebook – Linkedin
-ET Twitter :
-@sii_rhonealpes
-Le Groupe SII est au cœur de l’innovation au service de grands comptes dans des secteurs d’ingénierie variés. SII est fier de compter aujourd’hui 10 000 experts à travers 80 implantations dans le monde.
-Animés de cette même passion pour la technologie et l’innovation, les collaborateurs SII peuvent exercer leur métier dans un cadre bienveillant, de proximité avec une dose de fun. Ils intègrent le mouvement #fungenieur dans lequel la créativité et l’esprit d’équipe sont mis à l’honneur.
-Au palmarès Great place To Work 2019, le Groupe SII a également été labélisé Happy Candidate et Meilleur Employeur 2019 dans la catégorie High Tech par le magazine Capital. Il est signataire de la Charte de la diversité en entreprise. C’est une société handi-accueillante.
-Suivez-nous sur les réseaux sociaux : Facebook, Linkedin, Viadeo ou Twitter !
-Compétences :
-Java
-Spring
-Maven
-Oracle
-SQL
-
-
-#Li-NH1
-Référence de l’annonce :
-BE/0919
-Expérience:
-2-5 ans
-Qualification:
-Consultant
-Rémunération:
-selon profil
-
-POSTULER
-il y a 30+ jours
-- Continuer pour postuler
-Signaler cette offre d'emploi",16/09/2019,developer,Lyon,16/10/2019,vjk=61c06376de40db16,vide,vide
 Développeur Full Stack Java (H/F),Groupe SII,Lyon (69),vide,"Lyon (69)
 Description du poste :
 Quel est le besoin précis ?
@@ -1530,6 +1525,153 @@ POSTULER
 il y a 30+ jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",16/09/2019,developer,Lyon,16/10/2019,vjk=d7cc2f5ba1547689,vide,vide
+DÉVELOPPEUR BACK END (H/F),sii,Lyon (69),vide,"Lyon (69)
+Description du poste :
+votre mission en tant que développeur back end chez sii !
+
+intégré(e) à l'équipe de développement de notre client, vous :
+
+participez à la conception et à la réalisation des développements sur la base de spécifications fonctionnelles :
+développez les applications du projet, en conformité avec les bonnes pratiques définies
+chiffrez la charge estimée pour les tâches qui lui sont affectées et ré-estimer le reste à faire au fil des développements
+testez unitairement les développements
+relisez le code produit par les autres développeurs
+participer à la correction des anomalies applicatives
+participez aux réunions d'équipe
+avez un regard critique sur le travail demandé (choix techniques et spécifications fonctionnelles) et proposez des améliorations en conséquence
+remontez les alertes au chef de projet et/ou au pilote opérationnel au plus tôt
+
+Description de l'entreprise :
+le groupe sii est au cœur de l'innovation au service de grands comptes dans des secteurs d'ingénierie variés. sii est fier de compter aujourd'hui 10 000 experts à travers 80 implantations dans le monde.
+
+animés de cette même passion pour la technologie et l'innovation, les collaborateurs sii peuvent exercer leur métier dans un cadre bienveillant, de proximité avec une dose de fun. ils intègrent le mouvement #fungenieur dans lequel la créativité et l'esprit d'équipe sont mis à l'honneur.
+
+au palmarès great place to work 2019, le groupe sii a également été labélisé happy candidate et meilleur employeur 2019 dans la catégorie high tech par le magazine capital. il est signataire de la charte de la diversité en entreprise. c'est une société handi-accueillante.
+
+suivez-nous sur les réseaux sociaux : facebook, linkedin, viadeo ou twitter !
+
+Profil recherché :votre profil pour ce projet :
+vous justifiez d'un bac +5, université ou école d'ingénieur,
+les technologies java j2ee, spring(core, batch) et maven
+sqlsous oracle
+la programmation orientée objet
+les bonnes pratiques de programmation java et sql
+des connaissances de zk, mybatis, git et des méthodes agiles seraient un plus
+
+alors n'hésitez plus, postulez !
+#expertise – #innovation – #fun, voici le mix gagnant que nous vous proposons !
+suivez nous sur les réseaux sociaux : facebook – linkedin
+
+et twitter :Informations complémentaires :Compétences :
+java
+spring
+maven
+oracle
+sql
+
+#li-nh1
+JobinTree - il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",16/09/2019,developer,Lyon,16/10/2019,vjk=5b38d6f30fb60538&advn=7736870941523477,vide,vide
+Développeur Front End (H/F),Groupe SII,Lyon (69),vide,"Lyon (69)
+Description du poste :
+le cadre du développement de notre activité E-Commerce, nous renforçons notre Centre de Service dédié, localisé dans nos locaux de Lyon (Part Dieu)
+Nous intervenons sur ‘ensemble du cycle de développement des sites E-Commerce de notre client, ainsi que pour el développement des Market Place en marque blanche.
+Votre activité consiste à :
+– Participation aux Daily de l’équipe Scrum, contribution à la priorisation du backlog ;
+– Pilotage de l’ensemble de l’activité Front End, en coopération avec le Scrum Master et le Proxi PO
+– Conception, développement ;
+– Participation aux MEP.
+
+
+
+Au-delà de ces activités, votre intervention s’étend également à des activités transverses : définition des bonnes pratiques communes aux projets, évolution des processus, mise en place de nouveaux outils.
+Profil:
+Nous recherchons pour ce projet un consultant expérimenté (au moins 5 ans) disposant d’une forte expérience en développement Front End :
+– CSS 3.0
+– Javascript, JQuery
+– Webpack
+– js
+Nous vous proposons de se rencontrer afin que nous puissions échanger ensemble sur ces différentes et nombreuses opportunités.
+Nous avons la passion de la technologie, nos équipes développent les produits et les services du numérique. Notre métier est d’aider nos clients à prendre le virage du digital, et de changer le monde. Nous sommes fiers d’être ingénieurs, nous sommes #FUNgénieurs.
+
+Alors n’hésitez plus, postulez !
+#Expertise – #Innovation – #Fun, voici le mix gagnant que nous vous proposons !
+Suivez nous sur les réseaux sociaux : Facebook – Linkedin et
+Twitter : @sii_rhonealpes
+Le Groupe SII est au cœur de l’innovation au service de grands comptes dans des secteurs d’ingénierie variés. SII est fier de compter aujourd’hui 10 000 experts à travers 80 implantations dans le monde.
+Animés de cette même passion pour la technologie et l’innovation, les collaborateurs SII peuvent exercer leur métier dans un cadre bienveillant, de proximité avec une dose de fun. Ils intègrent le mouvement #fungenieur dans lequel la créativité et l’esprit d’équipe sont mis à l’honneur.
+Au palmarès Great place To Work 2019, le Groupe SII a également été labélisé Happy Candidate et Meilleur Employeur 2019 dans la catégorie High Tech par le magazine Capital. Il est signataire de la Charte de la diversité en entreprise. C’est une société handi-accueillante.
+Suivez-nous sur les réseaux sociaux : Facebook, Linkedin, Viadeo ou Twitter !
+Compétences :
+Front End
+Javascript
+Référence de l’annonce :
+DEF/0919
+Expérience:
+2-5 ans
+Qualification:
+Consultant
+Rémunération:
+Selon expérience
+
+POSTULER
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",16/09/2019,developer,Lyon,16/10/2019,vjk=a47be61f564e9785,vide,vide
+Développeur Back End (H/F),Groupe SII,Lyon (69),vide,"Lyon (69)
+Description du poste :
+Votre mission en tant que Développeur Back End chez SII !
+Intégré(e) à l’équipe de Développement de notre client, vous :
+Participez à la conception et à la réalisation des développements sur la base de spécifications fonctionnelles :
+Développez les applications du projet, en conformité avec les bonnes pratiques définies
+Chiffrez la charge estimée pour les tâches qui lui sont affectées et ré-estimer le reste à faire au fil des développements
+Testez unitairement les développements
+Relisez le code produit par les autres développeurs
+Participer à la correction des anomalies applicatives
+Participez aux réunions d’équipe
+Avez un regard critique sur le travail demandé (choix techniques et spécifications fonctionnelles) et proposez des améliorations en conséquence
+Remontez les alertes au chef de projet et/ou au pilote opérationnel au plus tôt
+Profil:
+Votre profil pour ce projet :
+Vous justifiez d’un Bac +5, université ou école d’ingénieur,
+Les technologies Java J2EE, Spring(Core, Batch) et Maven
+SQLsous Oracle
+La programmation orientée objet
+Les bonnes pratiques de programmation Java et SQL
+Des connaissances de Zk, MyBatis, Git et des méthodes agiles seraient un plus
+
+Alors n’hésitez plus, postulez !
+#Expertise – #Innovation – #Fun, voici le mix gagnant que nous vous proposons !
+Suivez nous sur les réseaux sociaux : Facebook – Linkedin
+ET Twitter :
+@sii_rhonealpes
+Le Groupe SII est au cœur de l’innovation au service de grands comptes dans des secteurs d’ingénierie variés. SII est fier de compter aujourd’hui 10 000 experts à travers 80 implantations dans le monde.
+Animés de cette même passion pour la technologie et l’innovation, les collaborateurs SII peuvent exercer leur métier dans un cadre bienveillant, de proximité avec une dose de fun. Ils intègrent le mouvement #fungenieur dans lequel la créativité et l’esprit d’équipe sont mis à l’honneur.
+Au palmarès Great place To Work 2019, le Groupe SII a également été labélisé Happy Candidate et Meilleur Employeur 2019 dans la catégorie High Tech par le magazine Capital. Il est signataire de la Charte de la diversité en entreprise. C’est une société handi-accueillante.
+Suivez-nous sur les réseaux sociaux : Facebook, Linkedin, Viadeo ou Twitter !
+Compétences :
+Java
+Spring
+Maven
+Oracle
+SQL
+
+
+#Li-NH1
+Référence de l’annonce :
+BE/0919
+Expérience:
+2-5 ans
+Qualification:
+Consultant
+Rémunération:
+selon profil
+
+POSTULER
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",16/09/2019,developer,Lyon,16/10/2019,vjk=61c06376de40db16,vide,vide
 Développeur Back-End (H/F),Oodrive,Lyon (69),vide,"Lyon (69)
 CDI
 CONTRAT :CDI
@@ -1716,34 +1858,6 @@ Bon niveau en anglais oral et écrit (B1 minimum).
 il y a 30+ jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",16/09/2019,developer,Lyon,16/10/2019,vjk=a7f5bc601892c4a9,vide,vide
-Développeur Full Stack - PHP,Adsearch,Villeurbanne (69),vide,"Villeurbanne (69)
-Adsearch IT recrute pour son client, une importante plateforme de e-commerce, un developpeur Web.
-Notre client référence et vend plus de 300 000 références sur son market place qui compte 5 millions de visiteurs / mois. Derrière, il y a des énormes plateformes de logistiques qui envoient ces références en 24 – 48h aux clients finaux
-L’enjeu de l’équipe technique, composée de 30 gentils développeurs, est de gérer la logistique derrière ce leader Européen.
-Vos missions :
-Côté Middle :
-Vous gérez les plateformes de Cross Docking
-Développez et maintenez en équipe un outil de monitoring et de gestion des nouveaux fournisseurs
-Sur la partie delivry :
-Travaillez sur l’interface du site d-e-commerce
-Développez des outils de gestion aidant à la préparation de commande et à la réception de marchandise pour les plateformes de logistiques.
-Environnement techniques :
-Actuellement développés en Full PHP, vous accompagnez les migrations vers PHP Zend ou Symfony 3 selon les applicatifs.
-PHP 5 /7
-Javascript / Jquery / AJAX
-HTML/ CSS /XML
-MySQL
-GIT
-MVC
-Linux
-Votre profil :
-Vous aimez travailler en équipe sur des problématiques complexes telles que l’e commerce et la logistique
-Vous avez une expérience professionnelle réussie en developpement PHP de 2 ans.
-Notre proposition
-Vous êtes passionné, rigoureux et autonome dans vos lignes de codes. Toujours à l’affut des derniers langages. Entrez dans l’équipe et exprimez tout votre potentiel en apportant vos idées et vos compétences.
-il y a 30+ jours
-- Continuer pour postuler
-Signaler cette offre d'emploi",16/09/2019,developer,Lyon,16/10/2019,vjk=47ef90f6a072c282,vide,vide
 Développeur Front End Angular Js,Sept Lieues,Lyon (69),35 000 € - 70 000 € par an,"Lyon (69)
 CDI
 35 000 € - 70 000 € par an
@@ -1763,32 +1877,6 @@ Vous êtes habilitable Confidentiel Défense.
 il y a 4 mois
 - Continuer pour postuler
 Signaler cette offre d'emploi",16/06/2019,developer,Lyon,16/10/2019,vjk=c6a639298f6a23e2,vide,cdi
-Développeur Back-End PHP H/F,effektiv,Lyon (69),35 000 € - 40 000 € par an,"Lyon (69)
-35 000 € - 40 000 € par an
-Client
-Notre client, une start-up venant de faire une levée de fond et ayant pour objectif de sécuriser tout type de réservation en un clic cherche à agrandir son équipe avec un nouveau Développeur Back-End PHP en CDI sur Lyon
-Poste
-Vous rejoindrez une future équipe de 3 développeurs avec pour mission de travailler sur 3 axes :
-– Le développement de leur plateforme principale avec notamment la migration du noyau en Laravel
-– Le développement et l’amélioration de leurs API
-– Le développement du Back-Office
-Vous aimerez :
-– Intégrer une équipe à taille humaine où la cohésion est le maître mot.
-– Les perspectives d’évolution et d’implication dans la société
-– La solidité de la start-up via l’incubateur
-– Un espace de travail partagé avec plusieurs start-ups favorisant les échanges et le partage de connaissance.
-– Le challenge technologique offert par cette start-up
-Profil
-Vous justifiez de 2 à 3 ans en développement Php avec au moins un Framework et l’envie de monter en compétence sur Laravel ainsi qu’une expérience Frontend en JavaScript
-Vous maitrisez également les API from scratch en REST
-Les plus qui comptent :
-La maîtrise de la méthodo Agile
-Avoir une sensibilité UX/UI
-De l’expérience sur des API monétique type Paypal/Stripe/Magepay
-Salaire : 35/40k euros + BPCE possible
-il y a 5 mois
-- Continuer pour postuler
-Signaler cette offre d'emploi",16/05/2019,developer,Lyon,16/10/2019,vjk=fd7fd35777ce00c0,vide,cdi
 Développeur back-end Symfony H/F,effektiv,Lyon (69),38 000 € - 40 000 € par an,"Lyon (69)
 38 000 € - 40 000 € par an
 Client
@@ -1816,6 +1904,32 @@ Salaire : 38/40K€ brut/an selon expérience + nombreux avantages
 il y a 5 mois
 - Continuer pour postuler
 Signaler cette offre d'emploi",16/05/2019,developer,Lyon,16/10/2019,vjk=53fb379a0dd0d700,vide,cdi
+Développeur Back-End PHP H/F,effektiv,Lyon (69),35 000 € - 40 000 € par an,"Lyon (69)
+35 000 € - 40 000 € par an
+Client
+Notre client, une start-up venant de faire une levée de fond et ayant pour objectif de sécuriser tout type de réservation en un clic cherche à agrandir son équipe avec un nouveau Développeur Back-End PHP en CDI sur Lyon
+Poste
+Vous rejoindrez une future équipe de 3 développeurs avec pour mission de travailler sur 3 axes :
+– Le développement de leur plateforme principale avec notamment la migration du noyau en Laravel
+– Le développement et l’amélioration de leurs API
+– Le développement du Back-Office
+Vous aimerez :
+– Intégrer une équipe à taille humaine où la cohésion est le maître mot.
+– Les perspectives d’évolution et d’implication dans la société
+– La solidité de la start-up via l’incubateur
+– Un espace de travail partagé avec plusieurs start-ups favorisant les échanges et le partage de connaissance.
+– Le challenge technologique offert par cette start-up
+Profil
+Vous justifiez de 2 à 3 ans en développement Php avec au moins un Framework et l’envie de monter en compétence sur Laravel ainsi qu’une expérience Frontend en JavaScript
+Vous maitrisez également les API from scratch en REST
+Les plus qui comptent :
+La maîtrise de la méthodo Agile
+Avoir une sensibilité UX/UI
+De l’expérience sur des API monétique type Paypal/Stripe/Magepay
+Salaire : 35/40k euros + BPCE possible
+il y a 5 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",16/05/2019,developer,Lyon,16/10/2019,vjk=fd7fd35777ce00c0,vide,cdi
 Développeur Full-stack H/F,Atos,Lyon (69),vide,"Lyon (69)
 Atos est l'un des leaders mondiaux de la transformation numérique avec 120 000 collaborateurs dans 73 pays et un chiffre d'affaires annuel de 13 milliards d'euros. N°1 européen et acteur mondial majeur du Cloud, de la Cybersécurité et du Calcul Haute Performance, Atos est le partenaire informatique mondial des Jeux Olympiques et accompagne des clients dans tous les secteurs d'activité. Pour plus d'informations, rendez-vous sur atos.net.
 Pour le compte d’un de nos clients nous recherchons des développeurs FullStack expérimentés pour le développement et le maintien en condition opérationnelle d’un produit.
@@ -1850,32 +1964,6 @@ Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi Atos 
 il y a 5 mois
 - Continuer pour postuler
 Signaler cette offre d'emploi",16/05/2019,developer,Lyon,16/10/2019,vjk=33313d173b036492,vide,vide
-Ingénieur Développeur Full Stack JAVA/JEE H/F,KIZ RECRUTEMENT,Lyon (69),vide,"Lyon (69)
-Au sein de l'équipe Recherche et Développement et sous la responsabilité du Product Manager, vous assurez un rôle de Développeur Full Stack (front et back) sur l'une des solutions de notre client.
-
-Intégré à une équipe de 15 personnes, vous évoluez dans un environnement agile utilisant des technologies innovantes.
-
-Vos principales missions sont les suivantes :
-Analyser les besoins et spécifications fonctionnelles des applications à réaliser et planifier la réalisation du projet.
-Participer à la réalisation des spécifications techniques et des cahiers de tests, conceptualiser et modéliser des données.
-Effectuer la réalisation technique et le développement des applications.
-Effectuer les programmations, intégration des services tiers et réaliser les tests unitaires.
-Assurer la pérennisation des applications par la maintenance corrective et évolutive et garantir la disponibilité, les performances et la sécurité des applications.
-
-De formation supérieure en informatique, vous disposez d'une première expérience en développement acquise chez un éditeur de logiciel ou au sein d'une ESN.
-
-Vous avez acquis de solides compétences en développement Java/J2EE et librairies associées (AngularJS, NodeJS, Spring Boot, Hibernate).
-
-Au-delà de vos compétences techniques, vous avez l'esprit d'équipe et faites preuve de dynamisme ainsi que de rigueur avec un sens aigu des responsabilités.
-
-Vous disposez d'excellentes capacités de communication à l'oral comme à l'écrit.
-
-Enfin, vous êtes à l'aise avec l'anglais tant à l'oral qu'à l'écrit.
-
-Kiz Recrutement recherche pour son client, éditeur de logiciel de gestion de contenu et de gouvernance de l'information, un Développeur Java Full Stack H/F.
-il y a 6 mois
-- Continuer pour postuler
-Signaler cette offre d'emploi",16/04/2019,developer,Lyon,16/10/2019,vjk=3f2b72cfd0ec28e9,vide,vide
 Développeur Front-end React.js,Silkhom,Villeurbanne (69),vide,"Villeurbanne (69)
 CDI
 Au sein d'une équipe de 7 personnes par projet, dans un environnement ultra-agile, vous intervenez sur le développement d'interfaces / écrans (gestion des utilisateurs, gestion clients, tunnel d'achat..etc.)
@@ -1905,6 +1993,32 @@ Salaire : Selon profil
 il y a 6 mois
 - Continuer pour postuler
 Signaler cette offre d'emploi",16/04/2019,developer,Lyon,16/10/2019,vjk=73483f5d104db437,vide,cdi
+Ingénieur Développeur Full Stack JAVA/JEE H/F,KIZ RECRUTEMENT,Lyon (69),vide,"Lyon (69)
+Au sein de l'équipe Recherche et Développement et sous la responsabilité du Product Manager, vous assurez un rôle de Développeur Full Stack (front et back) sur l'une des solutions de notre client.
+
+Intégré à une équipe de 15 personnes, vous évoluez dans un environnement agile utilisant des technologies innovantes.
+
+Vos principales missions sont les suivantes :
+Analyser les besoins et spécifications fonctionnelles des applications à réaliser et planifier la réalisation du projet.
+Participer à la réalisation des spécifications techniques et des cahiers de tests, conceptualiser et modéliser des données.
+Effectuer la réalisation technique et le développement des applications.
+Effectuer les programmations, intégration des services tiers et réaliser les tests unitaires.
+Assurer la pérennisation des applications par la maintenance corrective et évolutive et garantir la disponibilité, les performances et la sécurité des applications.
+
+De formation supérieure en informatique, vous disposez d'une première expérience en développement acquise chez un éditeur de logiciel ou au sein d'une ESN.
+
+Vous avez acquis de solides compétences en développement Java/J2EE et librairies associées (AngularJS, NodeJS, Spring Boot, Hibernate).
+
+Au-delà de vos compétences techniques, vous avez l'esprit d'équipe et faites preuve de dynamisme ainsi que de rigueur avec un sens aigu des responsabilités.
+
+Vous disposez d'excellentes capacités de communication à l'oral comme à l'écrit.
+
+Enfin, vous êtes à l'aise avec l'anglais tant à l'oral qu'à l'écrit.
+
+Kiz Recrutement recherche pour son client, éditeur de logiciel de gestion de contenu et de gouvernance de l'information, un Développeur Java Full Stack H/F.
+il y a 6 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",16/04/2019,developer,Lyon,16/10/2019,vjk=3f2b72cfd0ec28e9,vide,vide
 "Développeur ""Full stack"" Node / React",Iteatime,Lyon (69),vide,"Lyon (69)
 Freelance / Indépendant
 Iteatime est une jeune société de services qui intervient dans les domaines du web et des ERP. Notre objectif : recruter des jeunes à fort potentiel pour en faire des experts dans leur domaine.
@@ -2094,9 +2208,9 @@ PROFIL RECHERCHE
 De formation supérieure en informatique, vous vous décrivez comme quelqu’un de curieux, rigoureux et passionné.
 Vous maîtrisez certains des langages de développement suivants : Angular, Javascript, .NET, .NET Core.
 Le poste est basé dans nos bureaux de Lyon. Si vous avez envie de rejoindre notre équipe de passionnés, envoyez sans tarder votre CV à l’adresse : recrutement@addactis.com
-il y a 9 mois
+il y a 10 mois
 - Continuer pour postuler
-Signaler cette offre d'emploi",16/01/2019,developer,Lyon,16/10/2019,vjk=f73bd7ccd34393e3,vide,cdi
+Signaler cette offre d'emploi",16/12/2018,developer,Lyon,16/10/2019,vjk=f73bd7ccd34393e3,vide,cdi
 DÉVELOPPEUR FRONT END H/F,SQLI France,Lyon (69),vide,"Lyon (69)
 CDI
 Mais en fait, SQLI, c’est quoi ?

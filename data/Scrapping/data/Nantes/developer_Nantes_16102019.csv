@@ -1,32 +1,4 @@
 Titre,Nom_Entreprise,Adresse,Salaire,Descriptif_du_poste,Date_de_publication,métier_sc,loc_sc,Date_sc,Identifiant,Experiences,contrat
-Développeur full stack PHP JS F/H,iRaiser,Nantes (44),35 000 € - 45 000 € par an,"Nantes (44)
-Temps plein, CDI
-35 000 € - 45 000 € par an
-L'entreprise:
-Groupe européen basée à Nantes, nous proposons une suite logicielle en mode SaaS aux organisations à but non lucratif (ONG, écoles, fondations, ...). Nous sommes aujourd'hui leader européen et travaillons avec près de 600 organisations en Europe (dont Les Restos du Coeur, Médecins sans Frontières, SPA, UNICEF, WWF, ...).
-Nos applications leur permettent de collecter des dons, réaliser des pétitions, créer des pages de crowdfunding, gérer les donateurs … Elles ont permis de collecter plus de 800 000 000 €.
-Le Poste:
-Nous recrutons un Développeur Full Stack PHP JS pour intégrer l'équipe en charge de l'appli de paiement.
-Cela implique:
-- Conception et spécification : vous maîtriserez le fonctionnel pour être force de proposition
-- Développement
-- Organisation de la recette, documentation
-- Gestion de projet (travail fortement collaboratif).
-Profil recherché:
-Diplômé·e d'une école en informatique ou riche d'une expérience équivalente, vous apprenez vite, vous êtes très organisé·e et rigoureux·se.
-- Compétences en développement:
-PHP 7, Javascript, MySQL/PostgreSQL, Git, Linux, POO ...
-- Connaissances appréciées:
-nginx, Odoo, SI, Python, clients et serveurs APi, terminaux de paiement en ligne (Ingenico, Paypal,...)
-Vous êtes leader, débrouillard·e : quel que soit le problème, vous ne restez jamais bloqué·e et trouvez toujours une solution.
-Vous aimez découvrir et apprendre afin de pouvoir faire face à de nouvelles situations.
-Vous possédez de réelles qualités relationnelles, votre esprit d’analyse et votre réactivité vous permettent de coordonner votre travail avec vos interlocuteurs internes et externes, qu'ils soient techniques ou non.
-Type d'emploi : Temps plein, CDI
-Salaire : 35 000,00€ à 45 000,00€ /an
-Expérience:
-développeur full stack php js f/h ou similaire: 2 ans (Souhaité)
-il y a 22 heures
-Signaler cette offre d'emploi",Aujourd'hui,developer,Nantes,16/10/2019,vjk=487bc15290fc8865,vide,cdi
 Développeur front-end et moteur graphique Web F/H,MyScript,Nantes (44),vide,"Nantes (44)
 CDI
 Notre équipe Cloud est en charge du prototypage, du développement et de l’exploitation en production (AWS) de l’ensemble des couches logicielles permettant la reconnaissance d’écriture depuis le navigateur et la mise à disposition riche des pages de notes synchronisées depuis les applications natives de MyScript https://nebo.app
@@ -87,9 +59,32 @@ A ce jour, la technologie MyScript est déjà dans les mains de plus de
 .
 
 Notre ambition d'équipe? Travailler ensemble dans un esprit ""One team"", démontrer toujours davantage notre engagement envers nos utilisateurs, poursuivre l'innovation et résoudre l'impossible, et bien-sûr perpétuer la haute qualité de nos solutions.
-Apec.fr - il y a 18 heures
+Apec.fr - il y a 23 heures
 - Continuer pour postuler
 Signaler cette offre d'emploi",Aujourd'hui,developer,Nantes,16/10/2019,vjk=a35a155a5ffae977,vide,cdi
+Développeur Full Stack PHP JS F/H,I-RAISER GROUP,Saint-Sébastien-sur-Loire (44),vide,"Saint-Sébastien-sur-Loire (44)
+CDI
+Nous recrutons un·e développeur Full Stack PHP JS
+
+Vous intégrerez l'équipe en charge de l'appli paiement afin de travailler sur ces différentes missions :
+
+Conception et spécification : vous maîtriserez le fonctionnel pour être force de proposition
+Développement
+Organisation de la recette, documentation
+Gestion de projet (travail fortement collaboratif).
+Profil recherché Diplômé·e d'une école en informatique ou riche d'une expérience équivalente, vous apprenez vite, vous êtes très organisé·e et rigoureux·se.Vous êtes leader, débrouillard·e : quel que soit le problème, vous ne restez jamais bloqué·e et trouvez toujours une solution. Vous aimez découvrir et apprendre afin de pouvoir faire face à de nouvelles situations.
+
+Compétences en développement : PHP 7, Javascript, MySQL/PostgreSQL, Git, Linux, POO
+Connaissances appréciées : nginx, Odoo, SI, Python, clients et serveurs APi, terminaux de paiement en ligne (Ingenico, Paypal,...)
+Vous possédez de réelles qualités relationnelles, votre esprit d’analyse et votre réactivité vous permettent de coordonner votre travail avec vos interlocuteurs internes et externes, qu'ils soient techniques ou non.
+Entreprise Editeur logiciel basé à Nantes, iRaiser édite une suite en mode SaaS (CRM, CMS, ETL…) pour les organisations à but non lucratif (ONG, écoles, fondations...).
+
+Nous sommes présents en France, Belgique, Pays-Bas, Italie, Allemagne, Suisse et Grande-Bretagne et travaillons avec près de 800 organisations en Europe (dont Les Restos du Coeur, Médecins sans Frontières, SPA, UNICEF, WWF...).
+
+Nos applications leur permettent de collecter des dons, réaliser des pétitions, créer des pages de crowdfunding... et ont permis de collecter plus de 800 000 000 € !
+Apec.fr - il y a 23 heures
+- Continuer pour postuler
+Signaler cette offre d'emploi",Aujourd'hui,developer,Nantes,16/10/2019,vjk=7018e43e32548f10,vide,cdi
 Développeur front-end WPF (H/F),Younup,Nantes (44),vide,"Nantes (44)
 CDI
 Ici, on n’est pas expert en babyfoot, on est expert en IT!
@@ -111,9 +106,9 @@ Nous recherchons une personne ayant au minimum 2 ans d’expérience, diplômée
 Tu souhaites participer à des projets où tu peux être force de proposition et partager tes connaissances et compétences avec les plus juniors de l'équipe.
 Nous ciblons des personnes motivées, curieuses et passionnées qui ont envie de se lancer dans une nouvelle aventure... Et oui il y a plein de choses à co-construire et à façonner chez Younup !
 Alors si tu te reconnais dans cette annonce, postule et tu rejoindras peut-être bientôt l'équipe
-il y a 23 heures
+il y a 1 jour
 - Continuer pour postuler
-Signaler cette offre d'emploi",Aujourd'hui,developer,Nantes,16/10/2019,vjk=4efa2838da42ba40,vide,cdi
+Signaler cette offre d'emploi",15/10/2019,developer,Nantes,16/10/2019,vjk=4efa2838da42ba40,vide,cdi
 Développeur back-end Java (H/F),Younup,Nantes (44),vide,"Nantes (44)
 CDI
 Ici, on n’est pas expert en babyfoot, on est expert en IT!
@@ -139,32 +134,56 @@ Nous recherchons une personne ayant au minimum 2 ans d’expérience, diplômée
 Tu souhaites participer à des projets DevOps (Docker, Kubernetes) et Cloud (AWS, Azure) et tu te sens capable de contribuer au choix des solutions techniques.
 Nous ciblons des personnes motivées, curieuses et passionnées qui ont envie de se lancer dans une nouvelle aventure... Et oui il y a plein de choses à co-construire et à façonner chez Younup !
 Alors si tu te reconnais dans cette annonce, postule et tu rejoindras peut-être bientôt l'équipe
-il y a 23 heures
+il y a 1 jour
 - Continuer pour postuler
-Signaler cette offre d'emploi",Aujourd'hui,developer,Nantes,16/10/2019,vjk=4b07af2fcc3ba52d,vide,cdi
-Développeur Full Stack PHP JS F/H,I-RAISER GROUP,Saint-Sébastien-sur-Loire (44),vide,"Saint-Sébastien-sur-Loire (44)
-CDI
-Nous recrutons un·e développeur Full Stack PHP JS
-
-Vous intégrerez l'équipe en charge de l'appli paiement afin de travailler sur ces différentes missions :
-
-Conception et spécification : vous maîtriserez le fonctionnel pour être force de proposition
-Développement
-Organisation de la recette, documentation
-Gestion de projet (travail fortement collaboratif).
-Profil recherché Diplômé·e d'une école en informatique ou riche d'une expérience équivalente, vous apprenez vite, vous êtes très organisé·e et rigoureux·se.Vous êtes leader, débrouillard·e : quel que soit le problème, vous ne restez jamais bloqué·e et trouvez toujours une solution. Vous aimez découvrir et apprendre afin de pouvoir faire face à de nouvelles situations.
-
-Compétences en développement : PHP 7, Javascript, MySQL/PostgreSQL, Git, Linux, POO
-Connaissances appréciées : nginx, Odoo, SI, Python, clients et serveurs APi, terminaux de paiement en ligne (Ingenico, Paypal,...)
-Vous possédez de réelles qualités relationnelles, votre esprit d’analyse et votre réactivité vous permettent de coordonner votre travail avec vos interlocuteurs internes et externes, qu'ils soient techniques ou non.
-Entreprise Editeur logiciel basé à Nantes, iRaiser édite une suite en mode SaaS (CRM, CMS, ETL…) pour les organisations à but non lucratif (ONG, écoles, fondations...).
-
-Nous sommes présents en France, Belgique, Pays-Bas, Italie, Allemagne, Suisse et Grande-Bretagne et travaillons avec près de 800 organisations en Europe (dont Les Restos du Coeur, Médecins sans Frontières, SPA, UNICEF, WWF...).
-
-Nos applications leur permettent de collecter des dons, réaliser des pétitions, créer des pages de crowdfunding... et ont permis de collecter plus de 800 000 000 € !
-Apec.fr - il y a 18 heures
-- Continuer pour postuler
-Signaler cette offre d'emploi",Aujourd'hui,developer,Nantes,16/10/2019,vjk=7018e43e32548f10,vide,cdi
+Signaler cette offre d'emploi",15/10/2019,developer,Nantes,16/10/2019,vjk=4b07af2fcc3ba52d,vide,cdi
+Développeur Full Stack Python et DevOps,e-COSI,Saint-Herblain (44),28 000 € - 39 000 € par an,"Saint-Herblain (44)
+Temps plein, CDI
+28 000 € - 39 000 € par an
+Pourquoi venir chez e-COSI ?
+Jeune entreprise à taille humaine (9 salariés), e-COSI est une société d'ingénierie spécialisée dans la gestion du système d’information et la transformation numérique des TPE & PME - PMI des secteurs de l'Industrie et des Services.
+Notre équipe, pluridisciplinaire, a pour ambition de rendre accessible l'innovation aux PME, en les accompagnant de bout en bout dans leurs projets numériques.
+Animés par des valeurs partagées de valorisation du travail et de primauté du projet d'entreprise, les associés d’e-COSI ont fait le choix de se créer en SCOP (Société COopérative et Participative) pour pérenniser un métier où tout repose sur l’humain, en proposant à leurs collaborateurs un cadre favorisant le développement personnel, l’esprit d’entreprendre et la créativité.
+Les valeurs d’e-COSI reposent sur le partage des savoir-faire, la polyvalence et le plaisir au travail.
+Le poste
+Intégré à notre équipe de développement, vous participez à la création de nos offres pour les PME, basées sur des technologies légères et actuelles (Python, JavaScript, Vue.JS, HTML5/CSS3, API Restful, Docker, Ansible, Vagrant, GIT…).
+Nous travaillons dans une approche agile, feature team qui vous permettra de mettre en œuvre tous vos savoir-faire, de la conception au déploiement.
+Les projets de nos clients, PME de l'Industrie ou du Service, impliquent pragmatisme et relation de proximité.
+Les missions confiées
+Les 4 métiers d’e-COSI consistent à effectuer des missions :
+de conseil aux PME-PMI,
+d’intégration autour de notre progiciel partenaire Odoo,
+de R&D autour du logiciel eZI-SCOP que nous développons en tant qu’éditeur,
+en assistance technique chez nos clients.
+Vous serez amenés à intervenir sur l’un des 3 derniers métiers cités ci-dessus.
+Plus précisément, vos missions consisteront à :
+Concevoir, développer et déployer les solutions numériques (software et hardware) dans des environnements OpenSource,
+Comprendre les besoins « métier » et être acteur des projets menés en mode agile,
+Être force de proposition pour améliorer et fiabiliser les processus et les outils de développement,
+S'engager sur la qualité et l'efficacité des solutions,
+Participer à la veille technologique,
+Transmettre son savoir-faire
+Les compétences requises
+Passionné, curieux, votre principal moteur est la soif d’apprendre, de découvrir et de partager : Toujours à l’affût des nouveautés, vous aimez échanger. Vous partagez notre vision que le développement tient plus de l’artisanat que de l’industrie !
+Vous savez être créatif devant les difficultés tout en gardant de la hauteur et du pragmatisme. Adepte du principe KISS et des méthodes agiles, prêt à développer le Coder 2.0 avec nous, au cœur de la transformation numérique, vous êtes un acteur éthique et engagé.
+Compétences techniques souhaitées :
+Python 2 & 3: Flask, SQLAlchemy, Django, Peewee
+PHP 5 & 7 : Symphony, Laravel, Zend
+BDD : Posgresql 9+, MySQL/MariaDB, Redis, Memcache, SQL/noSQL
+Web : js, React, Angular, Bootstrap, HTML5, jQuery, CSS3
+Mobile : Android (React Native, Ionic, HoneGap), iOS
+VCS : GIT, SVN
+CI/CD : Gitlab, Jenkins
+API/REST : Swagger, Postman
+OPS : Ansible, Chief, Puppet, Bash/Shell, ssh
+Env : Docker (compose, swarm, kubernetes), Vagrant
+Model : UML, BPMN
+Type d'emploi : Temps plein, CDI
+Salaire : 28 000,00€ à 39 000,00€ /an
+Expérience:
+développeur full stack python et devops ou similaire: 1 an (Souhaité)
+il y a 1 jour
+Signaler cette offre d'emploi",15/10/2019,developer,Nantes,16/10/2019,vjk=74d888813232d138,vide,cdi
 Développeur Front-End H/F,Webnet,Nantes (44),vide,"Nantes (44)
 CDI
 En liaison avec les équipes back-end et les graphistes, vous démontrez une large autonomie et une bonne capacité à travailler en équipe, afin de participer au développement des projets web et mobile de nos clients.
@@ -203,8 +222,8 @@ Grâce à notre expertise, nos clients Grands Comptes et PME nous font confiance
 Type d'emploi : CDI
 Expérience:
 développeur front-end h/f ou similaire: 1 an (Souhaité)
-il y a 1 jour
-Signaler cette offre d'emploi",15/10/2019,developer,Nantes,16/10/2019,vjk=415e8292b15082a0,vide,cdi
+il y a 2 jours
+Signaler cette offre d'emploi",14/10/2019,developer,Nantes,16/10/2019,vjk=415e8292b15082a0,vide,cdi
 Développeur back-end Python / Django - H/F,Seyos,Nantes (44),32 000 € - 35 000 € par an,"Nantes (44)
 Temps plein, CDI
 32 000 € - 35 000 € par an
@@ -226,9 +245,9 @@ Profil :
 Vous souhaitez rejoindre un éditeur et vous appréciez le secteur du E-commerce,
 Vous avez des compétences en Python et connaissez le framework Django ainsi que les protocoles API,
 Vous aimez apprendre, êtes curieux et force de proposition.
-il y a 4 jours
+il y a 5 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",12/10/2019,developer,Nantes,16/10/2019,vjk=dde4000d6787d5dd,vide,cdi
+Signaler cette offre d'emploi",11/10/2019,developer,Nantes,16/10/2019,vjk=dde4000d6787d5dd,vide,cdi
 Concepteur développeur Full Stack Javascript sur Nantes,Acensi,Nantes (44),vide,"Nantes (44)
 Votre mission se déroulera au sein d’une équipe agile en charge de la conception et la réalisation de 2 nouvelles applications, en étroite collaboration avec toutes les équipes techniques du département.
 
@@ -240,9 +259,9 @@ Apporter un support fonctionnel aux utilisateurs.
 Etre force de propositions quant aux évolutions des outils.
 Environnement technique : Logs applicatifs, React, Javascript, Git, Docker, Bash, NodeJS
 Séniorité attendue : Confirmé
-carriere-info - il y a 4 jours
+carriere-info - il y a 5 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",12/10/2019,developer,Nantes,16/10/2019,vjk=1da7780c2beb25b2,vide,vide
+Signaler cette offre d'emploi",11/10/2019,developer,Nantes,16/10/2019,vjk=1da7780c2beb25b2,vide,vide
 Développeur front end React Redux H/F,EXTERNATIC,Nantes (44),vide,"Nantes (44)
 CDI
 DESCRIPTION DE L'OFFRE
@@ -306,31 +325,65 @@ Langue:
 Anglais (Souhaité)
 il y a 4 jours
 Signaler cette offre d'emploi",12/10/2019,developer,Nantes,16/10/2019,vjk=83d62119507fc63e&advn=6482965920156622,vide,cdi
-Développeur full stack,Monsieur Sloop,Nantes (44),35 000 € - 45 000 € par an,"Nantes (44)
-CDI
+Développeur full stack PHP JS F/H,iRaiser,Nantes (44),35 000 € - 45 000 € par an,"Nantes (44)
+Temps plein, CDI
 35 000 € - 45 000 € par an
-Monsieur SLOOP est une agence digitale créée en septembre 2013.
-Nous avons aujourd'hui des bureaux à Paris et à Nantes
-Nos clients sont fidèles : Macif, Barreau de Paris, CFE-CGC, Amundi, IRP AUTO, Société Générale, groupe BNP, Wavestone...
-Dans le cadre de notre développement, nous recherchons un développeur full stack (avec un goût très prononcé pour Symfony) dans nos bureaux nantais !
-Missions :
-Réalisation de sites et application web sous Symfony principalement et développement d’applications mobiles (Ionic, Flutter);
-Gestions de flux CI/CD ( DevOps, Docker Kubernetes ...);
-Suivi des projet et des éventuels prestataires travaillant sur le projet avec le Directeur Technique;
-Relation client et appels d’offres pour des problématiques techniques;
-Mise en place d’outils d’ingénierie logicielle;
-Rédaction de documentions techniques.
-Nous recherchons :
-Un(e) passionné(e) avec de l’expérience, avec la volonté de pousser l’équipe de développement vers le haut;
-Volonté d’apprendre, de partager et de découvrir de nouvelles pratiques;
-Méticuleux(se), curieux(se), dynamique, autonome, organisé(e);
-Doté(e) d’un solide sens de l’humour;
-Type d'emploi : CDI
+L'entreprise:
+Groupe européen basée à Nantes, nous proposons une suite logicielle en mode SaaS aux organisations à but non lucratif (ONG, écoles, fondations, ...). Nous sommes aujourd'hui leader européen et travaillons avec près de 600 organisations en Europe (dont Les Restos du Coeur, Médecins sans Frontières, SPA, UNICEF, WWF, ...).
+Nos applications leur permettent de collecter des dons, réaliser des pétitions, créer des pages de crowdfunding, gérer les donateurs … Elles ont permis de collecter plus de 800 000 000 €.
+Le Poste:
+Nous recrutons un Développeur Full Stack PHP JS pour intégrer l'équipe en charge de l'appli de paiement.
+Cela implique:
+- Conception et spécification : vous maîtriserez le fonctionnel pour être force de proposition
+- Développement
+- Organisation de la recette, documentation
+- Gestion de projet (travail fortement collaboratif).
+Profil recherché:
+Diplômé·e d'une école en informatique ou riche d'une expérience équivalente, vous apprenez vite, vous êtes très organisé·e et rigoureux·se.
+- Compétences en développement:
+PHP 7, Javascript, MySQL/PostgreSQL, Git, Linux, POO ...
+- Connaissances appréciées:
+nginx, Odoo, SI, Python, clients et serveurs APi, terminaux de paiement en ligne (Ingenico, Paypal,...)
+Vous êtes leader, débrouillard·e : quel que soit le problème, vous ne restez jamais bloqué·e et trouvez toujours une solution.
+Vous aimez découvrir et apprendre afin de pouvoir faire face à de nouvelles situations.
+Vous possédez de réelles qualités relationnelles, votre esprit d’analyse et votre réactivité vous permettent de coordonner votre travail avec vos interlocuteurs internes et externes, qu'ils soient techniques ou non.
+Type d'emploi : Temps plein, CDI
 Salaire : 35 000,00€ à 45 000,00€ /an
 Expérience:
-développeur full stack ou similaire: 2 ans (Requis)
-il y a 30+ jours
-Signaler cette offre d'emploi",16/09/2019,developer,Nantes,16/10/2019,vjk=e9d51a2e4142c4ef&advn=2518481330138940,vide,cdi
+développeur full stack php js f/h ou similaire: 2 ans (Souhaité)
+il y a 1 jour
+Signaler cette offre d'emploi",15/10/2019,developer,Nantes,16/10/2019,vjk=487bc15290fc8865&advn=3118456522575675,vide,cdi
+Centre-ville / Client final / Développeur Full-Stack Java /...,Delia Technologies,Nantes (44),37 000 € - 40 000 € par an,"Nantes (44)
+CDI
+37 000 € - 40 000 € par an
+Delia Technologies #LaDevOpsFamily
+Delia Technologies recherche pour l'un de ses clients situé en plein centre de Nantes un développeur Full-Stack Java / JavaScript.
+Vous intégrerez le pole Digital Plateform en charge du développement des applications Web du groupe.
+Localisation : Nantes-Centre
+Rémunération : 37 000 à 40 000 €
+Stack technique : Java, Spring, Javascript, Vue.js, Angular, PostgreSQL, Elasticsearch, Microservices.
+Proposer des solutions pour répondre aux problèmes métiers
+Développer, optimiser et maintenir les applications dans le respect des bonnes pratiques : méthodologie Agile, tests unitaires, code review....
+Participer à la mise en place et à la réalisation des tests fonctionnels
+Assurer la relation avec le service formation
+Participer à la veille technologique
+Profil recherché :
+Soft-skills :
+Forte appétence pour les nouvelles techno et la veille
+Travail en mode projet au sein de petites équipes
+Très bon relationnel
+S'avoir s'intégrer dans un environnement réactif
+Hard-skills :
+Ingénieur informatique ou équivalent (bac +4/5)
+4 ans d'expérience en développement Java et 2 ans en JavaScript
+Expérience significative sur les framework VueJS et/ou Angular
+Maîtrise des environnements Eclipse ou IntelliJ
+Type d'emploi : CDI
+Salaire : 37 000,00€ à 40 000,00€ /an
+Expérience:
+développeur full-stack java / js ou similaire: 3 ans (Requis)
+il y a 12 jours
+Signaler cette offre d'emploi",04/10/2019,developer,Nantes,16/10/2019,vjk=edab0aa260675678,vide,cdi
 Développeur Full Stack Python et DevOps,e-COSI,Saint-Herblain (44),28 000 € - 39 000 € par an,"Saint-Herblain (44)
 Temps plein, CDI
 28 000 € - 39 000 € par an
@@ -377,7 +430,32 @@ Salaire : 28 000,00€ à 39 000,00€ /an
 Expérience:
 développeur full stack python et devops ou similaire: 1 an (Souhaité)
 il y a 1 jour
-Signaler cette offre d'emploi",15/10/2019,developer,Nantes,16/10/2019,vjk=74d888813232d138&advn=806364921087563,vide,cdi
+Signaler cette offre d'emploi",15/10/2019,developer,Nantes,16/10/2019,vjk=74d888813232d138,vide,cdi
+Développeur full stack,Monsieur Sloop,Nantes (44),35 000 € - 45 000 € par an,"Nantes (44)
+CDI
+35 000 € - 45 000 € par an
+Monsieur SLOOP est une agence digitale créée en septembre 2013.
+Nous avons aujourd'hui des bureaux à Paris et à Nantes
+Nos clients sont fidèles : Macif, Barreau de Paris, CFE-CGC, Amundi, IRP AUTO, Société Générale, groupe BNP, Wavestone...
+Dans le cadre de notre développement, nous recherchons un développeur full stack (avec un goût très prononcé pour Symfony) dans nos bureaux nantais !
+Missions :
+Réalisation de sites et application web sous Symfony principalement et développement d’applications mobiles (Ionic, Flutter);
+Gestions de flux CI/CD ( DevOps, Docker Kubernetes ...);
+Suivi des projet et des éventuels prestataires travaillant sur le projet avec le Directeur Technique;
+Relation client et appels d’offres pour des problématiques techniques;
+Mise en place d’outils d’ingénierie logicielle;
+Rédaction de documentions techniques.
+Nous recherchons :
+Un(e) passionné(e) avec de l’expérience, avec la volonté de pousser l’équipe de développement vers le haut;
+Volonté d’apprendre, de partager et de découvrir de nouvelles pratiques;
+Méticuleux(se), curieux(se), dynamique, autonome, organisé(e);
+Doté(e) d’un solide sens de l’humour;
+Type d'emploi : CDI
+Salaire : 35 000,00€ à 45 000,00€ /an
+Expérience:
+développeur full stack ou similaire: 2 ans (Requis)
+il y a 30+ jours
+Signaler cette offre d'emploi",16/09/2019,developer,Nantes,16/10/2019,vjk=e9d51a2e4142c4ef,vide,cdi
 Développeur Full Stack H/F - Backend,KORALPLAY,Nantes (44),30 000 € - 37 500 € par an,"Nantes (44)
 CDI
 30 000 € - 37 500 € par an
@@ -412,37 +490,7 @@ développeur full stack h/f - backend ou similaire: 2 ans (Requis)
 Langue:
 anglais (Requis)
 il y a 29 jours
-Signaler cette offre d'emploi",17/09/2019,developer,Nantes,16/10/2019,vjk=d9e429fdb387d267&advn=3018807881560526,vide,cdi
-Centre-ville / Client final / Développeur Full-Stack Java /...,Delia Technologies,Nantes (44),37 000 € - 40 000 € par an,"Nantes (44)
-CDI
-37 000 € - 40 000 € par an
-Delia Technologies #LaDevOpsFamily
-Delia Technologies recherche pour l'un de ses clients situé en plein centre de Nantes un développeur Full-Stack Java / JavaScript.
-Vous intégrerez le pole Digital Plateform en charge du développement des applications Web du groupe.
-Localisation : Nantes-Centre
-Rémunération : 37 000 à 40 000 €
-Stack technique : Java, Spring, Javascript, Vue.js, Angular, PostgreSQL, Elasticsearch, Microservices.
-Développer, optimiser et maintenir les applications dans le respect des bonnes pratiques : méthodologie Agile, tests unitaires, code review....
-Participer à la mise en place et à la réalisation des tests fonctionnels
-Assurer la relation avec le service formation
-Participer à la veille technologique
-Profil recherché :
-Soft-skills :
-Forte appétence pour les nouvelles techno et la veille
-Travail en mode projet au sein de petites équipes
-Très bon relationnel
-S'avoir s'intégrer dans un environnement réactif
-Hard-skills :
-Ingénieur informatique ou équivalent (bac +4/5)
-4 ans d'expérience en développement Java et 2 ans en JavaScript
-Expérience significative sur les framework VueJS et/ou Angular
-Maîtrise des environnements Eclipse ou IntelliJ
-Type d'emploi : CDI
-Salaire : 37 000,00€ à 40 000,00€ /an
-Expérience:
-développeur full-stack java / js ou similaire: 3 ans (Requis)
-il y a 11 jours
-Signaler cette offre d'emploi",05/10/2019,developer,Nantes,16/10/2019,vjk=edab0aa260675678,vide,cdi
+Signaler cette offre d'emploi",17/09/2019,developer,Nantes,16/10/2019,vjk=d9e429fdb387d267,vide,cdi
 Développeur Full-Stack Java / ReactJS,Delia Technologies,Nantes (44),35 000 € - 43 000 € par an,"Nantes (44)
 Freelance / Indépendant, CDI
 35 000 € - 43 000 € par an
@@ -450,6 +498,7 @@ Delia Technologies #LaDevOpsFamily
 Delia, c’est la jeune ESN nantaise basée à La Cantine qui souhaite casser les codes du service IT. Loin de prétendre pouvoir construire seuls cette jeune structure, nous sommes partis d'une page blanche pour construire jour après jour un modèle collaboratif et engagé.
 Exit le babyfoot et la borne d’arcade, c’est par nos valeurs et le sens de nos actions que nous cultivons l’esprit Delia et ce sentiment d’appartenance qui nous est cher.
 Engagements Clients, Collaborateurs, Communauté nantaise, voilà nos crédos !
+Vous n’êtes pas certain que Delia soit faite pour vous ? Venez prendre un verre et échanger avec l'ensemble de l'équipe.
 .
 Nous ne recherchons pas un profil mais une personne...
 Vous êtes avant tout un ingénieur passionné mêlant savoir-faire et savoir-être. Vous venez du monde de la technique et avez développé de réelles compétences sur les nouvelles technologies.
@@ -482,6 +531,7 @@ Delia, c’est la jeune ESN nantaise basée à La Cantine qui souhaite casser le
 Exit le babyfoot et la borne d’arcade, c’est par nos valeurs et le sens de nos actions que nous cultivons l’esprit Delia et ce sentiment d’appartenance qui nous est cher.
 Engagements Clients, Collaborateurs, Communauté nantaise, voilà nos crédos !
 Vous n’êtes pas certain que Delia soit faite pour vous ? Venez prendre un verre et échanger avec l'ensemble de l'équipe.
+.
 Nous ne recherchons pas un profil mais une personne...
 Vous êtes avant tout un ingénieur passionné mêlant savoir-faire et savoir-être. Vous venez du monde de la technique et avez développé de réelles compétences sur les nouvelles technologies.
 Votre expertise vous apporte bien plus qu’un job, vous aimez la partager et l’enrichir !
@@ -505,71 +555,6 @@ Expérience:
 développeur full-stack Java / Angular ou similaire: 2 ans (Requis)
 il y a 18 jours
 Signaler cette offre d'emploi",28/09/2019,developer,Nantes,16/10/2019,vjk=7d4b1c288f7c0771,vide,cdi
-Développeur full stack Java - H/F,Aubay Grand-Ouest,Nantes (44),38 000 € par an,"Nantes (44)
-CDI
-38 000 € par an
-Jquery / Angularjs / Java / Spring / Hibernate
-Frontend Developer, Développeur Frontend, Backend Developer, Full Stack Developer / CDI / Environ 38k€ / 3 - 6 ans / Nantes
-
-Le poste
-En choisissant Aubay, vous aurez le privilège d'intégrer la digital factory de notre client nantais (domaine transport) situé en centre-ville pour une mission de longue durée. Au sein de la feature team, vous évoluerez aux côtés de développeurs, un Tech Lead, un Scrum Master et un Proxy PO afin de contribuer au delivery des applicatifs web en environnement agile. Pauline, votre ingénieur d'affaires chez Aubay, a tissé un fort partenariat avec ce client et saura vous accompagner pour une montée en compétence optimale et un épanouissement sur cette mission.
-Les responsabilités
-Conception, rédaction de spécifications techniques, participation aux études de chiffrage, en lien avec les experts de l'équipe
-Réalisation des développements sur les environnements techniques suivants : Java JEE, Spring, Hibernate, JPA, Javascript, Jquery, HTML5, CSS3, NodeJS, AngularJS, Webservices
-Exécution et automatisation des tests sous Selenium, Cucumber et/ou Protractor
-Analyse des rapports d’intégration continue dans une démarche DevOps
-Pourquoi venir chez nous?
-Vous apprécierez notre management de proximité et la taille humaine de notre agence où nos Consultants Aubay seront à votre écoute pour tout retour d’expérience. Nous souhaitons vous accompagner dans votre évolution de carrière avec des formations et des certifications. Des accompagnements personnalisés sont également possibles, par exemple avec les coachs agiles de notre cellule interne Enfin, votre bien-être reste notre priorité : vous bénéficierez de l’intervention de notre masseuse 2 fois par mois, des soirées d’agence ou encore de Serious Game pour apprendre et travailler en s’amusant.
-ChooseYourBoss - il y a 4 jours
-- Continuer pour postuler
-Signaler cette offre d'emploi",12/10/2019,developer,Nantes,16/10/2019,vjk=6b9d81d3dfaf1fec,vide,cdi
-Concepteur développeur Full Stack Javascript sur Nantes,Acensi,Nantes (44),vide,"Nantes (44)
-Votre mission se déroulera au sein d’une équipe agile en charge de la conception et la réalisation de 2 nouvelles applications, en étroite collaboration avec toutes les équipes techniques du département.
-
-Ce rôle comporte les missions suivantes :
-Participer au développement des solutions
-Rédiger les documentations techniques et utilisateur
-Apporter un support technique pour l’exploitation de l’outil
-Apporter un support fonctionnel aux utilisateurs.
-Etre force de propositions quant aux évolutions des outils.
-Environnement technique : Logs applicatifs, React, Javascript, Git, Docker, Bash, NodeJS
-Séniorité attendue : Confirmé
-carriere-info - il y a 4 jours
-- Continuer pour postuler
-Signaler cette offre d'emploi",12/10/2019,developer,Nantes,16/10/2019,vjk=1da7780c2beb25b2,vide,vide
-Développeur Back end Node.JS - H/F,Externatic,Nantes (44),40 000 € par an,"Nantes (44)
-CDI
-40 000 € par an
-Postgresql / Unity-3d / Docker / Javascript / Nodejs / Innovation / Qualité / Agile
-Lead Developer Backend, Backend Developer / CDI / Environ 40k€ / 3 - 6 ans / Nantes
-
-Le poste
-Cette startup spécialisée dans le domaine de la 3D, de la Réalité augmentée / Réalité virtuelle développe des solutions pour des acteurs Grands comptes. Société innovante située en plein centre de Nantes, elle place les nouvelles technologies au service de ses clients dans un contexte open source. Pour renforcer son équipe, elle cherche un Développeur Backend Node.JS (H/F).
-Les responsabilités
-Avec un socle technique en place, d'assurer le construction et l'évolution de la plateforme SaaS
-Spécifier, architecturer, implémenter, tester, livrer et monitorer
-Travailler sur un mode collaboratif, vous devrez développer et améliorer l'utilisation des données au sein de l'équipe
-Le tout dans la perspective d'augmenter significativement le nombre d'utilisateurs.
-Pourquoi venir chez nous?
-Locaux très sympa en plein coeur de Nantes Equipe de passionnés et expérimentés actifs dans l'écosystème Plan Epargne Entreprise
-ChooseYourBoss - il y a 11 jours
-- Continuer pour postuler
-Signaler cette offre d'emploi",05/10/2019,developer,Nantes,16/10/2019,vjk=6d14aa139a2e5b8f,vide,cdi
-Concepteur développeur Full Stack Javascript sur Nantes / Fr...,Acensi,Nantes (44),vide,"Nantes (44)
-Temps plein, Freelance / Indépendant
-Votre mission se déroulera au sein d’une équipe agile en charge de la conception et la réalisation de 2 nouvelles applications, en étroite collaboration avec toutes les équipes techniques du département.
-
-Ce rôle comporte les missions suivantes :
-Participer au développement des solutions
-Rédiger les documentations techniques et utilisateur
-Apporter un support technique pour l’exploitation de l’outil
-Apporter un support fonctionnel aux utilisateurs.
-Etre force de propositions quant aux évolutions des outils.
-Environnement technique : Logs applicatifs, React, Javascript, Git, Docker, Bash, NodeJS
-Séniorité attendue : Confirmé
-Freelance-info - il y a 4 jours
-- Continuer pour postuler
-Signaler cette offre d'emploi",12/10/2019,developer,Nantes,16/10/2019,vjk=ffafa8b75adb6dae,vide,freelance
 Lead développeur Full Stack F/H,I-RAISER GROUP,Nantes (44),vide,"Nantes (44)
 CDI
 – Conception et spécification : vous maîtriserez le fonctionnel pour être force de proposition
@@ -592,6 +577,21 @@ Nos applications leur permettent de collecter des dons, réaliser des pétitions
 Apec.fr - il y a 5 jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",11/10/2019,developer,Nantes,16/10/2019,vjk=f5a46e4fbfa8f1ea,vide,cdi
+Concepteur développeur Full Stack Javascript sur Nantes / Fr...,Acensi,Nantes (44),vide,"Nantes (44)
+Temps plein, Freelance / Indépendant
+Votre mission se déroulera au sein d’une équipe agile en charge de la conception et la réalisation de 2 nouvelles applications, en étroite collaboration avec toutes les équipes techniques du département.
+
+Ce rôle comporte les missions suivantes :
+Participer au développement des solutions
+Rédiger les documentations techniques et utilisateur
+Apporter un support technique pour l’exploitation de l’outil
+Apporter un support fonctionnel aux utilisateurs.
+Etre force de propositions quant aux évolutions des outils.
+Environnement technique : Logs applicatifs, React, Javascript, Git, Docker, Bash, NodeJS
+Séniorité attendue : Confirmé
+Freelance-info - il y a 5 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",11/10/2019,developer,Nantes,16/10/2019,vjk=ffafa8b75adb6dae,vide,freelance
 Développeur Full Stack Java EE Nantes (H/F),APSIDE,Nantes (44),vide,"Nantes (44)
 VOUS ?
 L’architecture Web vous passionne ?
@@ -677,6 +677,26 @@ Eléonore BOCQUET - Externatic
 il y a 6 jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",10/10/2019,developer,Nantes,16/10/2019,vjk=504d5560ec2e6c8e,vide,cdi
+Ingénieur Développeur Full Stack - Niveau confirmé F/H,welinkit,Nantes (44),33 000 € par an,"Nantes (44)
+CDI
+33 000 € par an
+Missions
+Notre client est un éditeur de logiciels innovants dédiés au secteur de la restauration. La société a été créée il y a un peu plus de 6 ans, elle compte aujourd’hui une soixantaine de collaborateurs répartis entre Paris, Nantes et La Roche-sur-Yon (85). Notre client a finalisé début mai 2018 sa 3ème levée de fonds et ses perspectives de développement sont excellentes, notamment à l’international. Plus de 4.000 restaurateurs utilisent ses logiciels pour gérer quotidiennement leurs recettes, les commandes fournisseurs, les réceptions, les stocks, la production, les équipements, la mesure du gaspillage alimentaire, …
+Notre client recrute un développeur Full Stack expérimenté afin de renforcer son équipe de développement basée à Nantes. Il/elle aura pour principales missions de :
+Développer de nouvelles fonctionnalités
+Dérouler les tests et valider les développements
+Gérer la maintenance corrective et évolutive de l’application
+Participer à la roadmap technique et être force de proposition sur tous les sujets
+Vous intégrerez l'équipe de développeurs et vous serez en relation étroite au quotidien avec le manager et les product owner. Vous serez également amené à être en contact occasionnellement avec les correspondants clients.
+
+
+Profil recherché
+A partir de 2 années d'expérience en développement web sur les technologies SQL/Postgre SQL, HTML/CSS, JavaScript et Framework Vue.JS
+Sens de l'entraide, du travail en équipe et du partage des connaissances
+Goût prononcé pour l’innovation et la veille technologique
+il y a 10 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",06/10/2019,developer,Nantes,16/10/2019,vjk=47c05d941fe6c89a,confirmé,cdi
 Développeur Full-Stack H/F,onepoint,Nantes (44),vide,"Nantes (44)
 Job Description
 
@@ -704,26 +724,6 @@ null
 il y a 12 jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",04/10/2019,developer,Nantes,16/10/2019,vjk=bbd53d0ab0885119,vide,vide
-Ingénieur Développeur Full Stack - Niveau confirmé F/H,welinkit,Nantes (44),33 000 € par an,"Nantes (44)
-CDI
-33 000 € par an
-Missions
-Notre client est un éditeur de logiciels innovants dédiés au secteur de la restauration. La société a été créée il y a un peu plus de 6 ans, elle compte aujourd’hui une soixantaine de collaborateurs répartis entre Paris, Nantes et La Roche-sur-Yon (85). Notre client a finalisé début mai 2018 sa 3ème levée de fonds et ses perspectives de développement sont excellentes, notamment à l’international. Plus de 4.000 restaurateurs utilisent ses logiciels pour gérer quotidiennement leurs recettes, les commandes fournisseurs, les réceptions, les stocks, la production, les équipements, la mesure du gaspillage alimentaire, …
-Notre client recrute un développeur Full Stack expérimenté afin de renforcer son équipe de développement basée à Nantes. Il/elle aura pour principales missions de :
-Développer de nouvelles fonctionnalités
-Dérouler les tests et valider les développements
-Gérer la maintenance corrective et évolutive de l’application
-Participer à la roadmap technique et être force de proposition sur tous les sujets
-Vous intégrerez l'équipe de développeurs et vous serez en relation étroite au quotidien avec le manager et les product owner. Vous serez également amené à être en contact occasionnellement avec les correspondants clients.
-
-
-Profil recherché
-A partir de 2 années d'expérience en développement web sur les technologies SQL/Postgre SQL, HTML/CSS, JavaScript et Framework Vue.JS
-Sens de l'entraide, du travail en équipe et du partage des connaissances
-Goût prononcé pour l’innovation et la veille technologique
-il y a 9 jours
-- Continuer pour postuler
-Signaler cette offre d'emploi",07/10/2019,developer,Nantes,16/10/2019,vjk=47c05d941fe6c89a,confirmé,cdi
 Ingénieur Développeur Full Stack - Niveau Senior F/H,welinkit,Nantes (44),45 000 € par an,"Nantes (44)
 CDI
 45 000 € par an
@@ -745,9 +745,9 @@ Profil recherché
 Solide maîtrise des technologies SQL/Postgre SQL, HTML/CSS, JavaScript et Framework Vue.JS
 Sens de l'entraide, du travail en équipe et du partage des connaissances
 Goût prononcé pour l’innovation et la veille technologique
-il y a 9 jours
+il y a 10 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",07/10/2019,developer,Nantes,16/10/2019,vjk=a06f6d5b0375db46,senior,cdi
+Signaler cette offre d'emploi",06/10/2019,developer,Nantes,16/10/2019,vjk=a06f6d5b0375db46,senior,cdi
 LEAD DÉVELOPPEUSE/DÉVELOPPEUR FULL STACK F/H,INSIDE NANTES,Nantes (44),vide,"Nantes (44)
 CDI
 MISSIONS
@@ -805,6 +805,96 @@ Accessible en transport
 il y a 8 jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",08/10/2019,developer,Nantes,16/10/2019,vjk=8a7aa25e186a71f8,vide,cdi
+Développeur full stack Java - H/F,Aubay Grand-Ouest,Nantes (44),38 000 € par an,"Nantes (44)
+CDI
+38 000 € par an
+Jquery / Angularjs / Java / Spring / Hibernate
+Frontend Developer, Développeur Frontend, Backend Developer, Full Stack Developer / CDI / Environ 38k€ / 3 - 6 ans / Nantes
+
+Le poste
+En choisissant Aubay, vous aurez le privilège d'intégrer la digital factory de notre client nantais (domaine transport) situé en centre-ville pour une mission de longue durée. Au sein de la feature team, vous évoluerez aux côtés de développeurs, un Tech Lead, un Scrum Master et un Proxy PO afin de contribuer au delivery des applicatifs web en environnement agile. Pauline, votre ingénieur d'affaires chez Aubay, a tissé un fort partenariat avec ce client et saura vous accompagner pour une montée en compétence optimale et un épanouissement sur cette mission.
+Les responsabilités
+Conception, rédaction de spécifications techniques, participation aux études de chiffrage, en lien avec les experts de l'équipe
+Réalisation des développements sur les environnements techniques suivants : Java JEE, Spring, Hibernate, JPA, Javascript, Jquery, HTML5, CSS3, NodeJS, AngularJS, Webservices
+Exécution et automatisation des tests sous Selenium, Cucumber et/ou Protractor
+Analyse des rapports d’intégration continue dans une démarche DevOps
+Pourquoi venir chez nous?
+Vous apprécierez notre management de proximité et la taille humaine de notre agence où nos Consultants Aubay seront à votre écoute pour tout retour d’expérience. Nous souhaitons vous accompagner dans votre évolution de carrière avec des formations et des certifications. Des accompagnements personnalisés sont également possibles, par exemple avec les coachs agiles de notre cellule interne Enfin, votre bien-être reste notre priorité : vous bénéficierez de l’intervention de notre masseuse 2 fois par mois, des soirées d’agence ou encore de Serious Game pour apprendre et travailler en s’amusant.
+ChooseYourBoss - il y a 4 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",12/10/2019,developer,Nantes,16/10/2019,vjk=6b9d81d3dfaf1fec&advn=4190676325902957,vide,cdi
+Développeur Back end Node.JS - H/F,Externatic,Nantes (44),40 000 € par an,"Nantes (44)
+CDI
+40 000 € par an
+Postgresql / Unity-3d / Docker / Javascript / Nodejs / Innovation / Qualité / Agile
+Lead Developer Backend, Backend Developer / CDI / Environ 40k€ / 3 - 6 ans / Nantes
+
+Le poste
+Cette startup spécialisée dans le domaine de la 3D, de la Réalité augmentée / Réalité virtuelle développe des solutions pour des acteurs Grands comptes. Société innovante située en plein centre de Nantes, elle place les nouvelles technologies au service de ses clients dans un contexte open source. Pour renforcer son équipe, elle cherche un Développeur Backend Node.JS (H/F).
+Les responsabilités
+Avec un socle technique en place, d'assurer le construction et l'évolution de la plateforme SaaS
+Spécifier, architecturer, implémenter, tester, livrer et monitorer
+Travailler sur un mode collaboratif, vous devrez développer et améliorer l'utilisation des données au sein de l'équipe
+Le tout dans la perspective d'augmenter significativement le nombre d'utilisateurs.
+Pourquoi venir chez nous?
+Locaux très sympa en plein coeur de Nantes Equipe de passionnés et expérimentés actifs dans l'écosystème Plan Epargne Entreprise
+ChooseYourBoss - il y a 11 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",05/10/2019,developer,Nantes,16/10/2019,vjk=6d14aa139a2e5b8f&advn=4190676325902957,vide,cdi
+DÉVELOPPEUR FULL-STACK JAVA EE H/F,Apside,Nantes (44),vide,"Nantes (44)
+CDI
+Recruteur Apside
+En pleine croissance, Apside est à la recherche des nouveaux talents du numérique.
+Alors qu'Apside ne cesse d'agrandir sa famille déjà forte de plus de 2800 consultants, nous sommes à la recherche de nos futurs collaborateurs. Vous qui êtes passionnés par la technologie, vous qui souhaitez dépasser vos limites, vous qui cherchez à faire partie des pionniers de Demain, vous qui souhaitez intégrer Apside.
+Intégrez une structure à taille humaine : ambiance saine et conviviale.
+Participez aux événements techniques (BreizhCamp, AgileTour, Devoxx, Ncraft...).
+Rennes : 2e ville de France où il fait bon travailler / 1ère ville où il fait bon vivre.
+Missions du poste
+Vous ?
+L'architecture Web vous passionne ?.
+Le Front et le Back ont peu de secrets pour vous ?.
+Ouvert(e) d'esprit et curieux(se), vous aimez partager vos connaissances ?.
+Vous êtes à l'aise sur Java et possédez de bonnes bases en Angular ?.
+Et si vous parlez anglais et connaissez le domaine du e-commerce, alors.
+Intégré(e) au sein d'une équipe Agile guidée par le mouvement Devops, vous serez en charge de l'étude, du développement et de l'optimisation d'applications web et/ou métiers.
+Vous maîtrisez les architectures Web et la création d'API.
+Le développement back vous motive tout comme les technologies Front (HTML, CSS...).
+La performance applicative fait partie de vos priorités.
+Vous effectuez une veille constante et êtes toujours prêt à partager les nouvelles « best practices » avec votre équipe.
+L'environnement technique :
+Langages : Java EE, Python, JavaScript (Node.js entre autres), Shell.
+Environnements : Linux, git, Bitbucket.
+Frameworks et outils : Spring, BackboneJS, Bootstrap, Jira.
+Et aussi : Angular, ElasticSearch, RabbitMQ, Docker.
+Profil recherché
+Votre personnalité :
+Vous êtes à l'aise tant sur du Back-End que du Front-end ?.
+Les technos web ont peu de secrets pour vous ?.
+De nature curieuse, vous aimez partager vos connaissances ?.
+Vous êtes à l'aise sur JavaScript et possédez de bonnes bases en Angular ?.
+Et si vous parlez anglais et connaissez le domaine e-commerce, alors.
+Ce poste de Développeur Full-Stack est fait pour vous !
+Vous êtes prêt à :
+Concevoir des applications innovantes dans un contexte stimulant et responsabilisant (méthode Agile/Scrum).
+Intégrer de nouvelles fonctionnalités.
+Mettre en place et réaliser les tests unitaires et d'intégration.
+Améliorer l'expérience utilisateur.
+Travailler dans un environnement Agile et SCRUM.
+
+De bonnes raisons de rejoindre Apside ?
+Un esprit start-up avec la stabilité d'un grand groupe, qui favorise l'agilité, le travail d'équipe et la proximité. Alors qu'Apside ne cesse d'agrandir sa famille déjà forte de plus de 2800 consultants, nous sommes à la recherche des nouveaux talents du numérique !
+Participez et/ou animez nos soirées techniques (Project Lab, Test Lab...).
+Participez à des événements de Nantes et d'ailleurs (DevFest, Devoxxx, JFTL, Web2Day...).
+Rejoignez l'Apside Academy (Meet up Agiles, Tech Dej'...).
+Développez votre réseau (Soirées trimestrielles, Afterwork, Soirées d'intégration...).
+Rejoignez Nantes : 1ère ville de France où il fait bon vivre et travailler (à 50 min de la mer !).
+Vous êtes attiré(e) par la banque ou les agences web ? Des grands groupes ou des start-up ? Des acteurs internationaux ou locaux ? Nous avons de quoi vous satisfaire !
+
+Vous souhaitez donner un nouveau souffle à votre carrière ? Ne cherchez plus, faites partie des 1000 collaborateurs qui rejoindront Apside en 2019 !
+Postuler à cette offre
+Digitalent.io - il y a 1 jour
+- Continuer pour postuler
+Signaler cette offre d'emploi",15/10/2019,developer,Nantes,16/10/2019,vjk=d57f7752ae2ec27c,vide,cdi
 Développeur Full Stack JavaScript/ Node.JS,NOVA TECHNOLOGY,Nantes (44),36 € - 44 € par heure,"Nantes (44)
 36 € - 44 € par heure
 Nous recherchons un analyste développeur full stack JavaScript / Node.JS, dans le cadre d’un projet IoT d’interopérabilité entre des objets et des services.
@@ -820,14 +910,14 @@ Développement de blocs fonctionnels sous langage graphique type scratch
 De formation Bac+2 à Bac+5 vous avez une maitrise de JavaScript et vous souhaitez investir dans le monde de l’IoT
 carriere-info - il y a 30+ jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",16/09/2019,developer,Nantes,16/10/2019,vjk=53183bda653a61a2&advn=2715648309700515,vide,vide
+Signaler cette offre d'emploi",16/09/2019,developer,Nantes,16/10/2019,vjk=53183bda653a61a2,vide,vide
 Développeur Front-end Javascript Angular NodeJS - Nantes - F...,TECH VALLEY,Nantes (44),vide,"Nantes (44)
 TECH VALLEY est une société de Consulting en Systèmes d’Informations, et d’Expertise en ingénierie informatique, constituée d’une équipe de consultants, d’ingénieurs, et d’experts.
 Nous mettons en avant une vision fédératrice de la qualité des SI : robustesse, efficacité, dimensionnement, sécurité, performance, évolutivité, conformité, optimisation.
 Nous intervenons au national dans l’accompagnement des Grands Comptes et des ETI secteurs industrie, médical, telecom, finance, énergie, sur la transition de l’industrialisation des systèmes d’informations, principalement sur les architectures fonctionnelles, les process de développement et intégration, la Qualité et sécurité des systèmes d’informations, la fiabilité et les performances, ainsi que sur les architectures techniques et opérationnelles, les process de production et changement.
 Le siège de la société se situe à Perpignan Tecnosud, nos agences couvrent nos interventions à Toulouse, Bordeaux, Nantes, Lille, Paris, Lyon, Montpellier, Aix, Sophia Antipolis.
 
-Intitulé du poste : Consultant Développement Front-end Javascript Angular NodeJS
+Consultant Développement Front-end Javascript Angular NodeJS
 
 Site : Nantes
 
@@ -849,7 +939,138 @@ Votre expérience, votre sens du service, votre goût du travail en équipe et v
 TECH VALLEY - Consultants en Systèmes et Technologies de l’Information - France
 carriere-info - il y a 8 mois
 - Continuer pour postuler
-Signaler cette offre d'emploi",16/02/2019,developer,Nantes,16/10/2019,vjk=2e9086c8f2974fc2&advn=2715648309700515,vide,vide
+Signaler cette offre d'emploi",16/02/2019,developer,Nantes,16/10/2019,vjk=2e9086c8f2974fc2,vide,vide
+Concepteur développeur Full Stack Javascript sur Nantes,Acensi,Nantes (44),vide,"Nantes (44)
+Votre mission se déroulera au sein d’une équipe agile en charge de la conception et la réalisation de 2 nouvelles applications, en étroite collaboration avec toutes les équipes techniques du département.
+
+Ce rôle comporte les missions suivantes :
+Participer au développement des solutions
+Rédiger les documentations techniques et utilisateur
+Apporter un support technique pour l’exploitation de l’outil
+Apporter un support fonctionnel aux utilisateurs.
+Etre force de propositions quant aux évolutions des outils.
+Environnement technique : Logs applicatifs, React, Javascript, Git, Docker, Bash, NodeJS
+Séniorité attendue : Confirmé
+carriere-info - il y a 5 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",11/10/2019,developer,Nantes,16/10/2019,vjk=1da7780c2beb25b2,vide,vide
+DÉVELOPPEUR FRONT-END (H/F),sii,Nantes (44),vide,"Nantes (44)
+Description du poste :sii atlantique c'est :
+240 fungénieurs qui partagent un même esprit #collectif #partage
+des clients grands comptes qui t'apporteront de la richesse technique, fonctionnelle et méthodologique
+un suivi régulier et personnalisé : ton manager, ta référente rh et ta référente administrative seront là pour t'accompagner dans l'aventure sii
+des moments de fun et de partage : afterworks, soirées d'agence, événements sportifs, petits déjeuners …
+des speak up au moins tous les 15 jours
+des formations régulières adaptées à tes envies et à ton évolution
+
+bonjour à toi qui lit cette annonce,
+
+marie-laure, marine et pauline, funrh, sommes missionnées par nos pilotes de projet pour renforcer nos équipes ! nous recherchons notre futur(e) développeur(euse) front-end.
+
+que peut-on te promettre ? en tant que développeur(euse) tu interviendras sur toutes les phases de développement au sein d'une équipe agile :
+
+développer de nouveaux composants avec une vision « expérience utilisateur »
+améliorer des modules existants et ajouter de nouvelles fonctionnalités
+mettre en place les bonnes pratiques de tests
+réaliser des codes-review
+
+en fonction de tes compétences et aspirations, tu peux être référent(e) technique de notre équipe ou rejoindre notre équipe d'experts dont le rôle est multiple : veille technologique qui peut générer des speak up, missions d'expertise, expérimentations et des sujets divers (accompagnement aux entretiens d'embauche, participation aux salons …).
+
+et si tu te lasses de ta mission ? toute l'équipe sera à ton écoute et nous te trouverons un nouveau projet.
+
+et si tu veux évoluer ? la formation est l'un des piliers chez sii, nous t'accompagnons dans ton projet d'évolution et te trouverons une mission cohérente vis-à-vis de ce projet.
+
+au-delà de ta mission nous te proposons de participer à la vie de l'agence : retrouver tes collègues autour d'un déjeuner technique, intégrer les communautés techniques et projets pour partager, échanger lors des soirées d'agence et participer au projet de développement de l'entreprise.
+
+Description de l'entreprise :
+le groupe sii est au cœur de l'innovation au service de grands comptes dans des secteurs d'ingénierie variés. sii est fier de compter aujourd'hui 10 000 experts à travers 80 implantations dans le monde.
+
+animés de cette même passion pour la technologie et l'innovation, les collaborateurs sii peuvent exercer leur métier dans un cadre bienveillant, de proximité avec une dose de fun. ils intègrent le mouvement #fungenieur dans lequel la créativité et l'esprit d'équipe sont mis à l'honneur.
+
+au palmarès great place to work 2019, le groupe sii a également été labélisé happy candidate et meilleur employeur 2019 dans la catégorie high tech par le magazine capital. il est signataire de la charte de la diversité en entreprise. c'est une société handi-accueillante.
+
+suivez-nous sur les réseaux sociaux : facebook, linkedin, viadeo ou twitter !
+
+Profil recherché :
+tu aimes ton boulot de développeur et tu as une préférence pour le front. tu as déjà une première expérience sur un projet similaire.
+
+tu connais html, css, javascript, jquery, angular, react … (il n'est bien sûr pas obligatoire de tous les maitriser !).
+
+tu veux en savoir plus ? notre équipe de funrh sera ravie de te rencontrer et de t'en dire plus !
+
+au palmarès great place to work 2019, sii a également été labélisé happy candidate et meilleur employeur 2019 par la revue capital.
+
+le groupe sii est signataire de la charte de la diversité en entreprise et est une entreprise handi-accueillante
+
+#li-mr1
+JobinTree - il y a 3 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",13/10/2019,developer,Nantes,16/10/2019,vjk=658ec68cdebf59e5,vide,vide
+DÉVELOPPEUR FRONT-END H/F,SII Nantes,Nantes (44),vide,"Nantes (44)
+CDI
+Recruteur SII Nantes
+Missions du poste
+Partenaire technologique des grandes entreprises, le groupe SII est au coeur de l'économie de l'innovation avec 7000 consultants et une présence internationale sur 74 sites. Pour nos collaborateurs, SII c'est aussi de la convivialité, de la technicité et des métiers passionnants qui génèrent expériences et opportunités de carrières. Depuis 1979, notre organisation en agences avec un minimum de niveaux hiérarchiques vous assure proximité géographique et managériale.
+SII Atlantique c'est :
+240 Fungénieurs qui partagent un même esprit #collectif #partage.
+Des clients Grands Comptes qui t'apporteront de la richesse technique, fonctionnelle et méthodologique.
+Un suivi régulier et personnalisé : ton manager, ta référente RH et ta référente administrative seront là pour t'accompagner dans l'aventure SII.
+Des moments de fun et de partage : AfterWorks, Soirées d'agence, événements sportifs, petits déjeuners.
+Des speak up au moins tous les 15 jours.
+Des formations régulières adaptées à tes envies et à ton évolution.
+
+Bonjour à toi qui lit cette annonce,
+
+Marie-Laure, Marine et Pauline, FunRH, sommes missionnées par nos pilotes de projet pour renforcer nos équipes ! Nous recherchons notre futur(e) développeur(se) Front-End.
+
+Que peut-on te promettre ? En tant que développeur(se) tu interviendras sur toutes les phases de développement au sein d'une équipe agile :
+Développer de nouveaux composants avec une vision « Expérience utilisateur ».
+Améliorer des modules existants et ajouter de nouvelles fonctionnalités.
+Mettre en place les bonnes pratiques de tests.
+Réaliser des codes-review.
+
+En fonction de tes compétences et aspirations, tu peux être référent(e) technique de notre équipe ou rejoindre notre équipe d'experts dont le rôle est multiple : veille technologique qui peut générer des speak up, missions d'expertise, expérimentations et des sujets divers (accompagnement aux entretiens d'embauche, participation aux salons...).
+
+Et si tu te lasses de ta mission ? Toute l'équipe sera à ton écoute et nous te trouverons un nouveau projet
+Et si tu veux évoluer ? La formation est l'un des piliers chez SII, nous t'accompagnons dans ton projet d'évolution et te trouverons une mission cohérente vis-à-vis de ce projet.
+
+Au-delà de ta mission nous te proposons de participer à la vie de l'agence : retrouver tes collègues autour d'un déjeuner technique, intégrer les communautés techniques et projets pour partager, échanger lors des soirées d'agence et participer au projet de développement de l'entreprise.
+Profil recherché
+Tu aimes ton boulot de développeur et tu as une préférence pour le Front. Tu as déjà une première expérience sur un projet similaire.
+Tu connais HTML, CSS, JavaScript, Jquery, Angular, React... (Il n'est bien sûr pas obligatoire de tous les maitriser !).
+Tu veux en savoir plus ? Notre équipe de FunRH sera ravie de te rencontrer et de t'en dire plus !
+Suivez nous sur les réseaux sociaux : Facebook, Linkedin, Viadeo ou Twitter :@SII_Atlantique !
+Au palmarès Great place To Work 2019, SII a également été labélisé Happy Candidate et Meilleur Employeur 2019 par la revue Capital.
+Le Groupe SII est signataire de la Charte de la diversité en entreprise et est une entreprise handi-accueillante
+#LI-MR1
+Postuler à cette offre
+Digitalent.io - il y a 1 jour
+- Continuer pour postuler
+Signaler cette offre d'emploi",15/10/2019,developer,Nantes,16/10/2019,vjk=bea703f9096973b1,vide,cdi
+Ingénieur Lead Développeur Full Stack & Référent technique F...,welinkit,Nantes (44),50 000 € par an,"Nantes (44)
+CDI
+50 000 € par an
+Missions
+Notre client est un éditeur de logiciels innovants dédiés au secteur de la restauration. La société a été créée il y a un peu plus de 6 ans, elle compte aujourd’hui une soixantaine de collaborateurs répartis entre Paris, Nantes et La Roche-sur-Yon (85). Notre client a finalisé début mai 2018 sa 3ème levée de fonds et ses perspectives de développement sont excellentes, notamment à l’international. Plus de 4.000 restaurateurs utilisent ses logiciels pour gérer quotidiennement leurs recettes, les commandes fournisseurs, les réceptions, les stocks, la production, les équipements, la mesure du gaspillage alimentaire, …
+Notre client recrute son/sa Lead Développeur Full Stack qui aura pour principales missions de :
+Manager opérationnellement une équipe de plusieurs développeurs (de niveau junior à confirmé)
+Participer avec l'équipe aux développements de nouvelles fonctionnalités
+Dérouler les tests et valider les développements
+Trouver des solutions pour optimiser et améliorer les techniques de développement
+Rédiger la documentation associée
+Participer à la roadmap technique et être force de proposition sur tous les sujets
+
+Vous intégrerez l'équipe de développeurs et vous serez en relation étroite au quotidien avec le manager et les product owner. Vous serez également amené à être en contact occasionnellement avec les correspondants clients. Vous serez amené à évoluer de plus en plus sur des problématiques d'architecture et de management opérationnel d'équipes, avec un rôle clef de référent technique au sein de la Direction Technique de notre client.
+
+
+Profil recherché
+A partir de 5 années d'expérience en tant que développeur Full Stack avec un excellent niveau sur les technologies Javascript, SQL/Postgre SQL, HTML/CSS et Framework Vue.JS
+Idéalement une 1ère expérience du management d'une équipe (reserrée) de développeurs
+Sens de l'entraide, du travail en équipe et du partage des connaissances
+Goût prononcé pour l’innovation et la veille technologique
+il y a 10 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",06/10/2019,developer,Nantes,16/10/2019,vjk=9bc4165d83b248f9,vide,cdi
 Développeur back-end scala - H/F,Seyos,Nantes (44),35 000 € - 55 000 € par an,"Nantes (44)
 Temps plein, CDI
 35 000 € - 55 000 € par an
@@ -863,7 +1084,7 @@ En qualité de Back-end Engineer, vous avez pour mission de spécifier, architec
 
 En bref, vous serez en charge de concevoir et développer le produit.
 
-c'est que vous soyez le plus autonome possible sur votre poste tout en appréciant la collaboration, la communication et le partage.
+Sa vision : c'est que vous soyez le plus autonome possible sur votre poste tout en appréciant la collaboration, la communication et le partage.
 
 Intégré dans des ""swarms"", de petites équipes travaillant en Scrum, chacune dédiée à une thématique du produit, chacun est amené à réfléchir et à contribuer à l'amélioration et l'innovation du produit et de son socle technique.
 
@@ -881,65 +1102,9 @@ Les + :
 Rejoignez une entreprise internationale en pleine croissance
 Travaillez dans un contexte exigeant avec une très bonne ambiance (séminaires, barbecues le midi, organisation de meetups...)
 Accessible en transport
-il y a 8 jours
-- Continuer pour postuler
-Signaler cette offre d'emploi",08/10/2019,developer,Nantes,16/10/2019,vjk=5b95f8887f9f31be,vide,cdi
-Ingénieur Lead Développeur Full Stack & Référent technique F...,welinkit,Nantes (44),50 000 € par an,"Nantes (44)
-CDI
-50 000 € par an
-Missions
-Notre client est un éditeur de logiciels innovants dédiés au secteur de la restauration. La société a été créée il y a un peu plus de 6 ans, elle compte aujourd’hui une soixantaine de collaborateurs répartis entre Paris, Nantes et La Roche-sur-Yon (85). Notre client a finalisé début mai 2018 sa 3ème levée de fonds et ses perspectives de développement sont excellentes, notamment à l’international. Plus de 4.000 restaurateurs utilisent ses logiciels pour gérer quotidiennement leurs recettes, les commandes fournisseurs, les réceptions, les stocks, la production, les équipements, la mesure du gaspillage alimentaire, …
-Notre client recrute son/sa Lead Développeur Full Stack qui aura pour principales missions de :
-Manager opérationnellement une équipe de plusieurs développeurs (de niveau junior à confirmé)
-Participer avec l'équipe aux développements de nouvelles fonctionnalités
-Dérouler les tests et valider les développements
-Gérer la maintenance corrective et évolutive de l’application
-Trouver des solutions pour optimiser et améliorer les techniques de développement
-Rédiger la documentation associée
-Participer à la roadmap technique et être force de proposition sur tous les sujets
-
-Vous intégrerez l'équipe de développeurs et vous serez en relation étroite au quotidien avec le manager et les product owner. Vous serez également amené à être en contact occasionnellement avec les correspondants clients. Vous serez amené à évoluer de plus en plus sur des problématiques d'architecture et de management opérationnel d'équipes, avec un rôle clef de référent technique au sein de la Direction Technique de notre client.
-
-
-Profil recherché
-A partir de 5 années d'expérience en tant que développeur Full Stack avec un excellent niveau sur les technologies Javascript, SQL/Postgre SQL, HTML/CSS et Framework Vue.JS
-Idéalement une 1ère expérience du management d'une équipe (reserrée) de développeurs
-Sens de l'entraide, du travail en équipe et du partage des connaissances
-Goût prononcé pour l’innovation et la veille technologique
 il y a 9 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",07/10/2019,developer,Nantes,16/10/2019,vjk=9bc4165d83b248f9,vide,cdi
-Développeur back-end PHP (DSI) - H/F,Seyos,Nantes (44),30 000 € - 45 000 € par an,"Nantes (44)
-Temps plein, CDI
-30 000 € - 45 000 € par an
-Seyos est un cabinet de recrutement spécialisé dans les métiers de l'IT. Nous proposons aux candidats des opportunités professionnelles uniquement au sein de clients finaux : éditeurs de logiciels, startups, DSI.
-
-Notre client est un fabricant 100% français d'interphones et de solutions de contrôle d'accès, 200 collaborateurs.
-
-Actuellement en pleine croissance et dans de le but de proposer de nouveaux produits innovants, notre client recherche un(e) développeur PHP afin de renforcer son Bureau d'Etudes Techniques.
-
-Localisation : Nantes (Gare-sud),
-Rémunération : 30 000 - 45 000 Euros bruts / an,
-Technos : PHP7, Slim, MySQL, CockRoachDb, JS.
-
-Au sein du bureau d'études nantais composé de 15 personnes, vous intervenez sur l'intégralité du processus. Et vos missions seront les suivantes :
-
-Analyse des besoins utilisateurs
-Concevoir et développer de nouvelles fonctionnalités produit
-Participer à la mise en production
-Maintenance corrective et évolutive de l'existant
-Votre profil :
-Vous êtes désireux de rejoindre un client final
-Vous disposez d'une première expérience en tant que développeur d'au moins 2 années
-Vous maitrisez le langage PHP
-Curieux et technophile, vous saurez être force de propositions au sein de l'équipe
-Dynamique et réactif, vous souhaitez accompagné la croissance de la société
-Les + : titres restaurant, intéressement et participation (1,5 mois de salaire), séminaires, hiérarchie horizontale.
-
-N'hésitez pas à contacter Elisabeth MOUSSY, en charge de ce poste.
-il y a 13 jours
-- Continuer pour postuler
-Signaler cette offre d'emploi",03/10/2019,developer,Nantes,16/10/2019,vjk=87e87a6894ba9e24,vide,cdi
+Signaler cette offre d'emploi",07/10/2019,developer,Nantes,16/10/2019,vjk=5b95f8887f9f31be,vide,cdi
 Développeur Back end Node.JS H/F,EXTERNATIC,Nantes (44),vide,"Nantes (44)
 CDI
 DESCRIPTION DE L'OFFRE
@@ -972,9 +1137,9 @@ PROFIL REQUIS
 Vous êtes issu d'une formation BAC+5 en informatique, vous justifiez d'une expérience réussie de Développement Node.JS.
 Vous êtes quelqu'un de passionné et méticuleux. Produire un code de qualité et scalable fait partie de vos priorités.
 Vous êtes quelqu'un d'engagé et souhaitez vous investir avec assiduité sur un projet d'équipe avec une vraie expertise métier.
-il y a 11 jours
+il y a 12 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",05/10/2019,developer,Nantes,16/10/2019,vjk=187d326e30f8e516,vide,cdi
+Signaler cette offre d'emploi",04/10/2019,developer,Nantes,16/10/2019,vjk=187d326e30f8e516,vide,cdi
 Développeur Front-End H/F,GINGERMINDS,Nantes (44),vide,"Nantes (44)
 L’AGENCE
 Gingerminds est une agence digitale nantaise spécialisée en B2B depuis 2005.
@@ -1006,6 +1171,24 @@ Etre capable d’intégrer une maquette graphique from scratch
 Optimiser les performances, être soucieux des bonnes pratiques, …
 il y a 20 jours
 Signaler cette offre d'emploi",26/09/2019,developer,Nantes,16/10/2019,vjk=3ed999c4fb911c07,vide,cdi
+Assistant développeur Back-End (H/F),OUI.sncf,Nantes (44),vide,"Nantes (44)
+Stage
+Intégration dans l'une des trois équipes agiles de l'application OUI.sncf. En l'occurrence, il s'agit de l'équipe en charge du backend JAVA composée de tous les métiers nécessaires à la livraison du produit (développeurs, architectes, intégrateurs, testeurs de charges, ops, ...). Cette autonomie permet de mettre en place des bonnes pratiques agiles et DevOps concrètes: Itération de 2 semaines, Code Review, Pair-Review, Pair-Programming, TDD, tests autos/BDD, test de performances et de charges, ...
+
+Vous concevez des solutions pour répondre au besoin des Product Owners
+Vous réalisez des User Story, vous assurez le déploiement en continu de votre application, vous faites tout pour avoir une production fiable, monitorée et rapide. Bref, vous aimez la variété de votre métier
+Le jour J (mise en production, incidents, etc.), vous êtes disponible pour l’équipe et saurez analyser rapidement des remontées variées
+Vous participez activement à la vie de l’équipe. Vous êtes proactif pour tout ce qui concerne les cérémonies agiles (DSM, rétro, démo, ...) ainsi que force de proposition de l'amélioration continue déjà portée au sein de cette équipe et des bonnes pratiques qui sont suivies
+
+De formation BAC+5 en école d'ingénieur, vous disposez idéalement d'une expérience dans le domaine (stage/alternance),
+Notre environnement technique :
+Notre stack technique, en fonction des projets, tourne autour des technos suivantes (mais est en constante évolution) :
+Java8, Spring 4 (IOC, Springboot, MVC)
+Industrialisation : Jenkins, Maven, Git
+Hystrix, Grafana, Kibana, puppet,Rundeck,...
+il y a 19 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",27/09/2019,developer,Nantes,16/10/2019,vjk=716c0ec12dad39c7,vide,stage
 Développeur Front End JavaScript F/H,NEO SOFT SERVICES,Nantes (44),vide,"Nantes (44)
 CDI
 Dans le cadre de la création, conception et développement de sites publics ou applicatifs, vous serez sous la responsabilité d'un chef de projet pour développer des applications utilisant les différentes technologies web.
@@ -1030,24 +1213,6 @@ Plus qu’une compétence technique, nous recherchons une personnalité, un espr
 Apec.fr - il y a 20 jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",26/09/2019,developer,Nantes,16/10/2019,vjk=ed607b78f243c312,vide,cdi
-Assistant développeur Back-End (H/F),OUI.sncf,Nantes (44),vide,"Nantes (44)
-Stage
-Intégration dans l'une des trois équipes agiles de l'application OUI.sncf. En l'occurrence, il s'agit de l'équipe en charge du backend JAVA composée de tous les métiers nécessaires à la livraison du produit (développeurs, architectes, intégrateurs, testeurs de charges, ops, ...). Cette autonomie permet de mettre en place des bonnes pratiques agiles et DevOps concrètes: Itération de 2 semaines, Code Review, Pair-Review, Pair-Programming, TDD, tests autos/BDD, test de performances et de charges, ...
-
-Vous concevez des solutions pour répondre au besoin des Product Owners
-Vous réalisez des User Story, vous assurez le déploiement en continu de votre application, vous faites tout pour avoir une production fiable, monitorée et rapide. Bref, vous aimez la variété de votre métier
-Le jour J (mise en production, incidents, etc.), vous êtes disponible pour l’équipe et saurez analyser rapidement des remontées variées
-Vous participez activement à la vie de l’équipe. Vous êtes proactif pour tout ce qui concerne les cérémonies agiles (DSM, rétro, démo, ...) ainsi que force de proposition de l'amélioration continue déjà portée au sein de cette équipe et des bonnes pratiques qui sont suivies
-
-De formation BAC+5 en école d'ingénieur, vous disposez idéalement d'une expérience dans le domaine (stage/alternance),
-Notre environnement technique :
-Notre stack technique, en fonction des projets, tourne autour des technos suivantes (mais est en constante évolution) :
-Java8, Spring 4 (IOC, Springboot, MVC)
-Industrialisation : Jenkins, Maven, Git
-Hystrix, Grafana, Kibana, puppet,Rundeck,...
-il y a 19 jours
-- Continuer pour postuler
-Signaler cette offre d'emploi",27/09/2019,developer,Nantes,16/10/2019,vjk=716c0ec12dad39c7,vide,stage
 Développeur Front End F/H,WEENAT,Nantes (44),vide,"Nantes (44)
 CDI
 Weenat recherche actuellement un
@@ -1188,6 +1353,37 @@ Notre expertise s’appuie sur le savoir-faire et l’expérience de nos équipe
 Apec.fr - il y a 19 jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",27/09/2019,developer,Nantes,16/10/2019,vjk=5facdac4e063a0a6,vide,cdi
+Développeur back-end PHP (DSI) - H/F,Seyos,Nantes (44),30 000 € - 45 000 € par an,"Nantes (44)
+Temps plein, CDI
+30 000 € - 45 000 € par an
+Seyos est un cabinet de recrutement spécialisé dans les métiers de l'IT. Nous proposons aux candidats des opportunités professionnelles uniquement au sein de clients finaux : éditeurs de logiciels, startups, DSI.
+
+Notre client est un fabricant 100% français d'interphones et de solutions de contrôle d'accès, 200 collaborateurs.
+
+Actuellement en pleine croissance et dans de le but de proposer de nouveaux produits innovants, notre client recherche un(e) développeur PHP afin de renforcer son Bureau d'Etudes Techniques.
+
+Localisation : Nantes (Gare-sud),
+Rémunération : 30 000 - 45 000 Euros bruts / an,
+Technos : PHP7, Slim, MySQL, CockRoachDb, JS.
+
+Au sein du bureau d'études nantais composé de 15 personnes, vous intervenez sur l'intégralité du processus. Et vos missions seront les suivantes :
+
+Analyse des besoins utilisateurs
+Concevoir et développer de nouvelles fonctionnalités produit
+Participer à la mise en production
+Maintenance corrective et évolutive de l'existant
+Votre profil :
+Vous êtes désireux de rejoindre un client final
+Vous disposez d'une première expérience en tant que développeur d'au moins 2 années
+Vous maitrisez le langage PHP
+Curieux et technophile, vous saurez être force de propositions au sein de l'équipe
+Dynamique et réactif, vous souhaitez accompagné la croissance de la société
+Les + : titres restaurant, intéressement et participation (1,5 mois de salaire), séminaires, hiérarchie horizontale.
+
+N'hésitez pas à contacter Elisabeth MOUSSY, en charge de ce poste.
+il y a 14 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",02/10/2019,developer,Nantes,16/10/2019,vjk=87e87a6894ba9e24,vide,cdi
 Développeur front-end Angular 6 confirmé (éditeur de logicie...,Seyos,Nantes (44),43 000 € - 50 000 € par an,"Nantes (44)
 Temps plein, CDI
 43 000 € - 50 000 € par an
@@ -1217,61 +1413,9 @@ Rémunération attractive : intéressement + participation
 Contexte international
 
 N'hésitez pas à contacter François Le Saux, Consultant Seyos en charge de ce recrutement.
-il y a 14 jours
+il y a 15 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",02/10/2019,developer,Nantes,16/10/2019,vjk=69f5a04c0f00ca40,confirmé,cdi
-DÉVELOPPEUR FRONT-END (H/F),sii,Nantes (44),vide,"Nantes (44)
-Description du poste :sii atlantique c'est :
-240 fungénieurs qui partagent un même esprit #collectif #partage
-des clients grands comptes qui t'apporteront de la richesse technique, fonctionnelle et méthodologique
-un suivi régulier et personnalisé : ton manager, ta référente rh et ta référente administrative seront là pour t'accompagner dans l'aventure sii
-des moments de fun et de partage : afterworks, soirées d'agence, événements sportifs, petits déjeuners …
-des speak up au moins tous les 15 jours
-des formations régulières adaptées à tes envies et à ton évolution
-
-bonjour à toi qui lit cette annonce,
-
-marie-laure, marine et pauline, funrh, sommes missionnées par nos pilotes de projet pour renforcer nos équipes ! nous recherchons notre futur(e) développeur(euse) front-end.
-
-que peut-on te promettre ? en tant que développeur(euse) tu interviendras sur toutes les phases de développement au sein d'une équipe agile :
-
-développer de nouveaux composants avec une vision « expérience utilisateur »
-améliorer des modules existants et ajouter de nouvelles fonctionnalités
-mettre en place les bonnes pratiques de tests
-réaliser des codes-review
-
-en fonction de tes compétences et aspirations, tu peux être référent(e) technique de notre équipe ou rejoindre notre équipe d'experts dont le rôle est multiple : veille technologique qui peut générer des speak up, missions d'expertise, expérimentations et des sujets divers (accompagnement aux entretiens d'embauche, participation aux salons …).
-
-et si tu te lasses de ta mission ? toute l'équipe sera à ton écoute et nous te trouverons un nouveau projet.
-
-et si tu veux évoluer ? la formation est l'un des piliers chez sii, nous t'accompagnons dans ton projet d'évolution et te trouverons une mission cohérente vis-à-vis de ce projet.
-
-au-delà de ta mission nous te proposons de participer à la vie de l'agence : retrouver tes collègues autour d'un déjeuner technique, intégrer les communautés techniques et projets pour partager, échanger lors des soirées d'agence et participer au projet de développement de l'entreprise.
-
-Description de l'entreprise :
-le groupe sii est au cœur de l'innovation au service de grands comptes dans des secteurs d'ingénierie variés. sii est fier de compter aujourd'hui 10 000 experts à travers 80 implantations dans le monde.
-
-animés de cette même passion pour la technologie et l'innovation, les collaborateurs sii peuvent exercer leur métier dans un cadre bienveillant, de proximité avec une dose de fun. ils intègrent le mouvement #fungenieur dans lequel la créativité et l'esprit d'équipe sont mis à l'honneur.
-
-au palmarès great place to work 2019, le groupe sii a également été labélisé happy candidate et meilleur employeur 2019 dans la catégorie high tech par le magazine capital. il est signataire de la charte de la diversité en entreprise. c'est une société handi-accueillante.
-
-suivez-nous sur les réseaux sociaux : facebook, linkedin, viadeo ou twitter !
-
-Profil recherché :
-tu aimes ton boulot de développeur et tu as une préférence pour le front. tu as déjà une première expérience sur un projet similaire.
-
-tu connais html, css, javascript, jquery, angular, react … (il n'est bien sûr pas obligatoire de tous les maitriser !).
-
-tu veux en savoir plus ? notre équipe de funrh sera ravie de te rencontrer et de t'en dire plus !
-
-au palmarès great place to work 2019, sii a également été labélisé happy candidate et meilleur employeur 2019 par la revue capital.
-
-le groupe sii est signataire de la charte de la diversité en entreprise et est une entreprise handi-accueillante
-
-#li-mr1
-JobinTree - il y a 3 jours
-- Continuer pour postuler
-Signaler cette offre d'emploi",13/10/2019,developer,Nantes,16/10/2019,vjk=658ec68cdebf59e5&advn=7736870941523477,vide,vide
+Signaler cette offre d'emploi",01/10/2019,developer,Nantes,16/10/2019,vjk=69f5a04c0f00ca40,confirmé,cdi
 Développeur front end (applications navales) H/F,NAVAL GROUP,Pays de la Loire,vide,"Pays de la Loire
 Nous recherchons un(e) Développeur front end (applications navales) H/F. Informations générales Organisation NOS PRODUITS SONT UNIQUES, VOTRE PARCOURS M RITE DE L'ETRE ! Naval Group, leader européen du naval de défense est l'un des rares industriels dans le monde capable de concevoir, réaliser et entretenir des systèmes aussi pointus qu'un sous-marin, un porte-avions ou un navire. Les projets complexes vous attirent et l'innovation est votre moteur? Rejoignez nos équipes et participez à la grande aventure du naval de défense ! Référence 2019-22708 Date de parution 30/09/2019 Description du poste Spécialité/Emploi Informatique produit - Concepteur logiciel Intitulé du poste Développeur front end (applications navales) H/F Description de la mission Filiale de Naval Group, Sirehna est située au sein du centre de RD du groupe à Bouguenais et développe des outils logiciels innovants d'aide à la conception, au traitement des données et au suivi de projet. Intégré(e) à l'équipe de développement, vous apportez vos compétences de développeur(euse) web, notamment en termes de : -Développement IHM / Front end, -User Experience (UX), -Homogénéisation et attractivité de la ligne de produits outils d'aide à la conception . Ces missions ne sont pas exhaustives et pourront évoluer dans le temps. Profil Issu(e) d'une formation supérieure (universitaire ou école d'ingénieur en génie logiciel, informatique), vous disposez d'une première expérience sur un poste similaire. Vous maîtrisez le langage Javascript et disposez de connaissances en C++, Python, Elm. Vous utilisez couramment Git (et éventuellement Docker) et êtes familier(e) des bases de données MySQL , PostGIS ou PostGres. Vous êtes également à l'aise avec les méthodes de développement actuelles (gestion de configuration, test-driven development, continuous integration, continuous delivery). Curieux(se) des nouvelles technologies logicielles et créatif(ve), vous êtes orienté(e) client, et appréciez améliorer continuellement l'expérience des utilisateurs de vos produits. Vos qualités d'écoute et votre capacité à analyser les besoins sont des atouts indéniables pour ce poste. Naval Group est convaincu que la diversité est une richesse pour l'entreprise et un atout pour sa performance. C'est pourquoi nous soutenons l'égalité entre les femmes et les hommes et favorisons l'insertion professionnelle, l'accès et le maintien dans l'emploi des personnes en situation de handicap. Type de contrat standard Durée indéterminée Date prévue de prise de fonction 01/04/2019 Catégorie Professionnelle Ingénieurs et Cadres Salaire min. annuel brut de base (en euros) nc Salaire max. annuel brut de base (en euros) nc Informations complémentaires Nombre de poste(s) à pourvoir 1 Localisation du poste Implantation géographique Europe, France, Pays de Loire, Nantes/Indret Société SIREHNA Niveau d'expérience min. requis 1 an et plus Niveau d'études min. requis Bac+5 / Ingénieur ou équivalent Domaines d'études Informatique / Système Information /Télécommunication Langues anglais (Courant)
 clicandsea.fr - il y a 14 jours
@@ -1764,6 +1908,38 @@ Si ce poste vous intéresse , postulez à cette annonce afin que Coralie Vegrevi
 il y a 30+ jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",16/09/2019,developer,Nantes,16/10/2019,vjk=4e803bde73ad17bb,vide,cdi
+Développeur Back-end Java H/F,TREPIA,Nantes (44),vide,"Nantes (44)
+CDI
+« C’est en repoussant les limites du progrès et de l’innovation que les projets les plus fous finissent par se réaliser !»Avec plus de 700 collaborateurs en France et dans ses filiales au Canada, aux USA, en Chine, en Pologne et en Espagne, le groupe Intitek conseille et accompagne ses clients dans leur transformation digitale autour de 3 branches métiers :•Intitek for Industry : Transport, santé, télécommunication, industrie militaire...•Intitek for Manufacturing : Conception, outils, tests•Intitek for People : Sites web, applications, objets connectésLe groupe Intitek réunit de multiples ressources et talents dont le quotidien consiste à repousser les limites du possible et développer des solutions numériques qui profitent à tous. Celles et ceux qui osent sont encouragés à libérer leur créativité afin de servir les desseins les plus ambitieux.Rejoignez-vous aussi le Happy Digital World !
+Poste
+Depuis la création de l’agence nantaise il y a un an et demi, l’activité grandit très rapidement dans l’Ouest ! Nous sommes aujourd’hui sollicités par un de nos clients pour intervenir sur un de ses projets structurants.
+Ainsi, au sein de d’une équipe travaillant en agilité, vous participerez au développement d’un middleware java. L’applicatif utilise une architecture micro-services et une usine DevOps est mise en place.
+Dans cette équipe, vous serez en charge de :
+Participer à la conception des US avec les Product Owners
+Développer le back office
+Faire l’intégration des développements
+Faire des tests de charges
+Profil recherché
+Nous recherchons avant tout un(e) passionné(e) du développement pour venir renforcer cette équipe en pleine croissance. Le premier projet nécessite un très bon niveau en développement Java et une connaissance du développement des web services. L’expérience en contexte de développement DevOps est un plus.Si cela vous intéresse, envoyez-nous votre candidature et rencontrons-nous !
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",16/09/2019,developer,Nantes,16/10/2019,vjk=ee50bc2ad5a6d10d,vide,cdi
+Développeur Back-end Java H/F,Intitek,Nantes (44),vide,"Nantes (44)
+CDI
+« C’est en repoussant les limites du progrès et de l’innovation que les projets les plus fous finissent par se réaliser !»Avec plus de 700 collaborateurs en France et dans ses filiales au Canada, aux USA, en Chine, en Pologne et en Espagne, le groupe Intitek conseille et accompagne ses clients dans leur transformation digitale autour de 3 branches métiers :•Intitek for Industry : Transport, santé, télécommunication, industrie militaire...•Intitek for Manufacturing : Conception, outils, tests•Intitek for People : Sites web, applications, objets connectésLe groupe Intitek réunit de multiples ressources et talents dont le quotidien consiste à repousser les limites du possible et développer des solutions numériques qui profitent à tous. Celles et ceux qui osent sont encouragés à libérer leur créativité afin de servir les desseins les plus ambitieux.Rejoignez-vous aussi le Happy Digital World !
+Poste
+Depuis la création de l’agence nantaise il y a un an et demi, l’activité grandit très rapidement dans l’Ouest ! Nous sommes aujourd’hui sollicités par un de nos clients pour intervenir sur un de ses projets structurants.
+Ainsi, au sein de d’une équipe travaillant en agilité, vous participerez au développement d’un middleware java. L’applicatif utilise une architecture micro-services et une usine DevOps est mise en place.
+Dans cette équipe, vous serez en charge de :
+Participer à la conception des US avec les Product Owners
+Développer le back office
+Faire l’intégration des développements
+Faire des tests de charges
+Profil recherché
+Nous recherchons avant tout un(e) passionné(e) du développement pour venir renforcer cette équipe en pleine croissance. Le premier projet nécessite un très bon niveau en développement Java et une connaissance du développement des web services. L’expérience en contexte de développement DevOps est un plus.Si cela vous intéresse, envoyez-nous votre candidature et rencontrons-nous !
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",16/09/2019,developer,Nantes,16/10/2019,vjk=d5b8c60f96b3c4ec,vide,cdi
 NANTES | Développeur Front - End - Angular H/F,Asys,Nantes (44),vide,"Nantes (44)
 Mission
 Dans le cadre de la réécriture de notre Front-End en Microservices, nous recrutons un(e) Développeur Front-end expérimenté et qui souhaite évoluer vers du Full-Stack pour renforcer une équipe de 8 personnes organisée en Feature Team Agile / Scrum.
@@ -1816,38 +1992,6 @@ Return true ;
 )
 il y a 30+ jours
 Signaler cette offre d'emploi",16/09/2019,developer,Nantes,16/10/2019,vjk=c7015ceb95c3cc1a,vide,vide
-Développeur Back-end Java H/F,TREPIA,Nantes (44),vide,"Nantes (44)
-CDI
-« C’est en repoussant les limites du progrès et de l’innovation que les projets les plus fous finissent par se réaliser !»Avec plus de 700 collaborateurs en France et dans ses filiales au Canada, aux USA, en Chine, en Pologne et en Espagne, le groupe Intitek conseille et accompagne ses clients dans leur transformation digitale autour de 3 branches métiers :•Intitek for Industry : Transport, santé, télécommunication, industrie militaire...•Intitek for Manufacturing : Conception, outils, tests•Intitek for People : Sites web, applications, objets connectésLe groupe Intitek réunit de multiples ressources et talents dont le quotidien consiste à repousser les limites du possible et développer des solutions numériques qui profitent à tous. Celles et ceux qui osent sont encouragés à libérer leur créativité afin de servir les desseins les plus ambitieux.Rejoignez-vous aussi le Happy Digital World !
-Poste
-Depuis la création de l’agence nantaise il y a un an et demi, l’activité grandit très rapidement dans l’Ouest ! Nous sommes aujourd’hui sollicités par un de nos clients pour intervenir sur un de ses projets structurants.
-Ainsi, au sein de d’une équipe travaillant en agilité, vous participerez au développement d’un middleware java. L’applicatif utilise une architecture micro-services et une usine DevOps est mise en place.
-Dans cette équipe, vous serez en charge de :
-Participer à la conception des US avec les Product Owners
-Développer le back office
-Faire l’intégration des développements
-Faire des tests de charges
-Profil recherché
-Nous recherchons avant tout un(e) passionné(e) du développement pour venir renforcer cette équipe en pleine croissance. Le premier projet nécessite un très bon niveau en développement Java et une connaissance du développement des web services. L’expérience en contexte de développement DevOps est un plus.Si cela vous intéresse, envoyez-nous votre candidature et rencontrons-nous !
-il y a 30+ jours
-- Continuer pour postuler
-Signaler cette offre d'emploi",16/09/2019,developer,Nantes,16/10/2019,vjk=ee50bc2ad5a6d10d,vide,cdi
-Développeur Back-end Java H/F,Intitek,Nantes (44),vide,"Nantes (44)
-CDI
-« C’est en repoussant les limites du progrès et de l’innovation que les projets les plus fous finissent par se réaliser !»Avec plus de 700 collaborateurs en France et dans ses filiales au Canada, aux USA, en Chine, en Pologne et en Espagne, le groupe Intitek conseille et accompagne ses clients dans leur transformation digitale autour de 3 branches métiers :•Intitek for Industry : Transport, santé, télécommunication, industrie militaire...•Intitek for Manufacturing : Conception, outils, tests•Intitek for People : Sites web, applications, objets connectésLe groupe Intitek réunit de multiples ressources et talents dont le quotidien consiste à repousser les limites du possible et développer des solutions numériques qui profitent à tous. Celles et ceux qui osent sont encouragés à libérer leur créativité afin de servir les desseins les plus ambitieux.Rejoignez-vous aussi le Happy Digital World !
-Poste
-Depuis la création de l’agence nantaise il y a un an et demi, l’activité grandit très rapidement dans l’Ouest ! Nous sommes aujourd’hui sollicités par un de nos clients pour intervenir sur un de ses projets structurants.
-Ainsi, au sein de d’une équipe travaillant en agilité, vous participerez au développement d’un middleware java. L’applicatif utilise une architecture micro-services et une usine DevOps est mise en place.
-Dans cette équipe, vous serez en charge de :
-Participer à la conception des US avec les Product Owners
-Développer le back office
-Faire l’intégration des développements
-Faire des tests de charges
-Profil recherché
-Nous recherchons avant tout un(e) passionné(e) du développement pour venir renforcer cette équipe en pleine croissance. Le premier projet nécessite un très bon niveau en développement Java et une connaissance du développement des web services. L’expérience en contexte de développement DevOps est un plus.Si cela vous intéresse, envoyez-nous votre candidature et rencontrons-nous !
-il y a 30+ jours
-- Continuer pour postuler
-Signaler cette offre d'emploi",16/09/2019,developer,Nantes,16/10/2019,vjk=d5b8c60f96b3c4ec,vide,cdi
 DÉVELOPPEUR FRONT-END (F/H),Expectra.fr,Nantes (44),vide,"Nantes (44)
 CDI
 Expectra, leader en France de l'intérim spécialisé et du recrutement en CDI de cadres et agents de maîtrise.
@@ -2127,6 +2271,7 @@ il y a 9 mois
 Signaler cette offre d'emploi",16/01/2019,developer,Nantes,16/10/2019,vjk=9d2847ab64fdf343,vide,cdi
 Développeur Full Stack H/F façon Nantaise,polymont,Nantes (44),vide,"Nantes (44)
 Prendre part à l’aventure Polymont IT Services, c’est se donner la possibilité d’évoluer dans un cadre dynamique où le partage et la bonne humeur rythment notre quotidien.
+
 Étape 1 :
 Prenez 550 collaborateurs Polymont IT Services,
 Répartissez-les sur les villes de Brest, Le Mans, Nantes, Niort, Lyon et Paris.
@@ -2137,20 +2282,16 @@ Enfin, versez un brin de bonne humeur, c’est ce qui fait toute la différence.
 Dans cette préparation aux couleurs du Digital, faites revenir ensemble de la MOA, de l’analyse, du développement NTIC, mainframe, de l’intégration, du test, de la gestion de projets et de l’Architecture. Adaptez les quantités en fonction des attentes de vos clients, parce qu’être humain, c’est aussi avoir à l’esprit que tout le monde n’a pas les mêmes attentes.
 Étape 3 :
 Pour que cette recette soit réussie, nous avons besoin de vous, de vos compétences techniques mais aussi de vos qualités personnelles car c’est ce savant mélange qui donne toute sa saveur à nos projets : une dimension humaine.
-Pour parfaire notre recette, nous recherchons actuellement un(e) développeur(euse) Full stack pour notre site de NANTES dont les missions seront les suivantes :
-Développement des US de la backlog : JEE, Angular 2+
-Tests unitaires et tests d’intégration
-Conception logicielle en lien avec le tech lead
-Force de proposition sur les solutions
-Développement Angular 5, intégration HTML/CSS
-Évidemment, de bonnes connaissances des ingrédients technologiques suivants sont indispensables à la bonne réalisation de notre recette : JavaScript (Angular, Node, react …) ainsi qu’un diplôme Bac+4/+5 et une passion pour un secteur du Digital en pleine expansion qui vous réserve encore bien des challenges à relever.
+Pour parfaire notre recette, nous recherchons actuellement un développeur Full stack pour notre site de NANTES dont les missions seront les suivantes :
+Développements Full-Stack Java sous architecture Rest et Soap sur des nouveaux projets
+Développement Front-End Javascript en AngularJS
+Évidemment, de bonnes connaissances des ingrédients technologiques suivants sont indispensables à la bonne réalisation de notre recette : JavaScript, AngularJS, REST, SOAP, ainsi qu’un diplôme Bac+3/5 et une passion pour un secteur du Digital en pleine expansion qui vous réserve encore bien des challenges à relever.
 Optimisme, sens du service, rigueur et sens du relationnel vous placeront au cœur de nos projets et de nos innovations.
 Déglacez le tout avec un process de recrutement pouvant être finalisé dans les 48H.
-
 Si participer à ce défi collectif vous met en appétit, faites nous parvenir votre candidature à l’adresse recrutement-ouest@polymont.fr.
 il y a 9 mois
 - Continuer pour postuler
-Signaler cette offre d'emploi",16/01/2019,developer,Nantes,16/10/2019,vjk=0a9e4e7ad5eb9da4,vide,vide
+Signaler cette offre d'emploi",16/01/2019,developer,Nantes,16/10/2019,vjk=3a9dd352a8942859,vide,vide
 Intégrateur / Développeur Front-End H/F,Images Créations,Nantes (44),vide,"Nantes (44)
 Note des lecteurs
 Rated 5 stars
@@ -2194,7 +2335,7 @@ La mission implique les activités suivantes :
 Développement Front-End : Développement de l’interface en qml/JavaScript,
 Développement Back-End : Développement de la partie calculs en C++,
 Rédaction de documentation technique et utilisateur,
-Concevoir, spécifier et exécuter des tests fonctionnels et techniques,
+Revues de code,
 Échanges avec l’équipe projet et suivi de la méthodologie de développement.
 Le projet est géré en méthode agile avec des sprints de 3 semaines.
 Le logiciel est développé sous Windows, avec l’outil Qt.

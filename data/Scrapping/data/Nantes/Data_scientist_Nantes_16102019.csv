@@ -55,8 +55,8 @@ Type d'emploi : CDI
 Salaire : 30 000,00€ à 50 000,00€ /an
 Expérience:
 ingénieur data scientist ou similaire: 2 ans (Souhaité)
-il y a 1 jour
-Signaler cette offre d'emploi",15/10/2019,Data_scientist,Nantes,16/10/2019,vjk=3d2de527d95de984,vide,cdi
+il y a 2 jours
+Signaler cette offre d'emploi",14/10/2019,Data_scientist,Nantes,16/10/2019,vjk=3d2de527d95de984,vide,cdi
 Machine Learning engineer (robotique / IA) H/F,EXTERNATIC,Nantes (44),vide,"Nantes (44)
 CDI
 DESCRIPTION DE L'OFFRE
@@ -161,9 +161,64 @@ Salaire min. annuel brut de base (en euros)
 nc
 Salaire max. annuel brut de base (en euros)
 nc
-il y a 13 jours
+il y a 14 jours
 - Continuer pour postuler
-Signaler cette offre d'emploi",03/10/2019,Data_scientist,Nantes,16/10/2019,vjk=c265b893c2b41e7a,vide,cdi
+Signaler cette offre d'emploi",02/10/2019,Data_scientist,Nantes,16/10/2019,vjk=c265b893c2b41e7a,vide,cdi
+Stage de pré-embauche : Machine Learning & Intelligence arti...,Smile,Nantes (44),vide,"Nantes (44)
+Stage
+SMILE
+Smile est le leader du ""sourire"" au travail mais aussi de l'intégration et de l'infogérance de solutions open source.
+Enthousiastes, agiles et performants, leur vocation est de libérer le potentiel d'innovation des entreprises, à travers l'open source.
+Ses smiliens experts accompagnent les entreprises dans des domaines aussi variés que le Digital, les Business Apps, l'Embarqué & l'IoT et l'Infrastructure.
+Ils sont plus de 1700 collaborateurs présents dans 7 pays, avec 15 agences réparties en France et à l'international.
+Le pôle Smile ECS (Embedded & Connected Systems) est un centre d’excellence entièrement dédié aux systèmes embarqués et objets connectés.
+Smile ECS s’impose comme le pôle de référence des métiers de l’embarqué en environnement Open Source.
+Nous sommes une équipe de passionnés de l’univers Open Source et participons à différents événements comme le Capitole du Libre ou le FOSDEM. Nous organisons également des Meet-Up sur différents sujets (Android AOSP, IoT, Linux Embarqué…).
+Nous alimentons régulièrement notre blog Linux Embedded, à travers différents articles rédigés par nos collaborateurs.
+INTITULÉ DU STAGE
+Évaluation & intégration des technologies de Machine Learning & Intelligence artificielle dans le contexte de l’embarqué.
+CONTEXTE
+Suite à une première étude sur les outils d’IA et ML, nous avons référencé un certain nombre d’outils à évaluer sur un système Linux embarqué (Tensorflow, Tensorflow light, PyTorch, dlib…). Cependant les outils comme Yocto ou Buildroot ne proposent pas encore ces outils car leur intégration nécessite une phase d’intégration (packaging) et d’upstreaming (contribution open-source).
+Les outils d’IA et ML peuvent utiliser l’accélération matérielle d’une carte graphique de PC de bureau (Cuda ou ROCm) pour améliorer la vitesse de calcul des algorithmes mis en oeuvre. Or ce type de matériel est rarement disponible sur les cibles Linux embarqué (type Rasberry Pi), à moins d’utiliser un matériel spécifique comme les TPU (Tensor Processing Unit). L’évaluation portera donc à la fois sur les technologies logicielles et matérielles.
+L’évaluation de ces technologies se fera dans le cadre d’une démo d'hypovigilance, c’est-à-dire la détection en temps réel de l’endormissement au volant d’une voiture. Une caméra dirigée vers le conducteur analyse le visage pour détecter les signes d’endormissement (le bâillement et la fermeture des paupières). En cas d’endormissement, le programme doit déclencher des dispositif pour réveiller le conducteur (son et message d'alerte).
+LES MISSIONS PROPOSÉES
+Le but de ce stage est d'évaluer les outils d’I/A & M/L à notre disposition, et de les intégrer aux projets Yocto et Buildroot, au travers de contributions Open Source.
+Le stagiaire devra choisir l’une des technologies suivantes pour évaluation :
+Tensorflow, Tensorflow light, dlib
+Python numpy, scipy, pytorch
+OpenVINO
+Clé usb Intel NCS2
+Blas, CLblas (blas + openCL), lapack, libflame
+Le stagiaire devra adapter la démo d’hypovigilance écrite en Python et dlib sur l’une des technologies choisie afin de réaliser un benchmark montrant l'efficacité de la solution.
+Ce résultat sera ensuite comparé au résultat obtenu avec la démo d'hypovigilance initiale.
+Ce travail sera réalisé par deux stagiaires en parallèle, chacun sur des technos différentes.
+TALENT RECHERCHÉ
+Formation requise
+Stage de fin d’études de master ou cycle d’ingénieur
+Connaissances souhaitées
+On aura le smile si tu disposes des connaissances suivantes :
+Bon niveau en C/C++ de préférence en environnement linux
+Bon niveau en Python
+Première expérience avec les cible embarqués type Rasberry Pi avec Yocto ou Buildroot
+Première expérience avec outils I/A & M/L
+Connaissance des outils de cross-compilation (gcc) & système de build (Make, CMake, autotools)
+Qualités personnelles
+Autonomie, curiosité, technique, rigueur
+TECHNOLOGIES UTILISÉES
+Linux embarqué, Yocto, Buildroot, Python, Tensorflow, Pytorch, autres technologies selon l’état de l’art.
+INFORMATIONS PRATIQUES
+Lieu du stage : Nantes
+Durée du stage : 6 mois, projet de fin d'études uniquement
+NOTRE PROMESSE EMPLOYEUR
+Possibilité de télétravail (en CDI)
+Moyenne d'âge de 31 ans
+Engagement écolo si tu viens en vélo
+2 jours de formations obligatoires par an (en CDI) et partenariats forts avec des solutions Open Source
+Type d'emploi : Stage
+Formation:
+Bac +5 (Master / MBA) (Requis)
+il y a 19 jours
+Signaler cette offre d'emploi",27/09/2019,Data_scientist,Nantes,16/10/2019,vjk=6adaf6e7fcb9801b,vide,cdi
 Stage de pré-embauche : Edge Machine Learning via Amazon Gre...,Smile,Nantes (44),vide,"Nantes (44)
 Stage
 SMILE
@@ -225,61 +280,6 @@ Formation:
 Bac +5 (Master / MBA) (Souhaité)
 il y a 20 jours
 Signaler cette offre d'emploi",26/09/2019,Data_scientist,Nantes,16/10/2019,vjk=062941ba25f1805c,vide,cdi
-Stage de pré-embauche : Machine Learning & Intelligence arti...,Smile,Nantes (44),vide,"Nantes (44)
-Stage
-SMILE
-Smile est le leader du ""sourire"" au travail mais aussi de l'intégration et de l'infogérance de solutions open source.
-Enthousiastes, agiles et performants, leur vocation est de libérer le potentiel d'innovation des entreprises, à travers l'open source.
-Ses smiliens experts accompagnent les entreprises dans des domaines aussi variés que le Digital, les Business Apps, l'Embarqué & l'IoT et l'Infrastructure.
-Ils sont plus de 1700 collaborateurs présents dans 7 pays, avec 15 agences réparties en France et à l'international.
-Le pôle Smile ECS (Embedded & Connected Systems) est un centre d’excellence entièrement dédié aux systèmes embarqués et objets connectés.
-Smile ECS s’impose comme le pôle de référence des métiers de l’embarqué en environnement Open Source.
-Nous sommes une équipe de passionnés de l’univers Open Source et participons à différents événements comme le Capitole du Libre ou le FOSDEM. Nous organisons également des Meet-Up sur différents sujets (Android AOSP, IoT, Linux Embarqué…).
-Nous alimentons régulièrement notre blog Linux Embedded, à travers différents articles rédigés par nos collaborateurs.
-INTITULÉ DU STAGE
-Évaluation & intégration des technologies de Machine Learning & Intelligence artificielle dans le contexte de l’embarqué.
-CONTEXTE
-Suite à une première étude sur les outils d’IA et ML, nous avons référencé un certain nombre d’outils à évaluer sur un système Linux embarqué (Tensorflow, Tensorflow light, PyTorch, dlib…). Cependant les outils comme Yocto ou Buildroot ne proposent pas encore ces outils car leur intégration nécessite une phase d’intégration (packaging) et d’upstreaming (contribution open-source).
-Les outils d’IA et ML peuvent utiliser l’accélération matérielle d’une carte graphique de PC de bureau (Cuda ou ROCm) pour améliorer la vitesse de calcul des algorithmes mis en oeuvre. Or ce type de matériel est rarement disponible sur les cibles Linux embarqué (type Rasberry Pi), à moins d’utiliser un matériel spécifique comme les TPU (Tensor Processing Unit). L’évaluation portera donc à la fois sur les technologies logicielles et matérielles.
-L’évaluation de ces technologies se fera dans le cadre d’une démo d'hypovigilance, c’est-à-dire la détection en temps réel de l’endormissement au volant d’une voiture. Une caméra dirigée vers le conducteur analyse le visage pour détecter les signes d’endormissement (le bâillement et la fermeture des paupières). En cas d’endormissement, le programme doit déclencher des dispositif pour réveiller le conducteur (son et message d'alerte).
-LES MISSIONS PROPOSÉES
-Le but de ce stage est d'évaluer les outils d’I/A & M/L à notre disposition, et de les intégrer aux projets Yocto et Buildroot, au travers de contributions Open Source.
-Le stagiaire devra choisir l’une des technologies suivantes pour évaluation :
-Tensorflow, Tensorflow light, dlib
-Python numpy, scipy, pytorch
-OpenVINO
-Clé usb Intel NCS2
-Blas, CLblas (blas + openCL), lapack, libflame
-Le stagiaire devra adapter la démo d’hypovigilance écrite en Python et dlib sur l’une des technologies choisie afin de réaliser un benchmark montrant l'efficacité de la solution.
-Ce résultat sera ensuite comparé au résultat obtenu avec la démo d'hypovigilance initiale.
-Ce travail sera réalisé par deux stagiaires en parallèle, chacun sur des technos différentes.
-TALENT RECHERCHÉ
-Formation requise
-Stage de fin d’études de master ou cycle d’ingénieur
-Connaissances souhaitées
-On aura le smile si tu disposes des connaissances suivantes :
-Bon niveau en C/C++ de préférence en environnement linux
-Bon niveau en Python
-Première expérience avec les cible embarqués type Rasberry Pi avec Yocto ou Buildroot
-Première expérience avec outils I/A & M/L
-Connaissance des outils de cross-compilation (gcc) & système de build (Make, CMake, autotools)
-Qualités personnelles
-Autonomie, curiosité, technique, rigueur
-TECHNOLOGIES UTILISÉES
-Linux embarqué, Yocto, Buildroot, Python, Tensorflow, Pytorch, autres technologies selon l’état de l’art.
-INFORMATIONS PRATIQUES
-Lieu du stage : Nantes
-Durée du stage : 6 mois, projet de fin d'études uniquement
-NOTRE PROMESSE EMPLOYEUR
-Possibilité de télétravail (en CDI)
-Moyenne d'âge de 31 ans
-Engagement écolo si tu viens en vélo
-2 jours de formations obligatoires par an (en CDI) et partenariats forts avec des solutions Open Source
-Type d'emploi : Stage
-Formation:
-Bac +5 (Master / MBA) (Requis)
-il y a 19 jours
-Signaler cette offre d'emploi",27/09/2019,Data_scientist,Nantes,16/10/2019,vjk=6adaf6e7fcb9801b,vide,cdi
 "Data Scientist en Pistage H/F - Naval Group, leader mondial...",Page Personnel FR,Nantes (44),vide,"Nantes (44)
 A ce titre, vos principales missions sont les suivantes :
 Etudier et réaliser une architecture des modules de pistage existants, puis réaliser des algorithmes en pistage et en trajectographie nouvelle génération,
@@ -453,8 +453,3 @@ Métier : Études et prospectives socio-économiques - Organisation et études -
 ouestfrance-emploi.com - il y a 17 jours
 - Continuer pour postuler
 Signaler cette offre d'emploi",29/09/2019,Data_scientist,Nantes,16/10/2019,vjk=279db3e527318963&advn=6679598084157165,vide,cdi
-Data Scientist en Pistage H/F,NAVAL GROUP,Pays de la Loire,vide,"Pays de la Loire
-Nous recherchons un(e) Data Scientist en Pistage H/F. Informations générales Organisation NOS PRODUITS SONT UNIQUES, VOTRE PARCOURS M RITE DE L'ETRE ! Naval Group, leader européen du naval de défense est l'un des rares industriels dans le monde capable de concevoir, réaliser et entretenir des systèmes aussi pointus qu'un sous-marin, un porte-avions ou un navire. Les projets complexes vous attirent et l'innovation est votre moteur? Rejoignez nos équipes et participez à la grande aventure du naval de défense ! Référence P2019-002033-1 Date de parution 01/10/2019 Description du poste Spécialité/Emploi Informatique produit - Responsable / Chargé de data science Intitulé du poste Data Scientist en Pistage H/F Description de la mission Naval Group, leader européen du naval de défense est l'un des rares industriels dans le monde capable de concevoir, réaliser et entretenir des systèmes aussi pointus qu'un sous-marin, un porte-avions ou un navire. Les projets complexes vous attirent et l'innovation est votre moteur ? Rejoignez nos équipes et participez à la grande aventure du naval de défense ! Intégré(e) à la Direction Innovation et Technologie et plus particulièrement au Département Algorithme et Architecture Avancée, vous travaillez sur la mise en place et l'évolution de chaînes de pistage au sein d'une équipe de 4 personnes. A ce titre, vos principales missions seront les suivantes: - Etudier et réaliser une architecture des modules de pistage existants puis réaliser des algorithmes en pistage et en trajectographie nouvelle génération, - Réaliser la veille technologique au niveau RD (participation à des salons, conférences), - Proposer et réaliser des sujets et études de RD (en lien avec les entités opérationnelles), - Assurer la réalisation d'études et d'expertise dans son domaine (sur sollicitation, sur réponse à ETO DGA,...) - Participer à la rédaction des réponses sur projets DGA (ASTRID, PST,...), européens (H2020)... Profil Vous êtes diplômé(e) idéalement d'un bac+5 spécialisé en mathématiques appliquées ou en statistiques et vous possédez une expérience dans le domaine industriel en tant que Data Scientist. La maîtrise de méthodes/langages/outils de traitement des données scientifiques sont des prérequis au poste (Matlab, Python). Des connaissances quant à la méthode des moindres carrés ainsi que l'utilisation du filtre de Kalman sont nécessaires. La notion des langages C, C++; Java serait un plus afin de faciliter l'intégration sur des systèmes complexes de nos algorithmes. Vous êtes une personne possédant un bon relationnel, et faites preuve de pugnacité et de proactivité. Vous êtes rigoureux et appréciez le travail en équipe, et la curiosité vous caractérisent. Ce poste est ouvert aux sites d'Indret et d'Ollioules. Type de contrat standard Durée indéterminée Date prévue de prise de fonction 01/10/2019 Catégorie Professionnelle Ingénieurs et Cadres Salaire min. annuel brut de base (en euros) nc Salaire max. annuel brut de base (en euros) nc Localisation du poste Implantation géographique Europe, France, Pays de Loire, Nantes/Indret Société NAVAL GROUP Niveau d'expérience min. requis 3 ans et plus Niveau d'études min. requis Bac+5 / Ingénieur ou équivalent Domaines d'études Mathématiques / Physique
-clicandsea.fr - il y a 12 jours
-- Continuer pour postuler
-Signaler cette offre d'emploi",04/10/2019,Data_scientist,Nantes,16/10/2019,vjk=152931693f8fa9b6&advn=5553230268879997,vide,stage

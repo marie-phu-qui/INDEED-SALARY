@@ -1,0 +1,588 @@
+Titre,Nom_Entreprise,Adresse,Salaire,Descriptif_du_poste,Date_de_publication,métier_sc,loc_sc,Date_sc,Identifiant,Experiences,contrat
+Data Engineer Manager,HAYS,Limonest (69),vide,"Limonest (69)
+CDI
+Notre client est un groupe indépendant, 100 % intégré, qui développe le capital client des entreprises, en activant une combinaison originale de talents et de technologies orientés performance. Créé en 2004, le groupe compte aujourd’hui 170 collaborateurs avec un chiffre d’affaires de 30 Millions d’€ et plus de 80 clients grands comptes comme Michelin, L'Oréal Professionnel, Xerox, SNCF, OSF...
+Missions et responsabilités :
+En tant que Responsable Data Analyst du site de Limonest, vous aurez à cœur de:
+– Manager votre équipe: assurer une disponibilité de proximité, une transparence dans les échanges, les animer au quotidien, favoriser la montée en compétences et le développement de chacun
+– Gérer et suivre les projets affectés à l’équipe dans un cadre qualitatif et d’optimisation continue
+– Travailler en collaboration avec les responsables projet et la Direction d’agence
+– Appréhender techniquement les besoins fonctionnels des clients
+Expérience, formation et compétences souhaitées :
+Diplômé d’une formation supérieure en informatique, vous disposez d’une expérience réussie dans un poste similaire en agence ou chez l’annonceur.
+Vous avez une connaissance approfondie de la gestion de projets informatiques, avec des finalités marketing
+Votre avez un leadership naturel et votre aisance relationnelle vous permet d’évoluer avec facilité dans un environnement multi-disciplinaire
+Vous maîtrisez le langage SQL et êtes familier(e) avec les bases de données
+Vous êtes à l’aise avec les méthodologies ETL, vous connaissez idéalement Python, Hive, la plateforme Cloudera
+Votre rigueur et votre sens de l’organisation vous permettent d’assurer une qualité au quotidien.
+Vous appréciez le partage du savoir, et la fédération de talents
+Votre engagement pour le client est un impératif de satisfaction
+Type d'emploi : CDI
+Salaire : 60 000,00€ à 80 000,00€ /mois
+il y a 23 heures
+Signaler cette offre d'emploi",Aujourd'hui,Data_engineer,Lyon,16/10/2019,vjk=2231eab4a3f731eb,vide,cdi
+Data Engineer F/H,LumApps,Tassin-la-Demi-Lune (69),vide,"Tassin-la-Demi-Lune (69)
+LumApps est une start-up française qui développe depuis 2015 un intranet social et collaboratif en mode SaaS officiellement recommandé par Google et élu solution innovante de l'année par Google Cloud.
+Avec une équipe d'une centaine de personnes réparties dans 7 agences (Lyon, Paris, Londres, New York, Austin, San Francisco, Tokyo), LumApps accompagne des entreprises comme Electronic Arts, Logitech, Veolia, Valeo, Air Liquide, Colgate-Palmolive, The Economist, Schibsted.
+Pour accompagner son développement à l'international, LumApps a levé 6 millions d'euros en juin 2017 puis 24 millions d'euros dans une série B en fin 2018.
+
+LumApps est divisé en plusieurs branches fonctionnelles. L'équipe Analytics, travaille sur un élément clef du produit: être capable de monitorer, améliorer et évaluer la santé du produit et de l'intranet de nos clients.
+Cette branche fonctionnelle a donc pour but de stocker un grand nombre de données et générer des indicateurs pour nos clients. Elle est aussi force de proposition pour satisfaire les ambitions en terme d'intelligence artificielle du produit.
+Travailler à LumApps dans l'équipe Analytics, c'est travailler dans une équipe dynamique, passionnée, qui va manger jour et nuit de la data afin d'avoir les meilleurs indicateurs du produit.
+Il s'agit à la fois de maîtriser le développement logiciel et les APIs REST pour servir le front-end, avoir une connaissance des outils de déploiement continu et de monitoring ainsi qu'une bonne expérience en data engineering.
+
+Les activités principales
+
+Développer, maintenir des pipelines de données
+Déploiement sur de multiples environnements cloud
+Modélisation et optimisation des modèles de donnée
+API Rest
+Profil recherché
+
+Python, Java souhaité
+Bonnes bases en SQL
+Connaissance des environnements cloud: GCP, Azure, AWS…
+Docker, Kubernetes est un plus
+Curieux et passionné, qui aime partager le savoir
+Stack technique
+
+Pipeline en Java à l'aide d'apache beam
+Calculs réalisés en python avec numpy pandas
+Base de donnée: big query, postgresql
+il y a 14 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",02/10/2019,Data_engineer,Lyon,16/10/2019,vjk=9bf24b6118dfce68,vide,vide
+Data Engineer F/H,flexjob,Lyon 8e (69),vide,"Lyon 8e (69)
+CDI
+CONTEXTE DU POSTE :
+L'entreprise connait une
+
+forte croissance
+
+au niveau de ces clients et utilisateurs de sa solution (partout à travers le monde). Le produit doit donc répondre à un enjeu de
+
+scalabilité
+
+car il a vocation à grandir ! (et supporter un plus grand nombre de données).
+
+L'équipe R&D,
+
+composée aujourd'hui d'un peu moins de 10 personnes (datascientists, développeurs backend et data engineer) cherche donc à s'agrandir, en intégrant une nouvelle personne pour sur la partie
+
+data engineering.
+
+TES MISSIONS :
+Participer au
+
+développement des composants de la solution,
+
+en utilisant le langage
+
+Go
+
+(des notions de Python et shell script sont également bienvenues) - (si tu ne connais pas encore Go, tu auras une formation dès ton arrivée pour la prise en main !);
+
+Travailler sur leur
+
+modèle de stockage
+
+de données qui stocke des années de trafic industriel réel dans
+
+PostgreSQL
+
+afin d’y détecter des anomalies;
+
+Mettre en place une
+
+infrastructure
+
+permettant d’héberger et exécuter des
+
+algorithmes de Machine Learning
+
+pour créer des
+
+détections innovantes d
+
+e cybersécurité;
+
+Optimiser
+
+leur composant de post-traitement de la donnée et tout mettre en œuvre pour assurer sa
+
+scalabilité
+
+Profil recherché TON PROFIL :
+Expérience significative en
+
+Go
+
+(dans l'idéal),
+
+C, C++
+
+ou
+
+Python
+
+Maitrise d’un
+
+SGBD-R
+
+(idéalement
+
+Postgres
+
+)
+
+Connaissances poussées de l’écosystème
+
+GNU/Linux
+
+Connaissance en
+
+architecture logicielle
+
+You feel at ease speaking in english within the workplace
+
+(you'll have to speak with your peers, spread accross the world).
+
+Entreprise TA FUTURE ENTREPRISE :
+Pionnière dans la
+
+cybersécurité industrielle,
+
+elle a pour ambition de de permettre aux infrastructures industrielles d’assurer la
+
+disponibilité
+
+, la
+
+résilience
+
+et la
+
+sécurité
+
+de leurs
+
+systèmes
+
+.
+
+Depuis
+
+2014
+
+, l'équipe compte aujourd'hui compte une 40aine de collaborateurs et continue de grandir à
+
+Lyon ainsi qu'à l'international.
+
+Leur solution principale est une
+
+plateforme de surveillance réseau
+
+qui détecte les
+
+intrusions et autres anomalies
+
+et qui fournit visibilité, intégrité et sécurité pour les systèmes de contrôle industriel. Elle est déployée dans les secteurs de l'énergie et utilités (eau/gaz) du manufacturing, des transports ou encore de l’automobile.
+Apec.fr - il y a 19 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",27/09/2019,Data_engineer,Lyon,16/10/2019,vjk=ece5d4592f9ef675,vide,cdi
+Data Engineer (H/F),Volvo Group,Lyon (69),vide,"Lyon (69)
+CDI
+INTRODUCTION
+Si vous pensez que les données ne sont pas utilisées à leur plein potentiel au sein de notre bureau d’études et si vous souhaitez changer ce paradigme, ce poste pourrait être une bonne opportunité pour vous.
+
+NOUS SOMMES VOS FUTUR(E)S COLLEGUES
+Notre équipe regroupe une quinzaine d’ingénieurs et techniciens qui ont pour mission de développer les moyens d’essais du laboratoire groupe motopropulseur dans les domaines suivants :
+Bases de données
+Logiciels d’analyse des données d’essais
+Automatisation des bancs moteurs et organes
+Moyens d’essais virtuels
+Systèmes électriques
+Nous imaginons le futur de notre centre d’essais à travers la digitalisation pour apporter toujours plus de valeur ajoutée à nos produits (moteurs thermiques, boites de vitesses, ponts, propulsions hybrides et électriques)
+DESCRIPTION DU POSTE
+Nos moyens d’essais, que ce soient des bancs de test ou des véhicules prototypes, produisent une quantité considérable de données que nous stockons pour être ensuite exploitées par l’ensemble des ingénieurs et data analysts du bureau d’études.
+Nous vous proposons
+d’être un(e) acteur(trice) majeur(e) de la création et de la maintenance de l’infrastructure informatique qui gère les données du centre d’essais, en collaboration avec notre service IT
+de proposer des solutions innovantes (machine learning) pour vérifier et structurer les données
+de travailler en étroite collaboration avec les data analystes du bureau d’études
+de participer au développement de nos outils d’analyses de données
+Le poste offre une dimension internationale car nous travaillons en étroite collaboration avec les autres sites du groupe Volvo (Suède, US, Brésil, Inde, Japon)
+QUI ETES-VOUS?
+Ingénieur(e) ou équivalent, généraliste, informatique, mathématiques ou statistiques, avec une spécialisation en data science
+Récemment diplômé(e) ou avec 2 ans d’expérience
+Proactif(ve) et ouvert(e) d’esprit, vous aimez vulgariser votre activité
+Forte orientation business et satisfaction client
+Vous maitrisez les langages informatiques suivants : C#, Python (pandas, scikit learn, seaborn), SQL
+Bon anglais indispensable
+Le saviez-vous? Entreprise handi’accueillante, Renault Trucks SAS s’engage depuis de nombreuses années en faveur de l’intégration professionnelle des personnes en situation de handicap.
+il y a 25 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",21/09/2019,Data_engineer,Lyon,16/10/2019,vjk=1fb4ce408d5887b7,vide,cdi
+Data Engineer,Silkhom,Lyon (69),vide,"Lyon (69)
+CDI
+En tant que Data Engineer, vous évoluerez selon les méthodologies Agile (Extreme Programming/Scrum) au sein d'une équipe composée de 6 personnes et aurez pour responsabilités :
+Extraire, uniformiser et structurer les données client
+Mettre en place des flux de données entre les systèmes
+Développer des nouvelles fonctionnalités sur les plateformes "" data tech "" & "" data décisionnelles ""
+Participer au développement de nouvelles applications
+Tester les applications, les faire évoluer et les maintenir
+Assurer une veille technologique sur les outils data
+Environnement de développement: Python, SaS, R, Power BI, Hive, Plateforme Cloudera, SQL
+Profil recherché
+– Vous êtes idéalement diplômé d’un bac +5 dans l’informatique
+– Vous avez une première expérience réussie sur un poste similaire
+– Vous maîtrisez le langage SQL et êtes familier(e) avec les bases de données
+– Vous êtes à l’aise avec les méthodologies ETL
+– Vous connaissez idéalement Python, Power BI, Hive, la plateforme Cloudera
+– Avoir évolué dans un environnement marketing où la gestion de données était un pré-requis est un plus !
+Compléments
+Lieu : Lyon
+Contrat : CDI
+Salaire : selon profil
+Si votre profil correspond, nous reviendrons vers vous dans les 7 jours à compter de la date d'envoi.
+il y a 25 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",21/09/2019,Data_engineer,Lyon,16/10/2019,vjk=def3b3623a30b4db,vide,cdi
+Responsable Data Engineer,Silkhom,Lyon (69),vide,"Lyon (69)
+CDI
+En tant que Data Engineer Manager, vous évoluerez selon les méthodologies Agiles (Extreme Programming/Scrum). Vous serez responsable d'une équipe de 6 personnes.
+Vous travaillerez en étroite collaboration avec les responsables projet et la Direction d'agence et les opérations pour assurer que les développements correspondent à leurs attentes en termes de qualité de service.
+Vos missions :
+Guider les équipes dans les choix techniques à utiliser
+Manager une équipe de 6 personnes
+Organiser et animer les réunions
+Assurer les livrables en termes de délais et de qualité
+Appréhender techniquement les besoins fonctionnels des clients
+Effectuer un reporting régulier à la direction
+Effectuer le recrutement de vos nouveaux collaborateurs
+Assurer une veille technologique sur les outils data
+Environnement de développement: Python, R, Power BI, Hive, Plateforme Cloudera, SQL
+Profil recherché
+– Vous êtes idéalement diplômé d’un bac +5 dans l’informatique
+– Vous avez une première expérience réussie sur un poste similaire
+– Votre avez un leadership naturel et votre aisance relationnelle
+– Vous maîtrisez le langage SQL et êtes familier(e) avec les bases de données
+– Vous êtes à l’aise avec les méthodologies ETL
+– Vous connaissez idéalement Python, R, Power BI, Hive, la plateforme Cloudera
+Compléments
+Lieu : Lyon
+Contrat : CDI
+Salaire : selon profil
+Si votre profil correspond, nous reviendrons vers vous dans les 7 jours à compter de la date d'envoi.
+il y a 25 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",21/09/2019,Data_engineer,Lyon,16/10/2019,vjk=961a81f8619f11ed,vide,cdi
+DATA ENGINEER TALEND F/H,Datalyo,Lyon (69),vide,"Lyon (69)
+Temps plein, CDI
+Depuis 2014 Datalyo accompagne la transformation digitale des organisations par son expertise data.
+Cabinet de conseil lyonnais et clermontois « pure player », nous réalisons des projets Big Data et Data
+Science afin d’apporter de la valeur aux entreprises de la région Auvergne-Rhône-Alpes. À l'opposé
+d'un modèle de société de service généraliste, Datalyo recrute des profils de spécialistes et met le bien-
+être de ses collaborateurs au cœur de sa démarche.
+Descriptif du poste
+Pour renforcer son équipe, DATALYO recrute un-e ingénieur-e data spécialisé-e sur l’ETL Talend. Au
+sein de notre équipe de spécialistes sur Talend, vous participerez à l'implémentation de système
+d’information inter-applicatif et BI pour les clients du cabinet à travers l’utilisation des technologies de
+l'écosystème Talend. Les principales tâches seront :
+participer à la conception et à l'implémentation de projets data orientés flux de données
+assurer une veille technologique sur les outils
+être force de proposition et de conseil auprès de nos clients.
+Rejoindre Datalyo c’est également :
+partager ses compétences au sein d’une équipe de passionnés
+contribuer à des événements techniques (salons, meetups, hackathon…)
+la possibilité de faire partie de notre équipe de formateurs
+Profil recherché
+De formation Bac +3 à Bac +5, organisé-e et pourvu-e d'un solide sens du service client vous avez au
+moins une année d’expérience sur des projets Talend. Les compétences requises sont :
+maîtrise de Talend for Data Integration (ETL)
+maîtrise d’au moins une autre brique de Talend, de préférence ESB ou Big Data
+bonne connaissance du SQL et des bases de données relationnelles (MySQL, PostgreSQL...)
+bonne connaissance du système d’information en général
+autonomie sur les systèmes d'exploitation Linux / Unix
+culture de l’open-source et sensibilité aux approches Craftsmanship
+Statut du poste : Cadre Salaire : Selon expérience
+Type de contrat : CDI Date de prise du poste : Dès que possible
+Temps de travail : Temps plein Localisation : Lyon
+Pour postuler envoyez vos CV et lettres de candidatures, par email seulement,
+à candidature@datalyo.com, en précisant dans l’objet le poste concerné.
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",16/09/2019,Data_engineer,Lyon,16/10/2019,vjk=4b9ce94552faea40,vide,cdi
+DATA ENGINEER CLOUD & BIG DATA F/H,Datalyo,Lyon (69),vide,"Lyon (69)
+Temps plein, CDI
+Depuis 2014 Datalyo accompagne la transformation digitale des organisations par son expertise data.
+Cabinet de conseil lyonnais et clermontois « pure player », nous réalisons des projets Big Data et Data
+Science afin d’apporter de la valeur aux entreprises de la région Auvergne-Rhône-Alpes. À l'opposé
+d'un modèle de société de service généraliste, Datalyo recrute des profils de spécialistes et met le bien-
+être de ses collaborateurs au cœur de sa démarche.
+Descriptif du poste
+Pour renforcer son équipe, DATALYO recrute un-e ingénieur-e spécialisé-e Big Data. Au sein d'une
+équipe pluridisciplinaire et dynamique, vous participerez à l'implémentation de socles technologiques
+de type Datalake pour les clients du cabinet. Les principales tâches sont :
+concevoir et implémenter des architectures Big Data dans le Cloud
+assurer une veille technologique sur les outils
+être force de proposition et de conseil auprès de nos clients
+Rejoindre Datalyo c’est également :
+partager ses compétences au sein d’une équipe de passionnés
+contribuer à des événements techniques (salons, meetups, hackathon…)
+la possibilité de faire partie de notre équipe de formateurs
+Profil recherché
+De formation Bac +5, école d’ingénieur ou master, organisé-e et pourvu-e d'un solide sens du service
+client, vous avez au moins une année d’expérience sur des projets Data dans un écosystème IT. Les
+compétences requises sont :
+maîtrise d’au moins l’un des langages suivants : Java, Scala ou Python
+maîtrise du SQL et des bases de données relationnelles (MySQL, PostgreSQL...)
+bonne connaissance des systèmes distribués et de leurs briques (Spark, MapReduce, Hive...)
+bonne connaissance d’une suite data dans le Cloud (GCP, AWS ou Azure)
+autonomie sur les systèmes d'exploitation Linux / Unix
+culture de l’open-source et sensibilité aux approches devops
+Statut du poste : Cadre Salaire : Selon expérience
+Type de contrat : CDI Date de prise du poste : Dès que possible
+Temps de travail : Temps plein Localisation : Lyon ou Clermont-Ferrand
+Pour postuler envoyez vos CV et lettres de candidatures, par email seulement,
+à candidature@datalyo.com, en précisant dans l’objet le poste concerné.
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",16/09/2019,Data_engineer,Lyon,16/10/2019,vjk=263c1f013b77fcd0,vide,cdi
+Data Engineer Junior (H/F),Atos,Lyon (69),vide,"Lyon (69)
+À propos d’Atos
+Atos est un leader international de la transformation digitale avec plus de 110 000 collaborateurs dans 73 pays et un chiffre d’affaires annuel de plus de 11 milliards d’euros. Numéro un européen du Cloud, de la cybersécurité et des supercalculateurs, le groupe fournit des solutions intégrées de Cloud Hybride Orchestré, Big Data, Applications Métiers et Environnement de Travail Connecté. Partenaire informatique mondial des Jeux Olympiques et Paralympiques, le Groupe exerce ses activités sous les marques Atos, Atos Syntel, et Unify. Atos est une SE (Société Européenne) cotée sur Euronext Paris et fait partie de l’indice CAC 40.
+La raison d’être d’Atos est de contribuer à façonner l’espace informationnel. Avec ses compétences et ses services, le groupe supporte le développement de la connaissance, de l’éducation et de la recherche dans une approche pluriculturelle et contribue au développement de l’excellence scientifique et technologique. Partout dans le monde, Atos permet à ses clients et à ses collaborateurs, et plus généralement au plus grand nombre, de vivre, travailler et progresser durablement et en toute confiance dans l’espace informationnel.
+
+Descriptif du poste
+
+Au sein d’Atos, la division Big Data & Security est responsable de la définition, de la conception et de la construction de plateformes et de solutions sécurisées Big Data.
+
+Vous interviendrez au sein d’une équipe jeune et dynamique en très forte croissance réalisant des activités allant du conseil en architecture et gouvernance de la donnée aux aspects Data analytiques et DataScience, en passant par la mise en place, l’intégration, le développement et l’optimisation de solutions souples et évolutives pour les projets stratégiques de nos clients. Notre valeur ajoutée repose sur une forte expertise technique et business de la data renforcée par de nombreux partenariats avec les éditeurs actifs dans les domaines des architectures applicatives distribuées et du Big Data & Analytics.
+
+L’équipe Big Data & Security a un esprit Start-Up de confiance, de partage et de collaboration et elle est fortement impliquée dans le programme WellBeing@Work.
+Dans le cadre de notre croissance et pour répondre aux nouveaux besoins de nos clients, nous recherchons à étoffer nos équipes Big Data en intégrant un data engineer confirmé.
+Au sein d’une équipe, et sous la responsabilité de managers confirmés, vous interviendrez en amont pour aider au choix d’outils et à la mise en place de solutions big data
+Vous mettrez en œuvre au sein de projets au forfait ou en régie pour nos clients :
+l’alimentation et la préparation des données,
+le scraping de données
+les traitements de la donnée afin d’en tirer de la valeur.
+La modélisation et implémentation des systèmes de gestion de la base des données (base SQL et/ou NoSql)
+
+Ce domaine technologique étant très dynamique, plus que des connaissances et des compétences techniques, vous devrez démontrer une réelle envie d’apprendre, de progresser et de se tenir à jour sur toutes les technologies et architectures
+
+Profil
+
+De formation supérieure en ingénierie informatique, vous avez une première expérience professionnelle sur des missions liées à la collecte et / ou analyse de la données.
+Vous êtes familier de l’écosystème Hadoop ( Hortonworks, Cloudera, MapR) et les bases NoSql ( MongoDB , Cassandra …)
+Vous maitrisez des outils / solutions d’ingestion tels que Talend , Kafka, Flume, Sqoop, Nifi ..
+Vous maitrisez un ou plusieurs des langages de programmation et outils suivants : Java / Sqoop / Scala / Spark / Pig / Python
+Vous êtes en veille permanente sur les innovations technologiques
+Vous disposez d’un niveau d’anglais opérationnel, à l’oral comme à l’écrit
+Une connaissance des Cloud Publics majeurs (Google Cloud Platform, Microsoft Azure, AWS, …) serait un plus appréciable.
+
+INFORMATIONS ADDITIONNELLES :
+Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi Atos a mis en place un accord relatif à l’égalité professionnelle entre les hommes et les femmes. Par ailleurs, nos métiers sont tous accessibles aux personnes en situation de handicap, et ce quelle que soit la nature de leur handicap.
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",16/09/2019,Data_engineer,Lyon,16/10/2019,vjk=4e158dbf54f532ba,junior,vide
+Data engineer F/H,Loyalty Company/ Kiss The Bride,Limonest (69),vide,"Limonest (69)
+Temps plein, CDI
+Kiss the Bride est une agence indépendante et passionnée du Groupe Loyalty Company, née de la rencontre entre data et créa. Installés entre Paris, la région Lyonnaise et Lilloise, nous sommes 180 collaborateurs à profiter de chaque occasion pour prouver notre amour pour l’innovation.
+Chez nous pas de routine, on aime les expériences originales. Que ce soit pour marier la data, la créa et la technologie ou pour rencontrer de nouveaux talents, on aime quand c’est surprenant. Alors si vous pensez avoir ce qu’il faut pour nous séduire, ce job est peut-être pour vous !
+Chez Kiss The Bride, nous imaginons le travail un peu comme le vivre ensemble. Nous développons un esprit familial dans une entreprise bienveillante et apportons beaucoup d’importance à l’épanouissement de chacun.
+Notre groupe s'engage à sélectionner ses candidats(es) sur la base de l'évaluation de leurs compétences et de leur potentiel et à ne pas discriminer.
+Vos missions
+Au sein du pôle Engineering & Logiciels de Kiss The Bride Lyon, vous rejoignez une petite équipe dynamique de 5 passionnés pour:
+Extraire, uniformiser et structurer les données de nos clients grands comptes
+Mettre en place des flux de données entre les systèmes
+Suivre opérationnellement les plateformes ""data tech"" et ""data décisionnelles""
+Participer au développement d'applications adaptées à l'infrastructure, les tester, les faire évoluer et les maintenir
+Assurer une veille technologique sur les outils data
+Coopérer avec les autres métiers de l'agence (data analyst, data scientist, chef de projet marketing, designer UX/UI, développeurs web...)
+Votre parcours
+Diplômé(e) d’une formation en informatique, vous disposez d'une première expérience réussie dans un poste similaire marqué par un environnement marketing fort où la gestion de données était un pré-requis.
+Vous maîtrisez le langage SQL et vous aimez évoluer dans un environnement de bases de données
+Vous êtes à l'aise avec les méthodologies ETL
+Idéalement vous connaissez Python, Hive, la plateforme Cloudera
+Vous avez une grande adaptabilité et appréciez de travailler en équipe.
+Votre rigueur et votre sens de l'organisation vous permettent d'assurer une qualité au quotidien.
+Votre esprit curieux facilite l'appropriation des nouveaux sujets et contribue à votre autonomie.
+Votre capacité à proposer des solutions pour satisfaire le client est reconnue.
+Poste non ouvert à l'alternance.
+Type d'emploi : Temps plein, CDI
+Expérience:
+data engineer f/h ou similaire: 2 ans (Requis)
+Formation:
+Bac +3 (Licence / Bachelor) (Souhaité)
+il y a 30+ jours
+Signaler cette offre d'emploi",16/09/2019,Data_engineer,Lyon,16/10/2019,vjk=06462dc5dfb87663,vide,cdi
+Data Scientist / Data Engineer F/H,Fives,Bron (69),vide,"Bron (69)
+emploi
+CortX, filiale du groupe Fives et au cœur de sa stratégie de développement digital, est une jeune start-up innovante dans le domaine du digital industriel, de l’IIOT et du traitement de données. Opérant à l’international, elle est spécialisée dans l’intelligence artificielle et plus particulièrement dans le développement de modèles prédictifs et de classification visant à optimiser la productivité des systèmes industriels et à en rationaliser la maintenance.
+Compétences requises
+Afin de renforcer notre équipe Data Science, nous recherchons nos futurs talents et plus particulièrement nous recrutons un(e) :
+Data Scientist / Data Engineer H/F spécialiste en traitement du signal
+
+
+Poste à pourvoir à Bron (69) près de Lyon;
+Au sein d’une équipe Data Science à l’état de l’art, vous travaillez en lien avec les filiales du groupe Fives afin de créer de l’intelligence à partir d’un grand volume de données industrielles. Au cœur de sujets critiques, vous permettez à ces filiales de créer de la valeur grâce à leurs données en proposant des solutions d’optimisation, de maintenance prédictive ou d’amélioration de la qualité produit.
+Vous aurez pour principales missions de mener, sur votre périmètre d'expertise, les activités suivantes :
+
+Réalisation et suivi de projet de Data Science (élaboration de modèles prédictifs, analyse avancée du signal, etc.),
+Pilotage de projets de valorisation de la donnée en mode agile,
+Veille technologique autour de la Data Science (maquettage, études, ...),
+Conseil en méthodologie et analyse.
+
+En tant que Data Scientist / Data Engineer, vous :
+
+Participerez à l'évaluation des besoins métiers en collaboration avec les différentes entités impliquées,
+Construirez des outils d’analyse pour collecter les données de sources multiples, qu’elles soient structurées ou non structurées,
+Gérerez et analyserez les données et en déduirez les modèles les plus adéquats à la problématique rencontrée,
+Rédigerez et présenterez les résultats obtenus aux métiers,
+Contribuerez à la consolidation du retour d'expérience en interne et à la communication auprès du groupe Fives, au travers d'articles sur les communautés Fives ou à l'occasion d'événements,
+
+Le poste offre la possibilité d'utiliser et de développer ses compétences techniques au travers de différents activités et contacts tous très enrichissants. Vous évoluerez au sein d'un environnement Big Data en pleine évolution, impliquant des projets innovants, concernant tous les métiers du groupe Fives (production et ingénierie, R&D, ...). Vous serez amené(e) à travailler en forte collaboration avec les filiales du groupe partout dans le monde.
+Expérience requise
+Vous êtes issue(e) d'un parcours type Ecole d’ingénieurs/ Master / PhD en Machine Learning ou équivalent. Vous disposez de fortes compétences en analyse des séries temporelles, principalement l’application des méthodes bayésiennes pour le traitement du signal. Vous maîtrisez les principaux algorithmes de Machine Learning, connaissez l'environnement Linux, maîtrisez les langages de programmation utilisés en Data Science (Python, R, ...), les méthodes et outils d'intégration continue (GIT, Jenkins) et les outils open source autour de la Data Science et de l'écosystème HADOOP (Spark, Kafka).
+
+La pratique de l'anglais est indispensable.
+
+
+Curieux(se) et disposé(e) à élargir votre champ de compétences à de nouvelles technologies, vous faites preuve de rigueur et êtes force de proposition sur l'amélioration des pratiques et les sujets à étudier.
+
+Doté(e) d'un bon relationnel, vous appréciez de travailler au sein d'un collectif et faites preuve d'un bon esprit d'entraide. Vous êtes reconnu(e) pour votre ouverture d'esprit, votre écoute et votre capacité à vous adapter à des contextes et interlocuteurs variés. Organisé(e), vous travaillez de manière autonome, tout en sachant solliciter de l'aide si nécessaire.
+
+Vous souhaitez rejoindre une jeune entreprise dynamique, ambitieuse et appartenant à un groupe international multidisciplinaire et êtes attaché à l’esprit Start-up ? Rejoignez-nous !
+Lieu de l'offre
+Bron, France
+Lieu où se trouve la société
+Fives Intralogistics S.A.
+Service
+Système d'information
+Type de poste
+CDI Temps plein
+il y a 9 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",16/01/2019,Data_engineer,Lyon,16/10/2019,vjk=9b2ced69fbacb71d&advn=4231780329593992,vide,cdi
+CDI - IT Data engineer H/F,bioMerieux,Craponne (69),vide,"Craponne (69)
+CDI
+Acteur mondial dans le domaine du diagnostic in vitro depuis plus de 55 ans, bioMérieux conçoit, développe, produit et commercialise des solutions de diagnostic (systèmes, réactifs, logiciels et services) destinées à des applications cliniques et industrielles, qui déterminent l'origine d'une maladie ou d'une contamination pour améliorer la santé des patients et assurer la sécurité des consommateurs.
+
+bioMérieux est présente dans 43 pays et sert plus de 160 pays avec un large réseau de distributeurs. Son siège social se situe à Marcy l’Etoile, près de Lyon, en France.
+
+Rejoindre les équipes de bioMérieux, c’est choisir une société innovante avec une vision long terme, engagée au service de la santé publique et portée par une culture d’entreprise humaniste.
+
+Nous recherchons des candidats dont la volonté est de s’investir dans des projets d’avenir, de participer à une aventure collective animée par un esprit pionnier.
+
+Nous avons la volonté d'offrir à nos collaborateurs un environnement de travail qui encourage l'esprit d'équipe, avec priorité donnée à la formation et des opportunités de développement de carrière à l'international.
+
+Notre Groupe offre de nombreuses perspectives d’évolution : rejoignez les 11 200 collaborateurs de bioMérieux qui se sont déjà reconnus dans ces valeurs !
+
+
+
+La Direction Globale des Systèmes d'Informa tion, recherche un(e) expert(e) Data Engineer souhaitant évoluer vers un rôle d’ Architect e de solution Big Data et Analytics .
+
+L’augmentation croissante de nos sources et volumes de données, l’évolution des technologies, et l’intérêt de nos métiers pour développer de nouveaux services , nous amènent à renforcer nos équipes avec des compétences orientées « Data »
+Dans le cadre de nouveaux projets métiers qu i se lancent, vous serez amené (e) à :
+Définir l'architecture technique à mettre en œuvre et la faire évoluer selon les besoins à adresser, développer avec les partenaires externes des solutions et architectures , et mettre en place l'organisation de support adaptée
+
+Développer son expertise en matière de données et qualité de s données pour les pipelines construit s
+
+Concevoir, construire et lancer de nouveaux modèles de données qui fournissent une analyse intuitive
+
+Concevoir et développer de nouveaux systèmes et outils pour con sommer et compre ndre les données plus rapidemen t
+
+Clarifier l'organisation des équipes Systèmes d'Informations pour faire face aux enjeux, ainsi que les compétences nécessaires à intégrer
+
+Coordonner avec les équipes métiers les activités liées à la mise en œuvre des solutions et leurs évolutions
+
+Gérer le cycle de vie des plateforme s "" Big Data & Analytics "", en tenant compte des nouveaux besoins métiers, mais aussi des éléments d'obsolescence des composants.
+Vous serez intégré(e) à l'équipe Business Intelligence de la DSI, afin de bénéficier d'un socle de plateformes et de solutions déjà utilisées chez bioMérieux (HANA, Tableau)
+Qualifications
+L’architecte connait les techniques de modélisation des données , il a également une solide maîtrise et compréhension des ETL , et de la gestion des volumes de données importants.
+Vous maitrisez les langages de développement : Python / Java / PHP et SQL les principales technologies de big data en terme de base de données NoSQL (MongoDB, Cassandra ou Redis), d’infrastructures serveurs (Hadoop, Spark) et de stockage de données en mémoire (Memtables).
+Votre bagage technique vous permet de prendre de la hauteur et d’avoir un esprit d’analyse pour identifier les besoins et contraintes des clients et savoir proposer une réponse mesurée et adaptée.
+
+Vous êtes curieux des architectures Big Data et des nouveautés technologiques facilitant les services associés (Hadoop, Spark)
+
+Votre culture d’architecte et votre maîtrise des rôles d’une plateforme data vous permettent de proposer des solution innovantes, de les décliner dans des offres commerciales et de les présenter à nos clients.
+Vous possédez une approche Agile et connaissance des principes DevOps Plateformes Cloud type AWS, voire SAP CP
+
+De par votre expertise et votre culture autour de la Data (solutions de traitement de la donnée, conception des architectures, mise en oeuvre, production) vous êtes en mesure de produire des préconisations argumentées.
+
+Vous avez les épaules solides pour endosser un rôle de pilier dans l’équipe avec des tâches d’encadrement, de suivi de mise en oeuvre, d’évangélisation sur de nouvelles méthodes et outils et veille technologique. Vous êtes un chef d'orchestre et parlez aussi bien aux techniques qu'aux métiers.
+
+Votre bagage technique vous permet de prendre de la hauteur et d’avoir un esprit d’analyse pour identifier les besoins et contraintes des clients et savoir proposer une réponse mesurée et adaptée.
+
+Lieu principal
+: EMEA-EMEA-FR-Auvergne-Craponne
+Publication d'offre
+: 28 août 2019, 02:57:18
+Equipe
+: Equipe de jour
+Type de contrat
+: CDI
+Déplacements
+: Oui, 10 % du temps
+il y a 4 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",16/06/2019,Data_engineer,Lyon,16/10/2019,vjk=a6e4c5d5eb54adfc,vide,cdi
+Data Engineer Senior H/F (Lyon),Keyrus,Lyon (69),vide,"Lyon (69)
+CDI
+Qui sommes-nous ? Une success story dans la Data et le Digital !
+Notre mission ? Des projets à forte valeur ajoutée pour accroître la performance et la compétitivité des entreprises, faciliter et accélérer leur transformation.
+Notre expertise depuis plus de 20 ans ? Le conseil et l'intégration de solutions innovantes autour de trois domaines :
+Data Intelligence Business Intelligence et Big Data & Analytics
+Digital Experience Conseil, Stratégie & Performance Digitales
+Conseil en Management & Transformation Pilotage de la Performance & Accompagnement des Projets
+Nous sommes plus de 3200 talents sur plus de 18 pays et 4 continents. Notre ADN ? Innover et entreprendre.
+Votre mission
+Dans le cadre du développement de notre practice « Big Data & Analytics » (20 consultants actuellement), nous cherchons à nous renforcer avec un profil Data Engineer ayant plus de 5 années d’expériences en tant que développeur ou leader technique.
+Il s’agit de venir compléter une équipe composée de data scientist, architectes, data engineer, chefs de projet afin d’accélérer sur l’industrialisation de nos projets clients big data & analytics.
+Vous devez posséder des compétences technologiques fortes : capacité de développements dans des langages objet ou fonctionnel (Python / Java / C++…) et des connaissances en architecture de stockage de la donnée. Vous évoluez dans des équipes de développement utilisant différentes solutions de collaborative programming / DevOps (pair programming, git, slack, trello, jira…).
+Vous assurerez une veille technologique et pourrez être amené à animer des ateliers techniques en interne Keyrus ou auprès de clients.
+Vous êtes perçu comme un référent qui aime partager ses connaissances à ses collègues : bienveillance, expertise, vulgarisation, bonnes pratiques. Vous prendrez une position de référent sur les problématiques d’industrialisation tout au long d’un projet (test, recette, pré-prod, prod).
+Dans un secteur en pleine mutation, vous avez le goût pour les échanges et proposer de nouvelles solutions. Votre proactivité est reconnue et saura s’épanouir dans l’environnement Keyrus. Vous interviendrez pour renforcer nos offres actuelles et sur des missions de conseils en développement ou industrialisation chez nos clients en régions (principalement en région lyonnaise). Vous serez en très forte interaction avec les autres profils « Data Scientist » (dataminer, statisticiens, modélisation mathématique,…) de la practice.
+
+
+Votre profil
+Vous disposez d’au moins 5 ans d’expériences dans le domaine du conseil ou au sein d’une équipe de développement avec - a minima - une expérience concrète d’industrialisation de vos développements, éventuellement dans un environnement technologique Big Data.
+Vous avez de solides compétences en langages de programmation tels que Python, Java ou C++. Vous connaissez les concepts d’architecture de stockage de la donnée (MySQL, Hadoop, Impala, SolR, Elastic, NoSQL : Cassandra, HBase, MongoDB…).
+Vous maîtrisez des solutions de collaborative programming / DevOps (pair programming, docker, git, slack, trello, jira…).
+Une expérience pour les Analytics ou algorithmes de Machine Learning serait un plus.
+L’anglais est requis pour ce poste.
+Vous avez une posture « conseil » avec des qualités telles que : bienveillance, agilité, créativité, capacité de travail en équipe, implication, autonomie, capacité de vulgarisation des approches complexes / techniques, rigueur, aisance orale et écrite, esprit entrepreneurial.
+
+POURQUOI NOUS REJOINDRE ?
+Pour intégrer une communauté d’experts curieux et passionnés et évoluer dans un environnement multiculturel, formateur et favorisant la mobilité internationale.
+Nos maitres mots sont AGILITE, EXPERTISE, DIVERSITE.
+Parce que vous êtes #DataGeek, #DigitalAddict, #InnovationLover !
+Keyrus est une entreprise où il fait bon vivre et travailler !
+Découvrez :
+> La vie chez Keyrus en 60 sec
+> Keyrus en 3 mots
+> Nos animations pour nos collaborateurs sur Facebook et sur Instagram.
+il y a 10 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",16/12/2018,Data_engineer,Lyon,16/10/2019,vjk=d1feb27f63e35218,senior,cdi
+Data Engineer SQL et MSBI F/H,Lincoln,Auvergne-Rhône-Alpes,vide,"Auvergne-Rhône-Alpes
+CDI
+Dans le cadre d’un projet pour la direction SI de l’un de nos clients dans le secteur des télécommunications, nous recherchons un(e) consultant(e) Data Engineer ayant de bonnes connaissances sur SQL et MSBI.
+Vos missions seront les suivantes:
+Conception technique et développement (architecture et modélisation interne, développements SQL, développement shell Linux, tests unitaires et d’intégration et campagnes de tests)
+Développement de reporting MSBI (développements / recette des cubes SSAS et des rapports SSRS, préparation de la mise en production, support et maintenance des cubes et rapports, configuration et gestion SSMS et suivi du portail web SSRS
+
+Profil et compétences
+Que vous soyez issu(e) d’un cycle d’ingénieur ou d’un Master spécialisé, vous avez mis en pratique vos connaissances pendant au moins 1 an sur les rapports et cubes MSBI ainsi que sur le langage shell et avez au moins 3 ans de pratique sur le langage SQL.
+Vous savez faire preuve de rigueur, êtes force de proposition et avez un esprit d’équipe. D’excellentes aptitudes en communication orale et écrite sont indispensables.
+Le poste est à pourvoir immédiatement à Lyon.
+Pourquoi nous rejoindre ?
+
+L’accompagnement de proximité : Vous êtes encadré par un business manager, interlocuteur privilégié, garant de votre évolution de carrière.
+Lincoln Institute : qu’elles soient techniques ou métiers, nos formations vous permettent de poursuivre votre montée en compétences. Lincoln vous offre aussi l’opportunité de devenir formateur sur vos domaines d’expertise.
+Le Data Lab : Véritable Pôle R&D Data, le Lab a pour vocation d’animer la communauté interne et de faire émerger des initiatives innovantes.
+Les afterworks : Après avoir créé un modèle statistique ou développé une application de Dataviz, quoi de mieux qu’un afterwork ? Véritable moment d’échange et de partage, ils nous permettent de rester connectés !
+Les challenges/Kaggle : L’esprit Data est omniprésent chez Lincoln. Les challenges proposés vous permettront de vous former sur des nouvelles technologies, seul ou en équipe, et d’apprécier un moment convivial jumelé de challenge !
+il y a 7 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",16/03/2019,Data_engineer,Lyon,16/10/2019,vjk=f9b146aea0e8be45,vide,cdi

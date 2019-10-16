@@ -350,7 +350,7 @@ def Recup_type_contrat(string):
     apprentissage = 'apprentissage'
     contrat_pro = 'contrat pro'
     interim = 'intérim'
-    freelance_independant = 'freelance / indépendant'
+    freelance_independant = '(?:)(?:freelance|indépendant|independant|independent)'
     
     if re.search(cdi,string):
         string = 'cdi'
@@ -440,7 +440,7 @@ try:
     cols = df.columns
     data = data[cols]
     df = pd.concat([df,data],axis=0)
-    df = df.drop_duplicates(subset=['Identifiant','Titre'], keep="first")
+    df = df.drop_duplicates(subset=['Identifiant','Titre'], keep="last")
     db.indeed_jobs.drop()
     collection = db.indeed_jobs.insert_many(df.to_dict('records'))
     
