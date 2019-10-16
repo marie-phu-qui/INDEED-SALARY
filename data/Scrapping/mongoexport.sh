@@ -1,2 +1,2 @@
 # exporte le csv complet depuis mongoDB
-mongoexport --db tech_jobs --collection indeed_jobs --type=csv --out=/data/complete/indeed_jobs.csv --fields=_id,Titre,Nom_Entreprise,Adresse,Salaire,Descriptif_du_poste,Data_de_publication,métier_sc,loc_sc,Date_sc,Identifiant,Experiences,contrat
+mongoexport --db tech_jobs --collection indeed_jobs --type=csv --fields=_id,Titre,Nom_Entreprise,Adresse,Salaire,Descriptif_du_poste,Data_de_publication,métier_sc,loc_sc,Date_sc,Identifiant,Experiences,contrat --out=./data/complete/indeed_jobs.csv

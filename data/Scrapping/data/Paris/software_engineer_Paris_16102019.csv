@@ -1,0 +1,377 @@
+Titre,Nom_Entreprise,Adresse,Salaire,Descriptif_du_poste,Date_de_publication,métier_sc,loc_sc,Date_sc,Identifiant,Experiences,contrat
+Ingénieur Logiciel Intégration Continue F/H,AREALTI,Nozay (91),vide,"Nozay (91)
+CDI
+Notre client propose une gamme complète de solutions & services de transmission optique pour les réseaux terrestres et sous-marins et développe, industrialise et assure la maintenance des systèmes de câbles sous-marins de toutes tailles et configurations déployés à travers les mers.
+
+Descriptif de la mission :
+Au sein du département LNS, l’équipe « Tools » étudie et conçoit des outils logiciels, en particulier de simulation, pour les besoins des équipes R&D. Elle fournit également des services :
+
+de gestion des spécifications,
+
+de développement logiciel et d’intégration continue,
+
+de gestion des tests.
+
+Vous participerez :
+aux évolutions et à l’administration des services existants ainsi qu’à la mise en place de nouveaux services.
+
+à la conception et au développement de nouveaux outils logiciels
+Profil recherché De formation Ingénieur ou équivalent, vous justifiez d'au moins 3 ans d'expérience sur un poste similaire :
+
+Environnement système : Linux Redhat, VM Linux, Docker, Windows
+
+Environnement développement : Eclipse, IntelliJ.
+
+Développement : Java, Kotlin, Python, MySQL, MariaDB, Javascript, HTML, PHP, Perl, shell scripting.
+
+Réseau : TCP/IP, SSH, SSL, (S)FTP, HTTP(S), LDAP(S).
+
+Méthodologie : Integration Continue.
+
+SCM / Build : Git (admin), Clearcase, Teamcity (admin), Artifactory (admin), Yocto, Bitbake, Gradle.
+
+Outils : JIRA, Requirement Management.
+
+Anglais
+Entreprise ARealTI basée à St Quentin en Yvelines, au cœur de la technopole de l’Ouest parisien, opère à proximité des grands acteurs des Télécommunications, de l’Aéronautique, de la Défense et des Multimédias.
+
+Comptant plus de 50 collaborateurs présents sur la région île de France et en région PACA, son activité se caractérise notamment par une forte technicité et une expertise éprouvée dans les systèmes embarqués et fortement contraints.
+Apec.fr - il y a 11 heures
+- Continuer pour postuler
+Signaler cette offre d'emploi",Aujourd'hui,software_engineer,Paris,16/10/2019,vjk=ce8a11b4063db781,vide,cdi
+Ingénieur logiciel F/H,STUDIA,Paris 18e (75),vide,"Paris 18e (75)
+CDI
+Description du poste
+
+La BU Studia DIGITAL IMNET est spécialisée dans les domaines de la Gestion Electronique de Documents, de la Gestion de la Relation Clients et du Conseil en Innovation.
+
+A la fois éditeur d’un logiciel de GED et intégrateur de solutions, partenaire majeur d’Oracle sur son offre GRC (Gestion de la Relation Client) Oracle Service Cloud, IMNET accompagne historiquement les administrations, banques, mutuelles et à présent toutes les entreprises de tous secteurs d’activité dans la mise en place de solutions de gestion de contenu et multicanal.
+
+La BU Studia DIGITAL IMNET propose des solutions de haut niveau dans la gestion globale des contenus.
+
+L’appartenance à un groupe de 400 personnes, confère à la BU Studia DIGITAL IMNET, la possibilité d’intervenir sur les composantes gestions de contenu, conseil, solution de ses clients.
+
+Pour appuyer notre croissance, nous cherchons à renforcer notre Département R&D.
+
+Votre mission si vous l'acceptez:
+Au sein du Département Pilotage des projets, vos missions sont :
+
+En véritable référent(e) technique back end, vous effectuez une veille technologique, et êtes force de proposition, afin de guider et soutenir vos collègues.
+
+Vous participez à l’ensemble de la méthodologie de développement établi avec le client, cycle en V, agile etc…
+
+Vous participez à l’ensemble des phases, de conception et de développement :
+
+Analyse,
+
+Evaluation / choix des solutions d’implémentation,
+
+Répartition des tâches
+
+Développement,
+
+Coordination/support
+
+Vous avez envie de projets innovants et de la satisfaction de la réussite en équipe.
+
+Vous voulez régulièrement progresser dans votre niveau d’expertise et de maitrise pour des responsabilités accrues au sein de nos équipes.
+
+Profil recherché Votre profil :
+De formation Bac + 5 type école d’ingénieurs ou équivalent universitaire, vous bénéficiez d’une expérience minimale de 5 ans sur de l’expertise backend.
+
+Compétences techniques requises :
+Java / J2EE, Spring, Hibernate
+WebServices (REST, JSON)
+Git, Maven
+Au gré de vos aspirations techniques, vous pouvez être amené à développer vos éventuelles aptitudes d'architecte au sein de nos projets.
+
+Vous avez par ailleurs le savoir-être nécessaire pour assurer le collaboratif sur des projets innovants :
+
+Vous êtes reconnu (e) pour votre excellent sens du travail en équipe.
+
+Vous recherchez un poste à responsabilité technique ainsi qu’une grande autonomie dans les travaux à mener.
+
+Vous êtes curieux intellectuellement, exigeant(e) et doté(e) d’une forte capacité d’adaptation et êtes motivé(e) par la réussite et par le respect des engagements.
+
+Qui sommes-nous ?
+
+Studia (www.studia.fr), depuis sa création, œuvre continuellement vers une société sans papier, une planète propre sans sacrifier le bien-être de l’être humain, vers une société et un mode de vie qui respecte la nature et l’environnement. Pour contribuer à cette démarche, nous mettons à la disposition des entreprises une panoplie de produits et de services innovants pour dématérialiser leurs process métiers.
+
+Nous proposons des solutions innovantes à nos clients dans la gestion du document, des données métiers, de l’information et de la connaissance. A cet effet, « l’humain » est notre force, tandis que nos Produits & Services évoluent continuellement pour exploiter les possibilités technologiques des architectures web et du monde de l’IA.
+Entreprise Faire de la révolution numérique une réalité au service de tous, c’est le quotidien des consultants qui constituent le Groupe Studia. Avec près de 400 collaborateurs en France, nous sommes un acteur majeur de la gestion de l’information documentaire auprès de nombreux grands comptes.
+
+Studia,
+
+depuis sa création, œuvre continuellement vers une société sans papier, une planète propre sans sacrifier le bien-être de l’être humain, vers une société et un mode de vie qui respecte la nature et l’environnement. Pour contribuer à cette démarche, nous mettons à la disposition des entreprises une panoplie de produits et de services innovants pour dématérialiser leurs process métiers.
+
+Nous proposons des solutions innovantes à nos clients dans la gestion du document, des données métiers, de l’information et de la connaissance. A cet effet, « l’humain » est notre force, tandis que nos Produits & Services évoluent continuellement pour exploiter les possibilités technologiques des architectures web et du monde de l’IA.
+Apec.fr - il y a 23 heures
+- Continuer pour postuler
+Signaler cette offre d'emploi",Aujourd'hui,software_engineer,Paris,16/10/2019,vjk=6ad424b1d17953e2,vide,cdi
+Ingénieur Logiciel Junior – C++/C# F/H,KELENN TECHNOLOGY,Igny (91),vide,"Igny (91)
+CDI
+Afin de renforcer son équipe, KELENN Technology recrute un ingénieur logiciel junior. Rattaché au Responsable Informatique, Votre mission consistera à :
+
+Concevoir des logiciels en C++ et C# dans le cadre de projets innovants dans les domaines de l’impression 2D et 3D.
+
+Participer à la réflexion et à la construction de nouvelles architectures
+
+Maintenir un haut niveau de qualité
+
+Avoir une bonne communication avec les clients
+Profil recherché De formation Bac+5, vous avez de solides connaissances dans les technos : C, C++, C# (WPF), BDD, informatique temps réel
+
+Connaissances en administration système
+
+Vous êtes autonome, passionné, pro-actif, rigoureux et honnête
+
+Vous aimez les challenges et une ambiance de travail décontracté
+
+Vous avez
+
+une bonne maîtrise de l’anglais
+
+pour nos projets internationaux
+
+Prévoir un à deux déplacement par an à l'international.
+Entreprise Qui sommes-nous ?
+
+KELENN Technology est un éditeur de logiciel dédié à l’industrie d’impression jet d'encre 2D et 3D, de vision automatique, de tracking. Nos solutions, utilisées par des acteurs majeurs de l’industrie, mettent en œuvre des développements avancés au service de l’optimisation de la production. KELENN est une société sans la contrainte d’actionnaires extérieurs et avec une politique de recherche et développement soutenue : à hauteur de 50 % de son chiffre d’affaires. Nous évoluons en permanence en fonction des besoins, envies, et idées collectives.
+Apec.fr - il y a 23 heures
+- Continuer pour postuler
+Signaler cette offre d'emploi",Aujourd'hui,software_engineer,Paris,16/10/2019,vjk=daf534cdbbea5249,junior,cdi
+Ingénieur logiciel F/H,Groupe Studia,Paris 18e (75),35 000 € - 45 000 € par an,"Paris 18e (75)
+Temps plein, CDI
+35 000 € - 45 000 € par an
+La BU Studia DIGITAL IMNET est spécialisée dans les domaines de la Gestion Electronique de Documents, de la Gestion de la Relation Clients et du Conseil en Innovation.
+A la fois éditeur d’un logiciel de GED et intégrateur de solutions, partenaire majeur d’Oracle sur son offre GRC (Gestion de la Relation Client) Oracle Service Cloud, IMNET accompagne historiquement les administrations, banques, mutuelles et à présent toutes les entreprises de tous secteurs d’activité dans la mise en place de solutions de gestion de contenu et multicanal.
+La BU Studia DIGITAL IMNET propose des solutions de haut niveau dans la gestion globale des contenus.
+L’appartenance à un groupe de 400 personnes, confère à la BU Studia DIGITAL IMNET, la possibilité d’intervenir sur les composantes gestions de contenu, conseil, solution de ses clients.
+Pour appuyer notre croissance, nous cherchons à renforcer notre Département R&D.
+Votre mission si vous l'acceptez:
+Au sein du Département Pilotage des projets, vos missions sont :
+En véritable référent(e) technique back end, vous effectuez une veille technologique, et êtes force de proposition, afin de guider et soutenir vos collègues.
+Vous participez à l’ensemble de la méthodologie de développement établi avec le client, cycle en V, agile etc…
+Vous participez à l’ensemble des phases, de conception et de développement :
+Analyse,
+Evaluation / choix des solutions d’implémentation,
+Répartition des tâches
+Développement,
+Coordination/support
+Vous avez envie de projets innovants et de la satisfaction de la réussite en équipe.
+Vous voulez régulièrement progresser dans votre niveau d’expertise et de maitrise pour des responsabilités accrues au sein de nos équipes.
+Votre profil :
+De formation Bac + 5 type école d’ingénieurs ou équivalent universitaire, vous bénéficiez d’une expérience minimale de 5 ans sur de l’expertise backend.
+Compétences techniques requises :
+- Java / J2EE, Spring, Hibernate
+- WebServices (REST, JSON)
+- Git, Maven
+Au gré de vos aspirations techniques, vous pouvez être amené à développer vos éventuelles aptitudes d'architecte au sein de nos projets.
+Vous avez par ailleurs le savoir-être nécessaire pour assurer le collaboratif sur des projets innovants :
+Vous êtes reconnu (e) pour votre excellent sens du travail en équipe.
+Vous recherchez un poste à responsabilité technique ainsi qu’une grande autonomie dans les travaux à mener.
+Vous êtes curieux intellectuellement, exigeant(e) et doté(e) d’une forte capacité d’adaptation et êtes motivé(e) par la réussite et par le respect des engagements.
+Qui sommes-nous ?
+Studia (www.studia.fr), depuis sa création, œuvre continuellement vers une société sans papier, une planète propre sans sacrifier le bien-être de l’être humain, vers une société et un mode de vie qui respecte la nature et l’environnement. Pour contribuer à cette démarche, nous mettons à la disposition des entreprises une panoplie de produits et de services innovants pour dématérialiser leurs process métiers.
+Nous proposons des solutions innovantes à nos clients dans la gestion du document, des données métiers, de l’information et de la connaissance. A cet effet, « l’humain » est notre force, tandis que nos Produits & Services évoluent continuellement pour exploiter les possibilités technologiques des architectures web et du monde de l’IA.
+Type d'emploi : Temps plein, CDI
+Salaire : 35 000,00€ à 45 000,00€ /an
+Expérience:
+Langages de programmation: 2 ans (Souhaité)
+il y a 1 jour
+Signaler cette offre d'emploi",15/10/2019,software_engineer,Paris,16/10/2019,vjk=e1323f7f27dd18e5,vide,cdi
+Ingénieur logiciel Java/Angular F/H,VO2 IT MANAGEMENT,Boulogne-Billancourt (92),vide,"Boulogne-Billancourt (92)
+CDI
+Dans le cadre de sa transformation digitale (de grande envergure) notre client du secteur de l’industrie automobile basé en région parisienne recherche un(e) développeur(euse) Fullstack.
+
+Vous interviendrez sur des projets à dimension internationale.
+
+Vous participerez aux tâches de développement de code review, d’ateliers techniques et serez force de proposition sur les technologies utilisées.
+Profil recherché Vous êtes un top développeur(euse) de formation Bac + 5 (école d'ingénieurs généraliste, universitaire ou équivalent) de 4 ans d’expérience minimum.
+
+Vous maîtrisez Java 11 (si vous maîtrisez parfaitement Java 8 et que vous connaissez les fondamentaux des nouvelles versions, vous êtes le bienvenu). Vous avez travaillé avec de l'Angular 7 (idem que pour Java, à partir d’Angular 4 c‘est déjà très bien), AWS, docker, spring boot, WS REST, GIT avec une méthodologie Agile / Scrum alors n'hésitez pas à postuler à notre offre.
+Entreprise VO2 GROUP est une société de conseil et de réalisation de projets digitaux.
+
+Basé sur l’indicateur sportif la VO2 max qui donne le débit maximum d'oxygène consommé lors d'un effort, le nom du groupe fait le lien entre la passion de Florent, marathonien, et l’ambition qu’il a pour son entreprise, un groupe international et multi-expertises. Né d’un challenge personnel avec sa femme, Emilie, VO2 Group est aujourd’hui 18ème dans le palmarès Great Place to Work ! Il est loin le temps des séminaires dans le salon des fondateurs, une belle réussite.
+
+Souhaitant changer les règles du jeu des entreprises traditionnelles en apportant agilité, convivialité et liberté aux profils entrepreneuriaux, VO2 Group fédère des esprits différents qui partagent les mêmes ambitions et la même envie de collaborer (et s’éclater tous les jours)
+
+VO2 Group a lancé également un co-working pour des start-ups tech au dernier étage du 58b, un espace multi-disciplinaires hébergeant différents événements : des cours de yoga, des ateliers de créativités pour nos clients et bien sûr, des soirées mensuelles et annuelles
+
+Filiale de VO2 GROUP, VO2 IT Management regroupe les activités de développement d’applications stratégiques dans le digital et le mobile. Nous intervenons du delivery au pilotage et à la gestion de projet IT.
+Apec.fr - il y a 1 jour
+- Continuer pour postuler
+Signaler cette offre d'emploi",15/10/2019,software_engineer,Paris,16/10/2019,vjk=61edb1b3347179f1,vide,cdi
+Software Engineer (mission client final) (m/f) / Freelance,emagine,Paris (75),vide,"Paris (75)
+emagine is looking for a software Engineer who has experience in delivering industry-grade code to reinforce a team for one of its clients
+
+As a Software Engineer, you will have the following responsibilities:
+
+Clarify the project requirements and help assess relevant User Experience patterns with stakeholders and users
+Implement selected projects and coordinate with the Product Owner and external stakeholders
+Perform technology surveys on emerging technology trends and startups.
+Evaluate and choose technological components that fit technical requirements
+Help elaborate architecture of software and deployment components
+Deploy software components using modern DevOps techniques, in collaboration with DevOps engineers
+Develop prototypes to demonstrate new technologies
+Uses best practices in Software Engineering (frontend and backend)
+Good knowledge of Software Engineering principles
+Open to continuous improvement of Software Engineering techniques
+Backend programming with Python and related frameworks, Flask a plus.
+Experience with Web frontend development in Javascript (React or other JS web frameworks)
+Knowledge of PAAS hosting solutions, AWS a plus.
+Machine Learning and Deep Learning knowledge, a plus
+Experience with agile methodologies, such as Scrum
+Ability to work in an international and cross functional organization
+Team player, fruitful interactions with the other team members and external stakeholders
+Good communication skills
+Languages: English and French. German a plus.
+If you are interested ?
+
+Send me a curriculum vitae with your tariff expectations at syntiche.boussou@emagine.org, +33 (0) 1 81 93 90 93
+Freelance-info - il y a 1 jour
+- Continuer pour postuler
+Signaler cette offre d'emploi",15/10/2019,software_engineer,Paris,16/10/2019,vjk=b91c3054652fb40f,vide,freelance
+Ingénieur Logiciel Embarqué - Drones F/H,MISSION CONSEIL ASSISTANCE INGENIERIE,Levallois-Perret (92),vide,"Levallois-Perret (92)
+CDI
+Au sein du département drone, vous intégrez une équipe projet intervenant sur le développement d’une évolution pro d’un modèle de drone récent.
+
+Vos compétences en électronique vous permettent de :
+Réaliser la conception, l’implémentation et test de fonctions embarquées sur drone en fonction de la spécification du produit et de ses contraintes.
+
+Intégrer les composants et briques technologiques.
+
+Participer au processus d’intégration continue du logiciel embarqué.
+
+Développer en langage C++ et C.
+
+Suivre les bugs et indices de qualité du logiciel.
+Profil recherché De formation Ingénieur Bac+5 (Grandes Ecoles ou Université) avec une spécialisation en électronique, vous justifiez d'une première expérience dans le domaine de l’électronique embarquée dans des environnements à forte contrainte normative, idéalement sur le secteur de l’automobile.
+
+La connaissance de l’outil LINUX serait un plus.
+Entreprise MCA est un acteur international du conseil en ingénierie et en hautes technologies (1400 salariés – CA de 100M€ en 2018). Son expertise et son expérience de plus de 25 ans font de lui un partenaire reconnu auprès des plus grandes entreprises françaises et internationales : Parrot, Renault, PSA, Bosch, Continental, Arquus, Valeo, Delphi, Dassault, Bombardier, Orano, Framatome, Technip, Engie, Aptar…
+Apec.fr - il y a 1 jour
+- Continuer pour postuler
+Signaler cette offre d'emploi",15/10/2019,software_engineer,Paris,16/10/2019,vjk=56b8cd67d040861a,vide,cdi
+Ingénieur Logiciel confirmé F/H,TOHTEM,Nozay (91),vide,"Nozay (91)
+CDI
+Dans le cadre de notre assistance technique, nous recherchons un
+
+Ingénieur Logiciel (H/F)
+
+pour l'un de nos grands compte travaillant sur des projets de Réseaux Télécom sous-marins.
+
+Descriptif de la mission :
+Au sein d'un département, l’équipe « Tools » étudie et conçoit des outils logiciels, en particulier de simulation, pour les besoins des équipes R&D. Elle fournit également des services :
+
+de gestion des spécifications,
+
+de développement logiciel et d’intégration continue,
+
+de gestion des tests.
+
+En tant qu'Ingénieur Logiciel, vous participerez :
+aux évolutions et à l’administration des services existants ainsi qu’à la mise en place de nouveaux services.
+
+à la conception et au développement de nouveaux outils logiciels.
+Profil recherché Vous savez lire, parler et écrire anglais afin de mener à bien vos projets.
+
+Vous êtes reconnu pour votre esprit d'équipe.
+
+Vous êtes tenace dans les missions que vous entreprenez et avez le goût de l'initiative.
+
+Grâce à vos expériences antérieures, vous avez acquis des compétences techniques sur :
+
+Environnement système : Linux Redhat, VM Linux, Docker, Windows
+
+Environnement développement : IntelliJ.
+
+IDE : Eclipse
+
+Développement : Java, Kotlin, Python, MySQL, MariaDB, Javascript, HTML, PHP, Perl, shell scripting.
+
+Réseau : TCP/IP, SSH, SSL, (S)FTP, HTTP(S), LDAP(S).
+
+Méthodologie : Integration Continue.
+
+SCM / Build :
+Gestion de configuration Git (admin), Clearcase,
+
+Teamcity (admin) (ou Jenkins), Artifactory (admin) (binary repository manager), Yocto, Bitbake,
+
+Project Building : Gradle.
+
+Outils : JIRA, Requirement Management.
+
+Automatisation des tests
+Entreprise TOHTEM, société d’ingénierie, depuis 20 ans, met au cœur de sa politique l’innovation comme un élément central de sa stratégie.
+
+Acteur reconnu sur le marché des produits innovants, TOHTEM déploie une approche innovante aussi pour son modèle de management. Ainsi, qu’ils soient impliqués sur des projets au sein de notre bureau d’études ou dans les centres R&D de nos clients, en tant que consultants, nos collaborateurs(trices) sont partie intégrante de notre projet d’entreprise.
+
+S’inscrivant dans un forte dynamique de croissance, TOHTEM recrute des hommes et des femmes prêts à relever des nouveaux défis dans le respect de nos valeurs.
+Apec.fr - il y a 1 jour
+- Continuer pour postuler
+Signaler cette offre d'emploi",15/10/2019,software_engineer,Paris,16/10/2019,vjk=a2850e9c352bb7dd,confirmé,cdi
+Ingénieur Logiciel Embarqué F/H,lindustrie-recrute.fr,Collégien (77),vide,"Collégien (77)
+CDI
+Rattaché(e) au Responsable du Bureau d’Etudes Electroniques, ses principales missions seront les suivantes :
+
+Participer à la spécification, concevoir et valider :
+De microprogrammes embarqués sur microcontrôleur (IOT et autres systèmes)
+De pages Web dynamiques et optimisées pour microcontrôleurs
+D’applications pour téléphones mobiles
+Descriptif de poste non limitatif
+
+Profil recherché Profil :
+Issu(e) d’une formation Bac + 5 de type Ecole d’Ingénieur ou Master 2 en Informatique industrielle ou Electronique, vous disposez d’une expérience minimum de 4 ans dans de vraies conditions de programmation avec des résultats traçables (sites web réalisés, microcontrôleurs programmés)
+
+Compétences attendues:
+Maitrise de plusieurs langages : Assembleur, C/C++, C#, Java, Arduino, Javascript, HTML, Nodejs
+Compétences en protocoles réseaux : TCP/IP, UDP, DNS, mDNS, SSDP, sur des connexions : Ethernet, Wifi, Bluetooth et nouveaux protocoles IoT
+Environnement de développement : SVN, MPLAB, Arduino, PlatformIO
+Connaissances des Microprocesseurs (Microchip, Espressif ESP8266)
+Expérience sur les systèmes : Android, Windows, IOS
+Circuits électroniques
+Anglais technique
+Force de Proposition
+Outre vos compétences techniques, vous êtes curieux(se) et rigoureux(se). Vous appréciez de travailler en équipe. Dynamique, proactif(ve) et autonome, vous avez la volonté de vous investir pleinement dans le domaine du développement électronique des produits de la société et avez l’aptitude à gérer plusieurs activités en parallèle.
+Entreprise AERECO, société créée en 1983, développe des solutions de ventilation innovantes pour les bâtiments résidentiels et les bureaux avec un concept clé : la modulation des débits d'air en fonction des besoins.
+
+Le Groupe, dont le siège social et l'usine sont situés en France, à Marne la Vallée, est présent dans la plupart des pays en Europe ainsi qu'en Asie et aux Etats-Unis, à travers des filiales et un large réseau de distributeurs.
+Apec.fr - il y a 1 jour
+- Continuer pour postuler
+Signaler cette offre d'emploi",15/10/2019,software_engineer,Paris,16/10/2019,vjk=bd5739b0039c3b70,vide,cdi
+Stage - Ingénieur logiciel - outil de localisation pour les...,Orange,Châtillon (92),vide,"Châtillon (92)
+Stage
+L'objet est de pouvoir utiliser, dans le domaine véhiculaire, une position plus stable et précise que celle que peut fournir un GNSS standard (GPS, Galileo, Beidou, etc). L'approche RTK permet de remplir ce besoin. Nous utilisons actuellement des modules physiques externes, mais l'intégrer à la plateforme embarquée d'Orange permettrait une meilleure diffusion en réduisant fortement le coût de revient de la solution. La librairie et les outils existent en OpenSource, mais il y a un besoin fort d'intégration à la plate-forme, de configuration et de mise au point.
+
+Le-la stagiaire aura donc pour missions principales :
+L'analyse rapide de la plate-forme cible et des plates-formes existantes,
+La sélection de la souche open source qui convient le mieux à la plate-forme cible,
+Le portage sur la plate-forme cible,
+La validation du fonctionnement en labo,
+La validation du fonctionnement sur le terrain (déplacements à prévoir en région parisienne)
+Diplôme d'ingénieur informatique ou système.
+Master spécialisé en géomatique avec une expérience dans le développement (d'outils, applicatifs, ...).
+
+Vous avez acquis des compétences en codage (C/C++) et dans le développement des codes embarqués.
+Vous avez une expérience en développement sous Linux.
+Vous avez développé lors de vos études et/ou expériences passées des compétences en géomatique et éventuellement acquis des connaissances sur les technologies de localisation satellite/cellulaire.
+Vous avez une très bonne compréhension orale et écrite de l'anglais.
+department
+Au service de plus de 236 millions de clients sur les cinq continents, Orange est l'un des principaux opérateurs de télécommunications dans le monde. Au sein de la Division IMT (Innovation Marketing & Technologies), les Orange Labs, parmi lesquels Orange Labs Networks » (OLN), constituent le réseau mondial d'innovation du Groupe.
+La Direction OLN définit et pilote la stratégie du Groupe dans le domaine de la conception et de l'exploitation des réseaux. Elle accompagne les pays dans sa mise en oeuvre opérationnelle. Les équipes d'OLN assurent la prise en compte de la stratégie du Groupe dans l'élaboration des standards et normes télécoms et dans les produits et services des industriels choisis par le Groupe. Enfin, OLN nourrit le Groupe en innovations réseaux pour alimenter le moteur de la croissance.
+
+Au sein de la Direction Radio Networks and Microwave d'Orange Labs le département SRN a pour missions d'identifier, spécifier et qualifier les solutions radio spécialisées de bout en bout.
+contract
+Internship
+Duration : 6 months
+Level : Master 1, Master 2
+il y a 2 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",14/10/2019,software_engineer,Paris,16/10/2019,vjk=7724508c86fdeaa1,vide,stage
+Ingénieur Logiciel H/F,NAVAL GROUP,Hauts-de-Seine,vide,"Hauts-de-Seine
+Nous recherchons un(e) Ingénieur Logiciel H/F. Informations générales Organisation NOS PRODUITS SONT UNIQUES, VOTRE PARCOURS M RITE DE L'ETRE ! Naval Group, leader européen du naval de défense est l'un des rares industriels dans le monde capable de concevoir, réaliser et entretenir des systèmes aussi pointus qu'un sous-marin, un porte-avions ou un navire. Les projets complexes vous attirent et l'innovation est votre moteur? Rejoignez nos équipes et participez à la grande aventure du naval de défense ! Référence P2018-002744-1 Date de parution 14/10/2019 Description du poste Spécialité/Emploi Informatique produit - Concepteur logiciel Intitulé du poste Ingénieur Logiciel H/F Description de la mission Basé(e) sur le site de Bagneux, vous êtes rattaché(e) à La Direction de l'Industrie qui assure la conception et la production, des navires de combat, des sous-marins et des systèmes navals. En interface avec les équipes logiciels et systèmes, vous évoluerez dans un environnement naval ( batiments de surface) . Vous contribuerez, en tant qu'Ingénieur Logiciel, à la maintenance corrective et évolutive d'une ligne de produit de système de management de combat sur des bâtiments de surface export. A ce titre, vous êtes en charge de : - Conduire et garantir la réalisation des tâches de développement du logiciel dans le respect des coûts, délais et qualité - Réaliser la spécification, la conception et le codage du logiciel (Java, C/C++ sous Linux) - Assurer le support de l'équipe d'intégration système lors de l'intégration de l'élément logiciel dans le système - Proposer des solutions techniques aux demandes d'évolutions - Participer à l'amélioration des processus de développement logiciel Les missions ne sont pas exhaustives et peuvent évoluer dans le temps. Naval Group s'engage dans l'évolution de ses collaborateurs, que celle-ci soit dans le domaine technique, le management ou encore la gestion de projet. tre collaborateur chez Naval Group, c'est avoir la possibilité de vivre un parcours qui vous ressemble en adéquation avec vos envies et les besoins du groupe. Profil Diplômé(e) d'une formation supérieure de niveau Bac+5 type école d'ingénieur ou M2, vous disposez d'une expérience d'au moins cinq ans sur des sujets liés à l'Ingénierie logicielle sur des systèmes à Logiciels prépondérant ( environnement JAVA et/ou C++ avec contraintes temps réel) Vous possédez des qualités d'organisation, de rigueur et vous êtes intéressé(e) par le développement de systèmes complexes. Vous êtes doté(e) d'une excellente capacité relationnelle qui vous permet de travailler en équipe dans le respect d'un processus exigeant. Curieux (se), vous êtes aussi force de proposition et pleinement impliqué(e) sur vos projets. Votre formation et vos précédentes expériences vous ont permis de développer les compétences et les connaissances suivantes : - Analyse et élaboration de documents techniques - Codage et tests de logiciels (C/C++, Java) - Gestion et Outils de configuration logiciel (GIT, SVN) - Atelier de génie logiciel (Modelio, Jenkins, Eclipse) La maitrise de l'anglais aussi bien à l'oral qu'à l'écrit est indispensable. Type de contrat standard Durée indéterminée Date prévue de prise de fonction 01/01/2020 Catégorie Professionnelle Ingénieurs et Cadres Salaire min. annuel brut de base (en euros) nc Salaire max. annuel brut de base (en euros) nc Localisation du poste Implantation géographique Europe, France, Ile-de-France, Bagneux Société NAVAL GROUP Niveau d'expérience min. requis 5 ans et plus Niveau d'études min. requis Bac+5 / Ingénieur ou équivalent
+clicandsea.fr - il y a 17 heures
+- Continuer pour postuler
+Signaler cette offre d'emploi",Aujourd'hui,software_engineer,Paris,16/10/2019,vjk=859e2305a768bd38&advn=5553230268879997,vide,vide

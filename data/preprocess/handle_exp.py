@@ -33,6 +33,7 @@ def define_levels_from_desc(data) :
 new_data = define_levels_from_desc(no_exp_descr)
 new_no_exp_descr = new_data.loc[new_data["Experiences"] == "vide"]
 print(len(new_no_exp_descr), " and before ", len(no_exp_descr))
+print(len(data))
 
 data.update(new_data)
 
