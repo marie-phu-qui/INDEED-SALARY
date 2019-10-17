@@ -8,7 +8,6 @@ print(f"Our dataset NaNs : \n {data.isnull().sum()}")
 
 # process badly created columns - should not be usefull when the csv are created correctly (handle_exp & handle_contrat) 
 full_data = data.loc[(data['Salaire'] != "vide") & (data['Experiences'] != "vide") & (data['contrat'] != "vide")]
-full_data.drop(columns=["Unnamed: 0", "Unnamed: 0.1"], inplace=True)
 
 # drop if NaNs
 nonan_data = full_data[pd.notnull(full_data['métier_sc'])]
