@@ -43,6 +43,6 @@ print(len(data))
 
 data.update(new_data)
 
-if not os.path.exists('data'):
-    os.mkdir('data')
-data.to_csv('data\indeed_jobs_exp_contrat.csv', index=False)
+if not os.path.exists('..\data'):
+    os.mkdir('..\data')
+data.to_csv('..\data\indeed_jobs_exp_contrat.csv', index=False)
