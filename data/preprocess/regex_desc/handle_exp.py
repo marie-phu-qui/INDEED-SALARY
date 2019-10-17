@@ -13,19 +13,19 @@ def define_levels_from_desc(data) :
     Fonction permettant de rajouter des niveaux expérience selon le contenu de la description
         
     '''
-    for desc in data["Descriptif_du_poste"] :
+    for desc  in data["Descriptif_du_poste"] :
         junior = 'débutant | jeune | ($profil|niveau) junior\b | assistant\b | jr\b'
         confirme = 'confirmé'
         senior = 'lead | senior | expert | encadrer\b | CTO | sr\b | mentore | diriger'
         if re.findall(senior, desc) :
-            data["Experiences"][data.index[data["Descriptif_du_poste"] == desc][0]]  = "senior"
+            data.loc[[data.index[data["Descriptif_du_poste"]== desc][0]], ('Experiences')]  = "senior"
         if re.findall(confirme, desc) :
-            data["Experiences"][data.index[data["Descriptif_du_poste"] == desc][0]]  = "confirmé"
+            data.loc[[data.index[data["Descriptif_du_poste"]== desc][0]], ('Experiences')]  = "confirmé"
         if re.findall(junior, desc) : 
             if re.findall('mentore | encadre', desc) :
                 pass
             else :
-                data["Experiences"][data.index[data["Descriptif_du_poste"] == desc][0]]  = "junior"
+                data.loc[[data.index[data["Descriptif_du_poste"]== desc][0]], ('Experiences')]  = "junior"
     return data
 
 junior_year = '(?i)(depuis (?:(?:\w* ){1,3})?[1-2]{1}(?:\D*[1-2])? an)' # Pas plus de 1 ou 2 ans (sauf 11 ou 12 ou 22 ou 21) depuis au moins 1-2 ans / depuis 1 an / depuis 1 - 2 ans
