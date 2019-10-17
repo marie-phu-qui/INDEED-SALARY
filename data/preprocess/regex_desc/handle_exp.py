@@ -14,29 +14,31 @@ def define_levels_from_desc(data) :
         
     '''
     for desc  in data["Descriptif_du_poste"] :
-        junior = 'débutant | jeune | ($profil|niveau) junior\b | assistant\b | jr\b'
+        # par termes
+        junior = 'débutant|jeune|($profil|niveau)junior\b|assistant\b|jr\b'
         confirme = 'confirmé'
-        senior = 'lead | senior | expert | encadrer\b | CTO | sr\b | mentore | diriger'
+        senior = 'lead|senior|expert|encadrer\b|CTO|sr\b|mentore|diriger'
+        # numéral
+        num_junior = '(?i)(depuis (?:(?:\w* ){1,3})?[1-2]{1}(?:\D*[1-2])? an)'
+        num_confirme = '(?i)(?:[2-4] ans minimum)|(?:depuis (?:(?:\w* ){1,3})?[2-4]{1}(?:\D*[1-2])? an)'
+        num_senior = '(?i)(?:[5] ans minimum)|(?:depuis (?:(?:\w* ){1,3})?[5] an)'
         index = [data.index[data["Descriptif_du_poste"]== desc][0]]
-        if re.findall(senior, desc) :
+        if re.findall(senior, desc) or re.findall(num_senior, desc) :
             data.loc[index, ('Experiences')]  = "senior"
-        elif re.findall(confirme, desc) :
+        elif re.findall(confirme, desc)  or re.findall(num_confirme, desc) :
             data.loc[index, ('Experiences')]  = "confirmé"
-        elif re.findall(junior, desc) : 
-            if re.findall('mentore | encadre', desc) :
+        elif re.findall(junior, desc)  or re.findall(num_junior, desc) : 
+            if re.findall('mentore encadre', desc) :
                 pass
             else :
                 data.loc[index, ('Experiences')]  = "junior"
     return data
 
-junior_year = '(?i)(depuis (?:(?:\w* ){1,3})?[1-2]{1}(?:\D*[1-2])? an)' # Pas plus de 1 ou 2 ans (sauf 11 ou 12 ou 22 ou 21) depuis au moins 1-2 ans / depuis 1 an / depuis 1 - 2 ans
-
 
 # Ici, check la diminution de 'vide' pour Experiences et envoie un nouveau csv
 new_data = define_levels_from_desc(no_exp_descr)
 new_no_exp_descr = new_data.loc[new_data["Experiences"] == "vide"]
-print(len(new_no_exp_descr), " and before ", len(no_exp_descr))
-print(len(data))
+print(f"We now have {len(no_exp_descr) - len(new_no_exp_descr)} more data. And {len(new_data.loc[(new_data['contrat'] != 'vide') & (new_data['Experiences'] != 'vide') & (new_data['Salaire'] != 'vide')])} exploitable data.")
 
 data.update(new_data)
 

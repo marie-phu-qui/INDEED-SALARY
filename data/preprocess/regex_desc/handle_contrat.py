@@ -41,8 +41,8 @@ def define_contrats_from_desc(data) :
 
 new_data = define_contrats_from_desc(no_contrat_descr)
 new_no_contrat_descr = new_data.loc[new_data["contrat"] == "vide"]
-print(len(new_no_contrat_descr), " and before ", len(no_contrat_descr))
-print(len(data))
+
+print(f"We now have {len(no_contrat_descr) - len(new_no_contrat_descr)} more data. And {len(new_data.loc[(new_data['contrat'] != 'vide') & (new_data['Experiences'] != 'vide') & (new_data['Salaire'] != 'vide')])} exploitable data.")
 
 data.update(new_data)
 
