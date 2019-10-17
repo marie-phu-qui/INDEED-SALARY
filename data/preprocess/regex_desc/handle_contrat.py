@@ -18,22 +18,25 @@ def define_contrats_from_desc(data) :
         cdd = '(?i)(?:(?:contrat (?:à|a) (?:durée|duree) (?:déterminée|determinee|determine))|(?:cdd))'
         cdi = '(?i)(?:(?:contrat (?:à|a) (?:durée|duree) (?:indéterminée|indeterminee|indetermine))|(?:cdi))'
         stage = '(?i)(?:stage|stagiaire|internship|intern\b)'
-        # interim = '(?i)(?:intérim|interim)'
+        interim = '(?i)(?:intérim|interim|intérimaire|interimaire)'
         freelance = '(?i)(?:freelance|independant|indépendant|independent)'
         apprenti = '(?i)apprenti'
         contrat_pro = '(?:)(?:professionalis)'
+        index = [data.index[data["Descriptif_du_poste"]== desc][0]]
+        if re.findall(interim, desc) :
+            data.loc[index, ('contrat')]  = "intérim"
         if re.findall(stage, desc) :
-            data["contrat"][data.index[data["Descriptif_du_poste"] == desc][0]] = "stage"
+            data.loc[index, ('contrat')]  = "stage"
         if re.findall(freelance, desc) :
-            data["contrat"][data.index[data["Descriptif_du_poste"] == desc][0]] = "freelance"
+            data.loc[index, ('contrat')]  = "freelance"
         if re.findall(apprenti, desc) :
-            data["contrat"][data.index[data["Descriptif_du_poste"] == desc][0]] = "apprentissage"
+            data.loc[index, ('contrat')]  = "apprentissage"
         if re.findall(contrat_pro, desc) :
-            data["contrat"][data.index[data["Descriptif_du_poste"] == desc][0]] = "contrat_pro"
+            data.loc[index, ('contrat')]  = "contrat_pro"
         if re.findall(cdd, desc) :
-            data["contrat"][data.index[data["Descriptif_du_poste"] == desc][0]] = "cdd"
+            data.loc[index, ('contrat')]  = "cdd"
         if re.findall(cdi, desc) :
-            data["contrat"][data.index[data["Descriptif_du_poste"] == desc][0]] = "cdi"
+            data.loc[index, ('contrat')]  = "cdi"
     return data
 
 new_data = define_contrats_from_desc(no_contrat_descr)
