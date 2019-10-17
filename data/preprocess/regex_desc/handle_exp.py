@@ -17,15 +17,16 @@ def define_levels_from_desc(data) :
         junior = 'débutant | jeune | ($profil|niveau) junior\b | assistant\b | jr\b'
         confirme = 'confirmé'
         senior = 'lead | senior | expert | encadrer\b | CTO | sr\b | mentore | diriger'
+        index = [data.index[data["Descriptif_du_poste"]== desc][0]]
         if re.findall(senior, desc) :
-            data.loc[[data.index[data["Descriptif_du_poste"]== desc][0]], ('Experiences')]  = "senior"
-        if re.findall(confirme, desc) :
-            data.loc[[data.index[data["Descriptif_du_poste"]== desc][0]], ('Experiences')]  = "confirmé"
-        if re.findall(junior, desc) : 
+            data.loc[index, ('Experiences')]  = "senior"
+        elif re.findall(confirme, desc) :
+            data.loc[index, ('Experiences')]  = "confirmé"
+        elif re.findall(junior, desc) : 
             if re.findall('mentore | encadre', desc) :
                 pass
             else :
-                data.loc[[data.index[data["Descriptif_du_poste"]== desc][0]], ('Experiences')]  = "junior"
+                data.loc[index, ('Experiences')]  = "junior"
     return data
 
 junior_year = '(?i)(depuis (?:(?:\w* ){1,3})?[1-2]{1}(?:\D*[1-2])? an)' # Pas plus de 1 ou 2 ans (sauf 11 ou 12 ou 22 ou 21) depuis au moins 1-2 ans / depuis 1 an / depuis 1 - 2 ans
