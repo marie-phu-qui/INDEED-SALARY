@@ -38,7 +38,6 @@ Modèle de prédiction ML concernant les salaires des métiers de la tech en Fra
 
 - Dashboard : Flask  
 - Base de données : MongoDB  
-- Scrapping :   
-
+- Scrapping : Selenium  
 - Code Base : Github  
 - Langage : Python  
