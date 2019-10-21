@@ -1,0 +1,274 @@
+Titre,Nom_Entreprise,Adresse,Salaire,Descriptif_du_poste,Date_de_publication,métier_sc,loc_sc,Date_sc,Identifiant,Experiences,contrat
+Ingénieur logiciel H/F,MyScript,Nantes (44),35 000 € - 45 000 € par an,"Nantes (44)
+Temps plein, CDI
+35 000 € - 45 000 € par an
+Au sein du département R&D « MyScript Labs », vous travaillez en étroite collaboration avec l'équipe Traitement Automatique des Langues et aidez à l’amélioration des prototypes afin de créer des algorithmes et des flux de données pour la mise en production.
+Votre profil vous permet de contribuer à un large éventail de sujets tels que :
+- Concevoir et créer des « workflows » de traitement de données qui peuvent supporter une grande quantité de données multilingues.
+- Améliorer les outils d'analyse des métriques pour évaluer notre moteur de reconnaissance de l'écriture manuscrite.
+- Optimiser la création, la maintenance et l’amélioration des ressources linguistiques pour les langues supportées dans nos produits.
+Profil
+- Vous avez une expérience minimum de 3 ans dans le développement de processus « scalable ».
+- Vous avez une forte compétence en programmation, idéalement en C/C++ et Python.
+- Vous êtes habitué aux environnements Linux/Unix.
+- Vous êtes conscient des aspects relatifs au traitement efficace d'un grand nombre de données et à l'intégration continue.
+- Vous êtes à l’aise en anglais dans un contexte professionnel.
+- Vous êtes autonome, rigoureu.x.se, dynamique avec un réel esprit d'équipe.
+- Les compétences suivantes seront appréciées : maîtrise des outils TAL, connaissance en machine learning, développement web.
+Type d'emploi : Temps plein, CDI
+Salaire : 35 000,00€ à 45 000,00€ /an
+Expérience:
+Langages de programmation: 2 ans (Requis)
+Langue:
+Anglais (Requis)
+il y a 9 jours
+Signaler cette offre d'emploi",09/10/2019,software_engineer,Nantes,18/10/2019,vjk=bdb3be40783303e0,vide,cdi
+Software Engineer - Rust,"Input Output Hong Kong - ""IOHK""",Nantes (44),vide,"Nantes (44)
+Summary
+As a Software Engineer at IOHK you are responsible for writing high-quality code for our products. You have the exciting challenge of working with cutting-edge research and technology with a focus on the market's needs. To support you on this challenge, our products have software architects, product managers, project managers, formal methods specialists and QA test engineers, with whom you must communicate professionally, effectively and efficiently.
+Duties
+Follow agile software development practices
+Work with teams across multiple time zones
+Work independently on software development tasks
+Be proactive and require minimal supervision or mentoring to complete tasks
+Review specifications produced by architects and formal methods specialists
+Contribute to the design of algorithms
+Write clean, straightforward, efficient code that satisfies previously agreed acceptance criteria and specifications
+Commit often and submit small pull requests frequently
+Cover your code with unit, property and integration tests when applicable
+Review the pull requests of your team mates
+Fix bugs in your own code and in legacy code from others
+Be available for emergency fixing of severity 1 issues on deployed products
+Integrate software components and third-party libraries
+Verify and deploy programs and systems
+Troubleshoot, debug and upgrade existing software
+Write documentation for the code
+Write technical user manuals
+Knowledge of distributed and concurrent computation
+Knowledge of the basics of cryptography
+Key Competencies
+Write idiomatic code that satisfies the acceptance criteria of a given task
+Write tests (unit tests, property tests) that provide sufficient and non-superfluous efficient code coverage.
+Document code and APIs concisely and unambiguously
+Break down tasks into sub-tasks that are completable in a short amount of time and report completion as required by managers
+Pragmatically adhere to software engineering principles (modularity, incremental development, no premature optimization, no feature creep, no speculative generality, ...)
+Education / Experience
+is desirable but not essential
+A minimum of 2-3 years development experience with C/C++ but with the ability to demonstrate good knowledge of Rust Programming Language (professional or otherwise)
+Experience working with Git and Git workflow
+Practical experience with Agile software development methods
+Knowledge of functional and object-oriented programming paradigms
+Specialist Skills - for a software engineer specialized in Rust
+You’ll have a background of C/C++ Development experience (approx 3 - 5 years) but with the ability to demonstrate good knowledge of Rust Programming Language.
+Experience in developing cryptography protocols would be a bonus
+HTTP API understanding as well as accessibility and security compliance
+This is a remote based role working with a Distributed team across the EU, we are considering all candidates within the EU. For more information on our Rust project - https://cardanorust.iohkdev.io/
+and our opensource repo's - https://github.com/input-output-hk?language=rust
+https://github.com/input-output-hk/rust-cardano
+https://iohk.io/en/careers/fk03udp/software-engineer-rust/
+Job Type: Full-time
+Experience:
+Software Engineering: 5 years (Preferred)
+C++: 3 years (Preferred)
+Rust: 1 year (Preferred)
+Indeed - il y a 9 jours
+Signaler cette offre d'emploi",09/10/2019,software_engineer,Nantes,18/10/2019,vjk=09bcbe10f46fb5b5,vide,freelance
+Senior Software Engineer H/F,OVH,Nantes (44),vide,"Nantes (44)
+CDI
+Ref
+SenSoftEng092019
+CDI
+Nantes
+Paris
+Roubaix
+France
+OVH, 1er hébergeur Français et Européen et 3ème hébergeur mondial se diversifie dans différentes couches de services, allant du Cloud à la téléphonie, en passant par l'hébergement mutualisé et les noms de domaines. Dans un environnement en constante évolution, OVH souhaite relever les défis de ses clients en proposant des produits et solutions adaptés sur des technologies innovantes.
+La dimension globale de OVH, implantée non seulement dans les principales villes françaises mais aussi dans plusieurs pays européens, en Inde, au Canada et aux USA requiert une aisance dans la pratique de l'anglais au quotidien, ainsi qu'une autonomie et un travail collaboratif dans la réalisation des projets, le tout en culture Agile/Scrum.
+Dans ce contexte, le département CTO de OVH, en charge de la mise en place des services, de leur automatisation et orchestration, de leur industrialisation comme de leur veille technologique, cherche à renforcer et à spécialiser ses équipes.
+Rattaché au département réseau, vous participerez à la mise en place d'un service efficace, efficient et autonome. Grâce à vous, la qualité du réseau OVH, d'envergure internationale, sera assurée.
+
+# Votre rôle
+Au sein de l'équipe monitoring, vous serez en charge du design et de l'implémentation de solutions de collecte et de traitement des données issues du réseau (logs, télémétrie) afin d'assurer l'observabilité des services réseaux. A cette fin:
+Vous définirez les indicateurs de qualité de service pour les différents services réseaux
+Vous désignerez et développerez les sondes permettant la collecte de ces indicateurs
+Vous désignerez et développerez les programmes permettant l'analyse en temps réel et en post traitement des données collectées
+
+# Vos atouts
+Une expérience significative en:
+Développement Java, Go, C++, Python ou Rust
+architecture distribuée
+haute disponibilité
+
+# Vous êtes reconnu pour:
+Votre curiosité, votre persévérance et votre envie d'apprendre
+Votre capacité à accompagner vos collègues et transmettre vos connaissances
+
+# Votre parcours
+BAC+5 et 10 ans d'expérience
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",18/09/2019,software_engineer,Nantes,18/10/2019,vjk=067585bddd63179b,senior,cdi
+Software Engineer confirmé - Java /JEE / Java / Angular / Fr...,WorldWide People,Nantes (44),vide,"Nantes (44)
+Software Engineer confirmé - Java /JEE / Java / Angular Application Consultant / Package Consultant / Java / JEE / Java Frameworks Application consultants are supervised by a senior technical architect or similar manager and work to improve, create, and manage their online applications and computer software packages.
+
+Minimum 3 ans d’expérience Professionnelle
+Techno : Java / JEE + Angular
+Freelance-info - il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",18/09/2019,software_engineer,Nantes,18/10/2019,vjk=af9225d14b87cb22,confirmé,freelance
+Ingénieur Logiciel Développement Mobile H / F,Sigma Informatique,Nantes (44),vide,"Nantes (44)
+CDI
+Le groupe SIGMA (800 collaborateurs) est un acteur incontournable sur son marché :
+un groupe à taille humaine reconnu pour son expertise dans ses 3 métiers (édition de logiciels, intégration, Infogérance), ses valeurs humaines et sa forte implication RSE
+un groupe riche d'une présence historique de plus de 40 ans sur un marché plein de perspectives
+un projet d'entreprise ambitieux mêlant audace et plaisir permettant d'inventer des services d'excellence
+une entreprise où vos idées et vos innovations trouveront un écho
+une entreprise accordant une attention particulière à l'intégration des collaborateurs (affectation d'un parrain et process facilitant la prise de poste) et au développement de leurs compétences
+Mais aussi, un environnement convivial propice aux échanges et à l'épanouissement :
+des activités de détente (running via notre Team Défi Sport, équipes de football, de basket-ball et de badminton, cours de fitness et de QI Qong, babyfoot, association Initiative Solid'Ere et bien d'autres à créer !)
+des locaux adaptés (salle de détente, vestiaire douches...) permettant des activités à l'heure du déjeuner ou en soirée
+Présentation de l’offre
+Dans le cadre d'un de nos projets, nous recherchons actuellement un Ingénieur Logiciel Développement Mobile.
+Intégré à une équipe, vous assurez les missions suivantes :
+Analyse des demandes d'application mobile
+Analyse fonctionnelle des besoins, étude de faisabilité
+Elaboration de cahiers des charges techniques
+Conception et développement des applications mobile, en mode projet
+Mise en Production et intégration
+Maintenance évolutive et corrective
+Profil recherché
+De formation Bac + 3 à Bac +5 dans le domaine du développement informatique. Vous êtes spécialisé dans le développement d'application mobile et avez une expérience significative dans ce domaine.
+Compétences techniques : Framework Angular - HTML/CSS/JS/Typescript - Cordova - Ionic
+Vous accordez une grande importance sur la qualité de votre code et vous ne niez pas l'importance des tests.
+Une culture graphique et ergonomique est souhaitable. Vous comprenez l'importance de l'expérience utilisateur au sein d'un produit et savez la restituer avec fidélité.
+Vous êtes curieux des nouvelles technologies : la veille est ancrée dans vos habitudes, vous participez à des meetups, vous prenez plaisirs à tester des nouvelles technologies et pratiques, y compris en dehors de votre bureau.
+Vous êtes autonome, organisé et rigoureux. Vous savez travailler en équipe, avec méthode et faire preuve de sens pratique, d'adaptabilité. Vous avez de bonnes qualités relationnelles et capacités de communication.
+Retour
+Partager l'offre
+Postuler
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",18/09/2019,software_engineer,Nantes,18/10/2019,vjk=5d2f428eb1f61a3c,vide,cdi
+Ingénieur Logiciel JAVA - logiciel dédié aux agences de voya...,Sigma Informatique,Nantes (44),vide,"Nantes (44)
+CDI
+Le groupe SIGMA (800 collaborateurs) est un acteur incontournable sur son marché :
+un groupe à taille humaine reconnu pour son expertise dans ses 3 métiers (édition de logiciels, intégration, Infogérance), ses valeurs humaines et sa forte implication RSE
+un groupe riche d'une présence historique de plus de 40 ans sur un marché plein de perspectives
+un projet d'entreprise ambitieux mêlant audace et plaisir permettant d'inventer des services d'excellence
+une entreprise où vos idées et vos innovations trouveront un écho
+une entreprise accordant une attention particulière à l'intégration des collaborateurs (affectation d'un parrain et process facilitant la prise de poste) et au développement de leurs compétences
+Mais aussi, un environnement convivial propice aux échanges et à l'épanouissement :
+des activités de détente (running via notre Team Défi Sport, équipes de football, de basket-ball et de badminton, cours de fitness et de QI Qong, babyfoot, association Initiative Solid'Ere et bien d'autres à créer !)
+des locaux adaptés (salle de détente, vestiaire douches...) permettant des activités à l'heure du déjeuner ou en soirée
+Présentation de l’offre
+Au sein de la Direction Retail, vous rejoignez une équipe de 14 collaborateurs qui assurent le développement et la maintenance de solutions logicielles déployées au sein d'un réseau de près de 200 agences de voyages.
+
+Sous la responsabilité d'un Chef de projets, vous avez pour missions principales de :
+Challenger la conception / architecture des projets
+Assurer le développement et la réalisation des applications
+Réaliser la maintenance évolutive des applications
+Contribuer activement à la montée en compétence de l'équipe
+En parallèle, vous intégrez un réseau interne d'experts techniques (Direction Technique, Leader Technique, Architectes ...) qui assurent une veille régulière et des échanges de bonnes pratiques.
+Profil recherché
+Vous justifiez d'une première expérience avérée de conception et développement. Vous maîtrisez les technologies Java JEE, Spring, Hibernate, ExtJS.
+
+Reconnu pour votre rigueur et votre curiosité technique, vous êtes sensible à la finalité de la production de logiciels. Vous manifestez notamment un réel intérêt quant aux usages des métiers clients et donc au contenu fonctionnel des applications.
+
+Par ailleurs, vous êtes familiarisé avec les méthodes agiles, vous avez une vraie culture du livrable et de la tenue des engagements de l'équipe.
+
+Enfin, vous faites preuve de réelles qualités relationnelles et vous vous intégrez aisément dans une équipe.
+Retour
+Partager l'offre
+Postuler
+il y a 6 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",18/04/2019,software_engineer,Nantes,18/10/2019,vjk=73dbf21cf4f1d173,vide,cdi
+Software Engineer - Online Payment (H/F),HIPAY,Nantes (44),vide,"Nantes (44)
+HiPay: qui sommes-nous?
+Un prestataire de paiement international traitant plus de 2 mds € chaque année dans 150 pays et avec 220 méthodes de paiement.
+
+En exploitant la puissance des données de paiement, nous aidons nos marchands dans le développement de leur activité en leur donnant une vision à 360° de leurs clients.
+Plus d’informations sur hipay.com
+
+Retrouvez nous également sur: Twitter, LinkedIn, Google+
+
+HiPay développe des services à la pointe de la technologie qui lui donnent une avance décisive pour conquérir de nouveaux marchés.
+
+Que proposons-nous ?
+Quelque soit votre niveau d’expérience, nous vous proposons de rejoindre un véritable projet d’entreprise : participer à l’ambition d’HiPay d’innover et de faire évoluer le paiement en ligne.
+
+Dans un univers résolument Agile, nos tribus Nantaises, composées Product Owners, Facilitateurs, Ingénieur Etude & Développement et Qualité & Assurance travaillent de concert à l’amélioration et l’étoffement de nos produits et services.
+
+Rejoignez l’une de ces tribus, participez aux sprints, nourrissez nos projets de vos compétences techniques, attelez-vous au développement de nouvelles fonctionnalités et enrichissez nos équipes de votre personnalité !
+
+Que recherchons-nous ?
+Profil junior ou plus expérimenté, orienté Front et/ou Back End, vous disposez avant tout d'une solide base technique et d’une véritable culture IT complétés par une curiosité sans limite.
+
+Vos connaissances s’étendent du développement PHP aux frameworks Symfony, Zend en passant par PostgreSQL, Python ou encore Test Driven Development ou Behavior Driven Development.
+
+Atout que nous saurons apprécier : Vous avez une fibre DevOps en maîtrisant les technologies Docker / Rancher, vous développez dans un environnement CI / CD avec Jenkins, Circle CI.
+
+Venez intégrer votre tribu !
+Votre sensibilité fonctionnelle vous permettra de monter rapidement en puissance sur le métier du paiement et ses spécificités.
+Culture collaborative, goût du challenge, proactivité et autonomie font partie des valeurs de travail que vous recherchez.
+il y a 7 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",18/03/2019,software_engineer,Nantes,18/10/2019,vjk=2f97e0e43692b0cf,vide,vide
+Ingénieur Logiciel embarqué Senior - Technique et Gestion de...,Sept Lieues,Nantes (44),40 000 € - 50 000 € par an,"Nantes (44)
+CDI
+40 000 € - 50 000 € par an
+PME spécialisée dans le développement de tests et l'IoT
+Clients Grands Comptes dans le monde de la microélectronique
+Expertise technique hardware et logiciel embarqué
+LE POSTE / LES MISSIONS
+Rattaché à la partie expertise technique vos missions seront :
+
+Gestion de projet et relation client
+Développement Logiciel embarqué sur la partie applicative (tout le cycle de développement) sur la base du SDK
+PROFIL RECHERCHÉ
+De formation Ingénieur ou équivalent Bac+5
+5 ans d'expérience minimum
+
+Expérience en gestion de projet / relation client
+Expérience en développement logiciel embarqué (tout le cycle de développement) sur les couches applicatives
+Avoir travaillé sur des cibles ARM
+Connaissance ou utilisation de Git
+Passionné(e)
+Aimer identifier les problèmes, trouver/proposer des solutions et les mettre en place
+
+Les + :
+Connaissances HW et SW embarqué bas niveau
+Connaissances BLE, LoRa
+il y a 10 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",18/12/2018,software_engineer,Nantes,18/10/2019,vjk=90bed2c3a224f938,senior,cdi
+Ingénieur Logiciel - Systemes Embarques,Axter Automation,France,vide,"France
+CDI
+Ingénieur Robotique – R&D Logiciel
+Vous êtes passionné par le domaine de la robotique industrielle ; vous possédez des compétences et de l'expérience en conception ou développement logiciel d'équipements robotisés ? Vous êtes rigoureux et avez un bon sens de l'organisation ?
+Intégrerez notre bureau à Vaucresson (92) qui connait une forte croissance grâce à nos solutions de véhicule autonome qui répondent à une demande croissante de technologie en robotique et d’automatisation en France ainsi qu’à travers le reste du continent européen.
+Vous serez responsable de mener à terme, à l'intérieur des budgets et échéanciers établis, des projets de développement logiciel pour nos véhicules de manutention autonomes d’envergure et stimulants, en collaboration avec notre équipe en place en France et en Chine. Vous serez également amené à voyager pour des courtes durées en Europe et Asie pour suivre vos réalisations.
+Dans le cadre de vos fonction, vous aurez à :
+Réaliser la R&D des logiciels et son intégration
+Effectuer la conception et le développement des adaptations logiciels sur nos installations
+Paramétrer de façon cohérente en respectant les standards et les spécifications
+Effectuer des améliorations simplifiant l’interface clients utilisateurs
+Préparer et assister les ingenieurs d’application pour la mise en service de nos véhicules autonomes ainsi que les logiciels associés
+Votre profil
+Vous êtes diplômé(e) d’une Grande École d’Ingénieurs en Robotique, systèmes embarqués ou développement logiciel
+Vous justifiez d’une expérience significative dans la conception et/ou développement logiciel
+Vous disposez d’une bonne maitrise des environnements Windows et Linux et des langages de programmation C++, Python et PHP
+Vous maîtrisez l’anglais (lu, écrit, parlé)
+Vous possédezun excellent esprit d’analyse et de synthèse ainsi qu’un sens de l'organisation développé
+Vous êtes débrouillard et habile en résolution de problèmes appliqués
+Vous démontrez de fortes aptitudes de communication, ainsi que de l’initiative et un bon travail d’équipe
+Conditions du poste
+Nature du contrat : CDI à temps plein
+Rémunération selon profil et expérience
+Poste à pourvoir immédiatement à Vaucresson (92420).
+Conditions d'éligibilité: Bac+5. 1an d'experience. Permis B obligatoire. Habilite Secret-Défense.
+Type d'emploi : CDI
+Expérience:
+développement logiciel / milieu industriel: 2 ans (Requis)
+il y a 4 mois
+Signaler cette offre d'emploi",18/06/2019,software_engineer,Nantes,18/10/2019,vjk=24769fe683205461&advn=7335433343559444,vide,cdi

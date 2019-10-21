@@ -1,0 +1,1208 @@
+Titre,Nom_Entreprise,Adresse,Salaire,Descriptif_du_poste,Date_de_publication,métier_sc,loc_sc,Date_sc,Identifiant,Experiences,contrat
+Ingénieur Logiciel COM Stack F/H,Continental France,Toulouse (31),vide,"Toulouse (31)
+CDI
+En tant que membre de l'équipe logiciel « IO and Services » (Basic SW) de ce département, vous travaillerez notamment sur la mise en œuvre et la configuration des solutions logicielles d'instrumentation et de prototypage rapide.
+
+Basées sur un protocole de communication (CAN) ces fonctions permettent la communication entre un outil externe et le calculateur moteur, pour la visualisation de données, la mise au point, la programmation et le prototypage rapide. Vous interviendrez sur tout le cycle en V, de la discussion des exigences avec le client, en passant par le design et l'implémentation logiciel, jusqu'à la validation, dans un environnement multi-sites et multi-culturel.
+
+Dans ce cadre, vous aborderez les aspects suivants : - Pilotage localement des taches liées aux fonctions d'instrumentation. - Contacts réguliers avec les experts mondiaux de ces fonctions - Supporter l'équipe projet logiciel dans la planification des tâches et les analyses techniques - Prise en compte des exigences des clients en collaboration avec les ingénieurs systèmes pour en extraire les exigences logicielles - Design et conception de solutions logicielles adaptées aux exigences clients - Programmation en langage C - Génération et exécution de plans de test et de rapports à tous les niveaux du cycle en V, y compris les tests unitaires, les tests d'intégration et les tests fonctionnels - Génération et revue formelle de la documentation technique tout au long du processus de développement
+Profil recherché Qualiﬁcations requises : - Etre titulaire d'un diplôme d'ingénierie logiciel des systèmes embarqués; - Connaissance pratique des logiciels embarqués, des systèmes d'exploitation, des architectures multicoeur et des protocoles de communication (CAN, Flexray et Ethernet comme un plus); - Expérience de programmation en C; - Expérience de l'utilisation d'outils de gestion des exigences et de spéciﬁcation (par exemple, MKS Integrity, Doors), d'outils de gestion de conﬁguration (MKS Source, …) - Expérience de l'utilisation d'outils de vériﬁcation de tests logiciels (IBM RTRT, Tessy, par exemple); - Expérience avec les outils de test sur protocole CAN (par exemple Canalyser, Canoe) et les environnements de test HIL et outils Etas (Inca, Ehook, Intecrio, …) -
+
+Bonne capacité d'analyse ; - Bonnes compétences en communication écrite et orale; - Capacité à rédiger des documentations techniques et à communiquer en anglais ; - Esprit d'équipe, autonomie, capacité de lead sur des tâches de développement. - Fortement motivé et capable de travailler simultanément sur plusieurs activités
+Entreprise Au sein de notre nouvelle entité Vitesco Technologies (Powertrain), le groupe «Customer Software France» est en charge du développement des logiciels des calculateurs de contrôle moteurs essence, diesel et véhicule électrique pour principalement les clients PSA, Renault-Nissan, Fiat-Chrysler et Ford Europe.
+
+Vitesco Technologies se concentre sur les systèmes de transmission de véhicules efficaces et propres.
+
+Dans ce domaine, la Division travaille à l'amélioration des performances des systèmes d'injection, des turbocompresseurs, des commandes de boîte de vitesses, des capteurs, des systèmes d'actionneurs et du post-traitement des gaz d'échappement.
+
+Dans le même temps, elle prépare le terrain pour l'électrification des véhicules avec des systèmes efficients et leur intégration économique dans les véhicules.
+Apec.fr - il y a 3 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",15/10/2019,software_engineer,Toulouse,18/10/2019,vjk=c322a4dfb877d14f,vide,cdi
+Ingénieur Logiciel Temps Réel - Toulouse,Ausy,Toulouse (31),vide,"Toulouse (31)
+Dans le cadre de la croissance de nos activités automobiles à Toulouse, nous recherchons actuellement un(e) Ingénieur(e) Temps Réel.
+Intégré(e) à une équipe projet d’une dizaine de personnes, travaillant sur le véhicule hybride, vous serez en charge, sur site client, de tout ce qui concerne le contrôle des batteries.
+Vos missions seront à la fois de développer et intégrer les différentes fonctions du calculateur en répondant aux besoins clients, et également de faire monter le projet en maturité pour disposer d’une solution finale générique et stable.
+Vous serez en contact régulier avec les équipes de développement et d’intégration, afin d’harmoniser le projet.
+Ainsi, vous interviendrez sur :
+Spécification, conception, développement et test de logiciels embarqués
+Intervention sur l’ensemble du cycle de développement
+Le développement des différentes fonctions et briques logicielles sur cible NXP
+ENVIRONNEMENT TECHNIQUE
+OS, Temps Réel, Doors, Restify, Python
+Profil recherché
+De formation Ingénieur(e) ou équivalent, vous avez une expérience de minimum 2 ans en Ingénierie Système.
+La maitrise de l’environnement FREE RTOS ou linux yocto est nécessaire et des connaissances dans le domaine de l’automobile serait un réel atout.
+La maîtrise l’anglais est un prérequis.
+Si vous êtes attiré(e) par le domaine de l’automobile, n’hésitez plus, ce poste est fait pour vous !
+Rejoignez-nous !
+Entreprise handi-accueillante : à compétences égales,
+tous nos postes sont ouverts aux personnes en situation de handicap.
+il y a 3 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",15/10/2019,software_engineer,Toulouse,18/10/2019,vjk=385c7d91dd0350d9,vide,vide
+INGENIEUR LOGICIEL EMBARQUE TEMPS-REEL COUCHES BASSES F/H,FERCHAU,,vide,"Toulouse (31)
+CDI
+Pour accompagner le développement de notre site de Toulouse, nous recrutons en CDI un(e) :
+
+INGENIEUR LOGICIEL EMBARQUE TEMPS-REEL COUCHES BASSES (H/F)
+
+Dans le cadre du développement de logiciels embarqués de calculateurs automobiles, vous serez
+
+responsable du développement des couches bas niveau. A ce titre, vous serez amené(e) à :
+
+Piloter et organiser le travail d’une équipe de 2 à 3 développeurs.
+Participer à la conception de l’architecture logicielle.
+Participer à la définition des interfaces logicielles.
+Supporter les équipes de développement sur les problèmes techniques.
+Profil recherché Diplômé(e) d'une école d'ingénieur ou d’une formation supérieure équivalente, vous justifiez au
+
+minimum de 5 ans d'expérience professionnelle en développement logiciel embarqué temps réel
+
+automobile.
+
+Familier avec les contraintes de développement temps réel et le langage C, vous disposez de
+
+compétences en architecture logicielle et vous connaissez le langage UML, ainsi que les normes de
+
+sûreté de fonctionnement ISO26262 ou DO178B.
+
+La maîtrise de l’Anglais à l’oral est indispensable.
+Entreprise Fondée en 1966, FERCHAU Engineering est aujourd’hui une société familiale et le premier employeur d'ingénierie en Allemagne, avec plus de 10 000 collaborateurs.
+
+Nous réalisons des prestations d’ingénierie de la plus haute qualité, qui répondent aux exigences d’entreprises innovantes. De Paris à Toulouse, en passant par Marignane, Valenciennes et Sophia Antipolis nous avons fait le choix de nous implanter dans les grands bassins économiques français afin de pouvoir travailler en étroite collaboration avec nos clients sur le terrain. Une concentration de savoir-faire en ingénierie, un réseau mondial et de la flexibilité : voici ce qui caractérise FERCHAU Engineering.
+
+Chacune de nos agences est organisée de façon à garder des structures de taille humaine, tout en offrant la sécurité et la stabilité d’un groupe d'envergure internationale. Nous offrons à nos salariés la souplesse et la proximité d’une PME, mais également la possibilité d’évoluer dans différents secteurs d’activité : aéronautique, défense, technologies de l’information, ferroviaire ou automobile.
+
+Vous souhaitez travailler dans un contexte international, et rejoindre des projets exaltants ?
+
+Alors n’hésitez plus et rejoignez-nous !
+Apec.fr - il y a 9 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",,software_engineer,Toulouse,18/10/2019,vjk=16f51cb8ccca6698,vide,cdi
+INGENIEUR LOGICIEL EMBARQUE DRIVERS et BAS NIVEAU F/H,FERCHAU,Toulouse (31),vide,"Toulouse (31)
+CDI
+Dans le cadre du développement de modules logiciel temps réel de systèmes embarqués destinés
+
+à l’industrie automobile, vous serez chargé(e) du développement des couches Microcontroller
+
+Abstraction Layer (drivers micro) et Hardware Abstraction Layer (contrôle et diagnostique du HW
+
+ECU). A ce titre, vous serez amené(e) à :
+Analyser les spécifications système et logiciel sous Doors
+Assurer la traçabilité spécifications-design-validation sous Doors
+Gérer les workproducts et les changes sous IMS
+Participer au revue de pair pour le package logiciel
+Profil recherché Diplômé(e) d'une école d'ingénieur ou d’une formation supérieure équivalente, vous justifiez au
+
+minimum de 3 ans d'expérience professionnelle en développement logiciel embarqué temps réel
+
+automobile, idéalement au niveau drivers et/ou couches basses.
+
+Familier avec les contraintes de développement temps réel et le langage C, vous maîtrisez les
+
+environnements et outils suivants : DOORS ou équivalent, MISRA, normes ISO26262 ou DO178B,
+
+sonde debug microcontrôleur et équipements laboratoire électronique (oscilloscope, GBF, ...). La
+
+connaissance de CANape, Canalyzer, CANOE et RTRT est un plus.
+
+La maîtrise de l’Anglais à l’oral est indispensable.
+Entreprise Fondée en 1966, FERCHAU Engineering est aujourd’hui une société familiale et le premier employeur d'ingénierie en Allemagne, avec plus de 10 000 collaborateurs.
+
+Nous réalisons des prestations d’ingénierie de la plus haute qualité, qui répondent aux exigences d’entreprises innovantes. De Paris à Toulouse, en passant par Marignane, Valenciennes et Sophia Antipolis nous avons fait le choix de nous implanter dans les grands bassins économiques français afin de pouvoir travailler en étroite collaboration avec nos clients sur le terrain. Une concentration de savoir-faire en ingénierie, un réseau mondial et de la flexibilité : voici ce qui caractérise FERCHAU Engineering.
+
+Chacune de nos agences est organisée de façon à garder des structures de taille humaine, tout en offrant la sécurité et la stabilité d’un groupe d'envergure internationale. Nous offrons à nos salariés la souplesse et la proximité d’une PME, mais également la possibilité d’évoluer dans différents secteurs d’activité : aéronautique, défense, technologies de l’information, ferroviaire ou automobile.
+
+Vous souhaitez travailler dans un contexte international, et rejoindre des projets exaltants ?
+
+Alors n’hésitez plus et rejoignez-nous !
+Apec.fr - il y a 9 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",09/10/2019,software_engineer,Toulouse,18/10/2019,vjk=9dff0e1626c4022c,vide,cdi
+"INGENIEUR LOGICIEL EMBARQUE C ET C++, COUCHES APPLICATIVES F...",FERCHAU,Toulouse (31),vide,"Toulouse (31)
+CDI
+Pour accompagner le développement de notre site de Toulouse, nous recrutons en CDI un(e) :
+
+INGENIEUR LOGICIEL EMBARQUE C et C++, Couches applicatives (H/F)
+
+Dans le cadre du développement de systèmes embarqués destinés à l’industrie automobile, vous
+
+serez chargé(e) du développement et de l’intégration des couches applicatives de modules
+
+logiciels embarqués temps réel. Vous interviendrez dans un contexte de développement Agile
+
+Scrum.
+
+A ce titre, vous serez notamment amené(e) à :
+développer des modules logiciels applicatifs en langages C et C++ ;
+intégrer ces modules dans un contexte Classic Autosar ou Adaptive Autosar ;
+garantir le respect des process de développement logiciel dans le respect des principes
+d’intégration continue.
+Profil recherché Diplômé(e) d'une école d'ingénieur ou d’une formation supérieure équivalente, vous justifiez au
+
+minimum de 2 ans d'expérience professionnelle.
+
+Familiarisé avec les principes d’intégration continue Jenkins et la méthodologie Agile Scrum, vous
+
+maitrisez le développement temps réel en C / C++ des couches applicatives de logiciels
+
+embarqués.
+
+Dans l’idéal, vous maîtrisez également l’environnement Linux embarqué et les langages Java et
+
+Python.
+
+La connaissance des réseaux Ethernet, CAN, LIN et du protocole SOME-IP est un plus.
+
+La maîtrise de l’Anglais à l’oral est indispensable.
+Entreprise Fondée en 1966, FERCHAU Engineering est aujourd’hui une société familiale et le premier employeur d'ingénierie en Allemagne, avec plus de 10 000 collaborateurs.
+
+Nous réalisons des prestations d’ingénierie de la plus haute qualité, qui répondent aux exigences d’entreprises innovantes. De Paris à Toulouse, en passant par Marignane, Valenciennes et Sophia Antipolis nous avons fait le choix de nous implanter dans les grands bassins économiques français afin de pouvoir travailler en étroite collaboration avec nos clients sur le terrain. Une concentration de savoir-faire en ingénierie, un réseau mondial et de la flexibilité : voici ce qui caractérise FERCHAU Engineering.
+
+Chacune de nos agences est organisée de façon à garder des structures de taille humaine, tout en offrant la sécurité et la stabilité d’un groupe d'envergure internationale. Nous offrons à nos salariés la souplesse et la proximité d’une PME, mais également la possibilité d’évoluer dans différents secteurs d’activité : aéronautique, défense, technologies de l’information, ferroviaire ou automobile.
+
+Vous souhaitez travailler dans un contexte international, et rejoindre des projets exaltants ?
+
+Alors n’hésitez plus et rejoignez-nous !
+Apec.fr - il y a 9 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",09/10/2019,software_engineer,Toulouse,18/10/2019,vjk=3c77ac2a099bc70d,vide,cdi
+"INGENIEUR LOGICIEL EMBARQUE C ET C++, COUCHES BASSES ET DRIV...",FERCHAU,Toulouse (31),vide,"Toulouse (31)
+CDI
+Pour accompagner le développement de notre site de Toulouse, nous recrutons en CDI un(e) :
+
+INGENIEUR LOGICIEL EMBARQUE C et C++, Couches basses et drivers (H/F)
+
+Dans le cadre du développement de systèmes embarqués destinés à l’industrie automobile, vous
+
+serez chargé(e) du développement et de l’intégration des couches basses et drivers de modules
+
+logiciels embarqués temps réel. Vous interviendrez dans un contexte de développement Agile
+
+Scrum.
+
+A ce titre, vous serez notamment amené(e) à :
+développer des modules logiciels bas niveau et drivers en langages C et C++ ;
+intégrer ces modules dans un contexte Classic Autosar ;
+garantir le respect des process de développement logiciel dans le respect des principes
+d’intégration continue.
+Profil recherché Diplômé(e) d'une école d'ingénieur ou d’une formation supérieure équivalente, vous justifiez au
+
+minimum de 2 ans d'expérience professionnelle.
+
+Familiarisé avec les principes d’intégration continue Jenkins et la méthodologie Agile Scrum, vous
+
+maitrisez le développement temps réel en C / C++ des couches basses et drivers de logiciels
+
+embarqués.
+
+La maîtrise de l’Anglais à l’oral est indispensable.
+Entreprise Fondée en 1966, FERCHAU Engineering est aujourd’hui une société familiale et le premier employeur d'ingénierie en Allemagne, avec plus de 10 000 collaborateurs.
+
+Nous réalisons des prestations d’ingénierie de la plus haute qualité, qui répondent aux exigences d’entreprises innovantes. De Paris à Toulouse, en passant par Marignane, Valenciennes et Sophia Antipolis nous avons fait le choix de nous implanter dans les grands bassins économiques français afin de pouvoir travailler en étroite collaboration avec nos clients sur le terrain. Une concentration de savoir-faire en ingénierie, un réseau mondial et de la flexibilité : voici ce qui caractérise FERCHAU Engineering.
+
+Chacune de nos agences est organisée de façon à garder des structures de taille humaine, tout en offrant la sécurité et la stabilité d’un groupe d'envergure internationale. Nous offrons à nos salariés la souplesse et la proximité d’une PME, mais également la possibilité d’évoluer dans différents secteurs d’activité : aéronautique, défense, technologies de l’information, ferroviaire ou automobile.
+
+Vous souhaitez travailler dans un contexte international, et rejoindre des projets exaltants ?
+
+Alors n’hésitez plus et rejoignez-nous !
+Apec.fr - il y a 9 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",09/10/2019,software_engineer,Toulouse,18/10/2019,vjk=6c60e60342826915,vide,cdi
+Software Engineer - Rust,"Input Output Hong Kong - ""IOHK""",Toulouse (31),vide,"Toulouse (31)
+Summary
+As a Software Engineer at IOHK you are responsible for writing high-quality code for our products. You have the exciting challenge of working with cutting-edge research and technology with a focus on the market's needs. To support you on this challenge, our products have software architects, product managers, project managers, formal methods specialists and QA test engineers, with whom you must communicate professionally, effectively and efficiently.
+Duties
+Follow agile software development practices
+Work with teams across multiple time zones
+Work independently on software development tasks
+Be proactive and require minimal supervision or mentoring to complete tasks
+Review specifications produced by architects and formal methods specialists
+Contribute to the design of algorithms
+Write clean, straightforward, efficient code that satisfies previously agreed acceptance criteria and specifications
+Commit often and submit small pull requests frequently
+Cover your code with unit, property and integration tests when applicable
+Review the pull requests of your team mates
+Fix bugs in your own code and in legacy code from others
+Be available for emergency fixing of severity 1 issues on deployed products
+Integrate software components and third-party libraries
+Verify and deploy programs and systems
+Troubleshoot, debug and upgrade existing software
+Write documentation for the code
+Write technical user manuals
+Knowledge of distributed and concurrent computation
+Knowledge of the basics of cryptography
+Key Competencies
+Write idiomatic code that satisfies the acceptance criteria of a given task
+Write tests (unit tests, property tests) that provide sufficient and non-superfluous efficient code coverage.
+Document code and APIs concisely and unambiguously
+Break down tasks into sub-tasks that are completable in a short amount of time and report completion as required by managers
+Pragmatically adhere to software engineering principles (modularity, incremental development, no premature optimization, no feature creep, no speculative generality, ...)
+Education / Experience
+is desirable but not essential
+A minimum of 2-3 years development experience with C/C++ but with the ability to demonstrate good knowledge of Rust Programming Language (professional or otherwise)
+Experience working with Git and Git workflow
+Practical experience with Agile software development methods
+Knowledge of functional and object-oriented programming paradigms
+Specialist Skills - for a software engineer specialized in Rust
+You’ll have a background of C/C++ Development experience (approx 3 - 5 years) but with the ability to demonstrate good knowledge of Rust Programming Language.
+Experience in developing cryptography protocols would be a bonus
+HTTP API understanding as well as accessibility and security compliance
+This is a remote based role working with a Distributed team across the EU, we are considering all candidates within the EU. For more information on our Rust project - https://cardanorust.iohkdev.io/
+and our opensource repo's - https://github.com/input-output-hk?language=rust
+https://github.com/input-output-hk/rust-cardano
+https://iohk.io/en/careers/fk03udp/software-engineer-rust/
+Job Type: Full-time
+Experience:
+Software Engineering: 5 years (Preferred)
+C++: 3 years (Preferred)
+Rust: 1 year (Preferred)
+Indeed - il y a 9 jours
+Signaler cette offre d'emploi",09/10/2019,software_engineer,Toulouse,18/10/2019,vjk=faf9cfa146c5dc63,vide,freelance
+Ingénieur Logiciel C++ Qt H/F - Toulouse,Ausy,Toulouse (31),vide,"Toulouse (31)
+Dans le cadre du développement de nos activités dans le secteur de l’aviation civile, nous recherchons aujourd’hui un(e) ingénieur(e) en Développement C++ Qt QML.
+Intégré(e) à une équipe de développement logiciel, vous participerez à la production de composants graphiques pour des applications embarquées à l’usage des pilotes des compagnies aériennes.
+A ce titre, vous serez amené à réaliser les tâches suivantes :
+Développement du logiciel sous l’environnement Linux
+Développement et validation des composants graphiques en accord avec L’équipe d’ergonomes
+Réalisation de tests fonctionnels sur cibles
+Rédiger la documentation associée
+ENVIRONNEMENT TECHNIQUE
+QT QML, méthode agile, C++, gestionnaires de versions (Git, SVN…)
+Profil recherché
+Ingénieur(e) Informatique ou équivalent, vous disposez d'une expérience significative en développement front-end sous QML dans un environnement client lourd .
+Votre force de proposition, votre sens du détail et votre autonomie seront de véritables atouts pour mener à bien ce projet.
+La maîtrise manuscrite de l’anglais est obligatoire.
+Si vous avez un réel intérêt pour l‘aviation civile et le développement d’interfaces graphiques, n'hésitez pas à venir nous rencontrer et trouver peut-être le projet à la hauteur de vos ambitions.
+Rejoignez-nous !
+Entreprise handi-accueillante : à compétences égales, tous nos postes sont ouverts aux personnes en situation de handicap.
+il y a 17 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",01/10/2019,software_engineer,Toulouse,18/10/2019,vjk=eb9fe3e7d62d9a74,vide,vide
+Ingénieur Logiciel Embarqué F/H,GROUPE CENTUM ADETEL,Toulouse (31),vide,"Toulouse (31)
+CDI
+Depuis plus de 25 ans, CENTUM ADENEO apporte conseil et expertise à ses clients dans le domaine de l’électronique embarqué. Nous intervenons sur tout le cycle de vie du produit et accompagnons les entreprises dans leurs projets de R&D. Au sein de l'équipe projet, vous intervenez sur des projets de développement logiciel (fonctionnalités, système complet, C sur microcontrôleur, linux...) selon les exigences et spécifications techniques clients (internes et/ou externes).
+
+Concrètement, vous serez amené(e) à :
+Piloter les différentes phases d'avancement du projet,
+
+Rédiger les documents techniques (spécifications, conception,
+plans de tests, manuel utilisateur, notes techniques...),
+
+Définir l'analyse fonctionnelle et l'architecture,
+la conception technique et le codage du système,
+
+Participer à la mise au
+point, à la vérification et la correction d'anomalies
+Profil recherché Issu(e) d'une formation supérieure de type Master ou école d'Ingénieur en logiciels / systèmes embarqués, vous avez une expérience significative au minimum de 5 ans en conception, développement et validation de fonctions logicielles complexes.Vous aimez être au plus près du matériel pour intervenir sur les couches basses. Une expérience en environnement normé comme la DO178 sera appréciée.
+Entreprise CENTUM ADENEO au sein du groupe CENTUM ADETEL (2200 personnes, 160 M€ de CA) est spécialisé en design, développement et industrialisation de produits électroniques pour des grands comptes de l'industrie aéronautique/défense, du ferroviaire, du médical, de l'énergie, des télécommunications tels que : ALSTOM Transport, Volvo Group, THALES, SAFRAN, SNCF, ZODIAC, FRESENIUS, TRIXELL, …
+Fort d’une capacité en bureau d’étude de 630 personnes (électronique, software, FPGA, mécanique, CAO, …), notre offre est multiple et structurée :
+
+Conception de produits sur spécifications clients ;
+
+Engineering Services avec le forfait, les plateaux techniques et le consulting.
+Apec.fr - il y a 27 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",21/09/2019,software_engineer,Toulouse,18/10/2019,vjk=c689a27d2f11285a,vide,cdi
+Ingénieur Logiciel Spatial,Forum Emploi-Formation-Alternance: Talents Handica...,Toulouse (31),vide,"Toulouse (31)
+CDI
+Le saviez-vous ? La carte de vigilance de Météo France est actualisée deux fois par jour à 6h et 16h. Cette information utile est générée par une équipe Capgemini qui développe les outils de recueil et de pilotage des données transmises par les capteurs installés sur les ballons stratosphériques. Envie de rejoindre l’aventure ?
+
+Vous serez au cœur de l'évolution des nouvelles technologies et participerez à des projets technologiquement avancés pour des clients du secteur de la Défense, et de l'Aéronautique et du Spatial, pour lesquels vous aurez pour mission :
+L'analyse de la solution globale sur le plan fonctionnel et de l'architecture
+La conception et le développement JAVA, C/ C++, etc...
+La rédaction, la définition et à la mise en place de l'environnement d'intégration et de test
+La validation du bon fonctionnement de la solution sur un plan technique et fonctionnel
+Le suivi des performances et de l'optimisation
+handicap-job.com - il y a 23 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",25/09/2019,software_engineer,Toulouse,18/10/2019,vjk=e09915b04514bacf,vide,cdi
+Ingénieur Logiciel - Systemes Embarques,Axter Automation,France,vide,"France
+CDI
+Ingénieur Robotique – R&D Logiciel
+Vous êtes passionné par le domaine de la robotique industrielle ; vous possédez des compétences et de l'expérience en conception ou développement logiciel d'équipements robotisés ? Vous êtes rigoureux et avez un bon sens de l'organisation ?
+Intégrerez notre bureau à Vaucresson (92) qui connait une forte croissance grâce à nos solutions de véhicule autonome qui répondent à une demande croissante de technologie en robotique et d’automatisation en France ainsi qu’à travers le reste du continent européen.
+Vous serez responsable de mener à terme, à l'intérieur des budgets et échéanciers établis, des projets de développement logiciel pour nos véhicules de manutention autonomes d’envergure et stimulants, en collaboration avec notre équipe en place en France et en Chine. Vous serez également amené à voyager pour des courtes durées en Europe et Asie pour suivre vos réalisations.
+Dans le cadre de vos fonction, vous aurez à :
+Réaliser la R&D des logiciels et son intégration
+Effectuer la conception et le développement des adaptations logiciels sur nos installations
+Paramétrer de façon cohérente en respectant les standards et les spécifications
+Effectuer des améliorations simplifiant l’interface clients utilisateurs
+Préparer et assister les ingenieurs d’application pour la mise en service de nos véhicules autonomes ainsi que les logiciels associés
+Votre profil
+Vous êtes diplômé(e) d’une Grande École d’Ingénieurs en Robotique, systèmes embarqués ou développement logiciel
+Vous justifiez d’une expérience significative dans la conception et/ou développement logiciel
+Vous disposez d’une bonne maitrise des environnements Windows et Linux et des langages de programmation C++, Python et PHP
+Vous maîtrisez l’anglais (lu, écrit, parlé)
+Vous possédezun excellent esprit d’analyse et de synthèse ainsi qu’un sens de l'organisation développé
+Vous êtes débrouillard et habile en résolution de problèmes appliqués
+Vous démontrez de fortes aptitudes de communication, ainsi que de l’initiative et un bon travail d’équipe
+Conditions du poste
+Nature du contrat : CDI à temps plein
+Rémunération selon profil et expérience
+Poste à pourvoir immédiatement à Vaucresson (92420).
+Conditions d'éligibilité: Bac+5. 1an d'experience. Permis B obligatoire. Habilite Secret-Défense.
+Type d'emploi : CDI
+Expérience:
+développement logiciel / milieu industriel: 2 ans (Requis)
+il y a 4 mois
+Signaler cette offre d'emploi",18/06/2019,software_engineer,Toulouse,18/10/2019,vjk=24769fe683205461&advn=7335433343559444,vide,cdi
+Back-End Software Engineer,cenareo,Labège (31),vide,"Labège (31)
+CDI
+Startup de l’IoT Valley labellisée Pass French French Tech’, créée en 2012 par 4 ingénieurs, Cenareo développe un CMS (Content Management System) dédié à l'affichage dynamique. Intuitive et collaborative, la plateforme SaaS permet de créer, gérer et diffuser des contenus sur des écrans d'affichage en temps réel, à partir de n’importe quel PC, tablette ou smartphone.
+En hyper croissance depuis sa création, Cenareo vient d’ouvrir son premier bureau hors de France, à Munich.
+Avec des ambitions internationales affirmées, elle accueille les candidats multiculturels et étrangers. L’anglais devient la première langue parlée dans l’entreprise.
+
+Cenareo emploie plus de 35 personnes en phase avec cette orientation qui renforce les valeurs de l’entreprise :
+Satisfaction Client
+Excellence Produit
+Audace & Ambition
+Inventivité
+Esprits d’équipe
+
+L'équipe :
+Vous rejoindrez une équipe de passionnés par les nouvelles technologies, la vidéo et le billard ! Créative et portée par les challenges, l’équipe dégage une atmosphère conviviale et décontractée propice à l’échange et à l’innovation.
+Au sein de l'écosystème toulousain de l'IOT Valley, Cenareo met à disposition un cadre de travail agréable, allant de la salle de sport pour se fatiguer, à la salle Zen pour se reposer, du fameux billard pour s'exercer à la table de ping-pong pour se défier, sans oublier l'incontournable 'FrigoMeo' pour les gourmands ;)
+
+Ce qu'il faut savoir :
+Nous travaillons avec les outils suivants: Jira, Slack, Quip, G Suite ...
+L'équipe utilise des technologies telles que Python, Django, React, Typescript et Docker...
+Vous entrerez dans l'écosystème de startups de l'IoT Valley
+Vous aurez accès à des livres, formations en ligne, et meet-up
+Vous pourrez bénéficier du télétravail
+Et vous aurez une grande variété de challenges à relever et ne vous ennuierez jamais !
+Description du poste
+Votre mission si vous l'acceptez :
+En tant que Back-End Software Engineer, vous serez en charge de collecter les besoins utilisateurs, définir les fonctionnalités système et de développer un Software de qualité, innovant et performant, aligné avec les standards de codage et le design technique.
+
+Vous serez responsable de la partie serveur de l'application utilisée pour notre plateforme SaaS et notre player qui gère l'affichage.
+Vous ne serez pas seul(e) pour assurer cette mission et travaillerez étroitement avec une équipe d'experts afin de façonner le meilleur produit possible pour nos clients.
+
+Votre activité pour y arriver:
+
+1. Concevoir et développer - 50%
+Intégrer les éléments développés par nos ingénieurs Front-end
+Développer un code et une librairie réutilisables
+Optimiser la vitesse de l'application pour permettre la montée en charge
+Implémenter une politique de sécurisation et protection des données
+Concevoir et implémenter des solutions de stockage de données
+Dépanner, analyser et améliorer le logiciel existant
+Développer et maintenir des tests automatiques
+Mener des tests unitaires et revues de code
+Maintenir le code et documenter
+2. Collaborer & Soutenir - 30%
+Collaborer avec les autres équipes dans le développement et l'implémentation de solutions et notamment :
+Travailler avec l'équipe Front-End en s'assurant de la synchronicité dans le développement du software
+Travailler avec l'équipe Back-End dans l'évaluation des impacts et la prise de décision relative aux choix technologiques, aux considérations liées au design et à la stratégie d'implémentation
+Travailler avec l'équipe globale pour récolter et évaluer les feedbacks
+Créer une documentation technique de référence et assurer un reporting
+3. Assurer la bonne transmission et le développement des connaissances - 20%
+Constamment s'intéresser et inventorier les connaissances et ""best practices"" du secteur
+Recueillir et s'initier aux nouvelles technologies pertinentes
+Recueillir de l'information et de la documentation sur des éléments tels les techniques de test, de refactoring, et la montée en charge
+Participer à votre formation continue pour rester à jour sur les meilleures pratiques, apprendre de nouveaux langages de programmation, et assister d'autres membres de l'équipe
+Profil recherché
+QUALIFICATIONS
+Diplômé Bac+5 de spécialité informatique ou diplôme d'ingénieur
+Expérience minimum 2 ans et plus en tant que développeur Back-end de logiciels ou équivalent
+
+COMPÉTENCES DÉTERMINANTES
+Team player
+Fluent English
+Forte expérience de conception de Software
+A l'aise avec les méthodes agiles
+Sens du détail
+Bonne capacité de communication et de collaboration
+Capacité d'apprentissage de nouvelles technologies et de sélectionner les plus adéquates
+Savoir rester focus et efficace
+Capacité à comprendre le besoin utilisateur et à améliorer les process
+Développer avec une approche ""Test-Driven Development""
+Capacité à résoudre des problèmes, identifier des goulots d'étranglement dans le code et les réparer
+
+COMPÉTENCES TECHNIQUES
+Connaissance d'un contrôleur de code source comme Git
+Très bonne connaissance des langages et Framework comme Python et Django
+Bonne connaissance en bases de données type PostgreSQL
+Une expérience avec Docker et son écosystème est un plus
+Une expérience dans le développement Front-End est un plus (de préférence sur React/TypeScript)
+il y a 29 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",19/09/2019,software_engineer,Toulouse,18/10/2019,vjk=c8d44e0837877d17,vide,cdi
+Front-End Software Engineer,cenareo,Labège (31),vide,"Labège (31)
+CDI
+Startup de l’IoT Valley labellisée Pass French French Tech’, créée en 2012 par 4 ingénieurs, Cenareo développe un CMS (Content Management System) dédié à l'affichage dynamique. Intuitive et collaborative, la plateforme SaaS permet de créer, gérer et diffuser des contenus sur des écrans d'affichage en temps réel, à partir de n’importe quel PC, tablette ou smartphone.
+En hyper croissance depuis sa création, Cenareo vient d’ouvrir son premier bureau hors de France, à Munich.
+Avec des ambitions internationales affirmées, elle accueille les candidats multiculturels et étrangers. L’anglais devient la première langue parlée dans l’entreprise.
+
+Cenareo emploie plus de 35 personnes en phase avec cette orientation qui renforce les valeurs de l’entreprise :
+Satisfaction Client
+Excellence Produit
+Audace & Ambition
+Inventivité
+Esprits d’équipe
+
+L'équipe :
+Vous rejoindrez une équipe de passionnés par les nouvelles technologies, la vidéo et le billard ! Créative et portée par les challenges, l’équipe dégage une atmosphère conviviale et décontractée propice à l’échange et à l’innovation.
+Au sein de l'écosystème toulousain de l'IOT Valley, Cenareo met à disposition un cadre de travail agréable, allant de la salle de sport pour se fatiguer, à la salle Zen pour se reposer, du fameux billard pour s'exercer à la table de ping-pong pour se défier, sans oublier l'incontournable 'FrigoMeo' pour les gourmands ;)
+
+Ce qu'il faut savoir :
+Nous travaillons avec les outils suivants: Jira, Slack, Quip, G Suite ...
+L'équipe utilise des technologies telles que Python, Django, React, Typescript et Docker...
+Vous entrerez dans l'écosystème de startups de l'IoT Valley
+Vous aurez accès à des livres, formations en ligne, et meet-up
+Vous pourrez bénéficier du télétravail
+Et vous aurez une grande variété de challenges à relever et ne vous ennuierez jamais !
+Description du poste
+Votre mission si vous l'acceptez :
+En tant que Front-End Software Engineer, vous serez en charge de collecter les besoins utilisateurs, définir les fonctionnalités système et de développer un logiciel de qualité, innovant et performant, aligné avec les standards de codage et le design technique.
+
+Vous serez responsable de l'implémentation des éléments visuels avec lesquels les utilisateurs interagissent sur notre plateforme SaaS ou notre player qui gère l'affichage. Vous travaillerez en étroite collaboration avec l'UX/UI designer afin d'assurer la bonne implémentation des éléments graphiques en veillant à obtenir un résultat à la fois beau visuellement et fonctionnel.
+Vous ne serez pas seul(e) pour assurer cette mission et travaillerez étroitement avec une équipe d'experts afin de façonner le meilleur produit possible pour nos clients.
+
+Votre activité pour y arriver:
+
+1. Concevoir et développer - 50%
+Développer des nouvelles ""user-facing features"" sur notre plateforme SaaS
+Développer des nouvelles ""features"" d'affichage sur nos players
+S'assurer de la faisabilité technique de l'UX/UI design
+Développer un code et une librairie réutilisables
+Optimiser la vitesse de l'application pour permettre la montée en charge
+Débuguer, analyser et améliorer le logiciel existant
+Développer et maintenir des tests automatiques
+Mener des tests unitaires et revues de code
+Maintenir le code et documenter
+2. Collaborer & Soutenir - 30%
+Collaborer avec les autres équipes dans le développement et l'implémentation de solutions et notamment :
+Travailler avec l'équipe Back-End en s'assurant de la synchronicité dans le développement du logiciel
+Travailler avec l'équipe Front-End dans l'évaluation des impacts et la prise de décision relative aux choix technologiques, aux considérations liées au design et à la stratégie d'implémentation
+Travailler avec l'équipe globale pour récolter et évaluer les retours utilisateurs
+Créer une documentation technique de référence et assurer un reporting
+3. Assurer la bonne transmission et le développement des connaissances - 20%
+Constamment s'intéresser et inventorier les connaissances et ""best practices"" du secteur
+Recueillir et s'initier aux nouvelles technologies pertinentes.
+Recueillir de l'information et de la documentation sur des éléments tels que la ""scalabilité"", les techniques de test et le ""refactoring""
+Participer à votre formation continue pour rester à jour sur les meilleures pratiques, apprendre de nouveaux langages de programmation, et assister d'autres membres de l'équipe.
+Profil recherché
+QUALIFICATIONS
+Diplômé Bac+5 de spécialité informatique ou diplôme d'ingénieur
+Expérience requise de 2 ans ou plus en tant que développeur Front-End de logiciels ou équivalent
+
+COMPÉTENCES DÉTERMINANTES
+Team player
+Fluent English
+Forte expérience de conception de Software
+A l'aise avec les méthodes agiles
+Sens du détail
+Bonne capacité de communication et de collaboration
+Capacité d'apprentissage de nouvelles technologies et de sélectionner les plus adéquates.
+Savoir rester focus et efficace
+Capacité à comprendre le besoin utilisateur et d'améliorer les process
+Développer avec une approche ""Test-Driven Development""
+Capacité à résoudre des problèmes, identifier des goulots d'étranglement dans le code et les réparer
+
+COMPÉTENCES TECHNIQUES
+Connaissance d'un contrôleur de code source comme Git
+Très bonne compréhension du web markup, incluant HTML5, CSS3
+Bonne connaissance de langages côté client comme Typescript/JavaScript
+Bonne connaissance de Frameworks côté client comme React (ou Angular/Vue)
+Une expérience de développement sur Android est un plus
+Une expérience avec Docker et son écosystème est un plus
+Une expérience dans le développement back-end est un plus
+il y a 29 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",19/09/2019,software_engineer,Toulouse,18/10/2019,vjk=91cc827ca7fda45f,vide,cdi
+Lead Software Engineer,cenareo,Labège (31),vide,"Labège (31)
+CDI
+Startup de l’IoT Valley labellisée Pass French French Tech’, créée en 2012 par 4 ingénieurs, Cenareo développe un CMS (Content Management System) dédié à l'affichage dynamique. Intuitive et collaborative, la plateforme SaaS permet de créer, gérer et diffuser des contenus sur des écrans d'affichage en temps réel, à partir de n’importe quel PC, tablette ou smartphone.
+
+En hyper croissance depuis sa création, Cenareo vient d’ouvrir son premier bureau hors de France, à Munich.
+Avec des ambitions internationales affirmées, elle accueille les candidats multiculturels et étrangers. L’anglais devient la première langue parlée dans l’entreprise.
+
+Cenareo emploie plus de 35 personnes en phase avec cette orientation qui renforce les valeurs de l’entreprise :
+Satisfaction Client
+Excellence Produit
+Audace & Ambition
+Inventivité
+Esprits d’équipe
+L'équipe :
+
+Vous rejoindrez une équipe de plus de 30 personnes passionnées par les nouvelles technologies, la vidéo et le billard ! Créative et portée par les challenges, l’équipe dégage une atmosphère conviviale et décontractée propice à l’échange et à l’innovation.
+
+Au sein de l'écosystème toulousain de l'IOT Valley, Cenareo met à disposition un cadre de travail agréable, allant de la salle de sport pour se fatiguer, à la salle Zen pour se reposer, du fameux billard pour s'exercer à la table de ping-pong pour se défier, sans oublier l'incontournable 'FrigoMeo' pour les gourmands ;)
+
+Description du poste
+En tant que Lead Software Engineer, vous serez chargé d’identifier et de qualifier les exigences des utilisateurs, de définir les fonctionnalités du système et de développer des logiciels de haute qualité, innovants et performants qui respectent les normes de codage et la conception technique.
+En transverse avec les équipes de développeurs et responsables produits tout au long du cycle de développement du logiciel, vous utiliserez des technologies telles que Python, Django, React, Typescript et Docker.
+
+Pour ce faire, vous devrez :
+
+DESIGNER
+Recueillir les informations et valider les spécifications auprès du client
+Concevoir des solutions techniques conformes aux spécifications
+Proposer et mettre en œuvre des évolutions logicielles dans une démarche d’amélioration continue
+DÉVELOPPER
+Produire un code propre et efficace
+Garantir le respect des délais de livraison au client
+Intégrer des composants logiciels et des programmes tiers
+Adopter et implémenter le mouvement DevOps
+Assurer les actions nécessaires d'analyse de dépannage, débogage et de mise à niveau des logiciels existants
+Contrôler, tester et maintenir le code dans une optique de qualité et de performance
+COMMUNIQUER & REPORTER
+Assurer le reporting aux autres équipes
+Recueillir et évaluer les commentaires des utilisateurs
+Élaborer la documentation technique des fonctionnalités
+Remonter les métriques et les indicateurs de performance à l’équipe de façon hebdomadaire
+Communiquer sur l'état d'avancement des développements.
+Profil recherché
+QUALIFICATIONS
+Diplômé Bac+5 de spécialité informatique ou diplôme d'ingénieur
+Expérience avérée (au moins quatre ans) en tant que développeur de logiciels ou équivalent
+Expérience significative dans la conception de logiciels
+COMPÉTENCES DÉTERMINANTES
+Etre soucieux du détail, passionné par le diagnostic et la résolution des problèmes techniques
+Connaissance des méthodes agiles
+Capacité d’apprendre de nouveaux langages et technologies
+Excellentes aptitudes en communication : écouter, analyser et collaborer
+Ouvert d’esprit
+Autonome
+il y a 29 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",19/09/2019,software_engineer,Toulouse,18/10/2019,vjk=b0b851761f3c059d,vide,cdi
+Ingénieur logiciel embarqué drivers et bas niveau - MDI,Serma Ingenierie,Toulouse (31),vide,"Toulouse (31)
+Temps plein, CDI
+Dans le cadre du développement de nos activités, nous renforçons nos équipes en intégrant un(e) Ingénieur logiciel embarqué drivers et bas niveau.
+Vous rejoindrez une équipe de développement de systèmes électronique embarqués, adressant divers secteurs d'activité soumis à de fortes contraintes normatives.
+Vous aurez en charge le développement de fonctionnalités bas niveau de projets de grande envergure.
+Vous serez amené à:
+Analyser les spécifications système et logiciel,
+Participer au choix et à la définition de l’architecture logicielle,
+Développer le logiciel embarqué,
+Rédiger le plan de tests et réaliser les tests associés,
+Recette le logiciel.
+Compétences requises:
+Un bon niveau en développement C dans un contexte embarqué,
+Des connaissances en temps réel, débuggeur, test unitaire,
+Des connaissances en microcontrôleur / micro-prosseceur
+Des connaissances de base en électronique, lecture / compréhension de schéma électronique.
+Des connaissances en instrumentations de laboratoire (Alimentation, oscilloscope, multimètre, etc…)
+Le poste est basé à Toulouse (31) et est à pourvoir dès que possible.
+De formation Ingénieur ou Universitaire en Électronique / Informatique Industrielle, vous justifiez d'une expérience réussie dans le développement logiciel embarqué.
+La connaissance normative liée aux environnements contraints est appréciée.
+Anglais technique apprécié.
+Votre rigueur, votre autonomie, votre force de proposition, votre capacité d'analyse et votre relationnel font de vous le candidat idéal ? Rejoignez-nous !
+Type d'emploi : Temps plein, CDI
+Expérience:
+ingénieur logiciel embarqué drivers et bas niveau - mdi ou similaire: 1 an (Souhaité)
+il y a 30+ jours
+Signaler cette offre d'emploi",18/09/2019,software_engineer,Toulouse,18/10/2019,vjk=4e662dc5d14d2181,vide,cdi
+Software Engineer in Test Automation,EVS,Toulouse (31),vide,"Toulouse (31)
+Scope
+As Software Engineer in Test Automation you will assure the quality control of EVS software and hardware, by describing, developing and executing different test tools and test scripts. You will also assure the continuous integration using next generation technologies and automation tools to assure a highly-scalable and reliable infrastructure. You are responsible for planning and executing manual and automated functional tests when needed and document test results.
+Job Description
+
+*
+Analyze product requirements and specifications
+
+*
+Build an adequate test plan based on risk assessment and time constraints
+
+*
+Develop and execute automated tests
+
+*
+Create and execute manual test cases
+
+*
+Report product defects, product usability, test results and quality risks in a clear structured way
+
+*
+Assure the follow up of the product defects workflow and verify the product defect solutions
+
+*
+Plan, track and report daily work and assigned tasks
+
+Profile
+
+*
+Bachelor or master degree in ICT, Computer Science or equivalent degree / experience
+
+*
+Knowledge of a programming language ; Java, Javascript, Python, C# or C++.
+
+*
+Willingness develop and apply advanced testing skills, including software testing, devops practices and automation tools development.
+
+*
+Structured, rigourous and result-oriented team player
+
+*
+Open for changes and continuous learning
+
+*
+Good written and verbal communication skills
+
+Offer
+You will benefit from working in a friendly, lively environment having ambitious commercial objectives. Our dynamic and young team brings the best out of motivated potentials. In addition, you will receive a competitive salary and a range of other employee benefits.
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",18/09/2019,software_engineer,Toulouse,18/10/2019,vjk=b790dc2d6409e62c,vide,vide
+INGENIEUR LOGICIEL EMBARQUE F/H,ADENTIS,Toulouse (31),vide,"Toulouse (31)
+CDI
+Rédiger les spécifications techniques
+Participer à la conception
+Développer en langage C/C++ sur OS Linux embarqué ou OS temps réel
+Respecter les contraintes multithreading et les compétences bas niveau (RS422, USB, ethernet)
+Réaliser les tests unitaires
+Utuliser les outils de configuration (SVN, GIT...)
+Utiliser un outil de traçcabilité d'exigences (DOORS, Reqtify)
+Développer selon les normes en vigueur (DO178, EN62304...)
+Profil recherché De formation Ingénieur (ECE, EPITECH, ENSEA, ISEP) ou équivalent BAC+5, vous maîtrisez les règles du développement informatique (DO178, EN62304 par exemple), les distributions de Linux (Ubuntu, Debian) ou OS temps réels (Vxworks, FreeRTOS, RTOS...), le développement C/C++ ainsi que les outils de versionning (GIT, SVN, Clearcase...). Vous êtes rigoureux, aimez le travail d'équipe et êtes capable de prendre des initiatives. Vous êtes capable de lire des spécifications et de rédiger des rapports en anglais.
+Entreprise Adentis est une société de conseil opérationnel spécialisée dans les systèmes embarqués et les nouvelles technologies.
+
+Depuis 2014, Adentis réalise une croissance de 400% et souhaite pouvoir continuer sur cette lancée. Cette croissance est le fruit d’un développement organique et des succès des prestations réalisées avec nos partenaires et clients.
+
+La team Adentis
+
+Si vous souhaitez intégrer une équipe de sages fous où l’on travaille dans la joie et la bonne humeur : il faut penser à nous ! Nous vous confierons la clé d’une folle aventure…
+Apec.fr - il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",18/09/2019,software_engineer,Toulouse,18/10/2019,vjk=eea733a040cd1e51,vide,cdi
+INGENIEUR LOGICIEL APPLICATIF F/H,ADENTIS,Toulouse (31),vide,"Toulouse (31)
+CDI
+Rédiger les spécifications techniques
+Participer à la conception (UML)
+Développer en langage orienté objet C++, java, C#
+Maîtriser les IDE comme Eclipse ou Visual Studio
+Respecter les contraintes multithreading
+Maîtriser les outils comme Qt Creator
+Réaliser les tests unitaires
+Utiliser un outil de configuration (SVN, Git...)
+Automatiser les tests par des scripts (python par exemple).
+Profil recherché De formation Ingénieur (ISEP, ENSEA, ESIEE) ou équivalent BAC+ 5, vous maîtrisez le développement orienté objet (C++ ou java ou C#), les principales de la programmation objet (héritage, classe, polymorphisme...) les IDE comme eclipse ou Visual studio ainsi que les outils de versionning (Git, SVN, Clearcase...). Vous avez de bonnes connaissances en conception UML, en design Patterns.
+
+Une expérience précédente en méthodologie Agile (SCRUM) est un vrai plus. Vous êtes rigoureux, aimez le travail en équipe et êtes capable de prendre des initiatives. vous êtes capables de lire des spécifications et de rédiger des rapports en anglais.
+Entreprise Adentis est une société de conseil opérationnel spécialisée dans les systèmes embarqués et les nouvelles technologies.
+
+Depuis 2014, Adentis réalise une croissance de 400% et souhaite pouvoir continuer sur cette lancée. Cette croissance est le fruit d’un développement organique et des succès des prestations réalisées avec nos partenaires et clients.
+
+La team Adentis
+
+Si vous souhaitez intégrer une équipe de sages fous où l’on travaille dans la joie et la bonne humeur : il faut penser à nous ! Nous vous confierons la clé d’une folle aventure…
+Apec.fr - il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",18/09/2019,software_engineer,Toulouse,18/10/2019,vjk=f4578c53de0383eb,vide,cdi
+Junior Embedded Software engineer (m/f) - 5 vacancies,Airbus,Toulouse (31),vide,"Toulouse (31)
+Airbus Operations SAS
+Airbus is a global leader in aeronautics, space and related services. In 2018 it generated revenues of € 64 billion and employed a workforce of around 134,000. Airbus offers the most comprehensive range of passenger airliners. Airbus is also a European leader providing tanker, combat, transport and mission aircraft, as well as one of the world's leading space companies. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions worldwide.
+
+Our people work with passion and determination to make the world a more connected, safer and smarter place. Taking pride in our work, we draw on each other's expertise and experience to achieve excellence. Our diversity and teamwork culture propel us to accomplish the extraordinary - on the ground, in the sky and in space.
+Job Description
+Contact :
+Please apply on line for this vacancy on line at our careers site (www.jobs.airbus.com) with your CV and cover letter attached.
+By submitting your CV or application you are consenting to Airbus using and storing information about you for monitoring purposes relating to your application or future employment. This information will only be used by Airbus.
+
+
+
+Description of the job :
+5 permanent job opportunities for Junior Embedded Software Engineers have arisen within AIRBUS to be based in Toulouse in France.
+
+You will join 'Avionics Software' department, within “Avionics and Simulation products” engineering domain.
+
+Avionics and Simulation organization is an in-house avionics equipment and simulators supplier. Engineers in this domain are responsible for the design, the development, the production and the support of critical embedded products (e.g. Flight Controls, Flight Warning, Communication, Maintenance equipment) for all Airbus aircrafts. This organization is also Chamber of Reference on Software and Electronics thanks to highly skilled and experienced teams. The scope of activities also extends to other Airbus divisions and partners in some cases.
+
+You will be in charge of developing the avionics real-time software, implementing all the steps of the development cycle process as well as the associated software engineering in terms of methods and tools.
+
+Task & accountabilities :
+As the successful candidate, you will join a software team in charge of the development and maintenance of the software components, which are part of embedded avionics applications such as Flight Controls, to run on specific or modular hardware platforms.
+
+In an environment with industrial and certification constraints (DO178B and C, DAL A to C software), you will:
+
+Develop embedded real-time software in accordance with development process from the high-level specification analysis to the integration and the validation on the definitive hardware.
+Value the customer needs and challenge them to propose common and reusable solutions.
+Achieve the integration and verification activities with the real hardware using test means such as probes, bus analysers and emulators.
+Ensure the related support activity: failure report analysis, answer to technical requests.
+Improve the ways of working bring innovative design solutions and technologies.
+Define, follow-up and receipt the subcontracted activities and deliverables, in conformity with the subcontracting management rules.
+Manage his/her activities in accordance with the expected schedule, budget and quality.
+Participate to the continuous improvement of the Department performance.
+
+You will also have the opportunity to participate to some software Chamber of Reference activities, such as assessments of Airbus equipment suppliers.
+
+Required skills :
+As the successful candidate, you will be able to demonstrate some or all of the following skills and competencies:
+
+Real time embedded software development
+V cycle development process (specification, architecture, design, coding, integration, verification, support)
+Programming languages: C or C++
+Software engineering methods and tools
+Open mind-set, good communication skills and good team working
+
+Following skills would be additional assets:
+Programming languages: Assembler
+Real Time embedded software qualification and certification (DO178-C) experience
+Low-Layers software skills: Operating system, Computers architecture, Processors architecture
+Agile development process experience
+
+You are recognized for being a team player with excellent interpersonal skills.
+
+Language skills:
+Negiotiation level in English
+Intermediate level in French
+
+This job requires an awareness of any potential compliance risks and a commitment to act with integrity, as the foundation for the Company’s success, reputation and sustainable growth.
+
+By submitting your CV or application you are consenting to Airbus using and storing information about you for monitoring purposes relating to your application or future employment. This information will only be used by Airbus.
+Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief.
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",18/09/2019,software_engineer,Toulouse,18/10/2019,vjk=c7203d31b910fb0e,junior,vide
+Navigation Software Engineer (m/f),Airbus,Toulouse (31),vide,"Toulouse (31)
+Airbus Defence and Space SAS
+Airbus is a global leader in aeronautics, space and related services. In 2018 it generated revenues of € 64 billion and employed a workforce of around 134,000. Airbus offers the most comprehensive range of passenger airliners. Airbus is also a European leader providing tanker, combat, transport and mission aircraft, as well as one of the world's leading space companies. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions worldwide.
+
+Our people work with passion and determination to make the world a more connected, safer and smarter place. Taking pride in our work, we draw on each other's expertise and experience to achieve excellence. Our diversity and teamwork culture propel us to accomplish the extraordinary - on the ground, in the sky and in space.
+Job Description
+Contact :
+Please apply online for this vacancy using your eRecruiting profile with your CV attached.
+
+Description of the job :
+A position for a Navigation Software Engineer has opened within Airbus Defence & Space in Toulouse.
+
+The «Navigation and ATM» department is in charge of the definition, development and validation of major ground systems related to navigation and ATM. In the navigation activities, the department is actually working on two main European operational ground systems: GALILEO, Europe own navigation-satellite system, and EGNOS, the GNSS augmentation system, which improve performances and integrity to the users.
+
+The department is also working on R&D projects related to future GNSS and navigation space systems and technologies. With the lead on Performance and Algorithms activities, the NOVA team is bringing its expertise on subjects related to SW and algorithms design, development and validation, as well as system and product navigation performance analysis.
+
+In this context, Airbus is looking for a navigation SW engineer to integrate the NOVA team. On one hand, you will bring your expertise of complex operational SW design, development and validation for our main program with ESA. On the other hand, you will develop the future space and navigation activities of the department, by investigating and developing innovative solutions and products.
+
+This position will require a security clearance or will require being eligible for clearance by the recognized authorities.
+
+Task & accountabilities :
+Your main tasks and responsibilities will include:
+
+Designing and prototyping SW algorithms for our main navigation projects,
+Performing specific studies and trade-offs on algorithms performance,
+Developing and validating real-time operational SW,
+Proposing innovative SW concepts in line with the R&D objectives,
+Leading the technical studies and overall project,
+Developing and enhancing existing products and simulation tools,
+Collaborating with other navigation partners, internally and externally.
+
+Required skills :
+You will have the following skills and experience:
+
+Solid background in software engineering, and a proven experience in operational space projects,
+Strong interest for innovation and advanced studies,
+Experience in complex scientific programming and library implementation,
+Knowledge of programming language, like C, C++, Python or Matlab,
+Knowledge of SW environment : Git, Eclipse, SonarKube, ValGrind, but also Dockers and Kubernetes,
+Knowledge of GNSS signals processing, positioning techniques, performance analysis,
+Understanding of large Navigation systems architecture: GNSS, SBAS or GBAS, receivers,
+Autonomy and proactivity, ability to communicate with multiple interfaces, to work within transnational team and environment,
+Proactivity and open minded,
+Language skills: negotiation level in French and English.
+
+This job requires an awareness of any potential compliance risks and a commitment to act with integrity, as the foundation for the Company’s success, reputation and sustainable growth.
+
+By submitting your CV or application you are consenting to Airbus using and storing information about you for monitoring purposes relating to your application or future employment. This information will only be used by Airbus.
+Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief.
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",18/09/2019,software_engineer,Toulouse,18/10/2019,vjk=f67a656e1d20f264,vide,vide
+Ingénieur Logiciel Linux Embarqué H/F,Actia Automotive,Toulouse (31),vide,"Toulouse (31)
+CDI
+Au sein de la Direction de la Technologie et de l'Innovation, vous intégrez le département Logiciels Embarqués. Dans ce cadre, vous participez au développement de logiciels Linux Embarqués intégrés à nos calculateurs Télématiques et Afficheurs.
+Ces calculateurs embarquent un environnement Linux et intègrent des fonctions de nouvelles technologies telles que des communications wireless (GSM 3G/4G, GNSS, Wifi/Bluetooth, V2X) ou des gestions d'images/flux vidéo et s'interconnectent à une architecture véhicule grâce notamment aux réseaux Ethernet, CAN ou LIN.
+Au sein de l'équipe projet Logiciels Embarqués, vous aurez la responsabilité de l'implémentation de nouvelles fonctions applicatives et bas niveau (modification de driver) dans un environnement de développement AGILE. Vous assurez :
+l'architecture,
+la spécification,
+les développements,
+les tests et l'intégration sur les produits.
+Vous travaillez dans le respect des processus applicables, dans une démarche d'amélioration continue.
+
+
+Qualifications demandées
+Formation et langues
+Vous avez un diplôme d'Ingénieur / Master Pro spécialisé en informatique industrielle et maîtrisez l'Anglais.
+Expériences et Compétences
+Vous possédez une expérience de 1 an minimum sur un poste similaire orienté Informatique Industrielle et une spécialisation Linux Embarqué.
+Vous maîtrisez notamment :
+Kernel Linux (Développement, Debug, Optimisation)
+Les développements Middleware / Framework / IPC
+Les bus de communication (CAN, Ethernet), les technologies Objets Connecté / IoT
+Les langage C, Python, Scripting Bash
+Les outils GIT, JIRA, Yocto, BuildRoot
+Qualités Personnelles
+Rigoureux et autonome, vous possédez de bonnes capacités de communication et d'adaptation.
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",18/09/2019,software_engineer,Toulouse,18/10/2019,vjk=d5438a5ab575d835,vide,cdi
+Software Engineer,Strateos,Occitanie,vide,"Occitanie
+We need you because:
+
+You have professional experience building large complex apps and tooling.
+You have experience developing planning and dispatching solutions for transport systems.
+You know standards such as GTFS and SIRI.
+You’re curious, pragmatic and love Agile, Pair programming & Peer Reviews
+
+Who we are:
+
+At the EZFleet team, we're 7 developers integrated in the R&D Team, working with Agile methodologies.
+We have backend, frontend and fullstack backgrounds.
+We like to pair program, and even mob program when we feel the need for it. It's important to us that everyone can be heard, so we value and try our best to respect the one speaking.
+We enjoy validating new features with real Autonomous vehicles in our test facility in Toulouse.
+WebEngineering - il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",18/09/2019,software_engineer,Toulouse,18/10/2019,vjk=31b401bd1c2c73cc&advn=8900732967398748,vide,vide
+SOFTWARE ENGINEER (M/F/D),Hella,Toulouse (31),vide,"Toulouse (31)
+YOUR TASKS
+Drafting and drawing up the software architecture in accordance with general guidelines – including existing in-house and outside systems as well as existing software- and hardware interfaces.
+Analyzing the software architecture and drawing up and documenting the software design in accordance with existing guidelines – taking into account existing processes and methods.
+Carrying out tasks within the framework of the configuration management.
+Ensure optimal use of microcontroller resources.
+Support, locally and internationally, in the various phases of development and validate: product software design, configuration and integration of software components.
+YOUR QUALIFICATIONS
+Engineering degree and strong experience in embedded software development on modules close to the hardware, if possible in the automotive industry
+Development experience according to ISO 26262 - ASIL D (or equivalent)
+Knowledge of the Autosar 3.x or 4.x standard is required
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",18/09/2019,software_engineer,Toulouse,18/10/2019,vjk=8e9e686257184599,vide,vide
+Ingénieur Logiciel critique embarqué,ACENSI,Toulouse (31),vide,"Toulouse (31)
+Temps plein, CDI
+Notre entreprise :
+ACENSI accompagne depuis 15 ans ses clients du secteur de l'industrie, les télécoms et l'énergie dans leurs projets stratégique.
+Le poste que nous avons à pourvoir :
+Au sein d'une équipe pluridisciplinaire vous participerez à la conception, au développement et à l'intégration sur cible d’un système critique embarqué pour l'aéronautique.
+Le profil que nous recherchons :
+Compétences techniques :
+Maîtrise du langage C embarqué temps réel
+Connaissance des normes de sécurité logicielles pour l'avionique DO278 ou DO178
+Type d'emploi : Temps plein, CDI
+Expérience:
+ingénieur logiciel critique embarqué ou similaire: 1 an (Souhaité)
+il y a 30+ jours
+Signaler cette offre d'emploi",18/09/2019,software_engineer,Toulouse,18/10/2019,vjk=fdde406a57d09f46,vide,cdi
+Ingénieur Logiciel Embarqué H/F,GROUPE CENTUM ADETEL,Toulouse (31),vide,"Toulouse (31)
+CDI
+Depuis plus de 25 ans, CENTUM ADENEO apporte conseil et expertise à ses clients dans le domaine de l’électronique embarqué.
+
+Nous intervenons sur tout le cycle de vie du produit et accompagnons les entreprises dans leurs projets de R&D.
+
+Au sein de l'équipe projet, vous intervenez sur des projets de développement logiciel (fonctionnalités, système complet, C sur microcontrôleur, linux...) selon les exigences et spécifications techniques clients (internes et/ou externes).
+
+Concrètement, vous serez amené(e) à :
+Piloter les différentes phases d'avancement du projet,
+Rédiger les documents techniques (spécifications, conception, plans de tests, manuel utilisateur, notes techniques...),
+Définir l'analyse fonctionnelle et l'architecture, la conception technique et le codage du système,
+Participer à la mise au point, à la vérification et la correction d'anomalies
+Issu(e) d'une formation supérieure de type Master ou école d'Ingénieur en logiciels / systèmes embarqués, vous avez une expérience significative au minimum de 5 ans en conception, développement et validation de fonctions logicielles complexes.
+
+Vous aimez être au plus près du matériel pour intervenir sur les couches basses.
+
+Une expérience en environnement normé comme la DO178 sera appréciée.
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",18/09/2019,software_engineer,Toulouse,18/10/2019,vjk=582091f71807eabe,vide,cdi
+Ingénieur logiciel embarqué drivers et bas niveau (F/H),Serma Ingenierie,Cornebarrieu (31),vide,"Cornebarrieu (31)
+Temps plein, CDI
+SERMA INGENIERIE, filiale de SERMA GROUP, est une société experte en électronique embarquée qui développe et réalise des systèmes et logiciels pour des grands industriels (Aéronautique, Automobile, Ferroviaire, Médical, Militaire, Spatial, Telecom…). Née de la fusion de différents bureaux d’études, SERMA INGENIERIE capitalise plus de 40 ans de présence sur le marché de l’Ingénierie Electronique.
+Forte de plus de 520 ingénieurs et techniciens, implantée dans les grands bassins industriels français, SERMA INGENIERIE est une entreprise dynamique, en capacité de proposer à ses clients une offre globale autour des systèmes et logiciels embarqués et portant sur l’ensemble du cycle de vie du produit : Concept et pré-études, spécifications, conception fonctionnelle et détaillée, réalisation des produits, qualification, validation et certification, production, MCO ainsi que du retrofit.
+Dans le cadre du développement de nos activités, nous renforçons nos équipes en intégrant un(e) Ingénieur logiciel embarqué drivers et bas niveau (F/H).
+Vous rejoindrez une équipe de développement de systèmes électronique embarqués, adressant divers secteurs d'activité soumis à de fortes contraintes normatives.
+Vous aurez en charge le développement de fonctionnalités bas niveau de projets de grande envergure.
+Vous serez amené à:
+Analyser les spécifications système et logiciel,
+Participer au choix et à la définition de l’architecture logicielle,
+Développer le logiciel embarqué,
+Rédiger le plan de tests et réaliser les tests associés,
+Recette le logiciel.
+Compétences requises:
+Un bon niveau en développement C dans un contexte embarqué,
+Des connaissances en temps réel, débuggeur, test unitaire,
+Des connaissances en microcontrôleur / micro-prosseceur
+Des connaissances de base en électronique, lecture / compréhension de schéma électronique.
+Des connaissances en instrumentations de laboratoire (Alimentation, oscilloscope, multimètre, etc…)
+Le poste est basé à Cornebarrieu (31) et est à pourvoir dès que possible.
+De formation Ingénieur ou Universitaire en Électronique / Informatique Industrielle, vous justifiez d'une expérience réussie dans le développement logiciel embarqué.
+La connaissance normative liée aux environnements contraints est appréciée.
+Anglais technique apprécié.
+Votre rigueur, votre autonomie, votre force de proposition, votre capacité d'analyse et votre relationnel font de vous le candidat idéal ? Rejoignez-nous !!!!
+Type d'emploi : Temps plein, CDI
+il y a 30+ jours
+Signaler cette offre d'emploi",18/09/2019,software_engineer,Toulouse,18/10/2019,vjk=58afcbdf98a04763,vide,cdi
+Software Engineer - Custom Development,Forsk,Toulouse (31),vide,"Toulouse (31)
+As a member of our custom development team, you will:
+participate in the specifications and development of custom features developed for our customers,
+develop in C++ / C# in a Windows environment and/or develop in JavaScript, TypeScript…
+work closely with our product management, customer support and Q&A teams.
+Our technical environment is as follows:
+C++ / C#
+Microsoft Visual Studio
+Python
+REST & COM APIs
+Requirements:
+We require a degree in software engineering (MSc), and a first experience with C++/C# software development
+Knowledge of Web development, Angular JS, XML, JSON, SQL, and .Net framework will be appreciated.
+Fluent French is required. English proficiency will be appreciated.
+Location: Forsk headquarters in Toulouse, France.
+
+Employment Type: Full-time.
+il y a 6 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",18/04/2019,software_engineer,Toulouse,18/10/2019,vjk=794a12f2230cea67,vide,vide
+Software Engineer PLM,Jacques Raud Consulting,Toulouse (31),vide,"Toulouse (31)
+Petite devinette:
+De quoi vous parle-t-on dans les bullet points qui suivent ?
+Contexte international
+Entreprise jeune, en pleine croissance
+Bonne ambiance caractérisée par un ton informel, humoristique et direct
+Management direct
+Equipe multiculturelle et dynamique où règne l’entraide
+Plan de formation en France et en Europe
+Meeting avec toutes les équipes internationales deux fois par an.
+C’est facile ! De votre futur emploi chez qui? Encore une devinette !
+
+Une entreprise danoise innovante, où la culture d’entreprise est une force.
+
+Et si l’on vous disait que chez eux, PLM et créativité vont de pair ?
+Le management du cycle de vie du produit allié à l’excellence manufacturière et l’optimisation de la chaîne logistique sont leur cœur d’expertise.
+Partenaire Gold de la solution PLM Open Source, moderne et flexible, ARAS PLM, cette société en pleine croissance cherche à renforcer ses équipes en France.
+Ils sont déjà présents à Toulouse, Paris et Lyon, et dans plusieurs pays à travers le monde.
+
+Faisons un peu connaissance. Vous…
+Aimeriez être challengé et apprendre tous les jours
+Avez un fort esprit d’équipe
+Et si en plus vous avez déjà travaillé dans des environnements Microsoft (.NET)…
+Alors vous êtes l’Architecte solution de la situation !
+
+Et concrètement, quel sera votre rôle ?
+Vous adopterez un rôle stratégique au sein de l’entreprise.
+Véritable leader et influenceur clé de l’équipe de développement, vous serez acteur de la transformation des exigences fonctionnelles, tout en tenant compte des spécificités de la plate-forme PLM mise en œuvre chez les clients.
+Les aspects tels que la Performance, l’Evolutivité, la Résilience et la Simplicité sont également à prendre en considération…
+
+Au niveau de l’environnement technique :
+La solution PLM est construite sur Microsoft Stack (.Net, SQL Server).
+Développement Fullstack, culture de services web ;
+Architecture web orientée services (SOA) ;
+Systèmes de gestion de bases de données relationnelles ;
+
+Si une approche novatrice PLM Open Source, vous parle… Et que vous avez envie d’en savoir plus sur le « work in Danish style » qui fera enfin rimer épanouissement professionnel et personnel….
+Alors, rejoignez l’aventure !
+Lieu: A Lyon. Soyez prêt pour voyager en France et en Europe.
+Quand ? Tout de suite.
+il y a 7 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",18/03/2019,software_engineer,Toulouse,18/10/2019,vjk=ea6ed0b942be01c8,vide,vide
+INGÉNIEUR LOGICIEL EMBARQUÉ H/F,T&S,Toulouse (31),vide,"Toulouse (31)
+CDI
+Nous sommes :
+T&S Engineering est une société de conseil Franco-Allemande spécialisée dans les systèmes embarqués appliqués aux secteurs à forte valeur ajoutée. Notre positionnement de spécialiste nous permet d’offrir à nos ingénieurs consultants de belles perspectives de carrières dans des environnements internationaux exigeants et proposer des solutions innovantes.
+Nos forces :
+Les valeurs du groupe font partie intégrante de la philosophie de T&S Engineering. TRANSPARENCE, CREATIVITE, PARTAGE et EXCELLENCE, forment ainsi la clé de voute qui permet la collaboration pérenne qui existe entre nos consultants, T&S, et nos clients depuis la création du groupe.
+Nous recherchons des professionnels partageant notre esprit entrepreneurial capables de s’intégrer à des équipes dynamiques toujours en recherche de la performance, de progrès technologiques et de challenges.
+Vos missions :
+Analyse et respect du cahier des charges et des spécifications client
+Spécifier et concevoir l’architecture ainsi que les tests associés
+Implémenter les fonctionnalités spécifiées en respectant les règles de codage et les bonnes pratiques en vigueur
+Développement de Software embarqué en temps réel
+Documenter les développements conformément aux procédures qualité applicables
+Codage et réalisation des tests unitaires
+Intégration software embarqué
+Compétences requises :
+Diplôme d’ingénieur ou équivalent universitaire avec une spécialisation en systèmes embarqués
+La connaissance du secteur aéronautique ou automobile est un plus (DO 178B, DO178C, ISO26262)
+Anglais courant
+Vous êtes :
+En tant que candidat particulièrement motivé par le travail en équipe, curieux, ambitieux et doté d’excellentes relations interpersonnelles : VOUS vous verrez offrir des opportunités pour évoluer au sein de la société, en étant impliqué dans notre développement et faisant partie intégrante des grands projets de nos clients.
+Contrat CDI
+Technology & Strategy - il y a 7 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",18/03/2019,software_engineer,Toulouse,18/10/2019,vjk=49f1ea4771b6d1a7,vide,cdi
+CDI - Software Engineer IoT,SKILIZ,Toulouse (31),vide,"Toulouse (31)
+CDI
+Concevoir et maintenir les applications internes et les application clients
+Concevoir et mettre en place les applications web/mobiles IoT
+Suivre la qualité du support et du service afin d'entretenir la relation client
+Dans le domaine de la High-Tech, cette start-up débarque sur le marché européen des secteurs de l'industrie manufacturière et de la distribution avec une technologie permettant de surveiller les objets mobiles grâce aux nouvelles technologies de télécommunication
+
+Formation ingénieur en informatique ou une équivalence à bac+5
+
+Vous connaissez les méthodologies de projet (cycle en V, démarches agiles)
+
+Vous avez des compétences en HTML, CSS, JavaScript, Java J2EE, Java (Android), Postgres
+
+Vous avez des connaissances en modélisation de données, d'interfaces utilisateurs et en processus
+
+Vous avez une aisance relationnelle et vous savez vous exprimer parfaitement à l'écrit comme à l'oral
+
+Vous êtes une personnes rigoureuse, organisée, autonome et capable de structurer des problématiques techniques et complexes
+Yupeek - il y a 7 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",18/03/2019,software_engineer,Toulouse,18/10/2019,vjk=71597971155c445c,vide,cdi
+Ingénieur logiciel embarqué / System Debugger (H/F),Labsoft,Toulouse (31),vide,"Toulouse (31)
+CDI
+Labsoft recrute un(e) Ingénieur logiciel embarqué / System Debugger (H/F).
+Envie de mettre vos super-pouvoirs de développeur à disposition ?
+Rejoignez la galaxie Labsoft et devenez le prochain héros Labsoftein(nes).
+VOTRE FUTUR JOB :
+Activités de débug avancé
+Développement de patches correctifs adaptés, sur briques logicielles embarquées et en environnements Linux / Android / RTOS.
+VOS SUPERS POUVOIRS :
+Vous avez l’étoffe d’un Héros ?
+Vous êtes issu(e) d’une formation supérieure (Bac+ 2 à Bac+5) ?
+Vous disposez d'une expérience d’au moins un an en développement de logiciel embarqué
+Vous avez des compétences en:
+Programmation embarquée sur cible temps réel
+- RTOS, Linux, Kernel, C
+Vous avez un niveau d’anglais professionnel?
+Fortement appréciées :
+
+Android, Git, problématiques Display, Graphics, concurrence caméras.
+Ce poste vous intéresse ?
+Enfilez votre costume et rejoignez notre équipe de X-Men du digital
+PRESENTATION DE L'ENTREPRISE :
+LABSOFT assure depuis 18 années un accompagnement personnalisé dans les projets de transformationsnumériques de ses clients.
+Présente en régions Toulousaine et Parisienne, nous comptons sur nos 150 collaborateurs pour apporter un savoir-faire transverse à nos partenaires.
+Notre volonté ? Garder notre état d’esprit collaboratif à taille humaine.
+Notre ADN ? L’alliance du numérique avec l’approche d’une PME.
+Nous vous proposons un modèle basé sur la proximité, l’écoute, l’épanouissement, le développement de vos compétences et de votre carrière !
+Pour cela, nous avons lancé la dynamique « LabSoft Building, ensemble construire demain »
+Quésaco ? Un After work mensuel fun et collectif allouant le partage d’un bon moment et la prise de parole pour façonner la société à votre image, développer votre esprit d’équipe et s’assurer que chacun œuvre dans la même direction.
+Vous avez soif d’aventures, de nouveaux challenges et d’innovations technologiques ? Vous recherchez aussi une nouvelle famille ? Labsoft est fait pour vous !
+A vous de jouer ! Rejoignez-vite l’aventure humaine en nous transmettant votre candidature : rh@labsoft.fr.
+il y a 9 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",18/01/2019,software_engineer,Toulouse,18/10/2019,vjk=f0fedf690f4e72ec,vide,cdi
+Ingénieur Logiciel Embarqué H/F Toulouse . CDI,Davidson consulting,Toulouse (31),vide,"Toulouse (31)
+CDI
+En tant que responsable de lot logiciel (équipe de 3 personnes), vous contribuez au suivi et au développement de logiciel embarqué sur l’ensemble du cycle en V :
+Relation client : analyse des besoins, échanges techniques
+Développement de logiciel embarqué sur OS Linux et outils de tests
+Participation au codage du logiciel applicatif, à l’intégration de l’applicatif au sein de l’OS (forge logicielle, scripts de démarrage, etc.), aux tests
+Profil
+Diplôme(s) : Bac+5 ou équivalent
+Expérience : à partir de 2 ans
+Connaissances :
+Développement logiciel embarqué
+Langage C, C++, sur OS Linux
+Protocole Ethernet, SPI, I2C
+makefile, shell
+svn, git
+Rédaction de plan de test
+Gestion d’équipe
+Suivi de projet logiciel (gestion des exigences, bugtracker, rédaction de fiches de livraison, etc.)
+
+
+Aptitudes :
+Rigueur
+Esprit de synthèse
+Capacité d’adaptation et d’apprentissage technique
+Communication aisée et bon sens du relationnel
+Autonomie
+Langues : Anglais
+DAVIDSON - il y a 12 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",18/10/2018,software_engineer,Toulouse,18/10/2019,vjk=03adf15b0e543ca1,vide,cdi
+Ingénieur logiciel embarqué drivers et bas niveau F/H,Serma Technologies,Occitanie,vide,"Occitanie
+CDI
+Poste et missions
+Dans le cadre du développement de nos activités, nous renforçons nos équipes en intégrant un(e) Ingénieur logiciel embarqué drivers et bas niveau (F/H).
+Vous rejoindrez une équipe de développement de systèmes électronique embarqués, adressant divers secteurs d’activité soumis à de fortes contraintes normatives.
+Vous aurez en charge le développement de fonctionnalités bas niveau de projets de grande envergure.
+Vous serez amené à:
+Analyser les spécifications système et logiciel,
+Développer le logiciel embarqué,
+Rédiger le plan de tests et réaliser les tests associés,
+Recette le logiciel.
+Compétences requises:
+Un bon niveau en développement C dans un contexte embarqué,
+Des connaissances en temps réel, débuggeur, test unitaire,
+Des connaissances en microcontrôleur / micro-prosseceur
+Des connaissances de base en électronique, lecture / compréhension de schéma électronique.
+Des connaissances en instrumentations de laboratoire (Alimentation, oscilloscope, multimètre, etc…)
+Le poste est basé à Cornebarrieu (31) et est à pourvoir dès que possible.
+Profil et compétences
+De formation Ingénieur ou Universitaire en Électronique / Informatique Industrielle, vous justifiez d’une expérience réussie dans le développement logiciel embarqué.
+La connaissance normative liée aux environnements contraints est appréciée.
+Anglais technique apprécié.
+Votre rigueur, votre autonomie, votre force de proposition, votre capacité d’analyse et votre relationnel font de vous le candidat idéal ? Rejoignez-nous !!!!
+Pourquoi SERMA ?
+Intégrer le Groupe SERMA c'est intégrer un groupe en forte croissance, bénéficiant de 30 ans d'expérience en électronique.
+Depuis sa création, le Groupe SERMA s’appuie sur des valeurs qui ont fait son succès :
+Respect des collaborateurs et des clients
+Management technique de proximité
+Esprit d’équipe et de solidarité
+En nous rejoignant, vous prenez part à des projets innovants et bénéficiez de réelles opportunités d’évolution professionnelle.
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",18/09/2019,software_engineer,Toulouse,18/10/2019,vjk=11fabc253b7e34b1,vide,cdi
+Ingénieur Logiciel Spatial,Capgemini,Occitanie,vide,"Occitanie
+Le saviez-vous ? La carte de vigilance de Météo France est actualisée deux fois par jour à 6h et 16h. Cette information utile est générée par une équipe Capgemini qui développe les outils de recueil et de pilotage des données transmises par les capteurs installés sur les ballons stratosphériques. Envie de rejoindre l’aventure ?
+Description de la mission
+Vous serez au cœur de l'évolution des nouvelles technologies et participerez à des projets technologiquement avancés pour des clients du secteur de la Défense, et de l'Aéronautique et du Spatial, pour lesquels vous aurez pour mission :
+L'analyse de la solution globale sur le plan fonctionnel et de l'architecture
+La conception et le développement JAVA, C/ C++, etc...
+La rédaction, la définition et à la mise en place de l'environnement d'intégration et de test
+Le suivi des performances et de l'optimisation
+À propos de Capgemini
+Capgemini est un leader mondial du conseil, des services informatiques et de la transformation numérique. A la pointe de l’innovation, le Groupe aide ses clients à saisir l’ensemble des opportunités que présentent le cloud, le digital et les plateformes. Fort de 50 ans d’expérience et d’une grande expertise des différents secteurs d’activité, il accompagne les entreprises et organisations dans la réalisation de leurs ambitions, de la définition de leur stratégie à la mise en œuvre de leurs opérations. Pour Capgemini, ce sont les hommes et les femmes qui donnent toute sa valeur à la technologie. Résolument multiculturel, le Groupe compte plus de 200 000 collaborateurs présents dans plus de 40 pays. Il a réalisé un chiffre d'affaires de 13,2 milliards d'euros en 2018.
+Plus d’informations sur www.capgemini.com
+
+People matter, results count.
+
+Profil
+Titulaire d'un Bac+5, vous justifiez d’une première expérience en tant que développeur Back end, une connaissance de la partie front serait un plus.
+Maitrise des outils de développement (Eclipse, GCC) et environnements d'intégration continue (Hudson, Jenkins)
+Votre sens du service, relation client, ainsi que votre adaptabilité seront de véritables atouts pour la réussite de vos missions.
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",18/09/2019,software_engineer,Toulouse,18/10/2019,vjk=12cecf1083d5d67f,vide,vide
+Ingénieur logiciel validation couches basses F/H,Serma Ingéniérie,Occitanie,vide,"Occitanie
+CDI
+Poste et missions
+Dans le cadre du développement de nos activités, nous recherchons un(e) Ingénieur logiciel validation couches basses (F/H).
+Vos missions principales seront :
+La rédaction, la validation et l’exécution de script TTL
+En environnement : TeraTerm
+Compétences requises:
+§ Script TTL
+Toutes les activités logicielles sont gérées en configuration sous ClearCase ainsi que sous ClearQuest pour le traitement des Faits Techniques (PR/CR)
+Le poste est basé à Cornebarrieu (31) et est à pourvoir dès que possible.
+Profil et compétences
+De formation BAC+5 Ingénieur ou Universitaire, en Electronique / Informatique Industrielle, vous justifiez d’une expérience réussie en développement et validation logiciel embarqué, dans un environnement de développement à fortes contraintes sécuritaires.
+Besoin d’une Habilitation Electrique BR/BE Essais
+Pourquoi SERMA ?
+Intégrer le Groupe SERMA c'est intégrer un groupe en forte croissance, bénéficiant de 30 ans d'expérience en électronique.
+Depuis sa création, le Groupe SERMA s’appuie sur des valeurs qui ont fait son succès :
+Respect des collaborateurs et des clients
+Management technique de proximité
+Esprit d’équipe et de solidarité
+En nous rejoignant, vous prenez part à des projets innovants et bénéficiez de réelles opportunités d’évolution professionnelle.
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",18/09/2019,software_engineer,Toulouse,18/10/2019,vjk=99b61d0316883c2a,vide,cdi
+Ingénieur logiciel validation couches basses F/H,Serma Technologies,Occitanie,vide,"Occitanie
+CDI
+Poste et missions
+Dans le cadre du développement de nos activités, nous recherchons un(e) Ingénieur logiciel validation couches basses (F/H).
+Vos missions principales seront :
+La rédaction, la validation et l’exécution de script TTL
+En environnement : TeraTerm
+Compétences requises:
+§ Script TTL
+Toutes les activités logicielles sont gérées en configuration sous ClearCase ainsi que sous ClearQuest pour le traitement des Faits Techniques (PR/CR)
+Le poste est basé à Cornebarrieu (31) et est à pourvoir dès que possible.
+Profil et compétences
+De formation BAC+5 Ingénieur ou Universitaire, en Electronique / Informatique Industrielle, vous justifiez d’une expérience réussie en développement et validation logiciel embarqué, dans un environnement de développement à fortes contraintes sécuritaires.
+Besoin d’une Habilitation Electrique BR/BE Essais
+Pourquoi SERMA ?
+Intégrer le Groupe SERMA c'est intégrer un groupe en forte croissance, bénéficiant de 30 ans d'expérience en électronique.
+Depuis sa création, le Groupe SERMA s’appuie sur des valeurs qui ont fait son succès :
+Respect des collaborateurs et des clients
+Management technique de proximité
+Esprit d’équipe et de solidarité
+En nous rejoignant, vous prenez part à des projets innovants et bénéficiez de réelles opportunités d’évolution professionnelle.
+il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",18/09/2019,software_engineer,Toulouse,18/10/2019,vjk=60fe73dbe350833b,vide,cdi
