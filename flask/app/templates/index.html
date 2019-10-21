@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+{% block content %}
+    {% include 'navbar.html' %}
+    <div class="container">
+        <div class="col-12">
+            <h1>ANALYSE DE L'ÉTAT DES MÉTIERS DATA/DEV EN FRANCE</h1>
+        </div>
+        <div class="row mt-5">
+            <p style="font-weight: 700">gros nombre moyen de salaire moyen sur tout dataset en K annuel</p>
+        </div>
+        <div class="row mt-5">
+            <p>salaires selon compétences/exp ?</p>
+            {{ div_salary_chart|safe }}
+        </div>
+        <div class="row mt-5">
+            <p>ceci sera une représentation des salaires moyens selon postes</p>
+            {{ div_location_chart|safe }}
+        </div>
+        <div class="row mt-5">
+            <p>ceci sera une analyse des salaires moyen selon domaines sur la france</p>
+            {{ div_hist_position|safe }}
+        </div>
+    </div>
+
+    {{ script_salary_chart|safe }}
+    {{ script_location_chart|safe }}
+    {{ script_hist_position|safe }}
+{% endblock %}
