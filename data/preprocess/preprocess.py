@@ -205,6 +205,8 @@ print(f"Our dataset NaNs : \n {data.isnull().sum()}")
 
 # process badly created columns - should not be usefull when the csv are created correctly (handle_exp & handle_contrat) 
 full_data = data.loc[(data['Salaire'] != "vide") & (data['contrat'] != "vide")] # & (data['Experiences'] != "vide")]
+# Add a Salaire average column
+full_data['Salaire_avg'] = full_data['Salaire_Min']+full_data['Salaire_Max']/2
 
 # drop if NaNs
 nonan_data = full_data[pd.notnull(full_data['métier_sc'])]
