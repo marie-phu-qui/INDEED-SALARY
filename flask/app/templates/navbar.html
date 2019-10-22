@@ -7,13 +7,19 @@
         <ul class="navbar-nav mr-auto">
         </ul>
         <form name="dropdown-form" action="" method="POST">
-            <select class="my-dropdown-menu" name="dropdown-select" style="padding:8px;border-radius:8px;">
-                <option value="1" {% if selected_class=='1' %} selected {% endif %}>salaire</option>
-                <option value="2" {% if selected_class=='3' %} selected {% endif %}>domaine</option>
-                <option value="3" {% if selected_class=='2' %} selected {% endif %}>poste</option>
-                <option value="4" {% if selected_class=='3' %} selected {% endif %}>région</option>
-                <option value="5" {% if selected_class=='3' %} selected {% endif %}>contrat</option>
+            <select class="my-dropdown-menu" name="dropdown-select-dom" style="padding:8px;border-radius:8px;">
+                <option value="all" {% if selected_class=='1' %} selected {% endif %}>all</option>
+                <option value="data" {% if selected_class=='3' %} selected {% endif %}>data</option>
+                <option value="dev" {% if selected_class=='3' %} selected {% endif %}>dev</option>
             </select>
+            <select class="my-dropdown-menu" name="dropdown-select-loc" style="padding:8px;border-radius:8px;">
+                <option value="All" {% if selected_class=='2' %} selected {% endif %}>All</option>
+                <option value="Paris" {% if selected_class=='2' %} selected {% endif %}>Paris</option>
+                <option value="Lyon" {% if selected_class=='3' %} selected {% endif %}>Lyon</option>
+                <option value="Toulouse" {% if selected_class=='3' %} selected {% endif %}>Toulouse</option>
+                <option value="Nantes" {% if selected_class=='3' %} selected {% endif %}>Nantes</option>
+                <option value="Bordeaux" {% if selected_class=='3' %} selected {% endif %}>Bordeaux</option>
+            </select>   
             <button class="submit-btn" type="submit">Apply</button>
         </form>
     </div>
