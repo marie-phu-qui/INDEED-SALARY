@@ -9,20 +9,20 @@
             <p style="font-weight: 700">gros nombre moyen de salaire moyen sur tout dataset en K annuel</p>
         </div>
         <div class="row mt-5">
-            <p>salaires selon compétences/exp ?</p>
-            {{ div_salary_chart|safe }}
+            <p>quantité de poste selon les domaines</p>
+            {{ div_count_domain_plot|safe}}
         </div>
         <div class="row mt-5">
             <p>ceci sera une représentation des salaires moyens selon postes</p>
-            {{ div_location_chart|safe }}
+            {{ div_avg_salary_per_job_plot|safe }}
         </div>
         <div class="row mt-5">
             <p>ceci sera une analyse des salaires moyen selon domaines sur la france</p>
-            {{ div_hist_position|safe }}
+            <!-- {{ div_hist_position|safe }} -->
         </div>
     </div>
 
-    {{ script_salary_chart|safe }}
-    {{ script_location_chart|safe }}
-    {{ script_hist_position|safe }}
+    {{ script_count_domain_plot|safe }}
+    {{ script_avg_salary_per_job_plot|safe }}
+
 {% endblock %}
