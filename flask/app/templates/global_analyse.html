@@ -1,0 +1,28 @@
+<div class='container col-lg'>
+    <div id='title' style='color: #ada397; padding: 1.5em;'>
+        <h1>ANALYSE DE L'ÉTAT DES MÉTIERS DATA/DEV EN FRANCE en 2019</h1>
+    </div>
+    <div class="row">
+        <div class='col-6' style='background-color: #ada397; padding: 1.5em;'>
+            <h4>what are the job (list them)</h4>
+            <ul>
+                {% for job in jobs %}
+                <li>jobs</li>
+                {% endfor %}
+            </ul>
+        </div>
+        <div class='col-6' style='background-color: #feb236; padding: 1.5em;'>
+            <h4>key skills to burst the demand (global most recurring) : separate domain (dev/data)</h4>
+        </div>
+    </div>
+    <div class="row">
+        <div class='col-6' style='background-color: #feb236; padding: 1.5em;'>
+            <h4>what are the regions (list them)</h4>
+        </div>
+        <div class='col-6' style='background-color: #ada397; padding: 1.5em;'>
+            <h4>key skills to burst the salary (most recurring in higher pay) : separate domain (dev/data)</h4>
+        </div>
+    </div>
+</div>
+
+{{ script_list_jobs }}
