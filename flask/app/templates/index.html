@@ -1,29 +1,40 @@
 {% extends 'base.html' %}
 {% block content %}
     {% include 'navbar.html' %}
-    <div class="container">
-        <div class="col-12">
-            <h1>ANALYSE DE L'ÉTAT DES MÉTIERS DATA/DEV EN FRANCE</h1>
+    <div class='container col-lg'>
+            <div id='title' style='color: #ada397; padding: 1.5em;'>
+                <h1>ANALYSE DE L'ÉTAT DES MÉTIERS DATA/DEV EN FRANCE en 2019</h1>
+                <a href='/global'><h2>Nos features</h2></a>
+            </div>
+            <div class="row">
+                <div class='col-6' style='background-color: #ada397; padding: 1.5em;'>
+                    <h4>what are the job (list them)</h4>
+                    <ul>
+                        {% for job in jobs %}
+                        <li>{{ job }}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <div class='col-6' style='background-color: #feb236; padding: 1.5em;'>
+                    <h4>total number of jobs scrapped for analysis</h4>
+                    <span><h4 style='padding: 1.5em; text-align: center; font-size: 3em;'>{{ total_jobs }}</h4></span>
+                </div>
+            </div>
+            <div class="row">
+                <div class='col-6' style='background-color: #feb236; padding: 1.5em;'>
+                    <h4>what are the regions (list them)</h4>
+                    <ul>
+                        {% for region in regions %}
+                        <li style='padding: .7em'>{{ region }}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <div class='col-6' style='background-color: #ada397; padding: 1.5em;'>
+                    <h4>gros nombre moyen de salaire moyen sur tout dataset en K annuel</h4>
+                    <span><h4 style='padding: 1.5em; text-align: center; font-size: 3em;'>{{ avg_salary }}</h4></span>
+                </div>
+            </div>
+            <a class='col-1' href='/graph' style='text-align: right'><h1>to the graphs</h1></a>
         </div>
-        <div class="row mt-5">
-            <p style="font-weight: 700">gros nombre moyen de salaire moyen sur tout dataset en K annuel</p>
-        </div>
-        <div class="row mt-5">
-            <p>quantité de poste selon les domaines</p>
-            {{ div_count_domain_plot|safe}}
-        </div>
-        <div class="row mt-5">
-            <p>ceci sera une représentation des salaires moyens selon postes</p>
-            {{ div_avg_salary_per_job_plot|safe }}
-        </div>
-        <div class="row mt-5">
-            <p>ceci sera une analyse des salaires moyen selon domaines sur la france</p>
-            {{ div_variance_avg_sal_loc_plot|safe }}
-        </div>
-    </div>
-
-    {{ script_count_domain_plot|safe }}
-    {{ script_avg_salary_per_job_plot|safe }}
-    {{ script_variance_avg_sal_loc_plot|safe }}
 
 {% endblock %}

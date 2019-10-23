@@ -9,6 +9,7 @@ from bokeh.models import HoverTool
 
 from flask import Flask, render_template, request
 
+
 # À changer pour le csv final
 data = pd.read_csv('../../data/preprocess/data/complete_train.csv')
 
@@ -26,41 +27,72 @@ app = Flask(__name__)
 def update_plots(dom, loc):
     count_domain_plot = count_domains(loc)
     avg_salary_per_job_plot = avg_salary_per_job(dom, loc)
-    variance_avg_sal_loc_plot = variance_avg_sal_loc()
     return (
         count_domain_plot,
         avg_salary_per_job_plot,
-        variance_avg_sal_loc_plot,
     )
 
+
 @app.route('/', methods=['GET', 'POST'])
+def global_view():
+    list_jobs = data["métier_sc"].unique()
+    list_regions = data["loc_sc"].unique()
+    total_jobs = data["métier_sc"].count()
+    avg_salary = int(data["Salaire_avg"].mean())
+    return render_template(
+        'index.html', 
+        jobs = list_jobs,
+        regions = list_regions,
+        total_jobs = total_jobs,
+        avg_salary = avg_salary
+    )
+
+@app.route('/graph', methods=['GET', 'POST'])
 def chart():
     selected_domain = request.form.get('dropdown-select-dom')
     selected_loc = request.form.get('dropdown-select-loc')
+    variance_avg_sal_loc_plot = variance_avg_sal_loc()
+    count_domain_plot = update_plots('all', 'All')
+    avg_salary_per_job_plot = update_plots('all', 'All')
+    # if selected_domain == 'all' or selected_domain == None or selected_loc == 'All' or selected_domain == None:
+    #     count_domain_plot = update_plots('all', 'All')
+    #     avg_salary_per_job_plot = update_plots('all', 'All')
+    # else:
+    #     count_domain_plot = update_plots(selected_domain, selected_loc)
+    #     avg_salary_per_job_plot = update_plots(selected_domain, selected_loc)
 
-    if selected_domain == 'all' or selected_domain == None or selected_loc == 'All' or selected_domain == None:
-        count_domain_plot = update_plots('all', 'All')
-        avg_salary_per_job_plot = update_plots('all', 'All')
-        variance_avg_sal_loc_plot = variance_avg_sal_loc()
-    else:
-        count_domain_plot = update_plots(selected_domain, selected_loc)
-        avg_salary_per_job_plot = update_plots(selected_domain, selected_loc)
-        variance_avg_sal_loc_plot = variance_avg_sal_loc()
 
     script_count_domain_plot, div_count_domain_plot = components(count_domain_plot)
     script_avg_salary_per_job_plot, div_avg_salary_per_job_plot = components(avg_salary_per_job_plot)
     script_variance_avg_sal_loc_plot, div_variance_avg_sal_loc_plot = components(variance_avg_sal_loc_plot)
 
     return render_template(
-        'index.html', 
+        'graphs.html',
         script_count_domain_plot = script_count_domain_plot, 
         div_count_domain_plot = div_count_domain_plot,
         script_avg_salary_per_job_plot  = script_avg_salary_per_job_plot, 
         div_avg_salary_per_job_plot = div_avg_salary_per_job_plot,
         script_variance_avg_sal_loc_plot = script_variance_avg_sal_loc_plot, 
-        div_variance_avg_sal_loc_plot = div_variance_avg_sal_loc_plot
+        div_variance_avg_sal_loc_plot = div_variance_avg_sal_loc_plot, 
     )
 
+@app.route('/data', methods=['GET'])
+def data_plots():
+    return render_template(
+        'data.html'
+    )
+
+@app.route('/dev', methods=['GET'])
+def dev_plots():
+    return render_template(
+        'dev.html'
+    )
+
+@app.route('/region', methods=['GET'])
+def loc_plots():
+    return render_template(
+        'region.html'
+    )
 
 def count_domains(loc):
     if loc == 'All':
