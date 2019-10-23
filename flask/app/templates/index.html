@@ -18,11 +18,12 @@
         </div>
         <div class="row mt-5">
             <p>ceci sera une analyse des salaires moyen selon domaines sur la france</p>
-            <!-- {{ div_hist_position|safe }} -->
+            {{ div_variance_avg_sal_loc_plot|safe }}
         </div>
     </div>
 
     {{ script_count_domain_plot|safe }}
     {{ script_avg_salary_per_job_plot|safe }}
+    {{ script_variance_avg_sal_loc_plot|safe }}
 
 {% endblock %}
