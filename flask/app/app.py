@@ -47,6 +47,12 @@ def global_view():
         avg_salary = avg_salary
     )
 
+@app.route('/model', methods=['GET', 'POST'])
+def view_model():
+    return render_template(
+        'model.html', 
+    )
+
 @app.route('/graph', methods=['GET', 'POST'])
 def chart():
     selected_domain = request.form.get('dropdown-select-dom')
