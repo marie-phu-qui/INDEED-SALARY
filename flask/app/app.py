@@ -25,7 +25,7 @@ chart_font_style_location = 'bold italic'
 app = Flask(__name__)
 
 def update_plots(dom, loc):
-    count_domain_plot = count_domains(loc)
+    count_domain_plot,dev_job_count, data_job_count = count_domains(loc)
     avg_salary_per_job_plot = avg_salary_per_job(dom, loc)
     return (
         count_domain_plot,
@@ -84,14 +84,19 @@ def chart():
 
 @app.route('/data', methods=['GET'])
 def data_plots():
+    p, dev_job_count, data_job_count = count_domains("All")
     return render_template(
-        'data.html'
+        'data.html',
+        data_job_count = data_job_count
     )
 
 @app.route('/dev', methods=['GET'])
 def dev_plots():
+    p, dev_job_count, data_job_count = count_domains("All")
+
     return render_template(
-        'dev.html'
+        'dev.html',
+        dev_job_count = dev_job_count
     )
 
 @app.route('/region', methods=['GET'])
@@ -118,7 +123,7 @@ def count_domains(loc):
 
     p.xgrid.grid_line_color = None
     p.y_range.start = 0
-    return p
+    return p, dev_job_count, data_job_count
 
 def avg_salary_per_job(dom, loc):
     if dom == 'all' or loc == 'All' :
