@@ -6,7 +6,8 @@ from bokeh.plotting import figure
 from bokeh.embed import file_html
 from bokeh.embed import components
 from bokeh.models import HoverTool
-import pygal
+import folium
+
 
 from flask import Flask, render_template, request
 
@@ -101,32 +102,12 @@ def dev_plots():
 
 @app.route('/region', methods=['GET'])
 def loc_plots():
-    fr_chart = pygal.maps.fr.Regions(human_readable=True)
-    fr_chart.title = 'French regions'
-    fr_chart.add('Métropole', ['69', '92', '13'])
-    map = fr_chart.render(is_unicode=True)
+    map = map_france()
     return render_template(
         'region.html',
         map = map
     )
 
-from datetime import datetime, timedelta
-
-
-@app.route('/test')
-def test():
-    date_chart = pygal.Line(x_label_rotation=20)
-    date_chart.x_labels = map(lambda d: d.strftime('%Y-%m-%d'), [
-    datetime(2013, 1, 2),
-    datetime(2013, 1, 12),
-    datetime(2013, 2, 2),
-    datetime(2013, 2, 22)])
-    date_chart.add("Visits", [300, 412, 823, 672])
-    chart = date_chart.render()
-    return render_template(
-        'region.html',
-        map = chart
-    )
 
 def count_domains(loc):
     if loc == 'All':
@@ -200,12 +181,16 @@ def variance_avg_sal_loc():
     return p
 
 def map_france() :
-    fr_chart = pygal.maps.fr.Departments()
-    fr_chart.title = 'Some departments'
-    fr_chart.add('Métropole', ['69', '92', '13'])
-    fr_chart.add('Corse', ['2A', '2B'])
-    fr_chart.add('DOM COM', ['971', '972', '973', '974'])
-    return fr_chart.render_response()
+    map_osm = folium.Map(location=[47, 1.3], zoom_start=5.55, width=550,height=550)
+    geo = {'Paris' : {'coords' : [48.864716, 2.349014], 'pop' : 7026.765}, 
+            'Bordeaux': {'coords' : [44.8333, -0.5667], 'pop' : 783.081}, 
+            'Lyon' : {'coords':[45.75, 4.85], 'pop': 1381.349}, 
+            'Nantes' : {'coords': [47.2173, -1.5534], 'pop': 638.931}, 
+            'Toulouse' : {'coords': [43.6043, 1.4437], 'pop': 762.956}}
+    for city in geo:
+        map_osm.add_child(folium.RegularPolygonMarker(location=geo[city]['coords'], number_of_sides=70, tooltip=f'Région de {city}. <br> Métropôle comprenant {geo[city]["pop"]} habitants',fill_color='#feb236', radius=30))
+    map_osm.save('templates/map.html')
+    return map_osm
 
 if __name__ == '__main__':
 	app.run(port=5000, debug=True)
