@@ -193,6 +193,7 @@ print(f"We now have {len(no_contrat_descr) - len(new_no_contrat_descr)} more dat
 
 data.update(new_data)
 
+
 if not os.path.exists('data'):
     os.mkdir('data')
 data.to_csv('data\indeed_jobs_exp_contrat.csv', index=False)
@@ -206,10 +207,15 @@ print(f"Our dataset NaNs : \n {data.isnull().sum()}")
 # process badly created columns - should not be usefull when the csv are created correctly (handle_exp & handle_contrat) 
 full_data = data.loc[(data['Salaire'] != "vide") & (data['contrat'] != "vide")] # & (data['Experiences'] != "vide")]
 # Add a Salaire average column
-full_data['Salaire_avg'] = full_data['Salaire_Min']+full_data['Salaire_Max']/2
+full_data['Salaire_avg'] = (full_data['Salaire_Min']+full_data['Salaire_Max'])/2
 
 # drop if NaNs
 nonan_data = full_data[pd.notnull(full_data['métier_sc'])]
+
+
+nonan_data['métier_sc'][nonan_data.loc[:, ('métier_sc')]  == "developpeur"] = 'developer'
+print(f"We now have {nonan_data['métier_sc'].unique()} kind of jobs.")
+
 
 print(len(nonan_data))
 

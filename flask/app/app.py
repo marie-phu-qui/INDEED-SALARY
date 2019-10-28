@@ -6,6 +6,7 @@ from bokeh.plotting import figure
 from bokeh.embed import file_html
 from bokeh.embed import components
 from bokeh.models import HoverTool
+import pygal
 
 from flask import Flask, render_template, request
 
@@ -25,7 +26,7 @@ chart_font_style_location = 'bold italic'
 app = Flask(__name__)
 
 def update_plots(dom, loc):
-    count_domain_plot = count_domains(loc)
+    count_domain_plot,dev_job_count, data_job_count = count_domains(loc)
     avg_salary_per_job_plot = avg_salary_per_job(dom, loc)
     return (
         count_domain_plot,
@@ -58,8 +59,7 @@ def chart():
     selected_domain = request.form.get('dropdown-select-dom')
     selected_loc = request.form.get('dropdown-select-loc')
     variance_avg_sal_loc_plot = variance_avg_sal_loc()
-    count_domain_plot = update_plots('all', 'All')
-    avg_salary_per_job_plot = update_plots('all', 'All')
+    count_domain_plot, avg_salary_per_job_plot  = update_plots('all', 'All')
     # if selected_domain == 'all' or selected_domain == None or selected_loc == 'All' or selected_domain == None:
     #     count_domain_plot = update_plots('all', 'All')
     #     avg_salary_per_job_plot = update_plots('all', 'All')
@@ -84,20 +84,48 @@ def chart():
 
 @app.route('/data', methods=['GET'])
 def data_plots():
+    p, dev_job_count, data_job_count = count_domains("All")
     return render_template(
-        'data.html'
+        'data.html',
+        data_job_count = data_job_count
     )
 
 @app.route('/dev', methods=['GET'])
 def dev_plots():
+    p, dev_job_count, data_job_count = count_domains("All")
+
     return render_template(
-        'dev.html'
+        'dev.html',
+        dev_job_count = dev_job_count
     )
 
 @app.route('/region', methods=['GET'])
 def loc_plots():
+    fr_chart = pygal.maps.fr.Regions(human_readable=True)
+    fr_chart.title = 'French regions'
+    fr_chart.add('Métropole', ['69', '92', '13'])
+    map = fr_chart.render(is_unicode=True)
     return render_template(
-        'region.html'
+        'region.html',
+        map = map
+    )
+
+from datetime import datetime, timedelta
+
+
+@app.route('/test')
+def test():
+    date_chart = pygal.Line(x_label_rotation=20)
+    date_chart.x_labels = map(lambda d: d.strftime('%Y-%m-%d'), [
+    datetime(2013, 1, 2),
+    datetime(2013, 1, 12),
+    datetime(2013, 2, 2),
+    datetime(2013, 2, 22)])
+    date_chart.add("Visits", [300, 412, 823, 672])
+    chart = date_chart.render()
+    return render_template(
+        'region.html',
+        map = chart
     )
 
 def count_domains(loc):
@@ -105,7 +133,7 @@ def count_domains(loc):
         df_ite = data["métier_sc"].value_counts()
     else :
         df_ite = data.loc[data['loc_sc'] == loc]["métier_sc"].value_counts()
-    dev_job_count = sum(df_ite.loc[['developer','devops', 'software_engineer']])
+    dev_job_count = sum(df_ite.loc[['developer', 'devops', 'software_engineer']])
     data_job_count = sum(df_ite.loc[['Data_scientist', 'Data_architect', 'Data_analyst','Big_data','BI', 'Autres_metiers_data']])
 
     domain = ['dev', 'data']
@@ -118,7 +146,7 @@ def count_domains(loc):
 
     p.xgrid.grid_line_color = None
     p.y_range.start = 0
-    return p
+    return p, dev_job_count, data_job_count
 
 def avg_salary_per_job(dom, loc):
     if dom == 'all' or loc == 'All' :
@@ -170,6 +198,14 @@ def variance_avg_sal_loc():
     p.add_tools(HoverTool(tooltips=tooltips))
 
     return p
+
+def map_france() :
+    fr_chart = pygal.maps.fr.Departments()
+    fr_chart.title = 'Some departments'
+    fr_chart.add('Métropole', ['69', '92', '13'])
+    fr_chart.add('Corse', ['2A', '2B'])
+    fr_chart.add('DOM COM', ['971', '972', '973', '974'])
+    return fr_chart.render_response()
 
 if __name__ == '__main__':
 	app.run(port=5000, debug=True)
