@@ -33,9 +33,10 @@
 
     <div class='row'>
         <div class="row mt-5 col-6">
-            <!-- <p>Répartition des métiers sur la France</p> -->
-            {{ div_pie_metier_loc_plot | safe }}
+            <!-- <p>ceci sera une représentation des salaires moyens selon postes</p> -->
+            {{ div_box_plot | safe }}
         </div>
+
         <div class="row mt-5 col-6">
             <!-- <p>ceci sera une représentation des salaires moyens selon postes</p> -->
             {{ div_avg_salary_per_job_plot | safe }}
@@ -47,9 +48,13 @@
             <!-- <p>ceci sera une représentation de la répartition des poste sur toutes les offres</p> -->
             {{ div_pie_job_plot | safe }}
         </div>
-        <div class="row mt-5 col-4">
-            <!-- <p>quantité de poste selon les domaines</p> -->
+        <!-- <div class="row mt-5 col-4">
+            <p>quantité de poste selon les domaines</p>
             {{ div_count_domain_plot | safe}}
+        </div> -->
+        <div class="row mt-5 col-4">
+            <!-- <p>Répartition des métiers sur la France</p> -->
+            {{ div_pie_metier_loc_plot | safe }}
         </div>
         <div class="row mt-5 col-4">
             <!-- <p>Répartition des contrats en tech et data bar</p> -->
@@ -67,6 +72,6 @@
 {{ script_pie_job_plot | safe }}
 {{script_pie_domains_plot | safe }}
 {{ script_box_plot_salary | safe }}
-
+{{ script_box_plot | safe }}
 
 {% endblock %}

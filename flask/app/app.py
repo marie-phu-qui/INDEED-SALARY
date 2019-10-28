@@ -2,12 +2,14 @@ import math
 import numpy as np
 import pandas as pd
 
+import bokeh
 from bokeh.plotting import figure
 from bokeh.embed import file_html
 from bokeh.embed import components
 from bokeh.models import HoverTool
 from bokeh.palettes import Category10
 from bokeh.transform import cumsum
+import bokeh_catplot
 
 import folium
 
@@ -75,6 +77,7 @@ def chart():
     pie_contract_plot, contract_part = pie_contract()
     pie_job_plot = pie_job()
     pie_domains_plot, repartition_domain = pie_domains()
+    whiskers_plot_salaires = box_plot_salaires()
 
     script_count_domain_plot, div_count_domain_plot = components(count_domain_plot)
     script_avg_salary_per_job_plot, div_avg_salary_per_job_plot = components(avg_salary_per_job_plot)
@@ -83,7 +86,7 @@ def chart():
     script_pie_contract_plot, div_pie_contract_plot = components(pie_contract_plot)
     script_pie_job_plot, div_pie_job_plot = components(pie_job_plot)
     script_pie_domains_plot, div_pie_domains_plot = components(pie_domains_plot)
-    box_plot = box_plot_salaires()
+    script_box_plot, div_box_plot = components(whiskers_plot_salaires)
     return render_template(
         'graphs.html',
         script_count_domain_plot = script_count_domain_plot, 
@@ -100,6 +103,8 @@ def chart():
         div_pie_job_plot = div_pie_job_plot,
         script_pie_domains_plot = script_pie_domains_plot, 
         div_pie_domains_plot = div_pie_domains_plot,
+        script_box_plot = script_box_plot, 
+        div_box_plot = div_box_plot,
         max_repartition_domain = (list(repartition_domain.keys())[list(repartition_domain.values()).index(max(repartition_domain.values()))]), 
         max_repartition_domain_pct = round(max(repartition_domain.values())),
         type_max_contract_part = contract_part.loc[contract_part.values == (max(contract_part.values))].keys()[0],
@@ -348,11 +353,12 @@ def map_france() :
 
 
 def box_plot_salaires():
-    title = "Distribution salaires par metier"
-    boxwhisker = hv.BoxWhisker(data, 'métier_sc', 'Salaire_avg', label=title)
-    boxwhisker.opts(show_legend=False, width=1000,height = 500,  box_fill_color=dim('métier_sc').str(), cmap='Category20')
-    hv.save(boxwhisker, 'boxplot.html')
-    return boxwhisker
+    bkp = bokeh.palettes.d3['Category20c'][20]
+    palette = bkp[:3] + bkp[4:7] + bkp[8:11]
+
+    p = bokeh_catplot.box(data=data, cats='métier_sc', val='Salaire_avg', whisker_caps=True, outlier_marker='diamond', palette=palette, width=900, height=400)
+
+    return p
 
 
 if __name__ == '__main__':
