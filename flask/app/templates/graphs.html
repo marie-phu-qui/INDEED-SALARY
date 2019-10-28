@@ -1,44 +1,59 @@
 {% extends 'base.html' %}
 {% block content %}
     {% include 'navbar.html' %}
-<div class="container col-lg">
+<div class="container col-lg" style='padding: 1.5em; text-align: center; font-size: 2em;'>
     <div class='row'>
         <a class='col-3' href='/data'><h1>data</h1></a>
         <a class='col-3' href='/dev'><h1>dev</h1></a>
         <a class='col-3' href='/region'><h1>régional</h1></a>
         <a class='col-3' href='/'><h1>BACK</h1></a>
     </div>
+
+    <div class='row'>
+
+        <div class="row mt-5 col-6">
+            <!-- <p>Répartition des contrats en tech et data %</p> -->
+            {{div_pie_domains_plot | safe}}
+        </div>
+        <!-- <div class="row mt-5 col-6">
+            <p>BOX PLOT A VENIR</p>
+            {{ div_box_plot_salary | safe }}
+        </div> -->
+        <div class="row mt-5 col-6" style=' text-align: left'>
+            <p>
+                Postes dans le domaine du <span style=' font-weight: 500;'>{{max_repartition_domain}}</span> en majorité avec <span style=' font-weight: 500;'>{{ max_repartition_domain_pct }} %</span> des offres.
+                <br>
+                Offres en <span style=' font-weight: 500;'>{{ type_max_contract_part }}</span> majoritaires avec <span style=' font-weight: 500;'>{{ max_contract_part }} %</span> des offres.
+                <br>
+                Postes localisés principalement en Métropôle autour de <span style=' font-weight: 500;'>{{ max_job_city }} </span> à <span style=' font-weight: 500;'>{{ max_job_city_pct }} %</span>.
+            </p>
+        </div>
+    </div>
+
+
+    <div class='row'>
+        <div class="row mt-5 col-6">
+            <!-- <p>Répartition des métiers sur la France</p> -->
+            {{ div_pie_metier_loc_plot | safe }}
+        </div>
+        <div class="row mt-5 col-6">
+            <!-- <p>ceci sera une représentation des salaires moyens selon postes</p> -->
+            {{ div_avg_salary_per_job_plot | safe }}
+        </div>
+    </div>
+
     <div class='row'>
         <div class="row mt-5 col-4">
-            <!-- <p>Répartition des contrats en tech et data bar</p> -->
-            {{div_pie_contract_plot | safe}}
+            <!-- <p>ceci sera une représentation de la répartition des poste sur toutes les offres</p> -->
+            {{ div_pie_job_plot | safe }}
         </div>
         <div class="row mt-5 col-4">
             <!-- <p>quantité de poste selon les domaines</p> -->
             {{ div_count_domain_plot | safe}}
         </div>
         <div class="row mt-5 col-4">
-            <!-- <p>Répartition des contrats en tech et data %</p> -->
-            {{div_pie_domains_plot | safe}}
-        </div>
-    </div>
-    <div class='row'>
-        <div class="row mt-5 col-6">
-            <!-- <p>ceci sera une représentation des salaires moyens selon postes</p> -->
-            {{ div_avg_salary_per_job_plot | safe }}
-        </div>
-        <div class="row mt-5 col-6">
-            <!-- <p>Répartition des métiers sur la France</p> -->
-            {{ div_pie_metier_loc_plot | safe }}
-        </div>
-    <div class='row'>
-        <div class="row mt-5 col-6">
-            <!-- <p>ceci sera une représentation de la répartition des poste sur toutes les offres</p> -->
-            {{ div_pie_job_plot | safe }}
-        </div>
-        <div class="row mt-5 col-6">
-            <!-- <p>BOX PLOT A VENIR</p> -->
-            {{ div_box_plot_salary | safe }}
+            <!-- <p>Répartition des contrats en tech et data bar</p> -->
+            {{div_pie_contract_plot | safe}}
         </div>
     </div>
 

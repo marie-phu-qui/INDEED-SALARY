@@ -71,10 +71,10 @@ def chart():
     selected_loc = request.form.get('dropdown-select-loc')
     variance_avg_sal_loc_plot = variance_avg_sal_loc()
     count_domain_plot, avg_salary_per_job_plot  = update_plots('all', 'All')
-    pie_metier_loc_plot = pie_metier_loc()
-    pie_contract_plot = pie_contract()
+    pie_metier_loc_plot, loc_part = pie_metier_loc()
+    pie_contract_plot, contract_part = pie_contract()
     pie_job_plot = pie_job()
-    pie_domains_plot = pie_domains()
+    pie_domains_plot, repartition_domain = pie_domains()
 
     script_count_domain_plot, div_count_domain_plot = components(count_domain_plot)
     script_avg_salary_per_job_plot, div_avg_salary_per_job_plot = components(avg_salary_per_job_plot)
@@ -100,6 +100,12 @@ def chart():
         div_pie_job_plot = div_pie_job_plot,
         script_pie_domains_plot = script_pie_domains_plot, 
         div_pie_domains_plot = div_pie_domains_plot,
+        max_repartition_domain = (list(repartition_domain.keys())[list(repartition_domain.values()).index(max(repartition_domain.values()))]), 
+        max_repartition_domain_pct = round(max(repartition_domain.values())),
+        type_max_contract_part = contract_part.loc[contract_part.values == (max(contract_part.values))].keys()[0],
+        max_contract_part = round(max(contract_part)),
+        max_job_city = loc_part.loc[loc_part.values == (max(loc_part.values))].keys()[0],
+        max_job_city_pct = round(max(loc_part.values))
     )
 
 @app.route('/data', methods=['GET'])
@@ -138,7 +144,7 @@ def count_domains(loc):
     dev_job_count = sum(df_ite.loc[['developer', 'devops']]) # Add software engineer when rescrapped
     data_job_count = sum(df_ite.loc[['Data_scientist', 'Data_architect', 'Data_analyst','Big_data','BI', 'Autres_metiers_data']])
 
-    domain = ['dev', 'data']
+    domain = ['développement', 'data']
     counts = [dev_job_count, data_job_count]
 
     p = figure(x_range=domain, plot_height=500, title="Nombre de poste par domaine d'activité",
@@ -171,8 +177,7 @@ def avg_salary_per_job(dom, loc):
     jobs = ['developer', 'devops', 'software_engineer', 'Data_scientist', 'Data_architect', 'Data_analyst', 'Big_data', 'BI', 'Autres_metiers_data']
     counts = [developer_avg, devops_avg, se_avg, data_scientist_avg, data_arch_avg, data_analyst_avg, big_data_avg, BI_avg, autres_data_avg]
 
-    p = figure(x_range=jobs, plot_height=350, plot_width=900, title="Salaire moyen par poste",
-            toolbar_location=None, tools="")
+    p = figure(x_range=jobs, plot_height=350, plot_width=900, title="Salaire moyen par poste",  background_fill_color='#feb236', toolbar_location=None, tools="")
 
     p.vbar(x=jobs, top=counts, width=0.2)
 
@@ -214,7 +219,7 @@ def pie_metier_loc():
     p.axis.axis_label=None
     p.axis.visible=False
     p.grid.grid_line_color = None
-    return p
+    return p, loc_part
 
 def pie_contract():
     ''' 
@@ -238,7 +243,7 @@ def pie_contract():
     p.axis.visible=False
     p.grid.grid_line_color = None
 
-    return p    
+    return p, contract_part
 
 def pie_job():
     ''' 
@@ -277,8 +282,7 @@ def pie_domains():
 
     chart_colors = ['#ada397', '#feb236']
 
-    repartition_domain = {'dev' : dev_job_pct, 'data' : data_job_pct} 
-    print(repartition_domain)
+    repartition_domain = {'développement' : dev_job_pct, 'data' : data_job_pct} 
 
     bokeh_settings = pd.Series(repartition_domain).reset_index(name='value').rename(columns={'index':'jobs'})
     bokeh_settings['angle'] = bokeh_settings['value']/bokeh_settings['value'].sum() * 2*pi
@@ -294,7 +298,7 @@ def pie_domains():
     p.axis.axis_label=None
     p.axis.visible=False
     p.grid.grid_line_color = None
-    return p   
+    return p, repartition_domain
 
 def variance_avg_sal_loc():
     # Format the tooltip
