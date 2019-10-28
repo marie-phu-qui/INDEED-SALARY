@@ -24,8 +24,10 @@ from math import pi
 from flask import Flask, render_template, request
 
 
-# À changer pour le csv final
+# À changer pour le csv final sous model :
+# data = pd.read_csv('../../model/data/data_final.csv')
 data = pd.read_csv('../../data/preprocess/data/data_final.csv')
+
 
 chart_font = 'Helvetica'
 chart_location_font_size = '16pt'
