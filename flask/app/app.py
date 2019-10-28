@@ -6,6 +6,7 @@ from bokeh.plotting import figure
 from bokeh.embed import file_html
 from bokeh.embed import components
 from bokeh.models import HoverTool
+import pygal
 
 from flask import Flask, render_template, request
 
@@ -100,8 +101,31 @@ def dev_plots():
 
 @app.route('/region', methods=['GET'])
 def loc_plots():
+    fr_chart = pygal.maps.fr.Regions(human_readable=True)
+    fr_chart.title = 'French regions'
+    fr_chart.add('Métropole', ['69', '92', '13'])
+    map = fr_chart.render(is_unicode=True)
     return render_template(
-        'region.html'
+        'region.html',
+        map = map
+    )
+
+from datetime import datetime, timedelta
+
+
+@app.route('/test')
+def test():
+    date_chart = pygal.Line(x_label_rotation=20)
+    date_chart.x_labels = map(lambda d: d.strftime('%Y-%m-%d'), [
+    datetime(2013, 1, 2),
+    datetime(2013, 1, 12),
+    datetime(2013, 2, 2),
+    datetime(2013, 2, 22)])
+    date_chart.add("Visits", [300, 412, 823, 672])
+    chart = date_chart.render()
+    return render_template(
+        'region.html',
+        map = chart
     )
 
 def count_domains(loc):
@@ -174,6 +198,14 @@ def variance_avg_sal_loc():
     p.add_tools(HoverTool(tooltips=tooltips))
 
     return p
+
+def map_france() :
+    fr_chart = pygal.maps.fr.Departments()
+    fr_chart.title = 'Some departments'
+    fr_chart.add('Métropole', ['69', '92', '13'])
+    fr_chart.add('Corse', ['2A', '2B'])
+    fr_chart.add('DOM COM', ['971', '972', '973', '974'])
+    return fr_chart.render_response()
 
 if __name__ == '__main__':
 	app.run(port=5000, debug=True)
