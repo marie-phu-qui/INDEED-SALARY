@@ -58,8 +58,7 @@ def chart():
     selected_domain = request.form.get('dropdown-select-dom')
     selected_loc = request.form.get('dropdown-select-loc')
     variance_avg_sal_loc_plot = variance_avg_sal_loc()
-    count_domain_plot = update_plots('all', 'All')
-    avg_salary_per_job_plot = update_plots('all', 'All')
+    count_domain_plot, avg_salary_per_job_plot  = update_plots('all', 'All')
     # if selected_domain == 'all' or selected_domain == None or selected_loc == 'All' or selected_domain == None:
     #     count_domain_plot = update_plots('all', 'All')
     #     avg_salary_per_job_plot = update_plots('all', 'All')
