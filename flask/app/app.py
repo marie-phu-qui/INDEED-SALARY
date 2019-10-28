@@ -6,13 +6,24 @@ from bokeh.plotting import figure
 from bokeh.embed import file_html
 from bokeh.embed import components
 from bokeh.models import HoverTool
-import pygal
+from bokeh.palettes import Category10
+from bokeh.transform import cumsum
+
+import folium
+
+import holoviews as hv
+from holoviews import dim
+from bokeh.models import GraphRenderer
+hv.extension('bokeh')
+renderer = hv.renderer('bokeh')
+
+from math import pi
 
 from flask import Flask, render_template, request
 
 
 # À changer pour le csv final
-data = pd.read_csv('../../data/preprocess/data/complete_train.csv')
+data = pd.read_csv('../../data/preprocess/data/data_final.csv')
 
 chart_font = 'Helvetica'
 chart_location_font_size = '16pt'
@@ -60,18 +71,19 @@ def chart():
     selected_loc = request.form.get('dropdown-select-loc')
     variance_avg_sal_loc_plot = variance_avg_sal_loc()
     count_domain_plot, avg_salary_per_job_plot  = update_plots('all', 'All')
-    # if selected_domain == 'all' or selected_domain == None or selected_loc == 'All' or selected_domain == None:
-    #     count_domain_plot = update_plots('all', 'All')
-    #     avg_salary_per_job_plot = update_plots('all', 'All')
-    # else:
-    #     count_domain_plot = update_plots(selected_domain, selected_loc)
-    #     avg_salary_per_job_plot = update_plots(selected_domain, selected_loc)
-
+    pie_metier_loc_plot = pie_metier_loc()
+    pie_contract_plot = pie_contract()
+    pie_job_plot = pie_job()
+    pie_domains_plot = pie_domains()
 
     script_count_domain_plot, div_count_domain_plot = components(count_domain_plot)
     script_avg_salary_per_job_plot, div_avg_salary_per_job_plot = components(avg_salary_per_job_plot)
     script_variance_avg_sal_loc_plot, div_variance_avg_sal_loc_plot = components(variance_avg_sal_loc_plot)
-
+    script_pie_metier_loc_plot, div_pie_metier_loc_plot = components(pie_metier_loc_plot)
+    script_pie_contract_plot, div_pie_contract_plot = components(pie_contract_plot)
+    script_pie_job_plot, div_pie_job_plot = components(pie_job_plot)
+    script_pie_domains_plot, div_pie_domains_plot = components(pie_domains_plot)
+    box_plot = box_plot_salaires()
     return render_template(
         'graphs.html',
         script_count_domain_plot = script_count_domain_plot, 
@@ -79,7 +91,15 @@ def chart():
         script_avg_salary_per_job_plot  = script_avg_salary_per_job_plot, 
         div_avg_salary_per_job_plot = div_avg_salary_per_job_plot,
         script_variance_avg_sal_loc_plot = script_variance_avg_sal_loc_plot, 
-        div_variance_avg_sal_loc_plot = div_variance_avg_sal_loc_plot, 
+        div_variance_avg_sal_loc_plot = div_variance_avg_sal_loc_plot,
+        script_pie_metier_loc_plot = script_pie_metier_loc_plot, 
+        div_pie_metier_loc_plot = div_pie_metier_loc_plot,
+        script_pie_contract_plot = script_pie_contract_plot, 
+        div_pie_contract_plot = div_pie_contract_plot,
+        script_pie_job_plot = script_pie_job_plot, 
+        div_pie_job_plot = div_pie_job_plot,
+        script_pie_domains_plot = script_pie_domains_plot, 
+        div_pie_domains_plot = div_pie_domains_plot,
     )
 
 @app.route('/data', methods=['GET'])
@@ -101,39 +121,21 @@ def dev_plots():
 
 @app.route('/region', methods=['GET'])
 def loc_plots():
-    fr_chart = pygal.maps.fr.Regions(human_readable=True)
-    fr_chart.title = 'French regions'
-    fr_chart.add('Métropole', ['69', '92', '13'])
-    map = fr_chart.render(is_unicode=True)
+    map = map_france()
     return render_template(
         'region.html',
         map = map
     )
 
-from datetime import datetime, timedelta
+# def word_cloud_dev():
 
-
-@app.route('/test')
-def test():
-    date_chart = pygal.Line(x_label_rotation=20)
-    date_chart.x_labels = map(lambda d: d.strftime('%Y-%m-%d'), [
-    datetime(2013, 1, 2),
-    datetime(2013, 1, 12),
-    datetime(2013, 2, 2),
-    datetime(2013, 2, 22)])
-    date_chart.add("Visits", [300, 412, 823, 672])
-    chart = date_chart.render()
-    return render_template(
-        'region.html',
-        map = chart
-    )
 
 def count_domains(loc):
     if loc == 'All':
         df_ite = data["métier_sc"].value_counts()
     else :
         df_ite = data.loc[data['loc_sc'] == loc]["métier_sc"].value_counts()
-    dev_job_count = sum(df_ite.loc[['developer', 'devops', 'software_engineer']])
+    dev_job_count = sum(df_ite.loc[['developer', 'devops']]) # Add software engineer when rescrapped
     data_job_count = sum(df_ite.loc[['Data_scientist', 'Data_architect', 'Data_analyst','Big_data','BI', 'Autres_metiers_data']])
 
     domain = ['dev', 'data']
@@ -156,7 +158,8 @@ def avg_salary_per_job(dom, loc):
     
     developer_avg = sum(data.loc[data['métier_sc'] == 'developer']['Salaire_avg']) / (df_ite.loc['developer'])
     devops_avg = sum(data.loc[data['métier_sc'] == 'devops']['Salaire_avg']) / (df_ite.loc['devops'])
-    se_avg = sum(data.loc[data['métier_sc'] == 'software_engineer']['Salaire_avg']) / (df_ite.loc['software_engineer'])
+    # se_avg = sum(data.loc[data['métier_sc'] == 'software_engineer']['Salaire_avg']) / (df_ite.loc['software_engineer'])
+    se_avg= 0 # don't have any SE in final csv
 
     data_scientist_avg = sum(data.loc[data['métier_sc'] == 'Data_scientist']['Salaire_avg']) / (df_ite.loc['Data_scientist'])
     data_arch_avg = sum(data.loc[data['métier_sc'] == 'Data_architect']['Salaire_avg']) / (df_ite.loc['Data_architect'])
@@ -176,6 +179,122 @@ def avg_salary_per_job(dom, loc):
     p.xgrid.grid_line_color = None
     p.y_range.start = 0
     return p
+
+def get_percents():
+    # get amounts
+    job_count = data['métier_sc'].value_counts()
+    loc_count = data['loc_sc'].value_counts()
+    # xp_count = data['Experiences'].value_counts() # no XP in final CSV
+    contract_count = data['contrat'].value_counts()
+    # get percents
+    job_part = ((job_count)/len(data))*100
+    # xp_part = ((xp_count)/len(data))*100  # no XP in final CSV
+    loc_part = ((loc_count)/len(data))*100
+    contract_part = ((contract_count)/len(data))*100
+    return job_count, loc_count, contract_count, job_part, loc_part, contract_part  # no XP in final CSV
+
+def pie_metier_loc():
+    ''' 
+    Fonction permettant de faire un pie chart de la répartition des métiers selon les localisations
+        
+    '''
+    job_count, loc_count, contract_count, job_part, loc_part, contract_part = get_percents()
+    bokeh_settings = pd.Series(loc_part).reset_index(name='value').rename(columns={'index':'city'})
+    bokeh_settings['value'] = loc_part.values
+    bokeh_settings['angle'] = bokeh_settings['value']/bokeh_settings['value'].sum() * 2*pi
+    bokeh_settings['color'] = Category10[len(loc_part)]
+
+    p = figure(plot_height=350, title="Repartition offres par localisation (en %)", toolbar_location=None,
+            tools="hover", tooltips="@city: @value", x_range=(-0.5, 1.0))
+
+    p.wedge(x=0, y=1, radius=0.4,
+            start_angle=cumsum('angle', include_zero=True), end_angle=cumsum('angle'),
+            line_color="white", fill_color='color', legend='city', source=bokeh_settings)
+
+    p.axis.axis_label=None
+    p.axis.visible=False
+    p.grid.grid_line_color = None
+    return p
+
+def pie_contract():
+    ''' 
+    Fonction permettant de faire un pie chart de la répartition des contrats sur toutes les offres
+        
+    '''
+    job_count, loc_count, contract_count, job_part, loc_part, contract_part = get_percents()
+
+    bokeh_settings = pd.Series(contract_part).reset_index(name='value').rename(columns={'index':'contract'})
+    bokeh_settings['angle'] = bokeh_settings['value']/bokeh_settings['value'].sum() * 2*pi
+    bokeh_settings['color'] = Category10[len(contract_part)]
+
+    p = figure(plot_height=350, title="Repartition par contrat (en %)", toolbar_location=None,
+            tools="hover", tooltips="@contract: @value", x_range=(-0.5, 1.0))
+
+    p.wedge(x=0, y=1, radius=0.4,
+            start_angle=cumsum('angle', include_zero=True), end_angle=cumsum('angle'),
+            line_color="white", fill_color='color', legend='contract', source=bokeh_settings)
+
+    p.axis.axis_label=None
+    p.axis.visible=False
+    p.grid.grid_line_color = None
+
+    return p    
+
+def pie_job():
+    ''' 
+    Fonction permettant de faire un pie chart de la part des différents jobs sur toutes les offres
+        
+    '''
+    job_count, loc_count, contract_count, job_part, loc_part, contract_part = get_percents()
+
+    bokeh_settings = pd.Series(job_part).reset_index(name='value').rename(columns={'index':'city'})
+    bokeh_settings['angle'] = bokeh_settings['value']/bokeh_settings['value'].sum() * 2*pi
+    bokeh_settings['color'] = Category10[len(job_part)]
+
+    p = figure(plot_height=350, title="Repartition par metiers (en %)", toolbar_location=None,
+            tools="hover", tooltips="@city: @value", x_range=(-0.5, 1.0))
+
+    p.wedge(x=0, y=1, radius=0.4,
+            start_angle=cumsum('angle', include_zero=True), end_angle=cumsum('angle'),
+            line_color="white", fill_color='color', legend='city', source=bokeh_settings)
+
+    p.axis.axis_label=None
+    p.axis.visible=False
+    p.grid.grid_line_color = None
+
+    return p    
+
+def pie_domains():
+    ''' 
+    Fonction permettant de faire un pie chart de la part des domaines tech vs. data
+        
+    '''
+    df_ite = data["métier_sc"].value_counts()
+    dev_job_count = sum(df_ite.loc[['developer', 'devops']]) # Add software_engineer when rescrapped
+    data_job_count = sum(df_ite.loc[['Data_scientist','Data_engineer', 'Data_architect', 'Data_analyst','Big_data','BI', 'Autres_metiers_data']])
+    dev_job_pct = (dev_job_count/len(data))*100
+    data_job_pct = (data_job_count/len(data))*100
+
+    chart_colors = ['#ada397', '#feb236']
+
+    repartition_domain = {'dev' : dev_job_pct, 'data' : data_job_pct} 
+    print(repartition_domain)
+
+    bokeh_settings = pd.Series(repartition_domain).reset_index(name='value').rename(columns={'index':'jobs'})
+    bokeh_settings['angle'] = bokeh_settings['value']/bokeh_settings['value'].sum() * 2*pi
+    bokeh_settings['color'] = chart_colors[:len(repartition_domain)]
+
+    p = figure(plot_height=350, title="Repartition offres par branche (en %)", toolbar_location=None,
+            tools="hover", tooltips="@jobs: @value", x_range=(-0.5, 1.0))
+
+    p.wedge(x=0, y=1, radius=0.4,
+            start_angle=cumsum('angle', include_zero=True), end_angle=cumsum('angle'),
+            line_color="white", fill_color='color', legend='jobs', source=bokeh_settings)
+
+    p.axis.axis_label=None
+    p.axis.visible=False
+    p.grid.grid_line_color = None
+    return p   
 
 def variance_avg_sal_loc():
     # Format the tooltip
@@ -199,13 +318,38 @@ def variance_avg_sal_loc():
 
     return p
 
+def metiers_per_loc():
+    df_ite = data["loc_sc"].value_counts()
+    return df_ite
+
 def map_france() :
-    fr_chart = pygal.maps.fr.Departments()
-    fr_chart.title = 'Some departments'
-    fr_chart.add('Métropole', ['69', '92', '13'])
-    fr_chart.add('Corse', ['2A', '2B'])
-    fr_chart.add('DOM COM', ['971', '972', '973', '974'])
-    return fr_chart.render_response()
+    map_osm = folium.Map(location=[47, 1.3], zoom_start=5.55, width=750,height=750)
+
+    job_loc = metiers_per_loc()
+    geo = {'Paris' : {'coords' : [48.864716, 2.349014], 'pop' : 7026.765, 'tx_chom': 7.6}, 
+            'Bordeaux': {'coords' : [44.8333, -0.5667], 'pop' : 783.081, 'tx_chom': 8}, 
+            'Lyon' : {'coords':[45.75, 4.85], 'pop': 1381.349, 'tx_chom': 7.5}, 
+            'Nantes' : {'coords': [47.2173, -1.5534], 'pop': 638.931, 'tx_chom': 7.2}, 
+            'Toulouse' : {'coords': [43.6043, 1.4437], 'pop': 762.956, 'tx_chom': 10.3}}
+
+    for city in geo:
+        nb_chom= (geo[city]["pop"]/geo[city]['tx_chom'])*100
+        job_density = int(job_loc[city]/(geo[city]["pop"]*1000)*10000)
+        job_per_chom = int(job_loc[city]/(nb_chom)*10000)
+        opacity = job_density/2.5
+        map_osm.add_child(folium.RegularPolygonMarker(location=geo[city]['coords'],  number_of_sides=70, fill_opacity=opacity, color = '#feb236', tooltip=f'Région de {city}. <br> Métropôle comprenant {geo[city]["pop"]} habitants. <br> Densité de job {(job_density)} pour 10.000 habitants', fill_color='#feb236', radius=geo[city]["pop"]/45))
+        map_osm.add_child(folium.RegularPolygonMarker(location=geo[city]['coords'], rotation=45, number_of_sides=4, fill_opacity=0.7, color = '#feb236', tooltip=f'Région de {city}. <br> Métropôle comprenant {geo[city]["pop"]} habitants. <br> Densité de job {(job_per_chom)} pour 10.000 chômeurs', fill_color='red', radius=nb_chom/1000))
+    map_osm.save('templates/map.html')
+    return map_osm
+
+
+def box_plot_salaires():
+    title = "Distribution salaires par metier"
+    boxwhisker = hv.BoxWhisker(data, 'métier_sc', 'Salaire_avg', label=title)
+    boxwhisker.opts(show_legend=False, width=1000,height = 500,  box_fill_color=dim('métier_sc').str(), cmap='Category20')
+    hv.save(boxwhisker, 'boxplot.html')
+    return boxwhisker
+
 
 if __name__ == '__main__':
 	app.run(port=5000, debug=True)
