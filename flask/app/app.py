@@ -180,15 +180,26 @@ def variance_avg_sal_loc():
 
     return p
 
+def metiers_per_loc():
+    df_ite = data["loc_sc"].value_counts()
+    return df_ite
+
 def map_france() :
     map_osm = folium.Map(location=[47, 1.3], zoom_start=5.55, width=550,height=550)
+
+    job_loc = metiers_per_loc()
     geo = {'Paris' : {'coords' : [48.864716, 2.349014], 'pop' : 7026.765}, 
             'Bordeaux': {'coords' : [44.8333, -0.5667], 'pop' : 783.081}, 
             'Lyon' : {'coords':[45.75, 4.85], 'pop': 1381.349}, 
             'Nantes' : {'coords': [47.2173, -1.5534], 'pop': 638.931}, 
             'Toulouse' : {'coords': [43.6043, 1.4437], 'pop': 762.956}}
     for city in geo:
-        map_osm.add_child(folium.RegularPolygonMarker(location=geo[city]['coords'], number_of_sides=70, tooltip=f'Région de {city}. <br> Métropôle comprenant {geo[city]["pop"]} habitants',fill_color='#feb236', radius=30))
+        job_density = job_loc[city]/(geo[city]["pop"]*1000)*10000
+        opacity = job_density/2.5
+        map_osm.add_child(folium.RegularPolygonMarker(location=geo[city]['coords'], number_of_sides=70, fill_opacity=opacity, color = '#feb236', tooltip=f'Région de {city}. <br> Métropôle comprenant {geo[city]["pop"]} habitants. <br> Densité de job {(job_density)} pour 10.000 habitants', fill_color='#feb236', radius=geo[city]["pop"]/45))
+
+
+
     map_osm.save('templates/map.html')
     return map_osm
 
