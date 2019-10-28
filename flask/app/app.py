@@ -133,7 +133,7 @@ def count_domains(loc):
         df_ite = data["métier_sc"].value_counts()
     else :
         df_ite = data.loc[data['loc_sc'] == loc]["métier_sc"].value_counts()
-    dev_job_count = sum(df_ite.loc[['developer','devops', 'software_engineer']])
+    dev_job_count = sum(df_ite.loc[['developer', 'devops', 'software_engineer']])
     data_job_count = sum(df_ite.loc[['Data_scientist', 'Data_architect', 'Data_analyst','Big_data','BI', 'Autres_metiers_data']])
 
     domain = ['dev', 'data']
