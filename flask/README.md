@@ -9,3 +9,11 @@ Partie analyse graphique avec retranscription des données utilisant le package 
 ## API
 
 Retourne nos prédictions salariales selon un profil contenant des features spécifiques en fonction de notre modèle de machine learning choisi : [à choisir].
+
+## Requirements à installer sur la machine (futur Dockerfile)
+
+```
+pip install bokeh_catplot
+conda install -c conda-forge folium
+conda install -c conda-forge holoviews
+```
